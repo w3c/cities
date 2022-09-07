@@ -1,0 +1,1395 @@
+[
+  {
+    "country": "MK",
+    "geonameid": 783809,
+    "name": "Zrnovci",
+    "alternatenames": "Zrnovce,Zrnovci,Зрновци",
+    "subcountry": "Zrnovci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 783845,
+    "name": "Zletovo",
+    "alternatenames": "Zletovo,Злетово",
+    "subcountry": "Probishtip"
+  },
+  {
+    "country": "MK",
+    "geonameid": 783877,
+    "name": "Zitose",
+    "alternatenames": "Zhitoshe,Zitose,Zitoste,Žitoše,Žitošte,Житоше",
+    "subcountry": "Dolneni"
+  },
+  {
+    "country": "MK",
+    "geonameid": 783926,
+    "name": "Zelino",
+    "alternatenames": "Zelino,Zeljino,Zheline,Zhelino,Zhelinë,Željino,Желино",
+    "subcountry": "Zhelino"
+  },
+  {
+    "country": "MK",
+    "geonameid": 783938,
+    "name": "Zelenikovo",
+    "alternatenames": "Zelenikove,Zelenikovo,Zelenikovë,Зелениково",
+    "subcountry": "Zelenikovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784027,
+    "name": "Zajas",
+    "alternatenames": "Zajac,Zajas,Zajasz,Zajazi,zaiasi,zajas,Заяс,Зајас,زاجاس,ზაიასი",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784114,
+    "name": "Vrutok",
+    "alternatenames": "Vrutog,Vrutok,Вруток",
+    "subcountry": "Gostivar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784205,
+    "name": "Vratnica",
+    "alternatenames": "Vratnica,Vratnice,Vratnicë,Вратница",
+    "subcountry": "Jegunovce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784212,
+    "name": "Vrapciste",
+    "alternatenames": "Vrapchishte,Vrapcicshte,Vrapcista,Vrapciste,Vrapçicshtë,Vrapčišta,Vrapčište,Врапчиште",
+    "subcountry": "Vrapchishte"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784239,
+    "name": "Vranestica",
+    "alternatenames": "Vraneshtica,Vranesnica,Vranestica,Vranešnica,Vraneštica,Вранештица",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784351,
+    "name": "Vladimirovo",
+    "alternatenames": "Vladimirovo,Владимирово",
+    "subcountry": "Berovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784424,
+    "name": "Vinica",
+    "alternatenames": "Vinica,Виница",
+    "subcountry": "Vinica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784462,
+    "name": "Vevcani",
+    "alternatenames": "Vehcane,Vehcani,Vehčane,Vehčani,Vevcane,Vevcani,Vevchani,Vevčane,Vevčani,Вевчани",
+    "subcountry": "Vevchani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784505,
+    "name": "Veljusa",
+    "alternatenames": "Veljusa,Velusa,Вељуса",
+    "subcountry": "Strumica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784679,
+    "name": "Velesta",
+    "alternatenames": "Veleshta,Velesta,Veleste,Velešte,Велешта",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784692,
+    "name": "Vatasa",
+    "alternatenames": "Vatasa,Vatasha,Vataša,Ваташа",
+    "subcountry": "Kavadarci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784700,
+    "name": "Vasilevo",
+    "alternatenames": "Vasilevo,Василево",
+    "subcountry": "Vasilevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784711,
+    "name": "Markov Grad",
+    "alternatenames": "Markov Grad,Varos,Varosh,Varoš,Варош,Марков Град",
+    "subcountry": "Prilep"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784733,
+    "name": "Valandovo",
+    "alternatenames": "Valandova,Valandovas,Valandovo,Vallandova,Walandowo,Wałandowo,ballandobo,falandwfw,valandovo,wa lan duo wo,Валандово,فالاندوفو,ვალანდოვო,瓦蘭多沃,발란도보",
+    "subcountry": "Valandovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784737,
+    "name": "Vaksince",
+    "alternatenames": "Vaksinc,Vaksince,Ваксинце",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784747,
+    "name": "Usje",
+    "alternatenames": "Usija,Usije,Usje,Усје",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 784854,
+    "name": "Tuin",
+    "alternatenames": "Tuin,Tujin,Tujna,Туин",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785011,
+    "name": "Topolcani",
+    "alternatenames": "Topolcane,Topolcani,Topolchani,Topolčani,Тополчани",
+    "subcountry": "Prilep"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785058,
+    "name": "Veles",
+    "alternatenames": "Koprulu,Köprülü,Titov Veles,Veles,Velesa,Velesas,Velesi,Velessa,Velesu,Vélès,Weles,Wełes,belleseu,fylys,velesi,vueresu,wei lai si,wls,Βελεσά,Велес,Вєлєсъ,Վելես,ולס,فيليس,ولس,ველესი,ヴェレス,韋萊斯,벨레스",
+    "subcountry": "Veles"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785082,
+    "name": "Tetovo",
+    "alternatenames": "Cetava,Kalkandelen,Qalqan Delen,Tetobo,Tetova,Tetovas,Tetovo,Tetowo,tai tuo wo,tetobo,tetovuo,ttwbw,ttwfw,tytwfw,Τέτοβο,Тетово,Хътѣтово,Цетава,Տետովո,טטובו,تتوفو,تيتوفو,ტეტოვო,テトヴォ,泰托沃,테토보",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785113,
+    "name": "Tearce",
+    "alternatenames": "Tearce,Теарце",
+    "subcountry": "Tearce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785201,
+    "name": "Sveti Nikole",
+    "alternatenames": "Kilisseli,Sveti Nikola,Sveti Nikole",
+    "subcountry": "Sveti Nikole"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785270,
+    "name": "Susica",
+    "alternatenames": "Sushica,Susica,Sušica,Сушица",
+    "subcountry": "Novo Selo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785345,
+    "name": "Studenicani",
+    "alternatenames": "Studenicani,Studenichani,Studeničani,Студеничани",
+    "subcountry": "Studenichani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785380,
+    "name": "Strumica",
+    "alternatenames": "Stromitza,Stromnitsa,Stromnitza,Stroumitsa,Strumica,Strumitsa,Strumitza,Ustrumcha,Струмица",
+    "subcountry": "Strumica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785387,
+    "name": "Struga",
+    "alternatenames": "QXP,Strouga,Struga,Ustrugha,astrwga,seuteuluga,si te lu jia,strwgh,strwgha,sutoruga,Строуга,Струга,Ստրուգա,סטרוגה,استروگا,ستروغا,სტრუგა,ストルガ,斯特鲁加,스트루가",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785427,
+    "name": "Strelci",
+    "alternatenames": "Strelci,Стрелци",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785466,
+    "name": "Stojakovo",
+    "alternatenames": "Stojakovo,Стојаково",
+    "subcountry": "Bogdanci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785482,
+    "name": "Shtip",
+    "alternatenames": "Ishtib,Istip,Shhip,Shtip,Stip,Stiplia,İştip,Štip,Штип,Щип",
+    "subcountry": "Shtip"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785515,
+    "name": "Staro Nagorichane",
+    "alternatenames": "Nagorican i Vjeter,Nagoriçan i Vjetër,Staro Nagoricane,Staro Nagoricino,Staro Nagoričane,Staro Nagoričino",
+    "subcountry": "Staro Nagorichane"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785537,
+    "name": "Star Dojran",
+    "alternatenames": "Doerane,Dojran,Doēranē,Star Dojran,Stari Dojran,Стар Дојран",
+    "subcountry": "Dojran"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785604,
+    "name": "Dolno Srpci",
+    "alternatenames": "Dolno Srpci,Srpci,Долно Српци",
+    "subcountry": "Mogila"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785620,
+    "name": "Sredno Konjari",
+    "alternatenames": "Sredno Konari,Sredno Konjari,Средно Коњари",
+    "subcountry": "Petrovec"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785639,
+    "name": "Srbinovo",
+    "alternatenames": "Srbinovo,Србиново",
+    "subcountry": "Gostivar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785643,
+    "name": "Srbica",
+    "alternatenames": "Srbica,Србица",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785669,
+    "name": "Sopotnica",
+    "alternatenames": "Sopotnica,Сопотница",
+    "subcountry": "Demir Hisar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785679,
+    "name": "Sopiste",
+    "alternatenames": "Sopishte,Sopiste,Sopište,Сопиште",
+    "subcountry": "Sopište"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785759,
+    "name": "Slupchane",
+    "alternatenames": "Sllupcanje,Sllupçanje,Slupchane,Слупчане",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785792,
+    "name": "Slepce",
+    "alternatenames": "Slepce,Slepche,Slepče,Слепче",
+    "subcountry": "Demir Hisar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785802,
+    "name": "Slatino",
+    "alternatenames": "Slatina,Slatine,Slatino,Slatinë,Слатино",
+    "subcountry": "Tearce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785842,
+    "name": "Skopje",
+    "alternatenames": "Escopia,Escópia,SKP,Scopia,Scupi,Shkup,Shkupi,Skop'e,Skope,Skopeia,Skopia,Skopie,Skopiye,Skopje,Skopjo,Skopjė,Skople,Skoplie,Skoplje,Skopye,Szkopje,UEskuep,Uskub,Usküb,askwbyt,askwpyh,s ko peiy,sakopi'e,seukope,si ke pu li,skopje,skopye,skwbyh,sqwpyh,sukopie,Üsküp,Σκόπια,Скоп'е,Скоп'є,Скопе,Скопие,Скопье,Скопје,Скопље,Съкопиѥ,Սկոպյե,סקאפיע,סקופיה,إسكوبية,اسکوپیه,اسکوپیہ,سكوبيه,سكوپليې,سکوپ جے,स्कोप्ये,ਸਕੋਪੀਏ,ஸ்கோப்ஜே,สโกเปีย,སི་ཀོཔ་ཇི།,სკოპიე,ስኮፕዬ,スコピエ,斯科普里,스코페",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 785881,
+    "name": "Sipkovica",
+    "alternatenames": "Mezefovica,Shipkovica,Shipkovice,Shipkovicë,Siikovica,Sipkovica,Šipkovica,Шипковица",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786005,
+    "name": "Selce",
+    "alternatenames": "Selce,Селце",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786014,
+    "name": "Sekirnik",
+    "alternatenames": "Sekirnik,Секирник",
+    "subcountry": "Bosilovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786026,
+    "name": "Sedlarevo",
+    "alternatenames": "Salarevo,Sedlarevo,Седларево",
+    "subcountry": "Zhelino"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786093,
+    "name": "Saraj",
+    "alternatenames": "Saraj,Сарай,Сарај",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786113,
+    "name": "Samokov",
+    "alternatenames": "Samakov,Samokov,Самоков",
+    "subcountry": "Makedonski Brod"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786171,
+    "name": "Rusinovo",
+    "alternatenames": "Rusinovo,Русиново",
+    "subcountry": "Berovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786238,
+    "name": "Rostusa",
+    "alternatenames": "Radostusha,Rostoucha,Rostusa,Rostusha,Rostusja,Rostuşa,Rostuša,Ростуша,როსტუშა",
+    "subcountry": "Mavrovo and Rostuša"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786239,
+    "name": "Rosoman",
+    "alternatenames": "Rasoman,Rosoman,Rosomani,rosomani,Росоман,როსომანი",
+    "subcountry": "Rosoman"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786251,
+    "name": "Romanovci",
+    "alternatenames": "Rahmanli,Ramanovce,Romanovac,Romanovc,Romanovce,Romanovci,Романовце",
+    "subcountry": "Kumanovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786341,
+    "name": "Resen",
+    "alternatenames": "Resen,Resna,Ресен",
+    "subcountry": "Resen"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786477,
+    "name": "Rankovce",
+    "alternatenames": "Rankovce,Rankovci,Ранковце,Ранковци",
+    "subcountry": "Rankovce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786565,
+    "name": "Radovis",
+    "alternatenames": "Radovis,Radovish,Radoviste,Radovište,Rodovis,Rodoviš,Радовиш",
+    "subcountry": "Radovish"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786582,
+    "name": "Radolista",
+    "alternatenames": "Radolishta,Radolista,Radoliste,Radolište,Радолишта",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786595,
+    "name": "Radishani",
+    "alternatenames": "Radishani,Радишани",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786674,
+    "name": "Prsovce",
+    "alternatenames": "Prosovce,Prošovce,Prsevce,Prshovce,Prsovce,Prševce,Pršovce,Пршовце",
+    "subcountry": "Tearce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786700,
+    "name": "Probishtip",
+    "alternatenames": "Probishtip,Probistip,Пробиштип",
+    "subcountry": "Probishtip"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786735,
+    "name": "Prilep",
+    "alternatenames": "Perlepe,Perlepes,Perlepé,Pirlepe,Prilep,Prilepa,Prilepas,pirlepe,Прилеп",
+    "subcountry": "Prilep"
+  },
+  {
+    "country": "MK",
+    "geonameid": 786969,
+    "name": "Podares",
+    "alternatenames": "Podares,Podaresh,Podareš,Подареш",
+    "subcountry": "Radovish"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787016,
+    "name": "Plasnica",
+    "alternatenames": "Plasnica,Пласница",
+    "subcountry": "Plasnica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787052,
+    "name": "Pirok",
+    "alternatenames": "Pirok",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787054,
+    "name": "Pirava",
+    "alternatenames": "Pirava,Пирава",
+    "subcountry": "Valandovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787072,
+    "name": "Petrovec",
+    "alternatenames": "Ibraimovo,Petrovac,Petrovec",
+    "subcountry": "Petrovec"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787147,
+    "name": "Pehcevo",
+    "alternatenames": "Pehcevo,Pehčevo,Pekhchevo,Пехчево",
+    "subcountry": "Pehchevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787301,
+    "name": "Otlja",
+    "alternatenames": "Ode,Odë,Otla,Otlja,Отља",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787416,
+    "name": "Orizari",
+    "alternatenames": "Orizare,Orizari,Оризари",
+    "subcountry": "Kochani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787444,
+    "name": "Orashac",
+    "alternatenames": "Orasec,Orashac,Orašec,Орашац",
+    "subcountry": ""
+  },
+  {
+    "country": "MK",
+    "geonameid": 787448,
+    "name": "Oraovica",
+    "alternatenames": "Orahovica,Oraovica,Ораовица",
+    "subcountry": "Radovish"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787475,
+    "name": "Oktisi",
+    "alternatenames": "Oktisi,Октиси",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787487,
+    "name": "Ohrid",
+    "alternatenames": "Akhris,OHD,Ochrid,Ochrida,Ochridas,Ochryda,Ocrida,Ohri,Ohrid,Ohrida,Okhri,Okhrid,Okhridu,Okhryd,Oxrid,ao he li de,awhryd,awkhryd,ofurido,oheulideu,ohridi,xo kh rid,Οχρίδα,Охрид,Охрыд,Охрїдъ,Օխրիդ,אוחריד,آکریڈا,أوخريد,اوهرید,โอครีด,ოჰრიდი,オフリド,奥赫里德,오흐리드",
+    "subcountry": "Ohrid"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787495,
+    "name": "Ognjaci",
+    "alternatenames": "Ognanci,Ognjaci,Ognjance,Огњанци",
+    "subcountry": ""
+  },
+  {
+    "country": "MK",
+    "geonameid": 787512,
+    "name": "Obrsani",
+    "alternatenames": "Obrsani,Obrshani,Obršani,Обршани",
+    "subcountry": "Krivogashtani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787526,
+    "name": "Oblesevo",
+    "alternatenames": "Oblesevo,Obleshevo,Облешево",
+    "subcountry": "Češinovo-Obleševo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787574,
+    "name": "Novo Selo",
+    "alternatenames": "Jenikej,Jenikoj,Jeniköj,Novo Selo,Yenikoey,Yenikoj,Yeniköy,Ново Село",
+    "subcountry": "Novo Selo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787624,
+    "name": "Novaci",
+    "alternatenames": "Komuna e Novacit,Municipio de Novaci,Novaci,Novaci Municipality,Novatsi,Opcina Novaci,Opshtina Novaci,Opstina Novaci,Općina Novaci,Opština Novaci,Vilojati Novatsi,nobachi si,novatsis temi,nuo wa qi qu,Вилояти Новатси,Новаци,Новаці,Општина Новаци,نواتسی بلدیہ,ნოვაცის თემი,诺瓦齐区,노바치 시",
+    "subcountry": "Novaci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787692,
+    "name": "Neraste",
+    "alternatenames": "Nerasht,Nerashte,Neraste,Nerašte,Нераште",
+    "subcountry": "Tearce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787715,
+    "name": "Negotino",
+    "alternatenames": "Negotin,Negotino,Negotino-Poloshko,Negotino-Polosko,Negotino-Pološko,Неготино,Неготино-Полошко",
+    "subcountry": "Vrapchishte"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787716,
+    "name": "Negotino",
+    "alternatenames": "Negotin,Negotin Vardarski,Negotina,Negotinas,Negotino,negotino,nei ge di nuo,ngwtynw,Неготино,نگوتینو,ნეგოტინო,內戈蒂諾,네고티노",
+    "subcountry": "Negotino"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787772,
+    "name": "Murtino",
+    "alternatenames": "Murtino,Муртино",
+    "subcountry": "Strumica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787778,
+    "name": "Demir Hisar",
+    "alternatenames": "Demir Chisaras,Demir Hisar,Demir Hisari,Demir Khisar,Demir-Khisar,Murgasevo,Murgashevo,Murgasjevo,Murgaševo,de mi er xi sa er,demileuhisaleu,demir-hisari,dymyr hysar,Демир Хисар,Демир-Хисар,Мургашево,ديمير هيسار,დემირ-ჰისარი,德米爾希薩爾,데미르히사르",
+    "subcountry": "Demir Hisar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787853,
+    "name": "Morani",
+    "alternatenames": "Morane,Morani,Морани",
+    "subcountry": "Studenichani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787877,
+    "name": "Mogila",
+    "alternatenames": "Mogila,Могила",
+    "subcountry": "Mogila"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787902,
+    "name": "Mislesevo",
+    "alternatenames": "Mislesevo,Misleshevo,Misleshove,Misleshovë,Мислешево",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787928,
+    "name": "Miravci",
+    "alternatenames": "Miravci,Miravic,Mirivci,Mirovca,Mirovci,Миравци",
+    "subcountry": "Gevgelija"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787971,
+    "name": "Miletino",
+    "alternatenames": "Miletino,Милетино",
+    "subcountry": "Brvenica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 787985,
+    "name": "Miladinovci",
+    "alternatenames": "Adzarlar,Adžarlar,Ajalar,Aleksandrovo,Hadzarlar,Hadzilari,Hadžarlar,Hadžilari,Khadzilari,Miladinovci,Миладиновци,Хаџилари",
+    "subcountry": "Ilinden"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788021,
+    "name": "Meseista",
+    "alternatenames": "Mescista,Meseista,Meseiste,Mesevista,Meseviste,Mesheishta,Mesista,Mešeišta,Mešeište,Meševista,Meševište,Mešista,Meščišta,Мешеишта",
+    "subcountry": "Debarca"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788105,
+    "name": "Matejce",
+    "alternatenames": "Matejca,Matejce,Matejche,Matejča,Metecje,Meteçjë,Матејче",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788145,
+    "name": "Marino",
+    "alternatenames": "Marino,Marino Selo,Марино",
+    "subcountry": "Ilinden"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788415,
+    "name": "Lukovo",
+    "alternatenames": "Dolno Lukovo,Gorno Lukovo,Lukovo,Луково",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788516,
+    "name": "Lojane",
+    "alternatenames": "Llojan,Lojane,Лојане",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788517,
+    "name": "Logovardi",
+    "alternatenames": "Cekrkci,Logovardi,Čekrkci,Логоварди",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788564,
+    "name": "Ljubin",
+    "alternatenames": "Ciflik Ljubin,Ljubin,Čiflik Ljubin,Љубин",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788610,
+    "name": "Lisicani",
+    "alternatenames": "Lisicani,Lisichani,Lisičani,Лисичани",
+    "subcountry": "Plasnica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788654,
+    "name": "Lipkovo",
+    "alternatenames": "Lipkove,Lipkovo,Lipkovë,Липково",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788774,
+    "name": "Lazani",
+    "alternatenames": "Lazani,Lazari,Lazhani,Lažani,Лажани",
+    "subcountry": "Dolneni"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788790,
+    "name": "Larce",
+    "alternatenames": "Larce,Lirce,Ларце",
+    "subcountry": "Zhelino"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788819,
+    "name": "Labunista",
+    "alternatenames": "Labunishta,Labunista,Labuniste,Labunište,Лабуништа",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788886,
+    "name": "Kumanovo",
+    "alternatenames": "Koumanovo,Kumanava,Kumanova,Kumanovas,Kumanove,Kumanovo,Kumanovë,Kumanowo,ku ma nuo wo,kumanobo,kumanovuo,kwmanwfw,Κουμάνοβο,Коуманово,Куманава,Куманово,Կումանովո,קומאנובו,كومانوفو,کومانوفو,კუმანოვო,クマノヴォ,库马诺沃,쿠마노보",
+    "subcountry": "Kumanovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788906,
+    "name": "Kukurecani",
+    "alternatenames": "Kukurecani,Kukurechani,Kukurečani,Кукуречани",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788915,
+    "name": "Kuklis",
+    "alternatenames": "Kuklis,Kuklish,Куклиш",
+    "subcountry": "Strumica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788950,
+    "name": "Krusopek",
+    "alternatenames": "Krushapek,Krushopek,Krusopek,Krušopek,Крушопек",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 788961,
+    "name": "Krusevo",
+    "alternatenames": "Krusevo,Krushevo,Krusovo,Krušovo,Крушево",
+    "subcountry": "Krushevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789028,
+    "name": "Krivogashtani",
+    "alternatenames": "Krivogashtani,Krivogastane,Krivogastani,Krivogaštane,Кривогаштани",
+    "subcountry": "Krivogashtani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789045,
+    "name": "Kriva Palanka",
+    "alternatenames": "Kriva Palanka,Palangha,Крива Паланка",
+    "subcountry": "Kriva Palanka"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789091,
+    "name": "Kratovo",
+    "alternatenames": "Kratova,Kratovo,Кратово",
+    "subcountry": "Kratovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789101,
+    "name": "Krani",
+    "alternatenames": "Hrani,Karahan,Krani,Крани",
+    "subcountry": "Resen"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789247,
+    "name": "Kosel",
+    "alternatenames": "Kosel,Koselj,Косел",
+    "subcountry": "Ohrid"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789339,
+    "name": "Kondovo",
+    "alternatenames": "Kondove,Kondovo,Kondovë,Кондово",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789342,
+    "name": "Konce",
+    "alternatenames": "Konca,Konce,Konche,Kontche,Kontché,Konçe,Konča,Konče,Конче,კონჩე",
+    "subcountry": "Konche"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789403,
+    "name": "Kochani",
+    "alternatenames": "Kocane,Kocani,Kochani,Kočane,Kočani,Кочани",
+    "subcountry": "Kochani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789527,
+    "name": "Kicevo",
+    "alternatenames": "Kercova,Kicevas,Kicevo,Kichevo,Kicsevo,Kiczewo,Kircova,Kitchevo,Kitsevo,Kičevas,Kičevo,Kërçova,Kırçova,ji qie wo,kichebo,kichevuo,kychfw,kytshyfw,Κίτσεβο,Кичево,Кꙑчєво,كيتشيفو,کیچفو,კიჩევო,キチェヴォ,基切沃,키체보",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789541,
+    "name": "Kavadarci",
+    "alternatenames": "Kavadar,Kavadarci,Kavadarcis,Kavadari,Kavadartsi,Kavantartsi,Kawadarci,Tikves,Tikveš,ka wa da er qi,kabadaleuchi,kafadarchy,qbdrzy,Καβάνταρτσι,Кавадарци,Кавадарці,Կավադարցի,קבדרצי,کافادارچی,კავადარცი,卡瓦達爾奇,카바다르치",
+    "subcountry": "Kavadarci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789563,
+    "name": "Karbinci",
+    "alternatenames": "Karabinci,Karbinci,Карбинци",
+    "subcountry": "Karbinci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789603,
+    "name": "Kanatlarci",
+    "alternatenames": "Kanatlarci,Канатларци",
+    "subcountry": "Prilep"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789611,
+    "name": "Kamenjane",
+    "alternatenames": "Kamenane,Kamenjan,Kamenjane,Камењане",
+    "subcountry": "Bogovinje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789629,
+    "name": "Makedonska Kamenica",
+    "alternatenames": "Kamenica,Makedonska Kamenica,Македонска Каменица",
+    "subcountry": "Makedonska Kamenica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789703,
+    "name": "Kadino",
+    "alternatenames": "Kadino,Kadino Selo,Кадино",
+    "subcountry": "Ilinden"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789734,
+    "name": "Jurumleri",
+    "alternatenames": "Jurumleri,Јурумлери",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789822,
+    "name": "Jegunovce",
+    "alternatenames": "Jegunovce,Јегуновце",
+    "subcountry": "Jegunovce"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789893,
+    "name": "Jankovec",
+    "alternatenames": "Jankoec,Jankovac,Jankovec,Јанковец",
+    "subcountry": "Resen"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789962,
+    "name": "Izvor",
+    "alternatenames": "Izvor,Извор",
+    "subcountry": "Lipkovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 789985,
+    "name": "Ivankovci",
+    "alternatenames": "Ivankovac,Ivankovci,Ivanlije,Иванковци",
+    "subcountry": "Veles"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790018,
+    "name": "Ilovica",
+    "alternatenames": "Ilovica,Иловица",
+    "subcountry": "Bosilovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790034,
+    "name": "Idrizovo",
+    "alternatenames": "Idrizovo",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790084,
+    "name": "Gurgurnica",
+    "alternatenames": "Grgurnica,Gurgurnica,Гургурница",
+    "subcountry": "Brvenica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790137,
+    "name": "Grncari",
+    "alternatenames": "Grncare,Grncari,Grnchari,Grnčare,Grnčari,Грнчари",
+    "subcountry": "Resen"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790183,
+    "name": "Grcec",
+    "alternatenames": "Dolni Grcec,Dolni Grchec,Dolni Grčec,Grcac,Grcec,Grchec,Grčac,Grčec,Грчец,Долни Грчец",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790217,
+    "name": "Gradsko",
+    "alternatenames": "Gradsko,Градско",
+    "subcountry": "Gradsko"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790248,
+    "name": "Gradec",
+    "alternatenames": "Gradec,Градец",
+    "subcountry": "Vrapchishte"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790249,
+    "name": "Gradec",
+    "alternatenames": "Gradec,Градец",
+    "subcountry": "Vinica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790295,
+    "name": "Gostivar",
+    "alternatenames": "Gostivar,Gostivar',Gostivara,Gostivaras,Gostivari,Gostiwar,Gosztivar,Kostovon,Nkostivar,ge si di wa er,ghwstyfar,goseutibaleu,gosutivuaru,gshtyfar,gwstybr,Γκόστιβαρ,Гостивар,Гостивар҄ь,Գոստիվար,גוסטיבר,غوستيفار,گشتیفار,გოსტივარი,ゴスティヴァル,戈斯蒂瓦尔,고스티바르",
+    "subcountry": "Gostivar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790305,
+    "name": "Gorobinci",
+    "alternatenames": "Gorabinc,Gorobinci,Gorovinci,Горобинци",
+    "subcountry": "Sveti Nikole"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790319,
+    "name": "Gorno Orizari",
+    "alternatenames": "Gornji Orizari,Gornji-Celtiki,Gornji-Čeltiki,Gorno Orizari,Горно Оризари",
+    "subcountry": "Veles"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790320,
+    "name": "Gorno Orizari",
+    "alternatenames": "Gorno Orizari,Горно Оризари",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790634,
+    "name": "Golema Recica",
+    "alternatenames": "Golema Rechica,Golema Recica,Golema Rečica,Recica,Recice e Eperme,Reçicë e Epërme,Rečica,Velika Recica,Velika Rečica,Голема Речица",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790744,
+    "name": "Gevgelija",
+    "alternatenames": "Devdelijad,Gevegeli,Gevgeli,Gevgelia,Gevgelija,Gevgeliya,Gewgelija,Gjevgjelia,Guevgueliya,Gyevgyelija,gai fu gai li ya,gbglyh,gebeugelliya,gevgelia,gevugeriya,gflya,ghyfghlya,Ðevđelijad,Γευγελή,Ђевђелија,Гевгели,Гевгелия,Гевгелија,Гевгелія,Гєѵгєла,Գևգելիա,גבגליה,غيفغليا,گفلیا,გევგელია,ゲヴゲリヤ,蓋夫蓋利亞,게브겔리야",
+    "subcountry": "Gevgelija"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790812,
+    "name": "Forino",
+    "alternatenames": "Forino,Форино",
+    "subcountry": "Gostivar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790848,
+    "name": "Lozovo",
+    "alternatenames": "Dzumajlija,Dzumali,Džumajlija,Džumali,Lozovo,Лозово",
+    "subcountry": "Lozovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 790857,
+    "name": "Dzepciste",
+    "alternatenames": "Dzepchishte,Dzepciste,Dzepiste,Džepište,Džepčište,Џепчиште",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791009,
+    "name": "Drugovo",
+    "alternatenames": "Drugovo,Другово",
+    "subcountry": "Kichevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791131,
+    "name": "Dracevo",
+    "alternatenames": "Draceve,Dracevo,Drachevo,Draçevë,Dračevo,Naselba Dracevo,Naselba Dračevo,Selo Dracevo,Selo Dračevo,Драчево",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791149,
+    "name": "Gjorce Petro",
+    "alternatenames": "Djorce Petrov,Djorče Petrov,Dolce Petrov,Gjorce Petrov,Gjorche Petrov,Gjorçe Petrov,Gorc Petrov,Gorce Petrov,Gorč Petrov,Gorče Petrov,Ѓорче Петров",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791332,
+    "name": "Dolno Palciste",
+    "alternatenames": "Dolno Palchishte,Dolno Palciste,Dolno Palčište,Pallcishte,Pallçishte,Долно Палчиште",
+    "subcountry": "Bogovinje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791334,
+    "name": "Dolno Orizari",
+    "alternatenames": "Dolno Orizari,Долно Оризари",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791343,
+    "name": "Dolno Kolicani",
+    "alternatenames": "Dolno Kolicane,Dolno Kolicani,Dolno Kolichani,Dolno Količane,Dolno Količani,Donje Kolicane,Donje Količane,Долно Количани",
+    "subcountry": "Studenichani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791363,
+    "name": "Dolneni",
+    "alternatenames": "Dolneni,Dolnjane,Dolnjani,Долнени",
+    "subcountry": "Dolneni"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791371,
+    "name": "Dolna Banjica",
+    "alternatenames": "Dolna Banica,Dolna Banjica,Долна Бањица",
+    "subcountry": "Gostivar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791407,
+    "name": "Dobrusevo",
+    "alternatenames": "Dobrusevo,Dobrushevo,Dobruševo,Добрушево",
+    "subcountry": "Mogila"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791419,
+    "name": "Dobroste",
+    "alternatenames": "Dobroshte,Dobroshtë,Dobroste,Dobrošte",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791443,
+    "name": "Dobri Dol",
+    "alternatenames": "Doberdol,Dobri Dol,Dobri-Do,Dobërdol,Добри Дол",
+    "subcountry": "Vrapchishte"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791517,
+    "name": "Desovo",
+    "alternatenames": "Desovo,Десово",
+    "subcountry": "Dolneni"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791542,
+    "name": "Demir Kapija",
+    "alternatenames": "Banja,Demir Kapija,Демир Капија",
+    "subcountry": "Demir Kapija"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791548,
+    "name": "Delogozda",
+    "alternatenames": "Delagozde,Delagožde,Delogozda,Delogozdi,Delogozhda,Delogozhdi,Delogožda,Delogoždi,Делогожда,Делогожди",
+    "subcountry": "Struga"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791559,
+    "name": "Delcevo",
+    "alternatenames": "Carevo Selo,Delcevo,Delchevo,Делчево",
+    "subcountry": "Delchevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791606,
+    "name": "Debar",
+    "alternatenames": "Bebar,Debar,Debara,Debaras,Debaru,Debre,Debur,Dibra,Dibre-i-Bala,Divri,dbar,de ba er,debaleu,debari,dybar,Δίβρη,Дебар,Дебър,Дєбаръ,دبار,ديبار,დებარი,德巴爾,데바르",
+    "subcountry": "Debar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791720,
+    "name": "Chucher - Sandevo",
+    "alternatenames": "Chucher,Cucer,Cucer-Sandevo,Čučer,Čučer-Sandevo,Чучер",
+    "subcountry": "Chucher Sandevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791819,
+    "name": "Crniliste",
+    "alternatenames": "Crnilishte,Crniliste,Crnilište,Црнилиште",
+    "subcountry": "Dolneni"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791885,
+    "name": "Cresevo",
+    "alternatenames": "Cresevo,Creshevo,Tsrechevo,Tsréchévo,Црешево",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 791954,
+    "name": "Cesinovo",
+    "alternatenames": "Cesinovis,Cesinovo,Cheshinovo,Češinovis,Češinovo,Чешиново",
+    "subcountry": "Češinovo-Obleševo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792007,
+    "name": "Celopek",
+    "alternatenames": "Callapek,Celopek,Chelopek,Çallapek,Čelopek,Челопек",
+    "subcountry": "Brvenica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792019,
+    "name": "Cegrane",
+    "alternatenames": "Cegran,Cegrane,Chegrane,Çegran,Чегране",
+    "subcountry": "Gostivar"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792034,
+    "name": "Caska",
+    "alternatenames": "Caska,Chashka,Čaška,Чашка",
+    "subcountry": "Chashka"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792055,
+    "name": "Capari",
+    "alternatenames": "Capari,Цапари",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792129,
+    "name": "Bulachani",
+    "alternatenames": "Bulacane,Bulacani,Bulačane,Bulačani",
+    "subcountry": ""
+  },
+  {
+    "country": "MK",
+    "geonameid": 792150,
+    "name": "Bukovik",
+    "alternatenames": "Bukovic,Bukovik,Buković,Bukoviḱ,Буковиќ",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792197,
+    "name": "Bucin",
+    "alternatenames": "Buchin,Bucin,Bučin,Бучин",
+    "subcountry": "Krushevo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792227,
+    "name": "Brvenica",
+    "alternatenames": "Bervenice,Brvence,Brvenica,Bërvenicë,Брвеница,Брвенце",
+    "subcountry": "Brvenica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792257,
+    "name": "Makedonski Brod",
+    "alternatenames": "Brod,Brod Makedonski,Brodi,Juzni Brod,Južni Brod,Makedon'sku Brodu,Makedons'ki-Brod,Makedonska Broda,Makedonski Brod,Makedonski Brodas,Makedonski-Brod,brwd,ma qi dun bu luo de,mkdwnsky bwrd,Брод,Македонски Брод,Македонски-Брод,Македонськи-Брод,Макєдоньскъ Бродъ,برود,مکدونسکی بورد,მაკედონსკი-ბროდი,馬其頓布羅德",
+    "subcountry": "Makedonski Brod"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792419,
+    "name": "Bosilovo",
+    "alternatenames": "Bosiljovo,Bosilovo,Босилово",
+    "subcountry": "Bosilovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792489,
+    "name": "Bojane",
+    "alternatenames": "Bojana,Bojane,Бојане",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792501,
+    "name": "Bogovinje",
+    "alternatenames": "Bogovina,Bogovine,Bogovinje,Bogovino,Боговиње",
+    "subcountry": "Bogovinje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792509,
+    "name": "Bogomila",
+    "alternatenames": "Bogomila,Bogumil,Богомила",
+    "subcountry": "Chashka"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792523,
+    "name": "Bogdanci",
+    "alternatenames": "Bogdanci,Богданци",
+    "subcountry": "Bogdanci"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792553,
+    "name": "Blatec",
+    "alternatenames": "Blaca,Blatac,Blatec,Блатец",
+    "subcountry": "Vinica"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792578,
+    "name": "Bitola",
+    "alternatenames": "Bitol,Bitola,Bitolj,Bitolja,Bitolya,Manastir,Manastiri,Manastır,Monasterium,Monasteron,Monastir,Monastiri,Monastirion,Obitѣl',QBI,bi tuo la,bitolla,bitora,bytwla,bytwlh,Μοναστήρι,Μοναστήριον,Μπίτολα,Битола,Битоля,Битољ,Бітола,Манастир,Обитѣль,ביטולה,بيتولا,بیتولا,ビトラ,比托拉,비톨라",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792592,
+    "name": "Bistrica",
+    "alternatenames": "Bistrica,Feistritz,Бистрица",
+    "subcountry": "Bitola"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792656,
+    "name": "Berovo",
+    "alternatenames": "Berovo,Берово",
+    "subcountry": "Berovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792676,
+    "name": "Beranci",
+    "alternatenames": "Beranci,Беранци",
+    "subcountry": "Mogila"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792767,
+    "name": "Belcista",
+    "alternatenames": "Belchishta,Belcista,Belciste,Belčišta,Belčište,Белчишта",
+    "subcountry": "Debarca"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792809,
+    "name": "Bedinje",
+    "alternatenames": "Bedine,Bedinje,Бедиње",
+    "subcountry": "Kumanovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 792835,
+    "name": "Batinci",
+    "alternatenames": "Batinc,Batinci,Батинци",
+    "subcountry": "Studenichani"
+  },
+  {
+    "country": "MK",
+    "geonameid": 793113,
+    "name": "Arachinovo",
+    "alternatenames": "Aracine,Aracinovo,Araçinë,Aračinovo",
+    "subcountry": "Arachinovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 795062,
+    "name": "Poroj",
+    "alternatenames": "Poroj,Порој",
+    "subcountry": "Tetovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 796095,
+    "name": "Strimnica",
+    "alternatenames": "Strimnica,Стримница",
+    "subcountry": "Zhelino"
+  },
+  {
+    "country": "MK",
+    "geonameid": 796096,
+    "name": "Dobarce",
+    "alternatenames": "Dobarce,Добарце",
+    "subcountry": "Zhelino"
+  },
+  {
+    "country": "MK",
+    "geonameid": 829616,
+    "name": "Zelenikovo",
+    "alternatenames": "Stanica Zelenikovo,Zelenikovo,Zeleznicka Stanica Zelenikovo,Železnička Stanica Zelenikovo,Зелениково,Станица Зелениково",
+    "subcountry": "Zelenikovo"
+  },
+  {
+    "country": "MK",
+    "geonameid": 833258,
+    "name": "Suto Orizare",
+    "alternatenames": "Shuto Orizari,Suto Orizare,Šuto Orizare,Шуто Оризари",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 833260,
+    "name": "Butel",
+    "alternatenames": "Butel,Butelj,Бутел",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 833262,
+    "name": "Cair",
+    "alternatenames": "Cair,Chair,Čair,Чаир",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 833357,
+    "name": "Ilinden",
+    "alternatenames": "Belimbegovo,Ilinden,Белимбегово,Илинден",
+    "subcountry": "Ilinden"
+  },
+  {
+    "country": "MK",
+    "geonameid": 863675,
+    "name": "Kisela Voda",
+    "alternatenames": "Kisela Voda,Кисела Вода",
+    "subcountry": "Grad Skopje"
+  },
+  {
+    "country": "MK",
+    "geonameid": 7886881,
+    "name": "Centar Zupa",
+    "alternatenames": "Centar Zhupa,Centar Zsupa,Merkez Jupa,Qendra Zhupa,Tsentar Joupa,Vapa,Вапа,Центар Жупа,ცენტარ-ჟუპა",
+    "subcountry": "Centar Zhupa"
+  }
+]

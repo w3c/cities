@@ -1,0 +1,870 @@
+[
+  {
+    "country": "MG",
+    "geonameid": 1053384,
+    "name": "Toamasina",
+    "alternatenames": "TMM,Tamatave,Toamasina,Tuamasina,toamasina,touamashina,tu a ma xi na,twamasyna,Τοαμασίνα,Тоамасина,Туамасина,Туамасіна,טומאסינה,تواماسینا,ტუამასინა,トゥアマシナ,图阿马西纳,토아마시나",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1053507,
+    "name": "Vondrozo",
+    "alternatenames": "",
+    "subcountry": "Atsimo-Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1053778,
+    "name": "Vohipaho",
+    "alternatenames": "Vohipaha,Vohipaho",
+    "subcountry": "Atsimo-Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1053900,
+    "name": "Vohimanitra",
+    "alternatenames": "",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1054035,
+    "name": "Vohibinany",
+    "alternatenames": "Ampasimanolotra,Brickaville",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1054192,
+    "name": "Vavatenina",
+    "alternatenames": "",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1054329,
+    "name": "Vangaindrano",
+    "alternatenames": "VND,Vangaindrano",
+    "subcountry": "Atsimo-Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1054463,
+    "name": "Tsiroanomandidy",
+    "alternatenames": "WTS",
+    "subcountry": "Bongolava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1054500,
+    "name": "Tsiombe",
+    "alternatenames": "Tsihombe,Tsiombe",
+    "subcountry": "Androy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1055059,
+    "name": "Tsaratanana",
+    "alternatenames": "TTS",
+    "subcountry": "Betsiboka"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1055317,
+    "name": "Tranovaho",
+    "alternatenames": "Tranovaho,Tranovako,Tranovoa",
+    "subcountry": "Androy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1055429,
+    "name": "Toliara",
+    "alternatenames": "TLE,Toliara,Toliary,Tulear,Tuliara,Tullear,Tuléar,to li xa ra,tolliala,touriara,tu li ya la,Τολιάρα,Тулиара,Туліара,טוליארה,โตลีอารา,ტულიარა,トゥリアラ,圖利亞拉,톨리아라",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1055433,
+    "name": "Tolanaro",
+    "alternatenames": "FTU,Faradofay,Fort-Dauphin,Taolanaro,Tolagnaro,Tolanaro,Tôlagnaro,Tôlanaro",
+    "subcountry": "Anosy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056151,
+    "name": "Soavinandriana",
+    "alternatenames": "Seavinandriana,Soavinandriana",
+    "subcountry": "Itasy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056381,
+    "name": "Soanindrariny",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056386,
+    "name": "Soanierana Ivongo",
+    "alternatenames": "Saanierana,Soahierana,Soanierana,Soanierana Ivongo",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056531,
+    "name": "Sitampiky",
+    "alternatenames": "Sitampiki,Sitampiky",
+    "subcountry": "Boeny"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056629,
+    "name": "Savana",
+    "alternatenames": "",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056899,
+    "name": "Sambava",
+    "alternatenames": "SVB,Sahambava,Sahambavany,Sambaha,Sambava,Sampava,campava,sambaba,sanbavua,sang ba wa,Σαμπάβα,Самбава,சம்பவா,サンバヴァ,桑巴瓦,삼바바",
+    "subcountry": "Sava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1056922,
+    "name": "Sambaina",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1057095,
+    "name": "Sakaraha",
+    "alternatenames": "Sakaraha,Sakaray",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1057277,
+    "name": "Sahavato",
+    "alternatenames": "",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1057330,
+    "name": "Sahatavy",
+    "alternatenames": "",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1057681,
+    "name": "Sadjoavato",
+    "alternatenames": "Sadjoavato,Sadjovato",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1057688,
+    "name": "Sadabe",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1057922,
+    "name": "Ranohira",
+    "alternatenames": "",
+    "subcountry": "Ihorombe"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1058080,
+    "name": "Nosy Varika",
+    "alternatenames": "",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1058242,
+    "name": "Nandihizana",
+    "alternatenames": "Carion,Nandihizana",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1058381,
+    "name": "Morondava",
+    "alternatenames": "MOQ,Morondava,Murundava,molondaba,morondaba,mu long da wa,Мурундава,モロンダバ,穆龙达瓦,모론다바",
+    "subcountry": "Menabe"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1058532,
+    "name": "Moramanga",
+    "alternatenames": "OHB",
+    "subcountry": "Alaotra Mangoro"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1059011,
+    "name": "Miarinarivo",
+    "alternatenames": "Miarinarivo",
+    "subcountry": "Itasy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1059051,
+    "name": "Miandrivazo",
+    "alternatenames": "Miandrivazo,ZVA",
+    "subcountry": "Menabe"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1059059,
+    "name": "Miandrarivo",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1059098,
+    "name": "Miadanandriana",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1059136,
+    "name": "Merikanjaka",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1059507,
+    "name": "Marovoay",
+    "alternatenames": "Marovoay",
+    "subcountry": "Boeny"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1060007,
+    "name": "Marolambo",
+    "alternatenames": "",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1060283,
+    "name": "Maroantsetra",
+    "alternatenames": "Maroantsetra,Maruancentre,WMN,Маруанцентре",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1060527,
+    "name": "Mantasoa",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1060673,
+    "name": "Manjakandriana",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1060682,
+    "name": "Manja",
+    "alternatenames": "Fort Manza,MJA",
+    "subcountry": "Menabe"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1061028,
+    "name": "Mandritsara",
+    "alternatenames": "Mandritsara,WMA",
+    "subcountry": "Sofia"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1061216,
+    "name": "Manato",
+    "alternatenames": "",
+    "subcountry": "Atsimo-Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1061335,
+    "name": "Mananjary",
+    "alternatenames": "MNJ",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1061412,
+    "name": "Mananara",
+    "alternatenames": "Mananara,Mananara Avaratra,WMR",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1061605,
+    "name": "Manakara",
+    "alternatenames": "Manakara,Manankara,WVK,ma na ka la,manakala,manakara,Манакара,Մանակարա,マナカラ,馬納卡拉,마나카라",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1061912,
+    "name": "Maintirano",
+    "alternatenames": "MXT",
+    "subcountry": "Melaky"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1062146,
+    "name": "Mahavelona",
+    "alternatenames": "Foulpointe,Fulpuant,Фулпуант",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1062553,
+    "name": "Mahanoro",
+    "alternatenames": "VVB",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1062626,
+    "name": "Mahalina",
+    "alternatenames": "",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1062663,
+    "name": "Mahajanga",
+    "alternatenames": "MJN,Machatzan'nka,Mahadzanga,Mahajanga,Majunga,Makhadzanga,Makhadzhanga,ma ha zan jia,mahajang-ga,mahajanga,majnka,Μαχατζάνγκα,Махаджанга,Махадзанга,מאהאזאנגה,ماجنكا,マハジャンガ,马哈赞加,마하장가",
+    "subcountry": "Boeny"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1062818,
+    "name": "Mahabe",
+    "alternatenames": "Mahabe,Mahabo",
+    "subcountry": "Melaky"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1062842,
+    "name": "Maevatanana",
+    "alternatenames": "Maevatanana,Maevetanana,Mavatanana,Mevatanana",
+    "subcountry": "Betsiboka"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1063368,
+    "name": "Kopoky",
+    "alternatenames": "",
+    "subcountry": "Androy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064234,
+    "name": "Ikongo",
+    "alternatenames": "Fort Carhot,Fort-Carnot,Ikongo",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064258,
+    "name": "Ikalamavony",
+    "alternatenames": "Ikalamavony",
+    "subcountry": "Upper Matsiatra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064275,
+    "name": "Ihosy",
+    "alternatenames": "IHO,Ihosy",
+    "subcountry": "Ihorombe"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064334,
+    "name": "Ifatsy",
+    "alternatenames": "Efasy,Efatsy,Ifatsy,Lfatsy",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064366,
+    "name": "Ifanadiana",
+    "alternatenames": "",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064890,
+    "name": "Fianarantsoa",
+    "alternatenames": "Fianarancua,Fianarantsoa,WFI,fei ya na lan chu a,fianarantsuoa,fyanarantswa,pianalanchoa,pianarantsua,Φιαναραντσόα,Фианаранцуа,Фіанаранцуа,פיאנארנצוה,فیانارانتسوا,ფიანარანცუა,フィアナランツォア,菲亞納蘭楚阿,피아나란초아",
+    "subcountry": "Upper Matsiatra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064978,
+    "name": "Fenoarivo Be",
+    "alternatenames": "Fenoarivo,Fenoarivo Afovoany,Fenoarivo Be",
+    "subcountry": "Bongolava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1064980,
+    "name": "Fenoarivo Atsinanana",
+    "alternatenames": "Fenerive,Fenerive-Atsinanana,Fenerive-Est,Fenoarivo Atsinanana,Fénérive-Atsinanana,Fénérive-Est",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1065140,
+    "name": "Faratsiho",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1065158,
+    "name": "Farafangana",
+    "alternatenames": "RVA",
+    "subcountry": "Atsimo-Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1065222,
+    "name": "Fandriana",
+    "alternatenames": "Fandriana,Ifandriana",
+    "subcountry": "Amoron'i Mania"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1065230,
+    "name": "Fandrandava",
+    "alternatenames": "Alakamisy Fandrandava,Alakamisy-Fandandrave,Fandrandava",
+    "subcountry": "Upper Matsiatra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1066310,
+    "name": "Betioky",
+    "alternatenames": "BKU,Betioky",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1066317,
+    "name": "Beteza",
+    "alternatenames": "",
+    "subcountry": "Androy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1066514,
+    "name": "Betafo",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1066831,
+    "name": "Beroroha",
+    "alternatenames": "Beroroha,Beroroho,Beroroka,WBO",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1067487,
+    "name": "Bemaitso",
+    "alternatenames": "",
+    "subcountry": "Alaotra Mangoro"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1067531,
+    "name": "Belo sur Tsiribihina",
+    "alternatenames": "BMD,Belo,Belo - Tsiribihina,Belo Tsiribihina,Belo sur Tsiribihina,Belon'i Tsiribihina",
+    "subcountry": "Menabe"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1067565,
+    "name": "Beloha",
+    "alternatenames": "",
+    "subcountry": "Androy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1068130,
+    "name": "Behompy",
+    "alternatenames": "",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1068670,
+    "name": "Bealanana",
+    "alternatenames": "Bealanana,WBE",
+    "subcountry": "Sofia"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1068865,
+    "name": "Arivonimamo",
+    "alternatenames": "Arivonimamo,Arivonimamy",
+    "subcountry": "Itasy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1068955,
+    "name": "Antsohimbondrona",
+    "alternatenames": "Antsohimbondrona,Port Saint-Louis",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1068971,
+    "name": "Antsohihy",
+    "alternatenames": "Antsohihi,Antsohihy,WAI",
+    "subcountry": "Sofia"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1069129,
+    "name": "Antsiranana",
+    "alternatenames": "Anceranana,Antseranana,Antsirana,Antsiranana,Antsirane,Antsiran̈ana,DIE,Diego Soarez,Diego-Suarez,Diégo-Suarez,Анцеранана",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1069164,
+    "name": "Antsirabe Afovoany",
+    "alternatenames": "Ansirabe,Antsirabe,Antsirabe Afovoany",
+    "subcountry": "Sofia"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1069166,
+    "name": "Antsirabe",
+    "alternatenames": "ATJ,Ancirabe,Ancirabė,Antisrabe,Antsirabe,Sirabe,an qi la bei,anchilabe,antsuirabe,antsyraby,Анцирабе,אנטסיראבה,أنتسيرابي,アンツィラベ,安齐拉贝,안치라베",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1070523,
+    "name": "Antanimena",
+    "alternatenames": "",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1070661,
+    "name": "Antanifotsy",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1070940,
+    "name": "Antananarivo",
+    "alternatenames": "Antananarifo,Antananarivo,Antananarivu,Antananariwo,Antananaryvas,Antananaryvu,Antananarywa,Antananarívó,Antenenerivo,TNR,Tana,Tananaribe,Tananarive,an ta na na li fu,anatananaribho,anrananarivea,antananalibo,antananaribho,antananaribo,antananarivho,antananarivo,antananaryfw,antananaryww,antʼananarivu,atananarivo,ta na na li fu,xan ta nana ri wo,Ανταναναρίβο,Ταναναρίβη,Антананариво,Антананариву,Антананарыву,Антананаріву,Тананариве,Անտանանարիվու,אנטאנאנאריווא,אנטננריבו,آنتاناناریوو,أنتاناناريفو,ئانتاناناریڤۆ,انٹاناناریوو,اینٹانانیریو,अंतानानारिव्हो,अन्टाननरीवो,আনতানানারিভো,আন্তানানারিভো,ਅੰਤਾਨਾਨਾਰੀਵੋ,அண்டனானரீவோ,ആന്റനനറീവൊ,อันตานานาริโว,ཨེན་ཊ་ན་ན་རི་བོ།,ანტანანარივუ,አንታናናሪቮ,アンタナナリボ,塔那那利佛,安塔那那利佛,안타나나리보",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1071296,
+    "name": "Antalaha",
+    "alternatenames": "ANM,Antalaha,Antalakhi,Анталахи",
+    "subcountry": "Sava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1071299,
+    "name": "Antakotako",
+    "alternatenames": "",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1072711,
+    "name": "Ankazondandy",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1072849,
+    "name": "Ankazobe",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1072879,
+    "name": "Ankazoabo",
+    "alternatenames": "Ankazoabe,Ankazoabo,Ankazoabo Sud,WAK",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1073482,
+    "name": "Anjozorobe",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1073665,
+    "name": "Anjepy",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1075592,
+    "name": "Andramasina",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1076105,
+    "name": "Hell-Ville",
+    "alternatenames": "Andoany,Hell-Ville,Helville",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1076194,
+    "name": "Andilamena",
+    "alternatenames": "",
+    "subcountry": "Alaotra Mangoro"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1076227,
+    "name": "Andovoranto",
+    "alternatenames": "Andevorante,Andevoranto,Andovoranto",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1076454,
+    "name": "Andapa",
+    "alternatenames": "ZWA",
+    "subcountry": "Sava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1076833,
+    "name": "Anandravy",
+    "alternatenames": "Anadray,Anandravy",
+    "subcountry": "Upper Matsiatra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1077349,
+    "name": "Anakao",
+    "alternatenames": "",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1078171,
+    "name": "Ampasimanolotra",
+    "alternatenames": "Ampasimanolotra,Brickaville,Vohibinany",
+    "subcountry": "Atsinanana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1078446,
+    "name": "Amparafaravola",
+    "alternatenames": "Amparafarovola,Amparofaravola",
+    "subcountry": "Alaotra Mangoro"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1078553,
+    "name": "Ampanihy",
+    "alternatenames": "AMP,Ampanihy",
+    "subcountry": "Atsimo-Andrefana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1078966,
+    "name": "Ampahana",
+    "alternatenames": "Ampaha,Ampahana",
+    "subcountry": "Sava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1079048,
+    "name": "Ambovombe",
+    "alternatenames": "",
+    "subcountry": "Androy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1079088,
+    "name": "Ambositra",
+    "alternatenames": "Ambositra",
+    "subcountry": "Amoron'i Mania"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1079681,
+    "name": "Ambohitseheno",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1079777,
+    "name": "Ambohitrolomahitsy",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1079846,
+    "name": "Ambohitrandriamanitra",
+    "alternatenames": "Ambohiandriamanitra,Ambohitrandriamanitra",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1080809,
+    "name": "Ambodivoara",
+    "alternatenames": "",
+    "subcountry": "Sava"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1081530,
+    "name": "Ambodifotatra",
+    "alternatenames": "Ambodifotatra,Ambodifototra",
+    "subcountry": "Analanjirofo"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1081790,
+    "name": "Amboasary",
+    "alternatenames": "Amboasary,Amboasary Sud",
+    "subcountry": "Anosy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1081798,
+    "name": "Amboasary",
+    "alternatenames": "Amboasary",
+    "subcountry": "Anosy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1081863,
+    "name": "Amboanjo",
+    "alternatenames": "",
+    "subcountry": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1082243,
+    "name": "Ambilobe",
+    "alternatenames": "AMB",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1082639,
+    "name": "Ambatondrazaka",
+    "alternatenames": "Ambatondrazaka,Ambatonoradrazaka,Ambatundrazaka,WAM,ambatwndrazak,an ba tong de la zha ka,Амбатундразака,امباتوندرازاک,安巴通德拉扎卡",
+    "subcountry": "Alaotra Mangoro"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1082973,
+    "name": "Ambatolaona",
+    "alternatenames": "",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1082992,
+    "name": "Ambatolampy",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1083239,
+    "name": "Ambatofinandrahana",
+    "alternatenames": "Ambatofinandrahana",
+    "subcountry": "Amoron'i Mania"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1083257,
+    "name": "Ambato Boeny",
+    "alternatenames": "Ambato,Ambato Boeni,Ambato Boeny,Ambatoboeny",
+    "subcountry": "Boeny"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1083676,
+    "name": "Ambarakaraka",
+    "alternatenames": "",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1083724,
+    "name": "Ambanja",
+    "alternatenames": "Ambanja,IVA",
+    "subcountry": "Diana"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1083968,
+    "name": "Ambalavao",
+    "alternatenames": "Ambalava,Ambalavao",
+    "subcountry": "Upper Matsiatra"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1084071,
+    "name": "Ambalasoa",
+    "alternatenames": "",
+    "subcountry": "Anosy"
+  },
+  {
+    "country": "MG",
+    "geonameid": 1084740,
+    "name": "Alarobia",
+    "alternatenames": "Alarobi",
+    "subcountry": "Analamanga"
+  },
+  {
+    "country": "MG",
+    "geonameid": 11887900,
+    "name": "Antsampanimahazo",
+    "alternatenames": "",
+    "subcountry": "Vakinankaratra"
+  }
+]

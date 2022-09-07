@@ -1,0 +1,2858 @@
+[
+  {
+    "country": "VE",
+    "geonameid": 3480908,
+    "name": "La Asuncion",
+    "alternatenames": "La Asuncion,La Asunción,La-Asuns'on,Ла-Асунсьон",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3481364,
+    "name": "Caricuao",
+    "alternatenames": "Caricuao",
+    "subcountry": "Distrito Federal"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3481456,
+    "name": "Tocuyito",
+    "alternatenames": "Tocuyito",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3485791,
+    "name": "El Chaparro",
+    "alternatenames": "El Chaparro",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3486270,
+    "name": "Anaco",
+    "alternatenames": "AAO,Anaco",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3486577,
+    "name": "Santa Cruz de Guacas",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3486692,
+    "name": "El Real",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3486718,
+    "name": "Puerto Vivas",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3486930,
+    "name": "La Mula",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3487261,
+    "name": "Los Guasimitos",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3487903,
+    "name": "Alto Barinas",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625051,
+    "name": "Zea",
+    "alternatenames": "Zea",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625066,
+    "name": "Zaraza",
+    "alternatenames": "Zaraza,sa la sa,Зараза,薩拉薩",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625155,
+    "name": "Yumare",
+    "alternatenames": "Yumare",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625207,
+    "name": "Yaritagua",
+    "alternatenames": "Yaritagua",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625214,
+    "name": "Yaracal",
+    "alternatenames": "Yaracal",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625239,
+    "name": "Yaguaraparo",
+    "alternatenames": "Yaguaraparo",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625341,
+    "name": "Villa de Cura",
+    "alternatenames": "Villa de Cura",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625346,
+    "name": "Villa Bruzual",
+    "alternatenames": "Turen,Turén,Villa Bruzual",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625469,
+    "name": "Las Casitas del Vegon de Nutrias",
+    "alternatenames": "Vegon,Vegon de Nutrias,Vegón,Vegón de Nutrias",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625515,
+    "name": "Valle de La Pascua",
+    "alternatenames": "VDP,Val'e-de-La-Paskua,Valle de La Pascua,Valle de Pascua,Валье-де-Ла-Паскуа",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625519,
+    "name": "Valle de Guanape",
+    "alternatenames": "El Valle de Guanape,Valle de Guanape",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625542,
+    "name": "Valera",
+    "alternatenames": "VLV,Valera,ba lai la,valera,Валера,ვალერა,巴莱拉",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625549,
+    "name": "Valencia",
+    "alternatenames": "Balenzia,VLN,Valencia,Valencio,Valens,Valensi,Valensia,Valensii,Valensija,Valensiya,Valentia,Valentzia,Valincia,Valência,ba lun xi ya,balainsi'a,ballensia,barenshia,blnsyt,valensia,walnsya  wnzwyla,wlnsyh,Валенс,Валенси,Валенсия,Валенсија,Валенсія,Վալենսիա,ולנסיה,بلنسية,والنسیا، ونزوئلا,والیںسیا، کارابوبو,ਬਾਲੈਂਸੀਆ,ვალენსია,バレンシア,巴伦西亚,발렌시아",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625613,
+    "name": "Urumaco",
+    "alternatenames": "Urumaco",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625655,
+    "name": "Urena",
+    "alternatenames": "Urena,Ureña",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625693,
+    "name": "Uracoa",
+    "alternatenames": "Uracoa",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625696,
+    "name": "Urachiche",
+    "alternatenames": "Urachiche",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625710,
+    "name": "Upata",
+    "alternatenames": "Upata",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625732,
+    "name": "Umuquena",
+    "alternatenames": "Omuquema,Omuquena,Umuquena,Unuquena",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625829,
+    "name": "Turmero",
+    "alternatenames": "Turmeras,Turmero,trmrw,tu er mei luo,Турмеро,ترمرو,ტურმერო,圖爾梅羅",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625878,
+    "name": "Tunapuy",
+    "alternatenames": "Tunapui,Tunapuy,Tunapuí",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625892,
+    "name": "Tumeremo",
+    "alternatenames": "TMO,Tumeremo",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625929,
+    "name": "Tucupita",
+    "alternatenames": "TUV,Tucupita,Tukupita,Тукупита",
+    "subcountry": "Delta Amacuro"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625944,
+    "name": "Tucupido",
+    "alternatenames": "Tucupido",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625963,
+    "name": "Tucani",
+    "alternatenames": "",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625965,
+    "name": "Tucacas",
+    "alternatenames": "Tucacas",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3625979,
+    "name": "Trujillo",
+    "alternatenames": "Truchiljas,Trujillo,te lu xi e,teuluhiyo,trwkhyw  trwkhyw,تروخیو، تروخیو,ტრუხილიო,特魯希略,트루히요",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626047,
+    "name": "Tovar",
+    "alternatenames": "Municipio Tovar,Tovar,Tovar Municipality,tuo wa er shi,托瓦爾市",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626074,
+    "name": "Torunos",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626094,
+    "name": "Torondoy",
+    "alternatenames": "Torondoy",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626150,
+    "name": "Tocuyo de La Costa",
+    "alternatenames": "Tocuyo de La Costa",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626168,
+    "name": "Tocopero",
+    "alternatenames": "Tocopeno,Tocopero,Tocópero",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626219,
+    "name": "Tinaquillo",
+    "alternatenames": "Tinaquillo,di na ji yue,蒂納基約",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626235,
+    "name": "Tinaco",
+    "alternatenames": "Tinaco",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626237,
+    "name": "Timotes",
+    "alternatenames": "Timotes",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626302,
+    "name": "Tia Juana",
+    "alternatenames": "Tia Juana,Tía Juana",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626352,
+    "name": "Temblador",
+    "alternatenames": "El Temblador,Morichal Temblador,Temblador",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626402,
+    "name": "Tariba",
+    "alternatenames": "Tariba,Táriba",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626595,
+    "name": "Tabay",
+    "alternatenames": "Tabai,Tabaj,Tabay,Табай",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626741,
+    "name": "Soledad",
+    "alternatenames": "La Soledad,Soledad",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626764,
+    "name": "Socopo",
+    "alternatenames": "Socopo,Socopó",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626785,
+    "name": "Siquisique",
+    "alternatenames": "Siquisique",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626809,
+    "name": "Sinamaica",
+    "alternatenames": "Sinamaica",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626921,
+    "name": "Seboruco",
+    "alternatenames": "",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3626960,
+    "name": "Sarare",
+    "alternatenames": "Sanare,Sarare",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627021,
+    "name": "Santo Domingo",
+    "alternatenames": "Santo Domingo",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627034,
+    "name": "San Timoteo",
+    "alternatenames": "San Timoteo",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627047,
+    "name": "Santa Teresa del Tuy",
+    "alternatenames": "Santa Teresa,Santa Teresa del Tuy",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627148,
+    "name": "Santa Rosa",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627186,
+    "name": "Santa Rita",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627237,
+    "name": "Santa Maria de Ipire",
+    "alternatenames": "Santa Maria de Ipire,Santa María de Ipire",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627240,
+    "name": "Santa Maria de Caparo",
+    "alternatenames": "Santa Maria de Caparo,Santa María de Caparo",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627296,
+    "name": "Santa Lucia",
+    "alternatenames": "Santa Lucia,Santa Lucía",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627304,
+    "name": "Santa Lucia",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627334,
+    "name": "Santa Isabel",
+    "alternatenames": "Santa Isabel",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627360,
+    "name": "Santa Ines",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627382,
+    "name": "Santa Elena de Uairen",
+    "alternatenames": "SNV,Santa Elena,Santa Elena de Guairen,Santa Elena de Guairén,Santa Elena de Uairen,Santa Elena de Uairén,Santa-Elena-de-Uajren,Санта-Елена-де-Уайрен",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627384,
+    "name": "Santa Elena de Arenales",
+    "alternatenames": "Santa Elena de Arenales",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627418,
+    "name": "Santa Cruz de Mora",
+    "alternatenames": "Santa Cruz,Santa Cruz de Mora,Santa Cruz de Tovar",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627420,
+    "name": "Santa Cruz de Mara",
+    "alternatenames": "Santa Cruz,Santa Cruz de Mara",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627423,
+    "name": "Santa Cruz de Bucaral",
+    "alternatenames": "Santa Cruz,Santa Cruz de Bucaral",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627457,
+    "name": "Santa Cruz",
+    "alternatenames": "Santa Cruz",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627510,
+    "name": "Santa Catalina",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627549,
+    "name": "Santa Barbara",
+    "alternatenames": "Santa Barbara,Santa Bárbara",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627561,
+    "name": "Santa Barbara",
+    "alternatenames": "SBB,Santa Barbara,Santa Bárbara",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627576,
+    "name": "Santa Apolonia",
+    "alternatenames": "Santa Apolonia,Santa Polonia",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627593,
+    "name": "Santa Ana",
+    "alternatenames": "Santa Ana",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627609,
+    "name": "Santa Ana",
+    "alternatenames": "Santa Ana",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627611,
+    "name": "Santa Ana",
+    "alternatenames": "",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627614,
+    "name": "Santa Ana",
+    "alternatenames": "Santa Ana,Santa Ana del Tachira,Santa Ana del Táchira",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627633,
+    "name": "San Simon",
+    "alternatenames": "San Simon,San Simón",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627635,
+    "name": "San Silvestre",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627680,
+    "name": "San Rafael de Onoto",
+    "alternatenames": "San Rafael,San Rafael de Onoto",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627683,
+    "name": "Carvajal",
+    "alternatenames": "Carvajal,San Rafael de Carvajal",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627685,
+    "name": "San Rafael de Canagua",
+    "alternatenames": "Banco de Canagua,Canagua,Canaguá,San Rafael de Canagua,San Rafael de Canaguá",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627713,
+    "name": "San Rafael",
+    "alternatenames": "El Mojan,El Moján,Mojan,Moján,San Rafael,San Rafael de Mojan,San Rafael de Moján,San Rafael de el Mojan,San Rafael del Mejan,San Rafael del Meján,San Rafael del Mojan,San Rafael del Moján",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627798,
+    "name": "San Pedro de Coche",
+    "alternatenames": "San Pedro,San Pedro de Coche",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627874,
+    "name": "San Pablo",
+    "alternatenames": "San Pablo",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627968,
+    "name": "San Mateo",
+    "alternatenames": "San Mateo",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627969,
+    "name": "San Mateo",
+    "alternatenames": "San Mateo",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3627997,
+    "name": "San Luis",
+    "alternatenames": "San Luis",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628025,
+    "name": "San Lorenzo",
+    "alternatenames": "",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628052,
+    "name": "San Juan de Manapiare",
+    "alternatenames": "San Juan de Manapiare",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628053,
+    "name": "San Juan de los Morros",
+    "alternatenames": "San Juan de Los Morros,San Juan de los Moros,San Juan de los Morros",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628055,
+    "name": "San Juan de los Cayos",
+    "alternatenames": "San Juan,San Juan de los Cayos",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628060,
+    "name": "Colon",
+    "alternatenames": "Colon,Colón,San Juan De Colon,San Juan de Colon,San Juan de Colón",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628066,
+    "name": "San Juan Bautista",
+    "alternatenames": "San Juan,San Juan Bautista",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628129,
+    "name": "San Jose de Barlovento",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628142,
+    "name": "San Jose de Guanipa",
+    "alternatenames": "El Tigrito,San Jose de Guanipa,San José de Guanipa",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628148,
+    "name": "San Jose de Aerocuar",
+    "alternatenames": "San Jose,San Jose de Aerocuar,San Jose de Areocuar,San Jose de Areoeuar,San José,San José de Aerocuar,San José de Areocuar,San José de Areoeuar",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628267,
+    "name": "San Joaquin",
+    "alternatenames": "San Joaquin,San Joaquín",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628350,
+    "name": "San Francisco de Yare",
+    "alternatenames": "San Francisco de Yare",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628374,
+    "name": "San Francisco",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628394,
+    "name": "San Fernando de Atabapo",
+    "alternatenames": "San Fernando Atabapo,San Fernando de Atabapo",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628423,
+    "name": "San Felipe",
+    "alternatenames": "SNF,San Felipe,San Felipė,San-Felipe,sanpellipe,sheng fei li pei,Сан-Фелипе,Сан-Феліпе,سان فیلیپے، جاراکوئی,სან-ფელიპე,聖費利佩,산펠리페",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628462,
+    "name": "San Diego",
+    "alternatenames": "San Diego",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628473,
+    "name": "San Cristobal",
+    "alternatenames": "SCI,San Cristobal,San Cristóbal,San Kristobal,San Kristobalis,San-Kristobal',San-Krystobal',san krystwbal,san krystwbal  tachyra,sankeuliseutobal,sheng ke li si tuo wa er,Сан Кристобал,Сан-Кристобаль,Сан-Крыстобаль,Сан-Крістобаль,سان كريستوبال,سان کریستوبال، تاچیرا,სან-კრისტობალი,聖克里斯托瓦爾,산크리스토발",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628487,
+    "name": "San Casimiro",
+    "alternatenames": "San Casimiro",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628488,
+    "name": "San Carlos de Rio Negro",
+    "alternatenames": "San Carlos,San Carlos de Rio Negro,San Carlos de Río Negro",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628489,
+    "name": "San Carlos del Zulia",
+    "alternatenames": "Del Zulia,San Carlos,San Carlos del Zulia",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628503,
+    "name": "San Carlos",
+    "alternatenames": "San Carlos,San Karlosas,san karlws  kwkhydys,sankaleulloseu,sheng ka luo si,سان کارلوس، کوخیدیس,სან-კარლოსი,聖卡洛斯,산카를로스",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628545,
+    "name": "Sanare",
+    "alternatenames": "Sanare",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628549,
+    "name": "San Antonio del Tachira",
+    "alternatenames": "SVZ,San Antonio,San Antonio de Tachira,San Antonio de Táchira,San Antonio del Tachira,San Antonio del Táchira",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628550,
+    "name": "San Antonio de Los Altos",
+    "alternatenames": "San Antonio de Los Altos",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628552,
+    "name": "San Antonio del Golfo",
+    "alternatenames": "San Antonio del Golfo",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628619,
+    "name": "San Antonio",
+    "alternatenames": "San Antonio,San Antonio de Maturin,San Antonio de Maturín",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628657,
+    "name": "San Antonio",
+    "alternatenames": "Aldea San Antonio,San Antonio",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628853,
+    "name": "Sabaneta",
+    "alternatenames": "Sabaneta",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628904,
+    "name": "Sabana Grande",
+    "alternatenames": "Sabana Grande",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628918,
+    "name": "Sabana de Parra",
+    "alternatenames": "Sabana de Parra",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628921,
+    "name": "Sabana de Mendoza",
+    "alternatenames": "Sabana de Mendoza",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628952,
+    "name": "Rubio",
+    "alternatenames": "Rubio,Рубио",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3628966,
+    "name": "La Villa del Rosario",
+    "alternatenames": "La Villa del Rosario,Rosario,Villa del Rosario,Росарио",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629102,
+    "name": "Rio Chico",
+    "alternatenames": "Rio Chico,Río Chico",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629107,
+    "name": "Rio Caribe",
+    "alternatenames": "Caribe,Rio Caribe,Río Caribe",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629385,
+    "name": "Quiriquire",
+    "alternatenames": "Quiriquire",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629419,
+    "name": "Quibor",
+    "alternatenames": "Quibor,Quíbor",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629459,
+    "name": "Queniquea",
+    "alternatenames": "Queniquea,ke ni ke a,克尼克阿",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629490,
+    "name": "Quebrada Seca",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629576,
+    "name": "Punto Fijo",
+    "alternatenames": "LSP,Punto Fijo,peng tuo fei huo,პუნტო-ფიხო,蓬托菲霍",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629593,
+    "name": "Punta Gorda",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629601,
+    "name": "Punta de Piedras",
+    "alternatenames": "Punta de Piedras,Punta de las Piedras",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629604,
+    "name": "Punta de Piedra",
+    "alternatenames": "Puerto Piedras,Punta Piedra,Punta de Piedra",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629606,
+    "name": "Punta de Mata",
+    "alternatenames": "Punta de Mata,Punta de Mota",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629614,
+    "name": "Punta Cardon",
+    "alternatenames": "Cardon,Cordon,El Cardon,El Cardón,Puerto Cardon,Punta Cardon,Punta Cardón,Punta-Kardon,Пунта-Кардон",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629653,
+    "name": "Puerto Piritu",
+    "alternatenames": "Puerto Piritu,Puerto Píritu",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629672,
+    "name": "Puerto La Cruz",
+    "alternatenames": "Puehrto La Kruz,Puehrto-la-Krus,Puerto Cruz,Puerto La Cruz,Puerto La Krus,Puerto de La Cruz,Puerto la Cruz,Puerto la Krusas,bwyrtw la krwz,la ke lu si gang,Пуерто Ла Крус,Пуэрто Ла Круз,Пуэрто-ла-Крус,بويرتو لا كروز,პუერტო-ლა-კრუსი,拉克魯斯港",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629693,
+    "name": "Puerto de Nutrias",
+    "alternatenames": "Puerto Nutrias,Puerto de Nutrias",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629696,
+    "name": "Puerto Cumarebo",
+    "alternatenames": "Cumarebo,Puerto Cumarebo",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629706,
+    "name": "Puerto Cabello",
+    "alternatenames": "PBL,Portus Cabellensis,Puehrto-Kabel'o,Puerto Cabello,Puerto Kabeljas,Puerto Kabello,Puerto-Kabel'jo,ka bei e gang,pueleutokabeyo,Пуерто Кабелло,Пуерто-Кабельйо,Пуэрто-Кабельо,პუერტო-კაბელიო,卡貝略港,푸에르토카베요",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629710,
+    "name": "Puerto Ayacucho",
+    "alternatenames": "PYH,Pouerto Agiakoutso,Puehrto-Ajakucho,Puerto Ajakucas,Puerto Ajakučas,Puerto Ayacucho,a ya ku qiao gang,pueleutoayakucho,pwyr to xi xa kucho,pwyrtw ajakwchw,Πουέρτο Αγιακούτσο,Пуэрто-Аякучо,پویرتو اجاکوچو,ปวยร์โตไออากูโช,პუერტო-აიაკუჩო,阿亞庫喬港,푸에르토아야쿠초",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629768,
+    "name": "Pueblo Nuevo",
+    "alternatenames": "Pueblo Nuevo",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629790,
+    "name": "Pueblo Nuevo El Chivo",
+    "alternatenames": "El Chivo,Pueblo Nuevo,Pueblo Nuevo El Chivo",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629800,
+    "name": "Pueblo Llano",
+    "alternatenames": "Pueblo Llano",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629844,
+    "name": "Pregonero",
+    "alternatenames": "Pregonero",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3629965,
+    "name": "Porlamar",
+    "alternatenames": "PMV,Porlamar,Porlamaras,bo la ma er,Порламар,პორლამარი,波拉马尔",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630086,
+    "name": "Piritu",
+    "alternatenames": "Piritu,Píritu",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630087,
+    "name": "Piritu",
+    "alternatenames": "Piritu,Píritu",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630089,
+    "name": "Piritu",
+    "alternatenames": "Piritu,Píritu",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630297,
+    "name": "Petare",
+    "alternatenames": "Petare,Petarė,pei ta lei,petale,petare,Петаре,პეტარე,ペタレ,佩塔雷,페타레",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630473,
+    "name": "Pedregal",
+    "alternatenames": "Pedregal",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630480,
+    "name": "Pedraza La Vieja",
+    "alternatenames": "Pedraza La Vieja,Pedraza la Vieja",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630490,
+    "name": "Pedernales",
+    "alternatenames": "PDZ",
+    "subcountry": "Delta Amacuro"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630687,
+    "name": "Pariaguan",
+    "alternatenames": "Pariaguan,Pariaguán",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630761,
+    "name": "Paraiso de Chabasquen",
+    "alternatenames": "Chabasquen,Paraiso,Paraiso de Chabasquen,Paraiso de Chavasquen,Paraíso de Chabasquén,Paraíso de Chavasquén",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630778,
+    "name": "La Plaza Paraguachi",
+    "alternatenames": "La Plaza de Paraguachi,Paraguachi",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630826,
+    "name": "Papelon",
+    "alternatenames": "Papelon,Papelón",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630893,
+    "name": "Pampatar",
+    "alternatenames": "Pampatar,Panpatar,Pompatar",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630894,
+    "name": "Pampanito",
+    "alternatenames": "",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630896,
+    "name": "Pampan",
+    "alternatenames": "Pampan,Pampán",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630932,
+    "name": "Palo Negro",
+    "alternatenames": "Palo Negro",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630982,
+    "name": "Palmira",
+    "alternatenames": "Palmira",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3630999,
+    "name": "Palmasola",
+    "alternatenames": "",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631208,
+    "name": "Ospino",
+    "alternatenames": "Ospino",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631247,
+    "name": "Ortiz",
+    "alternatenames": "Ortiz,Ortíz",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631333,
+    "name": "Onoto",
+    "alternatenames": "Oneto,Onoto",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631412,
+    "name": "Ocumare del Tuy",
+    "alternatenames": "Ocumare,Ocumare del Tuy",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631413,
+    "name": "Ocumare de la Costa",
+    "alternatenames": "Ocumare de la Costa",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631431,
+    "name": "Obispos",
+    "alternatenames": "Obispos",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631465,
+    "name": "Nueva Bolivia",
+    "alternatenames": "Nueva Bolivia",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631507,
+    "name": "Nirgua",
+    "alternatenames": "Nirgua",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631612,
+    "name": "Naiguata",
+    "alternatenames": "Naiguata,Naiguatá",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631614,
+    "name": "Naguanagua",
+    "alternatenames": "Naguanagua",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631752,
+    "name": "Mucuchies",
+    "alternatenames": "Mucuchies,Mucuchíes,Mucuhies",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631791,
+    "name": "Motatan",
+    "alternatenames": "Motatan,Motatán",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3631878,
+    "name": "Moron",
+    "alternatenames": "Moron,Morón",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632051,
+    "name": "Monte Carmelo",
+    "alternatenames": "Monte Carmelo",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632072,
+    "name": "Montalban",
+    "alternatenames": "Montalban,Montalbán",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632186,
+    "name": "Mirimire",
+    "alternatenames": "Mirimire",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632198,
+    "name": "Miranda",
+    "alternatenames": "Miranda",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632260,
+    "name": "Michelena",
+    "alternatenames": "Michelena",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632308,
+    "name": "Merida",
+    "alternatenames": "Emerita,MRD,Meria,Merida,Meridae,Merido,Meryda,Méria,Mérida,Santiago de los Caballeros de Merida,Santiago de los Caballeros de Mérida,mardt,mei li da shi,melida,merida,mryda,mrydh,myryda  myryda,Μέριδα,Меридæ,Мерида,Мерыда,Меріда,Մերիդա,מערידא,מרידה,ماردة,مریدا,میریدا، میریدا,მერიდა,ሜሪዳ፣ ቬኔዝዌላ,メリダ,梅里達市,메리다",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632399,
+    "name": "Mene Grande",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632401,
+    "name": "Mene de Mauroa",
+    "alternatenames": "El Mene,Mene Mauroa,Mene de Mauroa,Mene de Maurua",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632836,
+    "name": "Masparrito",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632867,
+    "name": "Maroa",
+    "alternatenames": "Maroa",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632890,
+    "name": "Maripa",
+    "alternatenames": "Mariapa,Maripa",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632910,
+    "name": "Mariguitar",
+    "alternatenames": "Mariguita,Mariguitar,Marigüita,Marigüitar",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632929,
+    "name": "Mariara",
+    "alternatenames": "Mariara",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3632998,
+    "name": "Maracay",
+    "alternatenames": "MYC,Maracay,Marakai,Marakaj,Marakajo,Marakajus,Marakay,ma la kai,malakai,marakai,marakay,Μαρακάι,Маракай,ماراکای,მარაკაი,マラカイ,马拉凯,마라카이",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633009,
+    "name": "Maracaibo",
+    "alternatenames": "MAR,Maracaibo,Marakaibas,Marakaibo,Marakaimpo,Marakajba,Marakajbo,Marakaybo,Marakaypu,ma la kai bo,ma ra ki bo,malakaibo,maraka'ibo,marakaibo,marakaybw,Μαρακάιμπο,Маракаибо,Маракайба,Маракайбо,Մարակայբո,מרקאיבו,ماراكايبو,माराकाईबो,ਮਾਰਾਕਾਈਬੋ,มาราไกโบ,მარაკაიბო,マラカイボ,马拉开波,마라카이보",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633063,
+    "name": "Maporal",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633075,
+    "name": "Mapire",
+    "alternatenames": "Mapire",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633248,
+    "name": "Mamporal",
+    "alternatenames": "Mamporal,Manporal",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633341,
+    "name": "Maiquetia",
+    "alternatenames": "Maiquetia,Maiquetía",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633412,
+    "name": "Macuto",
+    "alternatenames": "Macuto",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633444,
+    "name": "Machiques",
+    "alternatenames": "Machiques",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633622,
+    "name": "Los Teques",
+    "alternatenames": "Los Tekes,Los Tekesas,Los Teques,Los-Tekes,loseutekeseu,luo si te ke si,lws tykys,Λος Τέκες,Лос Текес,Лос-Текес,لوس تیکیس,ლოს-ტეკესი,ロス・テケス,洛斯特克斯,로스테케스",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3633677,
+    "name": "Los Rastrojos",
+    "alternatenames": "Los Rastrojos,Rastrojo,Rastrojos",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634116,
+    "name": "Los Guayos",
+    "alternatenames": "Guayos,Los Guayos",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634184,
+    "name": "Los Dos Caminos",
+    "alternatenames": "Dos Caminos,Los Dos Caminos",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634696,
+    "name": "Lobatera",
+    "alternatenames": "Lobatera",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634760,
+    "name": "Libertad",
+    "alternatenames": "Lagunitas,Lagunítas,Libertad",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634761,
+    "name": "Libertad",
+    "alternatenames": "Libertad",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634762,
+    "name": "Canagua",
+    "alternatenames": "Canagua,Canaguá,Libertad",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634763,
+    "name": "Capacho Viejo",
+    "alternatenames": "Capacho Viejo,Libertad",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634816,
+    "name": "La Yuca",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634922,
+    "name": "La Victoria",
+    "alternatenames": "La Victoria,La Viktorija,la wei duo li ya,la wyktwrya  aragwa,لا ویکتوریا، اراگوا,ლა-ვიქტორია,拉維多利亞",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634965,
+    "name": "La Vela de Coro",
+    "alternatenames": "La Vela de Coro",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3634973,
+    "name": "Veguitas",
+    "alternatenames": "La Veguita,Veguita,Veguitas",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3635064,
+    "name": "La Union",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3635260,
+    "name": "Las Vegas",
+    "alternatenames": "Las Vegas",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3635325,
+    "name": "Las Tejerias",
+    "alternatenames": "Las Tejerias,Las Tejerías,Tejerias",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3635714,
+    "name": "Las Mercedes",
+    "alternatenames": "Las Mercedes",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3636372,
+    "name": "La Sabana",
+    "alternatenames": "La Sabana",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3636565,
+    "name": "La Quebrada",
+    "alternatenames": "La Quebrada",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3636682,
+    "name": "La Plata",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3636861,
+    "name": "La Paragua",
+    "alternatenames": "",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3637311,
+    "name": "La Luz",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3637623,
+    "name": "Lagunillas",
+    "alternatenames": "Lagunillas",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3637624,
+    "name": "Lagunillas",
+    "alternatenames": "Lagunillas",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3637721,
+    "name": "La Guaira",
+    "alternatenames": "LAG,La Guaira,La Guayra,La Gvaira,La-Guajra,la gua yi la,la gwayra,la-guaira,lagwaila,ra・guaira,Ла-Гуайра,لا گوایرا,ლა-გუაირა,ラ・グアイラ,拉瓜伊拉,라과이라",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638075,
+    "name": "La Esmeralda",
+    "alternatenames": "Esmeralda,La Esmeralda",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638264,
+    "name": "La Cruz de Taratara",
+    "alternatenames": "La Cruz,La Cruz de Tarara,La Cruz de Taratara",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638371,
+    "name": "La Concepcion",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638374,
+    "name": "Concepcion",
+    "alternatenames": "Concepcion,Concepción,La Concepcion,La Concepción",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638497,
+    "name": "Chameta",
+    "alternatenames": "Chameta,La Chameta",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638655,
+    "name": "Caramuca",
+    "alternatenames": "Caramuca,Coramuca,La Caramuca",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3638904,
+    "name": "La Azulita",
+    "alternatenames": "La Azulita",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639049,
+    "name": "Kanavayen",
+    "alternatenames": "KAV,Kanavayen,Kanavayén,Kavanayen,Kavanayén",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639086,
+    "name": "Judibana",
+    "alternatenames": "Judibana,Judivana",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639107,
+    "name": "Juan Griego",
+    "alternatenames": "",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639282,
+    "name": "Jacura",
+    "alternatenames": "Jacura",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639350,
+    "name": "Irapa",
+    "alternatenames": "Irapa",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639526,
+    "name": "Higuerote",
+    "alternatenames": "HGE,Higuerote",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639725,
+    "name": "Gueiria",
+    "alternatenames": "GUI,Guiria,Güiria",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639747,
+    "name": "Gueiguee",
+    "alternatenames": "Guigue,Güigüe",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639880,
+    "name": "Guayabal",
+    "alternatenames": "Guayabal",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639898,
+    "name": "Guatire",
+    "alternatenames": "Guatire,gua di lei,guatire,gwatile,Гуатире,Гуатіре,გუატირე,グアティレ,瓜蒂雷,과티레",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3639922,
+    "name": "Guasipati",
+    "alternatenames": "Guasipati",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640049,
+    "name": "Guarenas",
+    "alternatenames": "Guarenas",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640100,
+    "name": "Guaraque",
+    "alternatenames": "Guaraque",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640179,
+    "name": "Guanta",
+    "alternatenames": "Guanta",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640215,
+    "name": "Guanarito",
+    "alternatenames": "Guanarito",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640226,
+    "name": "Guanare",
+    "alternatenames": "GUQ,Guanare,Gvanare,Gvanarė,gua na lei,guanare,gwanale,Гуанаре,گوانارے,გუანარე,グアナレ,瓜納雷,과나레",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640324,
+    "name": "Guama",
+    "alternatenames": "Guama",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640407,
+    "name": "Guadarrama",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640465,
+    "name": "Guacara",
+    "alternatenames": "Guacara",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640853,
+    "name": "Farriar",
+    "alternatenames": "Farriar",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3640956,
+    "name": "Escuque",
+    "alternatenames": "Escuque",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641008,
+    "name": "Encontrados",
+    "alternatenames": "Encontrados",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641099,
+    "name": "El Vigia",
+    "alternatenames": "Ehl'-Vikhija,El Vigia,El Vigía,VIG,Эль-Вихия",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641154,
+    "name": "El Valle del Espiritu Santo",
+    "alternatenames": "El Valle,El Valle del Espiritu Santo,El Valle del Espíritu Santo,Espiritu Santo",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641251,
+    "name": "El Toro",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641275,
+    "name": "El Tocuyo",
+    "alternatenames": "Ehl'-Tokujo,El Tocuyo,El'-Tokujo,Tocuyo,ai er tuo ku yue,Ель-Токуйо,Эль-Токуйо,埃爾托庫約",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641351,
+    "name": "El Tigre",
+    "alternatenames": "ELX,El Tigre,El Tigrė,ai er di ge lei,eltigeule,xel ti ker,เอลตีเกร,ელ-ტიგრე,埃爾蒂格雷,엘티그레",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641440,
+    "name": "El Sombrero",
+    "alternatenames": "El Sombrero",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641460,
+    "name": "El Socorro",
+    "alternatenames": "El Socorro,Socorro",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641622,
+    "name": "Los Roques",
+    "alternatenames": "LRV,Los Roques",
+    "subcountry": "Dependencias Federales"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3641775,
+    "name": "El Regalo",
+    "alternatenames": "El Regalo,La Palmita",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642031,
+    "name": "San Rafael del Pinal",
+    "alternatenames": "El Pinal,El Piñal",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642042,
+    "name": "El Pilar",
+    "alternatenames": "El Pilar",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642243,
+    "name": "El Paradero",
+    "alternatenames": "El Paradero",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642260,
+    "name": "El Pao",
+    "alternatenames": "El Pao,Pao",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642292,
+    "name": "El Palmer",
+    "alternatenames": "",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642332,
+    "name": "El Palmar",
+    "alternatenames": "El Palmar",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642390,
+    "name": "Elorza",
+    "alternatenames": "EOZ,Elorza,Paso del Viento",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642497,
+    "name": "Lecherias",
+    "alternatenames": "El Morro de Barcelona,La Lecheria,La Lechería,Lecheria,Lecherias,Lecherías",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3642833,
+    "name": "El Limon",
+    "alternatenames": "El Limon,El Limonas,El Limón,ai er li meng,el-limoni,ელ-ლიმონი,埃爾利蒙",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643031,
+    "name": "El Hatillo",
+    "alternatenames": "El Hatillo,El Hatillo Municipality,Municipio El Hatillo,Pueblo el Hatillo,ai er a di yue shi,el-atiyo si,eruatijo shi,ელ-ატილიოს მუნიციპალიტეტი,エルアティジョ市,埃爾阿蒂約市,엘아티요 시",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643353,
+    "name": "El Dorado",
+    "alternatenames": "EOR,El Dorado",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643361,
+    "name": "El Dividive",
+    "alternatenames": "Dividive,Dividivi,El Dividive",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643516,
+    "name": "El Corozo",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643531,
+    "name": "El Corozo",
+    "alternatenames": "Corozo,Corozo Pando,El Corozo",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643568,
+    "name": "El Consejo",
+    "alternatenames": "El Consejo",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643620,
+    "name": "El Cobre",
+    "alternatenames": "El Cobre",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3643962,
+    "name": "El Canton",
+    "alternatenames": "Canton,Cantón,El Canton,El Cantón",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644022,
+    "name": "El Callao",
+    "alternatenames": "El Callao",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644163,
+    "name": "El Baul",
+    "alternatenames": "El Baul,El Baúl",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644417,
+    "name": "Ejido",
+    "alternatenames": "Egido,Ehkhido,Ejido,Эхидо",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644440,
+    "name": "Duaca",
+    "alternatenames": "Duaca",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644478,
+    "name": "Dolores",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644571,
+    "name": "Dabajuro",
+    "alternatenames": "Dabajuro",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644646,
+    "name": "Curiapo",
+    "alternatenames": "Curiapo",
+    "subcountry": "Delta Amacuro"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644656,
+    "name": "Curbati",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644701,
+    "name": "Cupira",
+    "alternatenames": "Cupira,Cúpira",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644767,
+    "name": "Cumanacoa",
+    "alternatenames": "Cumanacoa",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644768,
+    "name": "Cumana",
+    "alternatenames": "CUM,Cumana,Cumaná,Kumana,ku ma na,kumana,kwmana,Кумана,کومانا,กูมานา,კუმანა,クマナ,庫馬納,쿠마나",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3644918,
+    "name": "Cua",
+    "alternatenames": "Cua,Cúa,Kua,Куа",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645213,
+    "name": "Coro",
+    "alternatenames": "CZE,Coro,Corum,Koro,Koro shaary,Santa Ana de Coro,Santa Ana de Koras,Santa-Ana-de-Koro,kolo,koro,qwrw,santa ana dy kwrw,sheng an na de ke luo,Коро,Коро шаары,Санта-Ана-де-Коро,קורו,سانتا آنا دي كورو,سانتا آنا دے کورو,სანტა-ანა-დე-კორო,コロ,聖安娜德科羅,코로",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645304,
+    "name": "Concepcion",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645360,
+    "name": "Coloncito",
+    "alternatenames": "Coloncito",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645387,
+    "name": "Cojedes",
+    "alternatenames": "Cojedes,Kokhedes,Кохедес",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645469,
+    "name": "Cocorote",
+    "alternatenames": "Cocorote",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645522,
+    "name": "Clarines",
+    "alternatenames": "Clarines",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645525,
+    "name": "Ciudad Piar",
+    "alternatenames": "Cidade Pilar,Ciudad Piar",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645527,
+    "name": "Ciudad Ojeda",
+    "alternatenames": "Ciudad Ojeda,Ciudat Ojeda,Siudad Ocheda,ao he da cheng,siudad-okheda,სიუდად-ოხედა,奧赫達城",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645528,
+    "name": "Ciudad Guayana",
+    "alternatenames": "CGU,Cidade Guaiana,Ciudad Guayana,Ciudad Guiana,Ciudat Guayana,Guayana,Guayana City,PZO,S'judad-Guajana,San Felix de Guayana,San Félix de Guayana,San Tome,San Tome de Guayana,San Tomé,San Tomé de Guayana,Santo Tome de Guayana,Santo Tomo,Santo Tomé de Guayana,Sijudad Gvajana,Siudad Guajana,Sjudad Guajan,gui ya na cheng,shiudaguayana,siudad-guaiana,siudadeugwayana,Сиудад Гуаяна,Сијудад Гвајана,Сьюдад-Гуаяна,סיודד גואיאנה,სიუდად-გუაიანა,シウダーグアヤナ,圭亞那城,시우다드과야나",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645529,
+    "name": "Ciudad De Nutrias",
+    "alternatenames": "Ciudad De Nutrias,Nutrias",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645531,
+    "name": "Ciudad Bolivia",
+    "alternatenames": "Ciudad Bolivia",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645532,
+    "name": "Ciudad Bolivar",
+    "alternatenames": "Angostura,Bolivar,Bolivar llaqta,Bolívar,Bolívar llaqta,CBL,Ciudad Bolivar,Ciudad Bolívar,S'judad-Balivar,S'judad-Bolivar,Siudad Bolivar,Siudad Bolivaras,Syudad Bolivar,Syudad Bolívar,Ziuda Bolivar,Ziudá Bolívar,bo li wa er cheng,si'udada bolivara,siudad-bolivari,siudadeubollibaleu,sywdad bwlywar,Сиудад Боливар,Сьюдад-Балівар,Сьюдад-Боливар,Сьюдад-Болівар,سیوداد بولیوار,सिउदाद बोलिवर,სიუდად-ბოლივარი,シウダ・ボリバル,玻利瓦尔城,시우다드볼리바르",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645586,
+    "name": "Churuguara",
+    "alternatenames": "Churuguara,Churugura",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645671,
+    "name": "Chivacoa",
+    "alternatenames": "Chivacoa",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645727,
+    "name": "Chiquinquira",
+    "alternatenames": "Chiquinquira,Chiquinquirá",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645806,
+    "name": "Chichiriviche",
+    "alternatenames": "Chichiriviche",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645827,
+    "name": "Chejende",
+    "alternatenames": "Chejende,Chejendé",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645854,
+    "name": "Charallave",
+    "alternatenames": "Charallave",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645944,
+    "name": "Chaguaramas",
+    "alternatenames": "Chaguaramas,Chaguaramos",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3645981,
+    "name": "Chacao",
+    "alternatenames": "Chacao,Municipio Chacao,cha kao shi,chakao shi,chakao si,ჩაკაოს მუნიციპალიტეტი,チャカオ市,查考市,차카오 시",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646062,
+    "name": "Tacarigua",
+    "alternatenames": "Central Tacarigua,Central Tacariqua,Tacarigua",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646169,
+    "name": "Caucaguito",
+    "alternatenames": "Caucaguita,Caucaguito,Caucagüito",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646175,
+    "name": "Caucagua",
+    "alternatenames": "Caucagua",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646190,
+    "name": "Catia La Mar",
+    "alternatenames": "Catia La Mar,Catia de la Mar",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646296,
+    "name": "Casigua El Cubo",
+    "alternatenames": "CUV,Casigua,Casigua El Cubo,Casigua-El Cubo,Colina,ka xi gua-ai er ku wo,卡西瓜-埃爾庫沃",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646316,
+    "name": "Casanay",
+    "alternatenames": "Casanay",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646382,
+    "name": "Carupano",
+    "alternatenames": "CUP,Carupano,Carúpano,Karupanas,ka lu pa nuo,კარუპანო,卡魯帕諾",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646451,
+    "name": "Carrizal",
+    "alternatenames": "Carrizal,Carrizales,Karrisal',Каррисаль",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646487,
+    "name": "Carora",
+    "alternatenames": "Carora,VCR",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646534,
+    "name": "Caripito",
+    "alternatenames": "Carapito,Caripito",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646537,
+    "name": "Caripe",
+    "alternatenames": "Caripe",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646581,
+    "name": "Cariaco",
+    "alternatenames": "Cariaco",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646731,
+    "name": "Carache",
+    "alternatenames": "Carache",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646738,
+    "name": "Caracas",
+    "alternatenames": "CCS,Caracae,Caracas,Caraques,Karakas,Karakasa,Karakasas,Karakaso,ka la ka si,ka raka s,kalakaseu,karakas,karakasa,karakasu,karakkas,kraks,Καράκας,Каракас,Կարակաս,קאראקאס,קראקס,كاراكاس,کاراکاس,کراکس,काराकास,কারাকাস,ਕਾਰਾਕਾਸ,કારાકાસ,କାରାକାସ,கரகஸ்,ಕರಾಕಸ್,കാരക്കാസ്,การากัส,ཁ་ར་ཁ་སི,ကရာကက်စ်မြို့,კარაკასი,ካራካስ,カラカス,卡拉卡斯,카라카스",
+    "subcountry": "Distrito Federal"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646767,
+    "name": "Caraballeda",
+    "alternatenames": "Caraballeda",
+    "subcountry": "Vargas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646796,
+    "name": "Capitanejo",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646829,
+    "name": "Canape Capatarida",
+    "alternatenames": "",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3646869,
+    "name": "Cantaura",
+    "alternatenames": "Cantaura,Cantura",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647197,
+    "name": "Campo Elias",
+    "alternatenames": "Campo Elias,Campo Elías,El Morro",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647382,
+    "name": "Camatagua",
+    "alternatenames": "Camatagua",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647400,
+    "name": "Camaguan",
+    "alternatenames": "Camaguan,Camaguán",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647435,
+    "name": "Calderas",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647444,
+    "name": "Calabozo",
+    "alternatenames": "CLZ,Calabozo,Kalabosas,ka la wo suo,კალაბოსო,卡拉沃索",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647462,
+    "name": "Caja Seca",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647535,
+    "name": "Caicara",
+    "alternatenames": "Caicara,Caicara de Maturin,Caicara de Maturín",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647537,
+    "name": "Caicara del Orinoco",
+    "alternatenames": "CXA,Caicara,Caicara de Orinoco,Caicara del Orinoco",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647549,
+    "name": "Cagua",
+    "alternatenames": "Cagua",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647636,
+    "name": "Cabure",
+    "alternatenames": "Cabure",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647637,
+    "name": "Cabudare",
+    "alternatenames": "Cabudare",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647651,
+    "name": "Cabimas",
+    "alternatenames": "CBS,Cabimas,Caramas,Kabimas,Kabimasas,ka wei ma si,kabymas,Кабимас,كابيماس,კაბიმასი,卡維馬斯",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647729,
+    "name": "Bum Bum",
+    "alternatenames": "Bum Bum,Bumbun,Bumbún",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3647931,
+    "name": "Bruzual",
+    "alternatenames": "Bruzual",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648042,
+    "name": "Boraure",
+    "alternatenames": "Boraure,Boruare",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648127,
+    "name": "Boconoito",
+    "alternatenames": "Boconoito,Boconoíto",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648132,
+    "name": "Bocono",
+    "alternatenames": "Bocono,Boconó,bo ke nuo,博科諾",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648163,
+    "name": "Boca de Uchire",
+    "alternatenames": "Boca de Uchire,Uchire",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648187,
+    "name": "Boca de Rio",
+    "alternatenames": "Boca de Rio,Boca de Río,Boca del Rio,Boca del Río",
+    "subcountry": "Nueva Esparta"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648215,
+    "name": "Boca de Aroa",
+    "alternatenames": "Boca Aroa,Boca de Aroa",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648231,
+    "name": "Bobures",
+    "alternatenames": "Bobures",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648274,
+    "name": "Biscucuy",
+    "alternatenames": "Biscucuy,Bisoucuy",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648279,
+    "name": "Biruaca",
+    "alternatenames": "Biruaca",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648290,
+    "name": "Betijoque",
+    "alternatenames": "Betijoque",
+    "subcountry": "Trujillo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648386,
+    "name": "Bejuma",
+    "alternatenames": "Bejuma",
+    "subcountry": "Carabobo"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648439,
+    "name": "Baruta",
+    "alternatenames": "Baruta,Nuestra Senora del Rosario de Baruta,Nuestra Señora del Rosario de Baruta",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648506,
+    "name": "Barrancas",
+    "alternatenames": "Barrancas",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648507,
+    "name": "Barrancas",
+    "alternatenames": "Barrancas,San Rafael de Barrancas",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648522,
+    "name": "Barquisimeto",
+    "alternatenames": "BRM,Barkisimeta,Barkisimetas,Barkisimeto,Barquisimeto,Barquisimetum,Barquisimito,ba ji xi mei tuo,baleukisimeto,barkysymtw,barukishimeto,brqysymtw,Баркисимето,Баркісімета,Баркісімето,ברקיסימטו,بارکیسیمتو,ბარკისიმეტო,バルキシメト,巴基西梅托,바르키시메토",
+    "subcountry": "Lara"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648540,
+    "name": "Barinitas",
+    "alternatenames": "Barinitas",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648546,
+    "name": "Barinas",
+    "alternatenames": "BNS,Barinas,Barinas llaqta,Barinasas,Ijoloti Barinas,ba li na si,balinaseu,barinasi,barynas,barynas  barynas,Μπαρίνας,Баринас,Барінас,Иёлоти Баринас,باريناس,باریناس، باریناس,ბარინასი,巴里納斯,바리나스",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648559,
+    "name": "Barcelona",
+    "alternatenames": "BLA,Barcelona,Barcelono,Barselona,Varkeloni,ba sai luo na,baleusellona,barselona,barslwna  wnzwyla,barslwna  wynyzwyla,baruserona,Βαρκελώνη,Барселона,بارسلونا، ونزوئلا,بارسلونا، وینیزویلا,ဘာစီလိုနာမြို့၊ ဗင်နီဇွဲလား,ბარსელონა,バルセロナ,巴塞羅那,바르셀로나",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648580,
+    "name": "Barbacoas",
+    "alternatenames": "Barbacoas",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648685,
+    "name": "Bailadores",
+    "alternatenames": "Bailadores,Bajladores,bai la duo lei si,Байладорес,拜拉多雷斯",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648698,
+    "name": "Bachaquero",
+    "alternatenames": "",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648873,
+    "name": "Aroa",
+    "alternatenames": "Aroa",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648885,
+    "name": "Arismendi",
+    "alternatenames": "Arismendi",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648915,
+    "name": "Aricagua",
+    "alternatenames": "Acarigua,Aricagua",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648916,
+    "name": "Aricagua",
+    "alternatenames": "Aricagua",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3648972,
+    "name": "Arenas",
+    "alternatenames": "",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649005,
+    "name": "Araya",
+    "alternatenames": "Araya",
+    "subcountry": "Sucre"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649017,
+    "name": "Araure",
+    "alternatenames": "Araure",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649018,
+    "name": "Arauquita",
+    "alternatenames": "Araquita,Arauquita",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649099,
+    "name": "Aragua",
+    "alternatenames": "Aragua,Aragua de Maturin,Aragua de Maturín",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649100,
+    "name": "Aragua de Barcelona",
+    "alternatenames": "Aragua,Aragua de Barcelona",
+    "subcountry": "Anzoátegui"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649403,
+    "name": "Altamira",
+    "alternatenames": "",
+    "subcountry": "Barinas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649408,
+    "name": "Altagracia de Orituco",
+    "alternatenames": "Altagracia de Orituco",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649417,
+    "name": "Los Puertos de Altagracia",
+    "alternatenames": "Altagracia,Los Puertos de Altagracia",
+    "subcountry": "Zulia"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649576,
+    "name": "Aguasay",
+    "alternatenames": "Aguasay,Agusay",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649810,
+    "name": "Achaguas",
+    "alternatenames": "Achaguas",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649833,
+    "name": "Acarigua",
+    "alternatenames": "AGV,Acarigua,Acarígua,Akarigua,Akarigva,a ka li gua,akaligwa,akarigua,akarygwa,Акаригуа,Акарігуа,اکاریگوا,აკარიგუა,アカリグア,阿卡里瓜,아카리과",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3649859,
+    "name": "Abejales",
+    "alternatenames": "Abejales,Los Avejales",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3738787,
+    "name": "Las Mesas",
+    "alternatenames": "Las Mesas",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3739076,
+    "name": "San Jose de Bolivar",
+    "alternatenames": "San Jose de Bolivar,San José de Bolívar",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3753107,
+    "name": "Santa Rita",
+    "alternatenames": "Santa Rita",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3755947,
+    "name": "Isla Raton",
+    "alternatenames": "El Carmen,Isla Raton,Isla Ratón",
+    "subcountry": "Amazonas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3758764,
+    "name": "San Josecito",
+    "alternatenames": "San Josecito,San Josesito",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3759212,
+    "name": "Cordero",
+    "alternatenames": "Cordero",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3762895,
+    "name": "Sierra Imataca",
+    "alternatenames": "Sierra Imataca",
+    "subcountry": "Delta Amacuro"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3774127,
+    "name": "San Jose de Guaribe",
+    "alternatenames": "San Jose de Guaribe,San José de Guaribe",
+    "subcountry": "Guárico"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3778045,
+    "name": "Maturin",
+    "alternatenames": "MUN,Maturin,Maturinas,Maturín,ma tu lin,matulin,matwryn,Матурин,Матурін,ماتورين,ماتورین,მატურინი,馬圖林,마투린",
+    "subcountry": "Monagas"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3784154,
+    "name": "Palmasola",
+    "alternatenames": "",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3795119,
+    "name": "Delicias",
+    "alternatenames": "Delicias",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3795152,
+    "name": "La Fria",
+    "alternatenames": "LFR,La Fria,La Fría",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3795170,
+    "name": "La Grita",
+    "alternatenames": "La Grita,la ge li ta,la gryta,لا گریتا,拉格里塔",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3795218,
+    "name": "Capacho Nuevo",
+    "alternatenames": "Capacho Nuevo,Independencia",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3795620,
+    "name": "La Tendida",
+    "alternatenames": "La Tendida",
+    "subcountry": "Táchira"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3797773,
+    "name": "Agua Blanca",
+    "alternatenames": "Agua Blanca",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3798450,
+    "name": "El Playon",
+    "alternatenames": "El Playon,El Playón,Santa Rosalia",
+    "subcountry": "Portuguesa"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3798818,
+    "name": "Arapuey",
+    "alternatenames": "Arapuey",
+    "subcountry": "Mérida"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3799319,
+    "name": "Macapo",
+    "alternatenames": "Macapo",
+    "subcountry": "Cojedes"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3803449,
+    "name": "El Cafetal",
+    "alternatenames": "El Cafetal",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3803651,
+    "name": "La Dolorita",
+    "alternatenames": "",
+    "subcountry": "Miranda"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3804949,
+    "name": "Guasdualito",
+    "alternatenames": "GDO,Guasdalito,Guasdualito",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3805673,
+    "name": "San Fernando de Apure",
+    "alternatenames": "SFD,San Fernando,San Fernando Apure,San Fernando de Apure",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3805700,
+    "name": "San Juan de Payara",
+    "alternatenames": "San Juan de Payara",
+    "subcountry": "Apure"
+  },
+  {
+    "country": "VE",
+    "geonameid": 3806799,
+    "name": "San Sebastian",
+    "alternatenames": "",
+    "subcountry": "Aragua"
+  },
+  {
+    "country": "VE",
+    "geonameid": 7909705,
+    "name": "Santa Cruz de los Taques",
+    "alternatenames": "",
+    "subcountry": "Falcón"
+  },
+  {
+    "country": "VE",
+    "geonameid": 8131509,
+    "name": "Independencia",
+    "alternatenames": "",
+    "subcountry": "Yaracuy"
+  },
+  {
+    "country": "VE",
+    "geonameid": 11915291,
+    "name": "El Junko",
+    "alternatenames": "El Junko",
+    "subcountry": "Vargas"
+  }
+]

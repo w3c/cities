@@ -1,0 +1,5742 @@
+[
+  {
+    "country": "SE",
+    "geonameid": 601972,
+    "name": "Viken",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602137,
+    "name": "Ursviken",
+    "alternatenames": "Ursvik",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602150,
+    "name": "Umea",
+    "alternatenames": "Oumeo,Owmeo,UME,Ubmi,Uma,Umea,Umeo,Umeå,Uumaja,awmyw,ume'o,ume-o,umeo,umi'o,xu me xo,yu mo ao,Ūmeo,Ούμεο,Умеа,Умео,Ումեո,אומאו,أوميو,امیہ,اومئو,اومیو,ऊमेओ,ਊਮਿਓ,อูเมโอ,უმეო,ウメオ,于默奧,우메오",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602261,
+    "name": "Toere",
+    "alternatenames": "Toere,Tore,Töre,Tøre",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602426,
+    "name": "Taeftea",
+    "alternatenames": "Taftea,Teftea,Tefteå,Täfteå",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602566,
+    "name": "Storvik",
+    "alternatenames": "Storavik,Storvik,Storåvik",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602804,
+    "name": "Soedra Sunderbyn",
+    "alternatenames": "Sodra Sunderbyn,Soedra Sunderbyn,Sunderbyn,Södra Sunderbyn,Sødra Sunderbyn",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602909,
+    "name": "Skelleftehamn",
+    "alternatenames": "Skelleftehamn",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 602913,
+    "name": "Skelleftea",
+    "alternatenames": "Heletti,SFT,Selefteo,Shelefteo,Shellefteo,Skelleftea,Skellefteå,chellef te xo,kkhlftya,sherefuteo,syellepeute-o,xie lai fu te ao,Šelefteo,Шелефтео,Шеллефтео,کخلفتئا,เชลเลฟเตโอ,შელეფტეო,シェレフテオ,謝萊夫特奧,셸레프테오",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603035,
+    "name": "Ranea",
+    "alternatenames": "",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603037,
+    "name": "Saevar",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603261,
+    "name": "Rosvik",
+    "alternatenames": "Rosvik",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603291,
+    "name": "Rolfs",
+    "alternatenames": "Rolfs",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603292,
+    "name": "Roknaes",
+    "alternatenames": "Roknas,Roknäs",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603303,
+    "name": "Robertsfors",
+    "alternatenames": "Robertsforsh,Робертсфорш",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603304,
+    "name": "Roebaeck",
+    "alternatenames": "Robacksby,Rodback,Röbäcksby,Rödbäck",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603448,
+    "name": "Saevast",
+    "alternatenames": "",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603570,
+    "name": "Pitea",
+    "alternatenames": "Piitime,Pita,Pitea,Pitejas,Piteo,Piteå,Pitėjas,pi te ao,piteo,Питео,Пітео,پیته‌آ,პიტეო,ピーテオ,皮特奧",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603761,
+    "name": "Pajala",
+    "alternatenames": "PJA,Pajala,Паяла",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603814,
+    "name": "OEvertornea",
+    "alternatenames": "Ehverturneo,Everturneo,Jovertorneo,Matarenki,OEvertornea,Ofer Torne,Ofver Tornea,Overtorne,Overtornea,Ylitornio,Öfer Torne,Öfver Torneå,Övertorneå,Øvertorneå,Евертурнео,Йоверторнео,Эвертурнео",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603823,
+    "name": "OEverkalix",
+    "alternatenames": "OEverkalix,Overkalix,Ylikainuu,Överkalix,Øverkalix",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 603919,
+    "name": "Obbola",
+    "alternatenames": "Obbola",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 604006,
+    "name": "Norrfjaerden",
+    "alternatenames": "Norrfjarden,Norrfjärden",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 604419,
+    "name": "Malmberget",
+    "alternatenames": "Mal'mberge,Mal'mberger,Mal'mberget,Malmberget,Malmberiet,Malmivaara,malmbyryt,mlmbqyt,Малмбериет,Мальмберге,Мальмбергер,Мальмбергет,مالمبيريت,ملمبقیت",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 604490,
+    "name": "Lulea",
+    "alternatenames": "LLA,Liuleo,Ljuleo,Lula,Lulea,Luleju,Luleo,Luleå,Luulaja,lu lei ao,luleo,lulle-o,lwlyw,rureo,Лулеа,Лулео,Люлео,לולאו,للیہ,لولئو,لوليو,لولیو,ლულეო,ルレオ,呂勒奧,룰레오",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 604779,
+    "name": "Langsele",
+    "alternatenames": "Langsele,Långsele",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 605155,
+    "name": "Kiruna",
+    "alternatenames": "Giron,KRN,Kiiruna,Kirun,Kiruna,ji lu na,kiluna,kiruna,kyrwna,qyrwnh,Кируна,Кіруна,Կիրունա,קירונה,كيرونا,کیرونا,கிருனா,キルナ,基律纳,키루나",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 605393,
+    "name": "Kalix",
+    "alternatenames": "Kaihnuu,Kainuu,Kaliks,Kalix,klyks,Каликс,Калікс,کلیکس",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 605428,
+    "name": "Kage",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 605647,
+    "name": "Hortlax",
+    "alternatenames": "Hortlax",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 605676,
+    "name": "Holmsund",
+    "alternatenames": "Kholmsund,huo er mu song de,hwlmswnd,Холмсунд,هولمسوند,霍尔姆松德",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 605859,
+    "name": "Haparanda",
+    "alternatenames": "Gaparanda,Haaparanta,Haparanda,Khaparanda,ha pa lan da,hapalanda,haparanda,Гапаранда,Хапаранда,هاپاراندا,哈帕兰达,하파란다",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606072,
+    "name": "Gammelstad",
+    "alternatenames": "Gammelstad,Gammelstaden",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606086,
+    "name": "Gaellivare",
+    "alternatenames": "Ellivare,GEV,Gaellivare,Gällivare,Jaellivaara,Jelivare,Jelivarė,Jellivaara,Jiehllevarri,Jiellevari gielda,Jiellevarre,Jiellevarri,Jiellevári gielda,Jiellevárre,Jiellevárri,Jällivaara,Vahcir,Vahtjer,Váhtjer,Váhčir,ierivuare,yalyfarh,yalywrh,ye li wa lei,yellibale,Єлліваре,Елливаре,Йеливаре,Йиэллеварри,ياليفاره,یالیوره,イェリヴァーレ,耶利瓦勒,옐리바레",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606141,
+    "name": "Forsbacka",
+    "alternatenames": "Forsbacka",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606249,
+    "name": "Ersmark",
+    "alternatenames": "Ersmark",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606350,
+    "name": "Byske",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606363,
+    "name": "Burtraesk",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606370,
+    "name": "Burea",
+    "alternatenames": "Burea,Bureå",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606507,
+    "name": "Boliden",
+    "alternatenames": "Boliden",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606531,
+    "name": "Boden",
+    "alternatenames": "Puuti,Suttes",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606638,
+    "name": "Bergsviken",
+    "alternatenames": "Bergsviken",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606649,
+    "name": "Bergnaeset",
+    "alternatenames": "",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606714,
+    "name": "Backa",
+    "alternatenames": "Backa",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 606834,
+    "name": "AElvsbyn",
+    "alternatenames": "Alvsbyn,El'vsbjun,Elfsby,Elvsbjun,Елвсбюн,Ельвсбюн",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2599289,
+    "name": "Alunda",
+    "alternatenames": "Alunda",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2599299,
+    "name": "Anneberg",
+    "alternatenames": "",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2599415,
+    "name": "Bjorklinge",
+    "alternatenames": "B'orklinge,Bjoerklinge,Bjorklinge,Björklinge,Bjørklinge,Бьорклинге",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2599418,
+    "name": "Marieberg",
+    "alternatenames": "Marieberg",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662149,
+    "name": "Ystad",
+    "alternatenames": "Istad,Istadas,Justad,Ystad,Ystadium,Ystao,aystd,istad,isutaddo,wiseutadeu,ystad,yu si ta de,Істад,Истад,Юстад,ایستد,يستاد,یستاد,イースタッド,于斯塔德,위스타드",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662324,
+    "name": "Vrigstad",
+    "alternatenames": "Vrigstad",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662518,
+    "name": "Vittsjoe",
+    "alternatenames": "Vittsjo,Vittsjoe,Vittsjö,Vittsjø",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662659,
+    "name": "Vislanda",
+    "alternatenames": "Vislanda",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662666,
+    "name": "Viskafors",
+    "alternatenames": "Viskafors",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662689,
+    "name": "Visby",
+    "alternatenames": "Rosornas och ruinernas stad,VBY,Visbi,Visbija,Visbis,Visbju,Visbue,Visby,Visbü,Vismpy,Wisbia,bhisbi,biseubwi,fysby,visbis,visbiu,visbus,vuisubyu,wei si bi,wysby,wyzbh,Βίσμπυ,Висби,Висбю,Вісбю,ויסבי,فيسبي,ویزبه,ویسپے,भिस्बी,ვისბიუ,ヴィスビュー,維斯比,비스뷔",
+    "subcountry": "Gotland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662706,
+    "name": "Virserum",
+    "alternatenames": "Virserum",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662758,
+    "name": "Vintrosa",
+    "alternatenames": "Vintrosa",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662778,
+    "name": "Vinsloev",
+    "alternatenames": "Vinsloev,Vinslov,Vinslöv,Vinsløv",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662795,
+    "name": "Vinninga",
+    "alternatenames": "Vinninga",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662830,
+    "name": "Vingaker",
+    "alternatenames": "Vingoker,Вингокер",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662851,
+    "name": "Vindeln",
+    "alternatenames": "Vindeln,Винделн",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662881,
+    "name": "Vimmerby",
+    "alternatenames": "Vemmaria,Vimerbis,Vimerbju,Vimmerbju,fymrby,vuinmerubyu,wei mo bi,wymrbh,Вимербю,Виммербю,فيمربي,ویمربه,ヴィンメルビュー,維默比",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662935,
+    "name": "Vilhelmina",
+    "alternatenames": "VHM,Vilhelmina,Vualtjere",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2662996,
+    "name": "Vikingstad",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663036,
+    "name": "Viken",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663077,
+    "name": "Vikarbyn",
+    "alternatenames": "Vikarbyn",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663161,
+    "name": "Vi",
+    "alternatenames": "Vi,Viforsen",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663254,
+    "name": "Vibble",
+    "alternatenames": "Vibble,Vible",
+    "subcountry": "Gotland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663293,
+    "name": "Vetlanda",
+    "alternatenames": "Vetlanda,Vitlanda,wtlanda,Ветланда,وتلاندا",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663399,
+    "name": "Vellinge",
+    "alternatenames": "Vallinge,Velinge,Vällinge,wlynyh,Велинге,ولینیه",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663432,
+    "name": "Vejbystrand",
+    "alternatenames": "Saltoren,Saltören,Vejbystrand",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663435,
+    "name": "Veinge",
+    "alternatenames": "Veinge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663482,
+    "name": "Veddige",
+    "alternatenames": "Veddige",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663514,
+    "name": "Veberoed",
+    "alternatenames": "Veberod,Veberoed,Veberöd,Veberød",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663536,
+    "name": "Vaexjoe",
+    "alternatenames": "VXO,Vaexjoe,Vaxjo,Vekse,Veksh'o,Vekshe,Veksheh,Vekshjo,Vekše,Vekšė,Vexioe,Vexionia,Vexiö,Växjö,begsye,bekusho,faksyw,vekshe,wei ke she,wek chex,wkfw,wqsh,wykyw,Векше,Векшьо,Векшэ,Векшё,וקשה,فاكسيو,وکفو,ویکوہ,ویکیو,เวกเชอ,ვექშე,ベクショー,韦克舍,벡셰",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663540,
+    "name": "Vaxholm",
+    "alternatenames": "Vaksholmas,Vakskhol'm,Vakskholm,Waxholm,wa ke si huo er mu,wkshlm,Ваксхолм,Ваксхольм,وکسهلم,瓦克斯霍爾姆",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2663585,
+    "name": "Vattholma",
+    "alternatenames": "Vattholma",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664050,
+    "name": "Vaestra Froelunda",
+    "alternatenames": "Vastra Frolunda,Västra Frölunda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664203,
+    "name": "Vaestervik",
+    "alternatenames": "VVK,Vaestervik,Vestervik,Vestervikas,Vestrovicum,Västervik,wstwyk,Вестервик,وستویک,ვესტერვიკი",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664454,
+    "name": "Vaesteras",
+    "alternatenames": "Arosia,Vaesteras,Vestehros,Vesteros,Vesterosa,Vesterosas,Västerås,beseuteloseu,fystyrws,vuesuterosu,wei si te luo si,wes te ros,wstrws,wystyrws,Βεστερός,Вестерос,Вестэрос,וועסטעראס,וסטרוס,فيستيروس,واسٹیراس,وستروس,ویستیروس,เวสเตโรส,ვესტეროსი,ヴェステロース,韦斯特罗斯,베스테로스",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664740,
+    "name": "Vasastan",
+    "alternatenames": "Vasastaden",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664783,
+    "name": "Varsta",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664855,
+    "name": "Vaernamo",
+    "alternatenames": "Vernamo,Vernamu,wrnmw,Вернамо,Вернаму,ورنمو",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664921,
+    "name": "Vargon",
+    "alternatenames": "Varagon,Varagons,Varagön,Vargoen,Vargon,Vargön,Vargøn",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664939,
+    "name": "Vargarda",
+    "alternatenames": "Vargarda gielda,Vårgårda gielda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664989,
+    "name": "Varby",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2664996,
+    "name": "Varberg",
+    "alternatenames": "Varberg,Varbergas,Varberi,Varburg,Varburgum,baleubeli,varbergi,vuaruberi,wa er bei li,warbrh,wrbrg,Варберг,Варбери,ורברג,واربره,ვარბერგი,ヴァールベリ,瓦尔贝里,바르베리",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665018,
+    "name": "Vara",
+    "alternatenames": "Wara",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665063,
+    "name": "Vansbro",
+    "alternatenames": "Vansboro,Vansbru,fansbrw,wnsbrw,Вансбру,فانسبرو,ونسبرو",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665090,
+    "name": "Vaennaesby",
+    "alternatenames": "Vannasby,Vännäsby",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665093,
+    "name": "Vaennaes",
+    "alternatenames": "Venes,Венес",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665171,
+    "name": "Vaenersborg",
+    "alternatenames": "Venersborg,Venersburgum,Venershbori,Venesborgas,Venešborgas,wei na shen bao,wnshbwy,Венерсборг,Венершбори,ونشبوی,維納什堡",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665452,
+    "name": "Vallentuna",
+    "alternatenames": "Valentiuna,Valentjuna,Valentuna,Vallentunan kunta,wlntwna,Валентуна,Валентюна,ولنتونا",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665487,
+    "name": "Vallda",
+    "alternatenames": "Vallda",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665578,
+    "name": "Valla",
+    "alternatenames": "",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665589,
+    "name": "Valla",
+    "alternatenames": "Valla",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665627,
+    "name": "Valje",
+    "alternatenames": "Valje",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665675,
+    "name": "Valdemarsvik",
+    "alternatenames": "Valdemarshvik,faldymarshfyk,Валдемаршвик,فالديمارشفيك",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665691,
+    "name": "Valbo",
+    "alternatenames": "Valbo",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665708,
+    "name": "Valberg",
+    "alternatenames": "Valberg,Vålberg",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665844,
+    "name": "Vagnhaerad",
+    "alternatenames": "Vagnharad,Vagnhärad",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665857,
+    "name": "Vaggeryd",
+    "alternatenames": "Vagerjud,Вагерюд",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2665902,
+    "name": "Vadstena",
+    "alternatenames": "Vadstehna,Vadstena,Vadstenium,fadstynt,wa si tai na,wstyna,Вадстена,Вадстэна,فادستينة,وستئنا,瓦斯泰納",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666199,
+    "name": "Uppsala",
+    "alternatenames": "Oupsala,QYX,Ubsala,Upfala,Uppsal,Uppsala,Uppsalae,Uppsalir,Upsala,Upsalia,Upsalo,Upsāla,apsala,awbsala,awpsala,ubsalla,upcala,upsala,upusara,wu pu sa la,xup sx la,Ουψάλα,Убсала,Уппсалæ,Уппсала,Упсала,Упфала,Өпсала,Ուփսալա,אופסאלא,אופסלה,أوبسالا,اوبسالا,اوپسالا,اپسالا,उप्साला,உப்சாலா,อุปซอลา,უფსალა,ᐆᑉᓴᓚ/uupsala,ウプサラ,乌普萨拉,웁살라",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666238,
+    "name": "Upplands Vaesby",
+    "alternatenames": "Uplands Vasby,Uplands Vesbi,Uplands Vesbis,Uplands Vesbju,Uplands Väsby,Upplands Vasby,Vasby,Vasby Villastad,Väsby,Väsby Villastad,awplndz wzbh,Упландс Весби,Упландс Весбю,اوپلندز وزبه,اپلینڈز ویسبی",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666264,
+    "name": "Hjaerup",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666493,
+    "name": "Ulricehamn",
+    "alternatenames": "Bogesund,Ulricehamn,awlshmn,اولسهمن",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666670,
+    "name": "Uddevalla",
+    "alternatenames": "Uddevala,Uddevalla,Udevala,adwala,awdwala,udeballa,udevala,wu de wa la,Уддевала,Уддевалла,Удевала,ادوالا,اودوالا,უდევალა,乌德瓦拉,우데발라",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666772,
+    "name": "Tyringe",
+    "alternatenames": "Tyringe",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666823,
+    "name": "Tygelsjoe",
+    "alternatenames": "Tygelsjo,Tygelsjoe,Tygelsjö,Tygelsjø",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2666950,
+    "name": "Tvaaker",
+    "alternatenames": "Tvaaker,Tvååker",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667094,
+    "name": "Tumba",
+    "alternatenames": "Tumba,tmba,tumba,twmba,Тумба,تمبا,تومبا,툼바",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667109,
+    "name": "Tullinge",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667253,
+    "name": "Trosa",
+    "alternatenames": "Trusa,te lu sa,trwsa,Труса,تروسا,特魯薩",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667264,
+    "name": "Troenninge",
+    "alternatenames": "Troenninge,Tronninge,Tronningeby,Trönninge,Trönningeby,Trønninge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667303,
+    "name": "Trollhaettan",
+    "alternatenames": "THN,Trol'khetan,Trolem Excudia,Trolhetanas,Trolkhetan,Troll'gettan,Troll'khettan,Trollhaettan,Trollhattan,Trollhättan,t rxl het tan,te luo er hai tan,teulolhetan,tororuhettan,trwlhatn,trwlhtan,trwlhtn,Тролльгеттан,Тролльхеттан,Тролхетан,Трольхетан,טרולהטן,ترولهاتن,ترولهتان,ٹرولہاٹن,ตรอลเฮตตัน,ტროლჰეტანი,トロルヘッタン,特羅爾海坦,트롤헤탄",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667328,
+    "name": "Gimo",
+    "alternatenames": "",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667402,
+    "name": "Trelleborg",
+    "alternatenames": "Tralleborg,Treleborg,Treleborgas,Trelebori,Trelleborg,Trileoburgum,Trälleborg,te lei lei bao,teulelleboli,trlbwrg,Трелеборг,Трелебори,Треллеборг,ترلبورگ,ტრელებორგი,特雷勒堡,트렐레보리",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667405,
+    "name": "Trekanten",
+    "alternatenames": "Trekanten",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667499,
+    "name": "Traslovslage",
+    "alternatenames": "Laejet,Läjet,Traesloevslaege,Traslovslage,Träslövsläge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667599,
+    "name": "Tranemo",
+    "alternatenames": "Tranemo",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667628,
+    "name": "Tranas",
+    "alternatenames": "Tranos,Tranosas,tranaws,Транос,تراناوس",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667757,
+    "name": "Torup",
+    "alternatenames": "Torup",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667809,
+    "name": "Torslanda",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667847,
+    "name": "Torshaella",
+    "alternatenames": "Torshalla,Torshkhela,Torshälla,tuo shen hai la,twrshhla,Торшхела,تورشهلا,托什海拉",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667876,
+    "name": "Torsby",
+    "alternatenames": "TYF,Torsbyn kunta,Torshbju,Tursbju,Торшбю,Турсбю",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2667904,
+    "name": "Torsas",
+    "alternatenames": "",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668180,
+    "name": "Tormestorp",
+    "alternatenames": "Tormastorp,Tormestorp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668244,
+    "name": "Torekov",
+    "alternatenames": "Torekov",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668247,
+    "name": "Toereboda",
+    "alternatenames": "Toereboda,Toreboda,Töreboda,Tøreboda,trbwda,تربودا",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668365,
+    "name": "Tomelilla",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668429,
+    "name": "Tollarp1",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668430,
+    "name": "Tollarp",
+    "alternatenames": "Tollarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668552,
+    "name": "Toecksfors",
+    "alternatenames": "Tocksfors,Toecksfors,Töcksfors,Tøcksfors",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2668591,
+    "name": "Tjuvkil",
+    "alternatenames": "Tjuvkil",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669019,
+    "name": "Tingsryd",
+    "alternatenames": "Tingsrjud,Тингсрюд",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669047,
+    "name": "Timra",
+    "alternatenames": "Timro,tymrwa,Тимро,Тімро,تیمروآ",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669057,
+    "name": "Timmernabben",
+    "alternatenames": "Timmernabben",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669086,
+    "name": "Tillberga",
+    "alternatenames": "Tillberga",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669098,
+    "name": "Tierp",
+    "alternatenames": "Tierp,XFU,tyrp,Тиерп,تیرپ",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669113,
+    "name": "Tidaholm",
+    "alternatenames": "Tidagol'm,Tidakhol'm,tdhwlm,Тидахольм,Тідагольм,تدهولم",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669118,
+    "name": "Tibro",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669193,
+    "name": "Tenhult",
+    "alternatenames": "Tenhult",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669254,
+    "name": "Teckomatorp",
+    "alternatenames": "Teckomatorp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669342,
+    "name": "Taernsjoe",
+    "alternatenames": "Tarnsjo,Tärnsjö",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669415,
+    "name": "Tanumshede",
+    "alternatenames": "Grabados rupestres de Tanum,Gravures rupestres de Tanum,Naskal'nye rel'efy v Tanume,Tanum,Tanumshede,Tanumshedė,ta nu mu si hai de,tanumaseda,Наскальные рельефы в Тануме,तनुमशेड,ტანუმშედე,塔努姆斯海德",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669633,
+    "name": "Tallboda",
+    "alternatenames": "Tallboda",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669772,
+    "name": "Taby",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2669788,
+    "name": "Taberg",
+    "alternatenames": "Smalands Taberg,Smålands Taberg,Taberg",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670044,
+    "name": "Svenljunga",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670061,
+    "name": "Sveg",
+    "alternatenames": "EVG,Sveg,Свег",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670128,
+    "name": "Svedala",
+    "alternatenames": "Svedala,swdala,Сведала,سودالا",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670278,
+    "name": "Svaertinge",
+    "alternatenames": "Svartinge,Svartinge Villasamhalle,Svärtinge,Svärtinge Villasamhälle",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670403,
+    "name": "Svaerdsjoe",
+    "alternatenames": "Svardsjo,Svärdsjö",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670470,
+    "name": "Svaengsta",
+    "alternatenames": "Svangsta,Svängsta",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670478,
+    "name": "Svanesund",
+    "alternatenames": "Svanesund",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670536,
+    "name": "Svalsta",
+    "alternatenames": "Svalsta",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670542,
+    "name": "Svaloev",
+    "alternatenames": "Sval'ov,Svaliovas,Svaloev,Svalof,Svalov,Svalöf,Svalöv,Svaløv,Свальов",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670603,
+    "name": "Surte",
+    "alternatenames": "Surte",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670613,
+    "name": "Surahammar",
+    "alternatenames": "Sjurakhamar,swrhmr,Сюрахамар,سورهمر",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670710,
+    "name": "Sunne",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670781,
+    "name": "Sundsvall",
+    "alternatenames": "SDL,Sountsval,Sundsval,Sundsval FA,Sundsval',Sundsvalis,Sundsvall,Sundsvall',sndsfal,sndswal,song zi wa er,sundsvali,sunseubal,suntsuvuaru,swndswal,Σούντσβαλ,Сундсвал,Сундсвалль,Сундсваль,Սունդսվալ ՖԱ,סונדסוואל,سندسفال,سندسوال,سوندسوال,სუნდსვალი,スンツヴァル,松茲瓦爾,순스발",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670833,
+    "name": "Sundsbruk",
+    "alternatenames": "Sund,Sundsbruk",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670879,
+    "name": "Sundbyberg",
+    "alternatenames": "Sundyberg",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2670995,
+    "name": "Styrsoe",
+    "alternatenames": "Styrso,Styrsoe,Styrsö,Styrsø",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671055,
+    "name": "Sturkoe",
+    "alternatenames": "Sturko,Sturkoe,Sturkö,Sturkø",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671060,
+    "name": "Sturefors",
+    "alternatenames": "Sturefors",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671206,
+    "name": "Stroevelstorp",
+    "alternatenames": "Stroevelstorp,Strovelstorp,Strövelstorp,Strøvelstorp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671221,
+    "name": "Stroemsund",
+    "alternatenames": "Str'omsund,Straejmie,Stroemsund,Stromsund,Strömsund,Strømsund,Стрьомсунд",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671224,
+    "name": "Stroemstad",
+    "alternatenames": "Str'omstad,Strjomstad,Stroemstad,Stromstad,Strömstad,Strømstad,si te lun si ta de,strwmstd,Стрьомстад,Стрёмстад,سترومستد,斯特伦斯塔德",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671230,
+    "name": "Stroemsnaesbruk",
+    "alternatenames": "Stromsnasbruk,Strömsnäsbruk",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671292,
+    "name": "Stroemma",
+    "alternatenames": "Stroemma,Stromma,Strömma,Strømma",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671392,
+    "name": "Straengnaes",
+    "alternatenames": "Strangnass,Stregnesia,Strengnes,Strengnesas,Strängnäss,si te lan nai si,strnys,sutorengunesu,Стренгнес,سترنیس,ストレングネース,斯特兰奈斯",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671490,
+    "name": "Storvreta",
+    "alternatenames": "Storvreld,Storvreta",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671501,
+    "name": "Storvik",
+    "alternatenames": "Storvik",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2671530,
+    "name": "Storuman",
+    "alternatenames": "Luspie,SQO",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2672053,
+    "name": "Storfors",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2672122,
+    "name": "Storebro",
+    "alternatenames": "Storebro",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673076,
+    "name": "Stora Hoega",
+    "alternatenames": "Stora Hoega,Stora Hoga,Stora Höga,Stora Høga",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673621,
+    "name": "Stora",
+    "alternatenames": "",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673629,
+    "name": "Stoepen",
+    "alternatenames": "Stoepen,Stopen,Stöpen,Støpen",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673693,
+    "name": "Stockvik",
+    "alternatenames": "Stockvik,Stockviksverken",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673730,
+    "name": "Stockholm",
+    "alternatenames": "Estocolm,Estocolme,Estocolmo,Estocolmu,Estocòlme,Estokolma,Estokolmo,Holmia,STO,Stakgol'm,Stjokolna,Stoccholm,Stoccolma,Stockholbma,Stockholm,Stockolm,Stocolm,Stocolma,Stocòlma,Stocólma,Stokcholme,Stokgol'm,Stokgol'm osh,Stokgolm,Stokhol'm,Stokholm,Stokholma,Stokholmas,Stokholmi,Stokholmo,Stokkholm,Stokkholmur,Stokkhólmur,Stokkolma,Stokol'ma,Stokolm,Stuculma,Stuokhuolms,Stócólm,Sztokholm,Sztokhòlm,Tukholma,astkhlm,satakahoma,seutogholleum,si de ge er mo,stak'hom,stakahoma,stokahoma,stwkhwlm,stwqhwlm,stxkholm,sutokkuhorumu,Štokholm,Στοκχόλμη,Стакгольм,Стокhольм,Стокгольм,Стокгольм ош,Стокольма,Стокхолм,Стокҳолм,Стёколна,Ստոկհոլմ,סטוקהולם,שטאקהאלם,استکهلم,ستوكهولم,ستۆکھۆڵم,سٹاکہوم,ܣܛܘܩܗܘܠܡ,स्टकहोम,स्टॉकहोम,स्तकहोम,স্টকহোম,ਸਟਾਕਹੋਮ,ஸ்டாக்ஹோம்,స్టాక్‌హోమ్,ಸ್ಟಾಕ್‍ಹೋಮ್,സ്റ്റോക്ക്‌ഹോം,สตอกโฮล์ม,སི་ཏོག་ཧོ་ལིམ།,စတော့ဟုမ်းမြို့,სტოკჰოლმი,ስቶኮልም,ᔅᑑᒃᓱᓪᒻ/stuukhulm,ストックホルム,斯德哥尔摩,斯德哥爾摩,스톡홀름,𐍃𐍄𐌿𐌺𐌺𐌰𐌷𐌿𐌻𐌼𐍃",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673758,
+    "name": "Stockaryd",
+    "alternatenames": "Stockaryd",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673829,
+    "name": "Stigtomta",
+    "alternatenames": "Stigtomta",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673875,
+    "name": "Stenungsund",
+    "alternatenames": "Stenungsund,stnwnswnd,Стенунгсунд,ستنونسوند",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673952,
+    "name": "Stenstorp",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2673953,
+    "name": "Stenstorp",
+    "alternatenames": "Stenstorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674181,
+    "name": "Stenkullen",
+    "alternatenames": "Stenkullen",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674201,
+    "name": "Steninge",
+    "alternatenames": "Steninge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674209,
+    "name": "Stenhamra",
+    "alternatenames": "Stenhamra",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674326,
+    "name": "Stehag",
+    "alternatenames": "Stehag",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674343,
+    "name": "Stavsnaes",
+    "alternatenames": "Stavsnas,Stavsnäs",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674512,
+    "name": "Stangby",
+    "alternatenames": "Stangby,Stångby",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674594,
+    "name": "Stallarholmen",
+    "alternatenames": "Stallarholmen",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674649,
+    "name": "Staffanstorp",
+    "alternatenames": "Stafanstorp,Stafanstorpas,stfnstwl,Стафансторп,ستفنستول",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674672,
+    "name": "Gamla Stan",
+    "alternatenames": "Gamla Stan,Gamla stan,Old Town,Staden,Tukholman vanha kaupunki,Tukholman vanhakaupunki",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2674993,
+    "name": "Soesdala",
+    "alternatenames": "Soesdala,Sosdala,Sösdala,Søsdala",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675079,
+    "name": "Sorsele",
+    "alternatenames": "Sorsele,Sorshele,Suarsa,Соршеле",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675146,
+    "name": "Soerforsa",
+    "alternatenames": "Soerforsa,Sorforsa,Sörforsa,Sørforsa",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675280,
+    "name": "Soeraker",
+    "alternatenames": "Soeraker,Soraker,Söråker,Søråker",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675365,
+    "name": "Soelvesborg",
+    "alternatenames": "S'olvesbori,Selvesborg,Sjol'vesborg,Soelvesborg,Solvesborg,Sölvesborg,Sølvesborg,se er wo si bao,swlwsbwrh,Селвесборг,Сьолвесбори,Сёльвесборг,سولوسبوره,瑟爾沃斯堡",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675397,
+    "name": "Solna",
+    "alternatenames": "Sol'na,Сольна",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675408,
+    "name": "Sollentuna",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675416,
+    "name": "Solleftea",
+    "alternatenames": "Solefteo,Solleftea,Sollefteo,Sollefteå,swlftyw,Солефтео,Соллефтео,سولفتئو",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675418,
+    "name": "Sollebrunn",
+    "alternatenames": "Sollebrunn",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675561,
+    "name": "Soedra Vi",
+    "alternatenames": "Sodra Vi,Soedra Vi,Södra Vi,Sødra Vi",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675691,
+    "name": "Sodra Sandby",
+    "alternatenames": "Sodra Sandby,Soedra Sandby,Södra Sandby,Sødra Sandby",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2675692,
+    "name": "Soedra Sandby",
+    "alternatenames": "Sodra Sandby,Soedra Sandby,Södra Sandby,Sødra Sandby",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676176,
+    "name": "Soedertaelje",
+    "alternatenames": "JSO,S'odertale,S'odertele,S'odertelie,Sedertel'e,Sedertele,Sedertelje,Siodertelje,Sioderteljė,Sjodehrtehl'e,Sjodertel'e,Soedertaelje,Södertälje,Telga australis,XEZ,nan tai li ye,sederuterie,sex de xr telye,soedeleutellie,swdrtalya,swdtlya,Седертельє,Седертелје,Седертеље,Сьодертале,Сьодертеле,Сьодертелие,Сёдертелье,Сёдэртэлье,سودتلیا,سودرتاليا,سودرتالیا,سودرتالیے,เซอเดอร์เตลเย,სედერტელიე,セーデルテリエ,南泰利耶,쇠데르텔리에",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676209,
+    "name": "Soedermalm",
+    "alternatenames": "Katarina-Sofia,Maria gamla stan,Maria-Gamlastan,Sodermalm,Soeder,Soedermalm,Sofia gamla stan,Söder,Södermalm,Sødermalm",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676215,
+    "name": "Soederkoeping",
+    "alternatenames": "S'odersh'oping,Sjoderchjoping,Soderkoping,Soederkoeping,Söderköping,Søderkøping,nan xue ping,swdrshwpyng,Сьодершьопинг,Сёдерчёпинг,سودرشوپینگ,南雪平",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676224,
+    "name": "Soederhamn",
+    "alternatenames": "S'oderkhamn,SOO,Sederkhamn,Sioderhamnas,Sjoderkhamn,Soderhamn,Soederhamn,Söderhamn,Søderhamn,se de gang,soedeleuham,Седерхамн,Сьодерхамн,Сёдерхамн,瑟德港,쇠데르함",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676238,
+    "name": "Soderfors",
+    "alternatenames": "Soderfors,Soederfors,Söderfors,Søderfors",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676240,
+    "name": "Soederfors",
+    "alternatenames": "Soderfors,Soederfors,Söderfors,Søderfors",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676488,
+    "name": "Smygehamn",
+    "alternatenames": "Smygehamn",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676511,
+    "name": "Smoegen",
+    "alternatenames": "Sm'ogen,Smoegen,Smogen,Smögen,Smøgen,Смьоген",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676586,
+    "name": "Smedjebacken",
+    "alternatenames": "Smedebaken,Смедебакен,سمدیه‌بکن",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676592,
+    "name": "Smedby",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676596,
+    "name": "Smedby",
+    "alternatenames": "Smedby",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676644,
+    "name": "Smalandsstenar",
+    "alternatenames": "Smalandsstenar,Smålandsstenar",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2676700,
+    "name": "Slottsbron",
+    "alternatenames": "Slottsbron,Solttsbron",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677019,
+    "name": "Skutskaer",
+    "alternatenames": "Skutsher,Stutskar,Stutskär,skwchkhwarh,Скутшер,سکوچخوآره",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677025,
+    "name": "Skurup",
+    "alternatenames": "Skjurup,skrwp,Скюруп,سکروپ",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677062,
+    "name": "Skultuna",
+    "alternatenames": "",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677063,
+    "name": "Skultorp",
+    "alternatenames": "Skultorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677149,
+    "name": "Skrea",
+    "alternatenames": "Skrea",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677234,
+    "name": "Skoevde",
+    "alternatenames": "KVB,Schedvia,Sh'ovde,Shevde,Shjovde,Siovde,Skoevde,Skofde,Skovd,Skovde,Sköfde,Skövd,Skövde,Skøvde,kwdh,she fu de,shevde,syebeude,Šiovdė,Шевде,Шьовде,Шёвде,سکاووڈے,کوده,შევდე,舍夫德,셰브데",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677239,
+    "name": "Skottsund",
+    "alternatenames": "Skottsund",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677356,
+    "name": "Skoellersta",
+    "alternatenames": "Skoellersta,Skollersta,Sköllersta,Skøllersta",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677370,
+    "name": "Skogstorp",
+    "alternatenames": "Skogstorp",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677456,
+    "name": "Skoghall",
+    "alternatenames": "Skoghalis,Skogkhal,Skugkhal,skwghl,Скогхал,Скугхал,سکوگهل",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677548,
+    "name": "Skivarp",
+    "alternatenames": "Skivarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677593,
+    "name": "Skinnskatteberg",
+    "alternatenames": "",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677644,
+    "name": "Skillingaryd",
+    "alternatenames": "Skillingaryd",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677719,
+    "name": "Skepplanda",
+    "alternatenames": "Skepplanda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677770,
+    "name": "Skegrie",
+    "alternatenames": "Skegrie,Skregie",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2677869,
+    "name": "Skattkaerr",
+    "alternatenames": "Skattkarr,Skattkärr",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678129,
+    "name": "Skaerhamn",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678153,
+    "name": "Skare",
+    "alternatenames": "Skare,Skarelage,Skåre,Skåreläge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678156,
+    "name": "Skare",
+    "alternatenames": "Skare,Skåre",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678173,
+    "name": "Skaerblacka",
+    "alternatenames": "Skarblacka,Skärblacka",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678210,
+    "name": "Skara",
+    "alternatenames": "Scara,Skara,si ka la,skwra,Скара,سکورا,斯卡拉",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678265,
+    "name": "Skanninge",
+    "alternatenames": "Skanninge,Skenninge,Skänninge",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678266,
+    "name": "Skaenninge",
+    "alternatenames": "Sheninge,Skanninge,Skänninge,Шенинге",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678687,
+    "name": "Sjuntorp",
+    "alternatenames": "Sjuntorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678804,
+    "name": "Sjomarken",
+    "alternatenames": "Sjoemarken,Sjomarken,Sjömarken,Sjømarken",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2678913,
+    "name": "Sjoebo",
+    "alternatenames": "Sh'obu,Sjobo,Sjoebo,Sjöbo,Sjøbo,kkhbw,Шьобу,کخبو",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679107,
+    "name": "Simrishamn",
+    "alternatenames": "Cimbrishamn,Cimbrorum Portus,Cimbrorum portus,Simrishamn,Simrishavn,Simriskhamn,Simryskhamn,shimurisuhamun,symyryshmn,Симрисхамн,Сімрысхамн,سیمیریسهمن,シムリスハムン",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679226,
+    "name": "Siljansnaes",
+    "alternatenames": "Siljansnas,Siljansnäs",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679302,
+    "name": "Sigtuna",
+    "alternatenames": "Sigtjuna,Sigtuna,Sigtuna jaras,Sigtuna járás,Sigtunae,Sinktouna,sigeutuna,syghtwna,sygtwna,xi ge di na,Σιγκτούνα,Сигтунæ,Сигтуна,Сигтюна,Сігтуна,سيغتونا,سیگتونا,სიგტუნა,ሲግቱና,錫格蒂納,시그투나",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679397,
+    "name": "Sibbhult",
+    "alternatenames": "Sibbhult",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679567,
+    "name": "Segeltorp",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679698,
+    "name": "Saevsjoe",
+    "alternatenames": "Sevsh'o,swkhw,Севшьо,سوخو",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679721,
+    "name": "Saevja",
+    "alternatenames": "",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679819,
+    "name": "Satofta",
+    "alternatenames": "Satofta,Sätofta",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679825,
+    "name": "Saetila",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679855,
+    "name": "Saeter",
+    "alternatenames": "Satar,Seter,Сетер",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2679920,
+    "name": "Saro",
+    "alternatenames": "Saro,Särö",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680075,
+    "name": "Sandviken",
+    "alternatenames": "Sandviken,Sandviken i Sverige,Sandvikenas,Santviken,sandeubiken,sandwykn,sang de wei ken,Σάντβικεν,Сандвикен,Сандвікен,ساندویکن,სანდვიკენი,桑德維肯,산드비켄",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680350,
+    "name": "Sandarne",
+    "alternatenames": "Sandarne",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680352,
+    "name": "Sandared",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680460,
+    "name": "Saltsjoebaden",
+    "alternatenames": "Sal'tshjobaden,Saltsh'obaden,Saltsjobaden,Saltsjobadenas,Saltsjoebaden,Saltsjöbaden,Saltsjøbaden,shao shi ba dun,sltshwbdn,Салтшьобаден,Сальтшёбаден,سلتشوبدن,稍士巴頓",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680653,
+    "name": "Salanda",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680662,
+    "name": "Sala",
+    "alternatenames": "Sala,XYX",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680764,
+    "name": "Saeffle",
+    "alternatenames": "Sefle,sefure,sflh,Сефле,سففلے,سفله,ᓴᕝᓕ,セフレ",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680959,
+    "name": "Rydsgard",
+    "alternatenames": "Rydsgard,Rydsgård",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680969,
+    "name": "Rydebaeck",
+    "alternatenames": "Rydeback,Rydebäck",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680977,
+    "name": "Rydaholm",
+    "alternatenames": "Rydaholm,Smalands Rydaholm,Smålands Rydaholm",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2680985,
+    "name": "Ryd",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681007,
+    "name": "Ryd",
+    "alternatenames": "Ryd",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681368,
+    "name": "Rottne",
+    "alternatenames": "Rottne",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681576,
+    "name": "Rosersberg",
+    "alternatenames": "Rosersberg",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681803,
+    "name": "Ronninge",
+    "alternatenames": "Roenninge,Ronninge,Rönninge,Rønninge",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681825,
+    "name": "Ronneby",
+    "alternatenames": "RNB,Ronebi,Ronebis,Ronebju,Ronnebju,Ronneby,long ne bi,rwnybh,Ронеби,Ронебю,Роннебю,رونیبه,龙讷比",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681866,
+    "name": "Roennaeng",
+    "alternatenames": "Ronnang,Rönnäng",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2681913,
+    "name": "Romme",
+    "alternatenames": "Romme",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682155,
+    "name": "Roedeby",
+    "alternatenames": "Rodeby,Roedeby,Rödeby,Rødeby",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682487,
+    "name": "Rinkabyholm",
+    "alternatenames": "Rinkabyholm",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682562,
+    "name": "Rindoe",
+    "alternatenames": "Rindo,Rindoe,Rindö,Rindø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682569,
+    "name": "Rimforsa",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682570,
+    "name": "Rimbo",
+    "alternatenames": "Rimbo,Rimbu,Римбу",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682706,
+    "name": "Resaroe",
+    "alternatenames": "Resaro,Resaroe,Resarö,Resarø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682834,
+    "name": "Reftele",
+    "alternatenames": "Reftele",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682913,
+    "name": "Raevlanda",
+    "alternatenames": "Ravlanda,Rävlanda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2682995,
+    "name": "Raettvik",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2683015,
+    "name": "Ratorp",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2683034,
+    "name": "Rasunda",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2683436,
+    "name": "Ramnaes",
+    "alternatenames": "Ramnas,Ramnäs",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684213,
+    "name": "Perstorp",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684231,
+    "name": "Pershagen",
+    "alternatenames": "Pershagen",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684386,
+    "name": "Paskallavik",
+    "alternatenames": "Paskallavik,Påskallavik",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684395,
+    "name": "Partille",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684485,
+    "name": "Palsboda",
+    "alternatenames": "Palsboda,Pålsboda",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684596,
+    "name": "Paarp",
+    "alternatenames": "Paarp,Påarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684636,
+    "name": "Oxie",
+    "alternatenames": "Oxie,awksy,اوکسی",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684653,
+    "name": "Oxeloesund",
+    "alternatenames": "Oksel'osund,Okselesund,Okseljosund,Oxeloesund,Oxelosund,Oxelösund,Oxeløsund,Ukseljosund,Окселесунд,Оксельосунд,Окселёсунд,Укселёсунд,اوکسه‌لوسوند",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2684945,
+    "name": "OEverum",
+    "alternatenames": "OEverum,Overum,Överum,Øverum",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685404,
+    "name": "OEstra Ljungby",
+    "alternatenames": "OEstra Ljungby,Ostra Ljungby,Östra Ljungby,Østra Ljungby",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685699,
+    "name": "OEsthammar",
+    "alternatenames": "Jostkhamar,OEsthammar,Osthammar,Östhammar,Østhammar,Йостхамар",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685724,
+    "name": "OEstervala",
+    "alternatenames": "OEstervala,Ostervala,Östervåla,Østervåla",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685750,
+    "name": "OEstersund",
+    "alternatenames": "Ehstehrsund,Ehstersund,Estersount,Estersund,Estesunda,Estesundas,Estešunda,Estešundas,Jostershund,OEstersund,OSD,Ostersund,awstrshwnd,awstrswnd,awstshwnd,e si te song de,esuterusundo,oeseuteleusundeu,Östersund,Østersund,Έστερσουντ,Естерсунд,Йостершунд,Эстерсунд,Эстэрсунд,إوسترسوند,اوسترشوند,اوستشوند,اوسٹرسنڈ,ესტერსუნდი,エステルスンド,厄斯特松德,외스테르순드",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685828,
+    "name": "OEstermalm",
+    "alternatenames": "Ehstermal'm,OEstermalm,Ostermalm,Stockholm kerueletei,Stockholm kerületei,Östermalm,Østermalm,Эстермальм",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685900,
+    "name": "OEsterbymo",
+    "alternatenames": "OEsterbymo,Osterbymo,Österbymo,Østerbymo",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2685903,
+    "name": "OEsterbybruk",
+    "alternatenames": "OEsterbybruk,Osterbybruk,Österbybruk,Østerbybruk",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686153,
+    "name": "OEsmo",
+    "alternatenames": "OEsmo,Osmo,Ösmo,Øsmo",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686160,
+    "name": "Oskarstroem",
+    "alternatenames": "Oskarsstrom,Oskarsström,Oskarstroem,Oskarstrom,Oskarström,Oskarstrøm",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686162,
+    "name": "Oskarshamn",
+    "alternatenames": "Doederhultsvik,Döderhultsvik,OSK,Oskarsgamn,Oskarshamn,Oskarshamnas,Oskarshkhamn,Oskarskhamn,Oskaršhamnas,ao si ka gang,awskrshhm,Оскарсгамн,Оскарсхамн,Оскаршхамн,اوسکرشهم,奧斯卡港",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686209,
+    "name": "Osby",
+    "alternatenames": "Osbju,awzbh,Осбю,اوزبه",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686286,
+    "name": "OErsundsbro",
+    "alternatenames": "OErsundsbro,Orsundsbro,Orundsbro,Örsundsbro,Ørsundsbro",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686380,
+    "name": "Orsa",
+    "alternatenames": "Orsa,Orsha,awrsha,Орса,Орша,اورشا",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686469,
+    "name": "OErnskoeldsvik",
+    "alternatenames": "Ehrnshehl'dsvik,Ehrnshjol'dsvik,Ernseldsvika,Ernshel'dsvik,Ernsheldsvik,Ernsioldsvikas,Ernšioldsvikas,Jornsh'oldsvik,OER,OErnskoeldsvik,OEvik,Ornskoldsvik,Ornskolntsvik,anshldswyk,awrnshwldsfyk,en she er ci wei ke,erunsherutsubiku,oeleunsyelseubikeu,xeirncheils wik,Örnsköldsvik,Övik,Ørnskøldsvik,Ērnšeldsvīka,Όρνσκολντσβικ,Ерншелдсвик,Ерншельдсвік,Йорншьолдсвик,Орнсколдсвик,Эрншэльдсвік,Эрншёльдсвик,أورنشولدسفيك,انشلدسویک,เอิร์นเชิลส์วีก,ერნშელდსვიკი,エルンシェルツビク,恩舍尔兹维克,외른셸스비크",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686493,
+    "name": "Ornaes",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686596,
+    "name": "OErkelljunga",
+    "alternatenames": "Jorkeljunga,OErkelljunga,Orkelljunga,Örkelljunga,Ørkelljunga,Йоркелюнга",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686649,
+    "name": "OEregrund",
+    "alternatenames": "Joregrund,OEregrund,Oregrund,Öregrund,Øregrund,Йорегрунд",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686657,
+    "name": "OErebro",
+    "alternatenames": "Ehrebru,Ehrehbru,Erebro,Erebru,Erebrū,Erempro,Jorebru,OErebro,OErebro kommuna,OErebro  Isvec,ORB,Orebro,Orebrogia,arybrw,awrbrw,awrybrw,e lei bu lu,erebre,ereburu,oelebeulo,xex re bru,Örebro,Örebro kommuna,Örebro  İsveç,Ørebro,Έρεμπρο,Еребро,Еребру,Йоребру,Эребру,Эрэбру,ארברו,ערעברו,أوربرو,اریبرو,اوربرو,اوریبرو,เออเรบรู,ერებრე,エレブルー,厄勒布鲁,외레브로",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686674,
+    "name": "OErbyhus",
+    "alternatenames": "OErbyhus,Orbyhus,Örbyhus,Ørbyhus",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686858,
+    "name": "OEnnestad",
+    "alternatenames": "OEnnestad,Onnestad,Önnestad,Ønnestad",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2686979,
+    "name": "Olstorp",
+    "alternatenames": "Olstorp",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687062,
+    "name": "Olofstroem",
+    "alternatenames": "Olofstroem,Olofstrom,Olofström,Olofstrøm,Ulofstr'om,Ulufstrjom,awlwfstrwm,Улофстрьом,Улуфстрём,اولوفستروم",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687063,
+    "name": "Olofstorp",
+    "alternatenames": "Olofstorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687066,
+    "name": "Olofstorp",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687272,
+    "name": "OEjersjoe",
+    "alternatenames": "OEjersjoe,Ojersjo,Öjersjö,Øjersjø",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687384,
+    "name": "OEdsmal",
+    "alternatenames": "OEdsmal,Odmals socken,Odsmal,Ödmåls socken,Ödsmål,Ødsmål",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687420,
+    "name": "OEdeshoeg",
+    "alternatenames": "Jodeskh'og,OEdeshoeg,Odeshog,Ödeshög,Ødeshøg,Йодесхьог",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687444,
+    "name": "Odensjoe",
+    "alternatenames": "Odensjo,Odensjoe,Odensjö,Odensjø",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687454,
+    "name": "Odensbacken",
+    "alternatenames": "Odensbacken",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687498,
+    "name": "OEdakra",
+    "alternatenames": "OEdakra,Odakra,Ödåkra,Ødåkra",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687509,
+    "name": "OEckeroe",
+    "alternatenames": "OEckeroe,Ockero,Öckerö,Øckerø",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687517,
+    "name": "Ockelbo",
+    "alternatenames": "Okelbu,Окелбу",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687636,
+    "name": "Nynaeshamn",
+    "alternatenames": "Nineshamnas,Nineskhamn,Njuneskhamn,Nynaeshamn,Nynashamm,Nynäshamm,Nynäshamn,ni nai si gang,nyns hamn,nynshm,Нинесхамн,Нюнесхамн,نينس هامن,نینسهم,尼奈斯港",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687690,
+    "name": "Nykvarn",
+    "alternatenames": "Nykvarn",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687693,
+    "name": "Nykvarn",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687700,
+    "name": "Nykoeping",
+    "alternatenames": "Niceping,Nicheping,Nisiopingas,Nišiopingas,Njuchehping,Njuchjoping,Njush'oping,Nykoeping,Nykoping,Nyköping,Nykøping,ni xue ping,nwisyeping,nyshwbng,nyshwpyng,Ничепінг,Нићепинг,Нючэпінг,Нючёпинг,Нюшьопинг,نیشوبنگ,نیشوپینگ,ნიუჩეპინგი,尼雪平,뉘셰핑",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687738,
+    "name": "Nyhammar",
+    "alternatenames": "Nyhammar",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2687902,
+    "name": "Nybro",
+    "alternatenames": "Nibro,Nibru,Njubru,nybrw,Нибро,Нюбру,نیبرو",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2688131,
+    "name": "Nossebro",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2688172,
+    "name": "Norsjoe",
+    "alternatenames": "Naarene,Norsh'o,Norsjo,Norsjoe,Norsjö,Norsjø,Nurshe,Nåarene,Норшьо,Нурше",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2688250,
+    "name": "Norrtaelje",
+    "alternatenames": "Norrtaeljen kunta,Norrtel'e,Norrtelge,Norrtelje,Norrtäljen kunta,Nortele,Nortelje,Norteljė,Telga borealis,nuo er tai li ye,nwrtlyh,Норртелье,Норртельє,Нортеле,Нортеље,نورتليه,نورتلیه,诺尔泰利耶",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2688368,
+    "name": "Norrkoeping",
+    "alternatenames": "NRK,Norceping,Norchehping,Norcopia,Norrcheping,Norrchjoping,Norrkoeping,Norrkoping,Norrköping,Norrkøping,Norrshjopin,Norsepinga,Norsh'oping,Norsheping,Norsiopingas,Noršiopingas,Noršēpinga,bei xue ping,noleusyeping,noshopingu,nwrkwpng,nwrshwbyngh,nwrshwpyng,nwrspyng,nxr chex ping,Норрчепінг,Норрчёпинг,Норршёпин,Норчэпінг,Норшепинг,Норшьопинг,Норћепинг,נארשעפינג,נורשפינג,نورشوبينغ,نورشوپینگ,نورکوپنگ,นอร์เชอปิง,ნორჩეპინგი,ノーショーピング,北雪平,노르셰핑",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2689192,
+    "name": "Norra Asum",
+    "alternatenames": "Norra Asum,Norra Åsum",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2689336,
+    "name": "Nordmaling",
+    "alternatenames": "Nordmaling,Нордмалинг",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2689452,
+    "name": "Norberg",
+    "alternatenames": "Norbergby,Norberi,Норбери",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2689471,
+    "name": "Nora",
+    "alternatenames": "",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2689520,
+    "name": "Nolby",
+    "alternatenames": "Nolby",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2689580,
+    "name": "Njurundabommen",
+    "alternatenames": "Njurunda",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690061,
+    "name": "Naettraby",
+    "alternatenames": "Nattraby,Nättraby",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690101,
+    "name": "Naesum",
+    "alternatenames": "Nasum,Näsum",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690170,
+    "name": "Naessjoe",
+    "alternatenames": "Neshe,Nesse,Nessh'o,Nesshjo,Nesšė,nai she,nkkhw,Несшьо,Несшё,Неше,نکخو,奈舍",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690580,
+    "name": "Nacka",
+    "alternatenames": "Nacka  Stockholm,Nak,Naka,Нака",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690713,
+    "name": "Myggenaes",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690829,
+    "name": "Munkfors",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690843,
+    "name": "Munkedal",
+    "alternatenames": "Munkedal,Мункедал",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690866,
+    "name": "Munka-Ljungby",
+    "alternatenames": "Munka-Ljungby",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690902,
+    "name": "Mullsjoe",
+    "alternatenames": "Mullsjo,Mullsjoe,Mullsjö,Mullsjø",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2690960,
+    "name": "Motala",
+    "alternatenames": "Commune de Motala,Motala,Mutala,Mūtala,mwtla,mwtlh,Мотала,Мутала,מוטלה,موتلا,მუტალა",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691230,
+    "name": "Mortnas",
+    "alternatenames": "Mortnas,Mörtnäs",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691271,
+    "name": "Moerrum",
+    "alternatenames": "Moerrum,Mörrum",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691326,
+    "name": "Morgongava",
+    "alternatenames": "Morgongava,Morgongåva",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691348,
+    "name": "Moerbylanga",
+    "alternatenames": "Moerbylanga,Morbylanga,Mörbylånga,Mørbylånga",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691387,
+    "name": "Moerarp",
+    "alternatenames": "Moerarp,Morarp,Mörarp,Mørarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691400,
+    "name": "Mora",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691407,
+    "name": "Moensteras",
+    "alternatenames": "Moensteras,Monsteras,Mönsterås,Mønsterås",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691440,
+    "name": "Moelnlycke",
+    "alternatenames": "M'olnljuke,Mel'nlike,Melnlike,Miolnlike,Miolnliuke,Miolnliukė,Miolnlīkė,Mjol'nljukke,Moelnlycke,Molnlica,Molnlycke,Mölnlycke,Mølnlycke,Mēlnlike,menrikke,moelleunlwike,mwlnlykkh,Μέλνλικε,Мелнлике,Мельнлике,Мьолнлюке,Мёльнлюкке,מעלנליקע,مولنلیککه,ሜልንልኬ,ᒧᓪᓐᓕᑭ/ Mölnlycke,メンリッケ,묄른뤼케",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691459,
+    "name": "Moelndal",
+    "alternatenames": "M'olndal,Melndal,Melndala,Miolndalas,Mjol'ndal',Mjol'ndal'skaja kommuna,Moelndal,Molndal,Mölndal,Mølndal,Mēlndala,Мелндал,Мьолндал,Мёльндаль,Мёльндальская коммуна,ሜልንዳል,ᒧᓪᓐᑕᓪ/Mölndal",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691462,
+    "name": "Moelnbo",
+    "alternatenames": "Moelnbo,Molnbo,Mölnbo,Mølnbo",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691471,
+    "name": "Moelltorp",
+    "alternatenames": "Moelltorp,Molltorp,Mölltorp,Mølltorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691510,
+    "name": "Molkom",
+    "alternatenames": "Molkom",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691542,
+    "name": "Moheda",
+    "alternatenames": "Moheda",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691602,
+    "name": "Mockfjaerd",
+    "alternatenames": "Mockfjard,Mockfjards Kapell,Mockfjärd,Mockfjärds Kapell",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691743,
+    "name": "Mjoelby",
+    "alternatenames": "M'jol'bju,M'olbju,Miolbis,Mjelbi,Mjoelby,Mjolby,Mjölby,Mjølby,mywnbh,Мьолбю,Мьёльбю,Мјелби,میونبه",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691792,
+    "name": "Mjallby",
+    "alternatenames": "Mjallby,Mjällby",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2691793,
+    "name": "Mjaellby",
+    "alternatenames": "Mjallby,Mjällby",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692049,
+    "name": "Mellerud",
+    "alternatenames": "Melerud,Mellerud,Мелеруд,Меллеруд",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692059,
+    "name": "Mellbystrand",
+    "alternatenames": "Mellbystrand",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692349,
+    "name": "Matfors",
+    "alternatenames": "Matfors",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692475,
+    "name": "Maersta",
+    "alternatenames": "Marsta,Mershha,Mersta,Meršta,Märsta,mai shen ta,mashta,Мерста,Мерща,ماشتا,迈什塔",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692596,
+    "name": "Markaryd",
+    "alternatenames": "Markarjud,Маркарюд",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692613,
+    "name": "Mariestad",
+    "alternatenames": "Mariaestadium,Mariestad,Mariestadas,Marijestad,ma li si ta de,mrystad,Мариестад,Маријестад,Марієстад,مریستاد,瑪麗斯塔德",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692624,
+    "name": "Marieholm",
+    "alternatenames": "Marieholm,Marieholmsbruk",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692625,
+    "name": "Marieholm",
+    "alternatenames": "Marieholm",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692633,
+    "name": "Mariefred",
+    "alternatenames": "Mariefred,Marijefred,ma li fei lai de,Мариефред,瑪麗費萊德",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692661,
+    "name": "Mariannelund",
+    "alternatenames": "Mariannelund",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692748,
+    "name": "Mantorp",
+    "alternatenames": "Mantorp",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692876,
+    "name": "Malung",
+    "alternatenames": "Malung,malwng,malwnk,Малунг,مالونك,مالونگ",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692943,
+    "name": "Malmslaett",
+    "alternatenames": "Malmen",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692969,
+    "name": "Malmoe",
+    "alternatenames": "MMA,Mal'mjo,Malm'o,Malme,Malmey,Malmo,Malmoe,Malmogia,Malmö,Malmø,Málmey,ma er mo,marume,Малме,Малмьо,Мальмё,מאלמה,マルメ,马尔莫,马尔默",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2692972,
+    "name": "Malmkoeping",
+    "alternatenames": "Malmkoeping,Malmkoping,Malmköping,Malmkøping",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693002,
+    "name": "Malmbaeck",
+    "alternatenames": "Malmback,Malmbäck",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693049,
+    "name": "Malilla",
+    "alternatenames": "",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693152,
+    "name": "Mala",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693301,
+    "name": "Lysekil",
+    "alternatenames": "Ljuseshil,Lysekil,lysshyl,Люсешил,لیسشیل",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693347,
+    "name": "Lycksele",
+    "alternatenames": "LYC,Liksele,Ljuksele,Lyoksele,lu ke se lei,lyksylh,Ликселе,Люкселе,لیکسیله,吕克瑟勒",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693678,
+    "name": "Lund",
+    "alternatenames": "Lount,Lund,Lunda,Lundas,Lundur,long de,lund,lunda,lundeu,lundi,lunt,lwnd,rundo,Λουντ,Лунд,Лөнд,لنڈ,لوند,لونڈ,লুন্ড,லுண்ட்,ลุนด์,ლუნდი,ルンド,隆德,룬드",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693759,
+    "name": "Ludvika",
+    "alternatenames": "Liudvika,Ludovica,Ludvika,Ludviki,lu de wei ka,lwdwykh,Лудвика,لودویکه,盧德維卡",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2693812,
+    "name": "Loevstaloet",
+    "alternatenames": "Loevstaloet,Lovstalot,Lövstalöt,Løvstaløt",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694165,
+    "name": "Loensboda",
+    "alternatenames": "Loensboda,Lonsboda,Lönsboda,Lønsboda",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694264,
+    "name": "Lomma",
+    "alternatenames": "Loma,Lomma i Sverige,lwma,Лома,لوما",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694366,
+    "name": "Loedoese",
+    "alternatenames": "L'od'ose,Ljodjose,Lodose,Loedoese,Lödöse,Lødøse,Льодьосе,Лёдёсе",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694375,
+    "name": "Loeddekoepinge",
+    "alternatenames": "Loddekopinge,Loeddekoepinge,Löddeköpinge,Løddekøpinge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694417,
+    "name": "Loeberoed",
+    "alternatenames": "Loberod,Loeberoed,Löberöd,Løberød",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694475,
+    "name": "Ljusne",
+    "alternatenames": "",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694503,
+    "name": "Ljusdal",
+    "alternatenames": "Jusdal,Jusdal',ywsdal,Юсдал,Юсдаль,يوسدال,یوسدال",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694522,
+    "name": "Ljungskile",
+    "alternatenames": "Jungshile,Jungsile,Jungšilė,Ljungskile,Юнгшиле",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694529,
+    "name": "Ljungsbro",
+    "alternatenames": "Ljugsbro,Ljungsbro",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694537,
+    "name": "Ljunghusen",
+    "alternatenames": "Ljunghusen",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694552,
+    "name": "Ljungbyholm",
+    "alternatenames": "Ljungbyholm",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694554,
+    "name": "Ljungbyhed",
+    "alternatenames": "Ljungbyhed",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694560,
+    "name": "Ljungby",
+    "alternatenames": "Jungbi,Jungbis,Jungbju,lywnbh,yong bi,Јунгби,Юнгбю,لئونبه,永比",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694631,
+    "name": "Lit",
+    "alternatenames": "Lit",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694762,
+    "name": "Linkoeping",
+    "alternatenames": "LPI,Lin'kopin'nk,Linceping,Linchehping,Lincheping,Linchjoping,Lincopia,Linkoeping,Linkoping,Linköping,Linkøping,Linsepinga,Linsh'oping,Linsheping,Linsiopingas,Linšiopingas,Linšēpinga,lin chex ping,lin xue ping,linsyeping,lnkwmng,lnshwpng,lynshwbyngh,lynshwpyng,rinshepingu,Λινκόπινγκ,Линчёпинг,Линшепинг,Линшьопинг,Линьшөпин,Линћепинг,Лінчепінг,Лінчэпінг,לינשעפינג,لنشوپنگ,لنکومنگ,لينشوبينغ,لینشوپینگ,ลินเชอปิง,ლინჩეპინგი,リンシェーピング,林雪平,린셰핑",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694779,
+    "name": "Linghem",
+    "alternatenames": "Linghem",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694808,
+    "name": "Lindsdal",
+    "alternatenames": "Lindsdal",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694831,
+    "name": "Lindome",
+    "alternatenames": "Lindome",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694838,
+    "name": "Lindoe",
+    "alternatenames": "Lindo,Lindoe,Lindohall,Lindö,Lindöhall,Lindø",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694869,
+    "name": "Lindholmen",
+    "alternatenames": "Lindholmen",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2694893,
+    "name": "Lindesberg",
+    "alternatenames": "Lindesberga,Lindesberi,lin de si bei li,lyndsby,Линдесбери,لیندسبی,林德斯貝里",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2695016,
+    "name": "Limmared",
+    "alternatenames": "Limmared",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696059,
+    "name": "Lilla Edet",
+    "alternatenames": "Lila Edet,Lilla Edet,Лила Едет",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696329,
+    "name": "Lidkoeping",
+    "alternatenames": "LDK,Lidceping,Lidchjoping,Lidecopia,Lidkoeping,Lidkoping,Lidköping,Lidkøping,Lidsh'oping,Lidsiopingas,Lidšiopingas,li de xue ping,lydshwpyng,Лидкопинг,Лидчёпинг,Лидшьопинг,Лидћепинг,لیدشوپینگ,ლიდჩეპინგი,利德雪平",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696334,
+    "name": "Lidingoe",
+    "alternatenames": "Lidingo,Lidingo Villastad,Lidingoe,Lidingö,Lidingö Villastad,Lidingø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696473,
+    "name": "Lessebo",
+    "alternatenames": "",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696503,
+    "name": "Lerum",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696608,
+    "name": "Lenhovda",
+    "alternatenames": "Lenhovda",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696650,
+    "name": "Leksand",
+    "alternatenames": "Leksand,XXO,lksnd,rekusando,Лександ,لکسند,レクサンド",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2696804,
+    "name": "Laxa",
+    "alternatenames": "Lakso,Лаксо",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697065,
+    "name": "Langvik",
+    "alternatenames": "Langvik,Långvik",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697295,
+    "name": "Langshyttan",
+    "alternatenames": "Langshyttan,Långshyttan",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697310,
+    "name": "Langsele",
+    "alternatenames": "Langsele,Långsele",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697455,
+    "name": "Laenghem",
+    "alternatenames": "Langhem,Länghem",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697703,
+    "name": "Landvetter",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697720,
+    "name": "Landskrona",
+    "alternatenames": "Coronia,JLD,Landscrone,Landskrona,Landskruna,Landskrūna,lan si ke lu na,landskrwna,lanseukeulona,ranzukuruna,Ландскруна,لاندسکرونا,لانڈسکرونا,ランズクルーナ,兰斯克鲁纳,란스크로나",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697727,
+    "name": "Landsbro",
+    "alternatenames": "Landsbro",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697766,
+    "name": "Lammhult",
+    "alternatenames": "Lamhult,Lammhult",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697861,
+    "name": "Laholm",
+    "alternatenames": "Lacholmas,Lagaholmia,Laholmo,Lakhol'm,Lakholm,lhwlm,Лахолм,Лахольм,لاہولم,لهولم",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2697944,
+    "name": "Lagan",
+    "alternatenames": "Lagan",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698242,
+    "name": "Kvissleby",
+    "alternatenames": "Kvissle,Kvissleby,Kvitsle",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698293,
+    "name": "Kvidinge",
+    "alternatenames": "Kvidinge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698295,
+    "name": "Kvicksund",
+    "alternatenames": "Kvicksund",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698520,
+    "name": "Kvaenum",
+    "alternatenames": "Kvanum,Kvänum",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698681,
+    "name": "Kungsoer",
+    "alternatenames": "Kungs'or,Kungsoer,Kungsor,Kungsör,Kungsør,Rungsor,Rungsör,kwngzwr,Кунгсьор,کونگزور",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698691,
+    "name": "Kungsholmen",
+    "alternatenames": "Kungsholmen",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698697,
+    "name": "Kungshamn",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698729,
+    "name": "Kungsbacka",
+    "alternatenames": "Kungsbacka Skene,Kungsbaka,Kungsbakka,kong si ba ka,kwngzbkka,Кунгсбака,Кунгсбакка,کونگزبککا,孔斯巴卡",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698733,
+    "name": "Kungsaengen",
+    "alternatenames": "Kungsengen,kwngsngn,Кунгсенген,کونگسنگن",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698739,
+    "name": "Kungaelv",
+    "alternatenames": "Konghelle,Kungaelv,Kungahaella,Kungahälla,Kungehl'v,Kungelv,Kungelva,Kungelvas,Kunglev,Kungälv,kong ai er fu,kungaelpeu,kwnlw,Кунгелв,Кунглев,Кунгэльв,کونلو,კუნგელვი,孔艾尔夫,쿤갤프",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698745,
+    "name": "Kummelnas",
+    "alternatenames": "Kummelnas,Kummelnäs",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698767,
+    "name": "Kumla",
+    "alternatenames": "Kumla,kumla,kwmla,kwmlh,Кумла,كوملا,کومله,쿰라",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2698975,
+    "name": "Krylbo",
+    "alternatenames": "Krylbo,Kyrlbo",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699176,
+    "name": "Krokom",
+    "alternatenames": "Krokum,Крокум",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699206,
+    "name": "Krokek",
+    "alternatenames": "Krokek",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699282,
+    "name": "Kristinehamn",
+    "alternatenames": "Bro,Kristinehamn,Kristinehamnas,Kristinekhamn,XYN,ke li si di na gang,krystynh hamn,krystynhamn,Кристинехамн,كريستينه هامن,کریستینهامن,ክሪስቲነሃምን,克里斯蒂娜港",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699310,
+    "name": "Kristianstad",
+    "alternatenames": "Christianostadium,Christiansstad,KID,Krishanstad,Krisianstad,Kristianstad,Kristianstadas,Kristijanstad,Krystyjanstad,ke li si di an si ta de,keuliseutianseutadeu,khristeiyn s tad,krytmsth,kurishansutado,Кристианстад,Кристијанстад,Кришанстад,Крыстыянстад,Крістіанстад,کریتمسته,คริสเตียนสตัด,კრისტიანსტადი,クリシャンスタード,克里斯蒂安斯塔德,크리스티안스타드",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699313,
+    "name": "Kristdala",
+    "alternatenames": "Kristdala",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699394,
+    "name": "Kramfors",
+    "alternatenames": "KRF,Kramfors,Kramforsh,kramfwsh,Крамфорш,کرامفوش",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699749,
+    "name": "Kopparmora",
+    "alternatenames": "Kopparmora",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699768,
+    "name": "Kopparberg",
+    "alternatenames": "Kopparberg Koping,Kopparberg Köping,Kopparbergs Koping,Kopparbergs Köping,Kopparsberg",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699777,
+    "name": "Koepmanholmen",
+    "alternatenames": "Koepmanholmen,Kopmanholmen,Kopmansholmen,Köpmanholmen,Köpmansholmen,Køpmanholmen",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699786,
+    "name": "Koepingebro",
+    "alternatenames": "Koepingebro,Kopingebro,Köpingebro,Køpingebro",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699791,
+    "name": "Koeping",
+    "alternatenames": "Koeping,Koping,Köping,Køping",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2699879,
+    "name": "Kolsva",
+    "alternatenames": "Kolsva",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700011,
+    "name": "Kolbaeck",
+    "alternatenames": "Kolback,Kolbäck",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700079,
+    "name": "Kode",
+    "alternatenames": "Kode",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700199,
+    "name": "Knivsta",
+    "alternatenames": "Knivsta,knywsta,Книвста,کنیوستا",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700218,
+    "name": "Knislinge",
+    "alternatenames": "Knislinge,Knisslinge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700279,
+    "name": "Knaered",
+    "alternatenames": "Knared,Knäred",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700487,
+    "name": "Klippan",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700497,
+    "name": "Klintehamn",
+    "alternatenames": "Klintekhamn,Клинтехамн",
+    "subcountry": "Gotland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700694,
+    "name": "Klagerup",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700791,
+    "name": "Kista",
+    "alternatenames": "Chista,Kista,siseuta,xi si ta,Киста,Чиста,希斯塔,시스타",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700800,
+    "name": "Kisa",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700839,
+    "name": "Kinna",
+    "alternatenames": "Kina,Shina,Sina,shyna,Šina,Кина,Шина,شینا",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700858,
+    "name": "Kimstad",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700947,
+    "name": "Kilafors",
+    "alternatenames": "Kilafors",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2700960,
+    "name": "Kil",
+    "alternatenames": "Kil,XXN",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701078,
+    "name": "Kaxholmen",
+    "alternatenames": "Kaxholmen",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701096,
+    "name": "Kaevlinge",
+    "alternatenames": "Shevlinge,shwlynyh,Шевлинге,شولینیه",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701223,
+    "name": "Katrineholm",
+    "alternatenames": "Cathrineholm,Katrineholmas,Katrinekhol'm,Katrinekholm,ka te lin na huo er mu,kateulineholleum,katorinehorumu,katrynhwlm,Катринехолм,Катринехольм,کاترینهولم,კატრინეჰოლმი,カトリーネホルム,卡特琳娜霍尔姆,카트리네홀름",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701680,
+    "name": "Karlstad",
+    "alternatenames": "Carolostadium,KSD,Karl'stad,Karlstad,Karlstadas,Karlstade,Kārlstade,ka er si ta de,kalseutadeu,karlshth,karlsta,karlstad,karusutado,qrlstd,Карлстад,Карльстад,קרלסטד,كارلستاد,کارلستا,کارلسٹاڈ,کارلشته,კარლსტადი,ካርልስታድ,ᑲᕐᓪᔅᑕᑦ,カールスタード,卡尔斯塔德,칼스타드",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701713,
+    "name": "Karlskrona",
+    "alternatenames": "Caroli Corona,Karl'skruna,Karlskrona,Karlskruna,Karlskróna,Karlskrūna,ka er si ke lu na,kalseukeulona,karlsakrona,karlskrwna,karusukuruna,kharl sk ru na,klskrwna,qrlsqrwnh,Карлскруна,Карльскруна,קרלסקרונה,كارلسكرونا,کارلسکرونا,کلسکرونا,कार्ल्सक्रोना,คาร์ลสกรูนา,კარლსკრონა,カールスクルーナ,卡尔斯克鲁纳,칼스크로나",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701715,
+    "name": "Karlskoga",
+    "alternatenames": "KSK,Kariskoga,Karlskoga,Karlskuga,ka er si ku jia,kalseukoga,karlskwgha,klskwga,Карлскога,Карлскоґа,Карлскуга,Կարլսկուգա,كارلسكوغا,کلسکوگا,კარლსკუგა,卡尔斯库加,칼스코가",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701727,
+    "name": "Karlshamn",
+    "alternatenames": "Karlshamn,Karlshamnas,Karlskhamn,ka er si gang,kalshhmn,Карлсхамн,کالشهمن,卡爾斯港",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701757,
+    "name": "Karlsborg",
+    "alternatenames": "Karlsbori,Карлсбори",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2701792,
+    "name": "Karlholmsbruk",
+    "alternatenames": "Karlholm,Karlholmsbruk",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702261,
+    "name": "Kalmar",
+    "alternatenames": "Calmaria,KLR,Kal'mar,Kalmar,Kalmar kommuna,Kalmar stad,Kalmara,Kalmaras,Kalmari,Municipalita di Kalmar,Municipalità di Kalmar,ka er ma,kalmaleu,kalmar,karumaru shi,kha lmar,klmar,klmr,Калмар,Кальмар,كالمار,کالمار,کلمار,کلمر,คาลมาร์,კალმარი,カルマル市,卡爾馬,칼마르",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702405,
+    "name": "Kallinge",
+    "alternatenames": "Kallinge",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702449,
+    "name": "Kallered",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702489,
+    "name": "Kaellby",
+    "alternatenames": "Kallby,Källby",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702683,
+    "name": "Kageroed",
+    "alternatenames": "Kagerod,Kageroed,Kågeröd,Kågerød",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702776,
+    "name": "Jursla",
+    "alternatenames": "Jursla",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702892,
+    "name": "Joerlanda",
+    "alternatenames": "Joerlanda,Jorlanda,Jörlanda,Jørlanda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702908,
+    "name": "Jordbro",
+    "alternatenames": "Jordbro",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702923,
+    "name": "Jonstorp",
+    "alternatenames": "Jonstorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702928,
+    "name": "Jonstorp",
+    "alternatenames": "Jonstorp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702979,
+    "name": "Joenkoeping",
+    "alternatenames": "Encheping,Iunecopia,JKG,Jenceping,Jensepinga,Jensheping,Jenšēpinga,Jjonchjoping,Joenkoeping,Joenkoepings kommuna,Jonchehping,Jonkoping,Jonsh'oping,Jonsiopingas,Jonšiopingas,Jönköping,Jönköpings kommuna,Jønkøping,jwnkwmng,yan xue ping,yein chex ping,yensyeping,yonshopingu shi,ywnshwbyngh,ywnshwpng,ywnshwpyn,ywnshwpyng,Ёнчэпінг,Єнчепінг,Јеншепинг,Јенћепинг,Йоншьопинг,Йёнчёпинг,Йёньшөпин,جونکومنگ,يونشوبينغ,یونشوپنگ,یونشوپینگ,ܝܘܢܫܘܦܝܢ,เยินเชอปิง,იენჩეპინგი,ヨンショーピング市,延雪平,옌셰핑",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2702997,
+    "name": "Jokkmokk",
+    "alternatenames": "Jahkamahkke,Jokimukka,Jokkmokk,Jokmok,Jokmokk,Jåhkåmåhkke,Йоккмокк,Йокмок,Йокмокк",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703038,
+    "name": "Johannedal",
+    "alternatenames": "Johannedal",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703145,
+    "name": "Jaervsoe",
+    "alternatenames": "Jarfso,Jarvso,Järfsö,Järvsö,jarwsw,yarfsw,جاروسو,يارفسو",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703212,
+    "name": "Jaerpen",
+    "alternatenames": "Hjerpen,Jaerpen,Jarpstrommen,Järpen",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703268,
+    "name": "Jaerna",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703269,
+    "name": "Jaerna",
+    "alternatenames": "Jarna,Järna",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703300,
+    "name": "Jaerbo",
+    "alternatenames": "Jarbo,Järbo",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703339,
+    "name": "Jaemshoeg",
+    "alternatenames": "Jamshog,Jämshög",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703349,
+    "name": "Jaemjoe",
+    "alternatenames": "Jamjo,Jämjö",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703396,
+    "name": "Jakobsberg",
+    "alternatenames": "Jakobsberi,Якобсбери",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703525,
+    "name": "Irsta",
+    "alternatenames": "Irsta",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703526,
+    "name": "Irsta",
+    "alternatenames": "Irsta",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703546,
+    "name": "Insjon",
+    "alternatenames": "Insjo,Insjoen,Insjon,Insjö,Insjön,Insjøn",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703547,
+    "name": "Insjoen",
+    "alternatenames": "Insjoen,Insjon,Insjön,Insjøn",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703686,
+    "name": "Ingelstad",
+    "alternatenames": "Ingelstad",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2703827,
+    "name": "Iggesund",
+    "alternatenames": "Iggesund,Iggesunds Bruk",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704008,
+    "name": "Hyltebruk",
+    "alternatenames": "",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704042,
+    "name": "Hyllinge",
+    "alternatenames": "Hyllinge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704114,
+    "name": "Husum",
+    "alternatenames": "Husum",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704136,
+    "name": "Huskvarna",
+    "alternatenames": "Guskvarna,Huskvarna,Khuskvarna,hwskfarna,hwskwarna,hyusukuvuana,Гускварна,Хускварна,هوسكفارنا,هوسکوارنا,ヒュースクヴァーナ",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704245,
+    "name": "Hunnebostrand",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704398,
+    "name": "Hultsfred",
+    "alternatenames": "HLF,Khultsfred,hwltsfrd,Хултсфред,هولتسفرد",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704613,
+    "name": "Hudiksvall",
+    "alternatenames": "Gudiksvall',HUV,Hiudiksvalis,Hudicsovaldum,Khjudiksval,Khudiksval,Khudiksvall',hu di ke si wa er,hudigseubal,hwdykswl,Гудіксвалль,Худиксвал,Худиксвалль,Хюдиксвал,هودیکسول,胡迪克斯瓦尔,후딕스발",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704620,
+    "name": "Huddinge",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704638,
+    "name": "Hovsta",
+    "alternatenames": "Hovsta",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704654,
+    "name": "Hovmantorp",
+    "alternatenames": "",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704662,
+    "name": "Hoeviksnaes",
+    "alternatenames": "Hovik,Hoviksnas,Hövik,Höviksnäs",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704716,
+    "name": "Hova",
+    "alternatenames": "Hofva,Hova",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704885,
+    "name": "Horred",
+    "alternatenames": "Horred",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704956,
+    "name": "Hoernefors",
+    "alternatenames": "Hoernefors,Hornefors,Hörnefors,Hørnefors",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2704962,
+    "name": "Horndal",
+    "alternatenames": "Horndal,Horndals Bruk",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705049,
+    "name": "Hoerby",
+    "alternatenames": "Hoerby,Horby,Hörby,Hørby,Kh'orbju,hwrbh,Хьорбю,هوربه",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705055,
+    "name": "Hoeoer",
+    "alternatenames": "Hoeoer,Hoor,Höör,Høør,Kh'ojor,hwywr,Хьойор,هوئور",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705075,
+    "name": "Hoenoe",
+    "alternatenames": "Hoenoe,Hono,Hono Klava,Hönö,Hönö Klava,Hønø",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705127,
+    "name": "Holo",
+    "alternatenames": "Hoeloe,Holo,Hölö,Hølø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705128,
+    "name": "Hoeloe",
+    "alternatenames": "Hoeloe,Holo,Hölö,Hølø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705402,
+    "name": "Hoellviken",
+    "alternatenames": "Hoellviken,Hollviken,Hollviksnas,Höllviken,Höllviksnäs,Høllviken,Kh'olviken,Khelviken,hwlwykn,Хелвикен,Хьолвикен,هولویکن",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705492,
+    "name": "Hoekoepinge",
+    "alternatenames": "Hoekoepinge,Hokopinge,Hököpinge,Høkøpinge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705562,
+    "name": "Hoekasen",
+    "alternatenames": "Hockasen,Hoekasen,Hokasen,Höckåsen,Hökåsen,Høkåsen",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2705718,
+    "name": "Hoegsby",
+    "alternatenames": "Hoegsby,Hogsby,Högsby,Høgsby",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706003,
+    "name": "Hoeganaes",
+    "alternatenames": "Hioganesas,Kh'oganes,Kheganes,Khjoganes,hwgans,Хеганес,Хьоганес,Хёганес,هوگانس",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706054,
+    "name": "Hofterup",
+    "alternatenames": "Hofterup",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706057,
+    "name": "Hofors",
+    "alternatenames": "Khuforsh,hwfwsh,Хуфорш,هوفوش",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706100,
+    "name": "Hjuvik",
+    "alternatenames": "Hjulvik,Hjuvik",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706184,
+    "name": "Hjo",
+    "alternatenames": "Hiovia,JU,ywa,Ю,یوا",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706222,
+    "name": "Hjaernarp",
+    "alternatenames": "Hjarnarp,Hjärnarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706323,
+    "name": "Hittarp",
+    "alternatenames": "Hittarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706324,
+    "name": "Hittarp",
+    "alternatenames": "Hiltarp,Hittarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706392,
+    "name": "Hindas",
+    "alternatenames": "Hindas,Hindås",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706435,
+    "name": "Hillerstorp",
+    "alternatenames": "",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706483,
+    "name": "Hestra",
+    "alternatenames": "Hestra",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706486,
+    "name": "Hestra",
+    "alternatenames": "Hestra,Hostro",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706523,
+    "name": "Herrljunga",
+    "alternatenames": "Kherjunga,XYC,Херюнга",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706543,
+    "name": "Herrestad",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706619,
+    "name": "Henan",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706678,
+    "name": "Hemse",
+    "alternatenames": "Khemse,Хемсе",
+    "subcountry": "Gotland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706713,
+    "name": "Hemmesta",
+    "alternatenames": "Hemmesta",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706767,
+    "name": "Helsingborg",
+    "alternatenames": "AGH,Chelsin'nkmpornk,Gel'sinborg,Haelsingborg,Helsingborg,Helsingborgas,Helsingborja,Helsingjaborg,Helsingoburgum,Hälsingborg,Khel'sinborg,Khel'singbarg,Khel'singborg,Khelsingborg,Khelsingbori,he er xin bao,hel si ngb xry,helsingboli,helsingborgi,herushinbori,hlsyngbwrg,hlsynghbwrgh,xi xing bao,Χέλσινγκμποργκ,Гельсінборг,Хелсингборг,Хелсингбори,Хельсинборг,Хельсингборг,Хельсінгбарг,הלסינגבורג,هلسينغبورغ,هلسینگبورگ,ہلسنگبورگ,เฮลซิงบอรย์,ჰელსინგბორგი,ヘルシンボリ,希星堡,赫尔辛堡,헬싱보리",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706914,
+    "name": "Hedesunda",
+    "alternatenames": "Hedesunda",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2706982,
+    "name": "Hedemora",
+    "alternatenames": "Hedemora,Hedemora gielda,Khedemura,XXU,Хедемура,هده‌مورا",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707057,
+    "name": "Heby",
+    "alternatenames": "Khebi,Khebju,Хеби,Хебю",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707138,
+    "name": "Haverdal",
+    "alternatenames": "Haverdal",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707217,
+    "name": "Haestveda",
+    "alternatenames": "Hastveda,Hästveda",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707366,
+    "name": "Hassloe",
+    "alternatenames": "Hasslo,Hassloe,Hasslö,Hasslø",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707399,
+    "name": "Haessleholm",
+    "alternatenames": "Haessleholm,Hesleholmas,Hässleholm,Khehslekhal'm,Kheslekhol'm,Kheslekholm,XWP,hai si lei huo er mu,heseulleholleum,hslhwlm,Хеслехолм,Хеслехольм,Хэслехальм,هسلهولم,海斯勒霍尔姆,헤슬레홀름",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707664,
+    "name": "Harplinge",
+    "alternatenames": "Harplinge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707684,
+    "name": "Haernoesand",
+    "alternatenames": "Haernoesand,Herniosandas,Hernosandia,Hernusando,Härnösand,Khern'osand,Khernesand,Khernjosand,SDL,hai ne sang de,harnwsand,heleunoesandeu,hrnwsnd,Хернесанд,Херньосанд,Хернёсанд,هارنوساند,هرنوسند,海訥桑德,헤르뇌산드",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2707953,
+    "name": "Haninge",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708016,
+    "name": "Handen",
+    "alternatenames": "Khanden,Ханден",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708025,
+    "name": "Hanaskog",
+    "alternatenames": "Hanaskog",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708135,
+    "name": "Hammerdal",
+    "alternatenames": "Hammerdal",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708152,
+    "name": "Hammarstrand",
+    "alternatenames": "",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708238,
+    "name": "Hammar",
+    "alternatenames": "Hammar",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708365,
+    "name": "Halmstad",
+    "alternatenames": "Gal'mstad,HAD,Halmostadium,Halmstad,Halmstadas,Hamstad,Khal'mstad,Khalmstad,ha er mu si ta de,halleumseutadeu,halms ta,halmstad,harumusutaddo,Гальмстад,Халмстад,Хальмстад,האלמסטד,هالمستاد,ہالمستا,ہالمسٹاڈ,ฮาล์มสตา,ჰალმსტადი,ハルムスタッド,哈尔姆斯塔德,할름스타드",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708426,
+    "name": "Hallstavik",
+    "alternatenames": "Hallstavik",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708429,
+    "name": "Hallstahammar",
+    "alternatenames": "Khalstakhamar,hlstwymmr,Халстахамар,هلستوئممر",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708511,
+    "name": "Hallsberg",
+    "alternatenames": "Khall'sberg,Khalsberi,XWM,hlzbryh,Халльсберг,Халсбери,هلزبریه",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708584,
+    "name": "Haellevik",
+    "alternatenames": "Hallevik,Hällevik",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708663,
+    "name": "Haelleforsnaes",
+    "alternatenames": "Halleforsnas,Hälleforsnäs",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708665,
+    "name": "Haellefors",
+    "alternatenames": "Kheleforsh,Хелефорш",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708710,
+    "name": "Haellbybrunn",
+    "alternatenames": "Hallbybrunn,Hällbybrunn",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708821,
+    "name": "Hallabrottet",
+    "alternatenames": "Hallabrottet,Hallebrottet,Hällabrottet,Hällebrottet",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2708891,
+    "name": "Haeljarp",
+    "alternatenames": "Haljarp,Häljarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709214,
+    "name": "Hagfors",
+    "alternatenames": "HFS,Hagsfors,Khagfors,Khagforsh,Khagfosh,ha ge fu shen,hagfwsh,haghfwrs,Хагфорс,Хагфорш,Хагфош,هاغفورس,هاگفوش,ᐊᒡᕗᕐᔅ,哈格福什",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709494,
+    "name": "Habo",
+    "alternatenames": "Khabu,habw,Хабу,هابو,ہابو",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709600,
+    "name": "Gusum",
+    "alternatenames": "Gusum",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709628,
+    "name": "Gustavsberg",
+    "alternatenames": "Gustarsberg,Gustavsberg,Gustavsberi,gwstawzby  wrmdw,Густавсберг,Густавсбери,گوستاوزبی، ورمدو",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709761,
+    "name": "Gunnebo",
+    "alternatenames": "Gunnebo,Gunnebobruk",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709912,
+    "name": "Gullspang",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2709969,
+    "name": "Gullbrandstorp",
+    "alternatenames": "Gullbrandstorp",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2710205,
+    "name": "Grycksbo",
+    "alternatenames": "Grycksbo",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2710343,
+    "name": "Grums",
+    "alternatenames": "Grums,grwmz,Грумс,گرومز,ግሩምስ,ᒡᕈᒻᔅ",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2710731,
+    "name": "Grillby",
+    "alternatenames": "Grillby",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2710796,
+    "name": "Grebo",
+    "alternatenames": "Grebo",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2710797,
+    "name": "Grebbestad",
+    "alternatenames": "Grabbestad,Grebbestad,Gräbbestad,Греббестад",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2710885,
+    "name": "Graestorp",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711174,
+    "name": "Graenna",
+    "alternatenames": "Graenna,Grehnna,Grena,Gränna,Грена,Грэнна",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711256,
+    "name": "Graengesberg",
+    "alternatenames": "Grangesberg,Grengesberg,Grengesberi,Grängesberg,Гренгесберг,Гренгесбери",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711451,
+    "name": "Grabo",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711526,
+    "name": "Goetene",
+    "alternatenames": "Goetene,Gotene,Götene,Gøtene,Jjotene,Jotene,Йотене,Йётене",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711537,
+    "name": "Goeteborg",
+    "alternatenames": "G'oteborg,GOT,Gautaborg,Geteborg,Geteborga,Geteborgas,Geuteborgo,Geŭteborgo,Gjoteborg,Gjotehbarg,Goeteborg,Goeteborq,Goteborg,Goteburg,Gotemburgo,Gotenburg,Gothembourg,Gothenburg,Gothoburgum,Gotnburg,Gottenborg,Göteborg,Göteborq,Gøteborg,Gēteborga,Nketempornk,ge de bao,ghwtnbrgh,gtbwrg,jwtnbrj,kx then beirk,yeteboli,yohateborya,yotebori,ywtbry,Γκέτεμποργκ,Гетеборг,Гьотеборг,Гётеборг,Гётэбарг,גטבורג,געטעבארג,جوتنبرج,غوتنبرغ,گووتھنبرگ,یوتبری,योहतेबोर्य,กอเทนเบิร์ก,გეტებორგი,ዬተቦርይ,ᐃᐅᑕᐳᕆ,ヨーテボリ,哥德堡,예테보리",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711561,
+    "name": "Goeta",
+    "alternatenames": "Goeta,Gota,Göta,Gøta",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711790,
+    "name": "Gnosjoe",
+    "alternatenames": "Gnosjo,Gnosjoe,Gnosjö,Gnosjø",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711798,
+    "name": "Gnesta",
+    "alternatenames": "",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711803,
+    "name": "Gnarp",
+    "alternatenames": "Gnarp",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711820,
+    "name": "Glumsloev",
+    "alternatenames": "Glumsloev,Glumslov,Glumslöv,Glumsløv",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711863,
+    "name": "Glommen",
+    "alternatenames": "Glommen",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2711896,
+    "name": "Glimakra",
+    "alternatenames": "Glimakra,Glimåkra",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712045,
+    "name": "Gislaved",
+    "alternatenames": "Islaved,Jislaved,gyzlwyd,Иславед,Йиславед,گیزلوئد",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712255,
+    "name": "Getinge",
+    "alternatenames": "Getinge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712373,
+    "name": "Genarp",
+    "alternatenames": "Genarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712377,
+    "name": "Gemla",
+    "alternatenames": "Gemla",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712414,
+    "name": "Gaevle",
+    "alternatenames": "Eule,Evle,GVX,Gaefle,Gaevle,Gefle,Gevalia,Gäfle,Gävle,Jevle,Jevlė,Jēvle,evle,ievure,yblh,ye fu lei,yebeulle,yefle,yflh,ywlh,Євле,Јевле,Евле,Еўле,Йевле,יבלה,يفله,گاولے,یاولہ,یوله,เยฟเล,ევლე,イェヴレ,耶夫勒,예블레",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712628,
+    "name": "Gaersnaes",
+    "alternatenames": "Garsnas,Gärsnäs",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712642,
+    "name": "Garphyttan",
+    "alternatenames": "",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712859,
+    "name": "Gantofta",
+    "alternatenames": "Ganntofta,Gantofta",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712887,
+    "name": "Ganghester",
+    "alternatenames": "Ganghester,Gånghester",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712988,
+    "name": "Gamleby",
+    "alternatenames": "Gamleby",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2712993,
+    "name": "Gamla Uppsala",
+    "alternatenames": "Alt-Uppsala,Gamla Uppsala,Gamle Uppsala,Staraja Uppsala,Staraja Upsala,Vanha Uppsala,jmla awbsala,Старая Уппсала,Старая Упсала,جملا أوبسالا,ጋምላ ኡፕሳላ,ガムラ・ウプサラ",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713219,
+    "name": "Gagnef",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713350,
+    "name": "Fyllinge",
+    "alternatenames": "Fyllinge",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713385,
+    "name": "Furulund",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713386,
+    "name": "Furulund",
+    "alternatenames": "Furulund",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713516,
+    "name": "Froevi",
+    "alternatenames": "Froevi,Frovi,Frövi,Frøvi",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713596,
+    "name": "Froesakull",
+    "alternatenames": "Froesakull,Frosakull,Frösakull,Frøsakull",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713656,
+    "name": "Fritsla",
+    "alternatenames": "Frissla,Fritsla",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713661,
+    "name": "Fristad",
+    "alternatenames": "Fristad",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713679,
+    "name": "Frillesas",
+    "alternatenames": "Frillesas,Frillesås",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713797,
+    "name": "Fraensta",
+    "alternatenames": "Fransta,Fränsta",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713943,
+    "name": "Foersloev",
+    "alternatenames": "Foersloev,Foersloevsholm,Forslov,Forslovholm,Förslöv,Förslövholm,Förslövsholm,Førsløv",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713964,
+    "name": "Forsheda",
+    "alternatenames": "Forsheda",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713971,
+    "name": "Forshaga",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2713975,
+    "name": "Forserum",
+    "alternatenames": "Forserum",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714009,
+    "name": "Forsbacka",
+    "alternatenames": "Forsbacka",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714327,
+    "name": "Floby",
+    "alternatenames": "Floby",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714401,
+    "name": "Flen",
+    "alternatenames": "Flen,XYI,fln,Флен,فلن",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714618,
+    "name": "Fjugesta",
+    "alternatenames": "",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714678,
+    "name": "Fjaeras kyrkby",
+    "alternatenames": "",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714765,
+    "name": "Fjaelkinge",
+    "alternatenames": "Fjalkinge,Fjälkinge",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714795,
+    "name": "Fittja",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2714903,
+    "name": "Finspang",
+    "alternatenames": "Finspong,Finspongas,fynspang,Финспонг,فینسپانگ",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715081,
+    "name": "Filipstad",
+    "alternatenames": "Filipstad,Filipstad i Sverige,fei li pu si ta de,fylypstad,Филипстад,Філіпстад,فیلیپستاد,ᕕᓕᑉᔅᑕᑦ,菲利普斯塔德",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715164,
+    "name": "Fellingsbro",
+    "alternatenames": "Fellingsbro",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715313,
+    "name": "Faerloev",
+    "alternatenames": "Farlov,Färlöv",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715324,
+    "name": "Faerjestaden",
+    "alternatenames": "Ferestaden,Ферестаден",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715341,
+    "name": "Faerila",
+    "alternatenames": "Farila,Färila",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715351,
+    "name": "Faergelanda",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715459,
+    "name": "Falun",
+    "alternatenames": "BLE,Fahlun,Faliunas,Falun,Faluna,Falunga,Fāluna,fa lun,faln,falwn,farun,pallun,paluni,Фалун,Ֆալուն,فالن,فالون,ฟาลุน,ფალუნი,ファールン,法倫,팔룬",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715568,
+    "name": "Falkoeping",
+    "alternatenames": "Fal'chjoping,Falceping,Falcopia,Falkoeping,Falkoping,Falköping,Falkøping,Falsh'oping,Falsiopingas,Falšiopingas,XYF,fa er xue ping,falkwpyng,falshwpyng,farushepingu,Фалшьопинг,Фальчёпинг,Фалћепинг,فالشوپینگ,فالکوپینگ,ファルシェーピング,法爾雪平",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715573,
+    "name": "Falkenberg",
+    "alternatenames": "Fal'kenberg,Falkenberg,Falkenbergas,Falkenbergs,Falkenberi,XYM,fa er ken bei li,falknbrgh,farukenberi,flknby,palkenbeli,Фалкенберг,Фалкенбери,Фалькенберг,فالكنبرغ,فلکنبی,ファルケンベリ,法尔肯贝里,팔켄베리",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715656,
+    "name": "Fagersta",
+    "alternatenames": "Fagershha,Fagersta,Fagersta Bruk,Fagesta,Fagešta,fgshth,Фагерста,Фагерща,فاگیرسٹا,فگشته",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715946,
+    "name": "Esloev",
+    "alternatenames": "Ehsljov,Esl'ov,Eslev,Esliovas,Esloev,Eslov,Eslöv,Esløv,aslw,eseulloebeu,Еслев,Есльов,Эслёв,اسلو,에슬뢰브",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2715953,
+    "name": "Eskilstuna",
+    "alternatenames": "EKT,Ehskil'stuna,Eshilstruna,Eskil'stuna,Eskilstiuna,Eskilstjuna,Eskilstouna,Eskilstuna,Eskilstūna,ai si ji er si di na,asklstwna,askylstwna,eseukilseutuna,eshirusutouna,Εσκιλστούνα,Ескилстюна,Ескільстуна,Ешилструна,Эскильстуна,Эскільстуна,إسكيلستونا,اسکلستونا,اسکیلستونا,ესკილსტუნა,エシルストゥーナ,埃斯基尔斯蒂纳,에스킬스투나",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716085,
+    "name": "Eriksberg",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716166,
+    "name": "Enkoeping",
+    "alternatenames": "Ehnchjoping,Enceping,Enecopia,Enkoeping,Enkoping,Enköping,Enkøping,Ensh'oping,Ensiopingas,Enšiopingas,anshwpyng,enshepingu,Еншьопинг,Енћепинг,Энчёпинг,انشوپینگ,エンシェーピング",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716202,
+    "name": "Enebyberg",
+    "alternatenames": "Enebyberg,Enebybergs,Enebybergs Villastad",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716235,
+    "name": "Enbacka",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716281,
+    "name": "Emmaboda",
+    "alternatenames": "",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716324,
+    "name": "Elloes",
+    "alternatenames": "Ehlljos,Elloes,Ellos,Ellös,Elløs,Эллёс",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716437,
+    "name": "Eksjoe",
+    "alternatenames": "Eksjo,Eksjoe,Eksjö,Eksjø",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716443,
+    "name": "Ekshaerad",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716586,
+    "name": "Ekeroe",
+    "alternatenames": "Ekero,Ekeroe,Ekerö,Ekerø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716601,
+    "name": "Ekenaessjoen",
+    "alternatenames": "Ekenassjon,Ekenässjön",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716663,
+    "name": "Ekeby-Almby",
+    "alternatenames": "Ekeby-Almby",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716758,
+    "name": "Ekaengen",
+    "alternatenames": "Ekangen,Ekängen",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716863,
+    "name": "Edsbyn",
+    "alternatenames": "",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2716968,
+    "name": "Ed",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717401,
+    "name": "Dorotea",
+    "alternatenames": "Bergvattnet,Doeoerte,Dorotea,Döörte",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717412,
+    "name": "Donsoe",
+    "alternatenames": "Donso,Donsoe,Donsö,Donsø",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717517,
+    "name": "Djursholm",
+    "alternatenames": "Jurshkholm,Юршхолм",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717532,
+    "name": "Djuroe",
+    "alternatenames": "Djuro,Djuroe,Djurö,Djurø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717558,
+    "name": "Djuras",
+    "alternatenames": "Djuras,Djurås",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717720,
+    "name": "Diseroed",
+    "alternatenames": "Diserod,Diseroed,Diseröd,Diserød",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717727,
+    "name": "Dingtuna",
+    "alternatenames": "Dingtuna",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717824,
+    "name": "Delsbo",
+    "alternatenames": "",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717842,
+    "name": "Deje",
+    "alternatenames": "Deje",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717884,
+    "name": "Degerfors",
+    "alternatenames": "Degerforsh,Degerfosas,Degerfošas,dghrfwsh,dgrfwsh,Дегерфорш,دغرفوش,دگرفوش",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2717898,
+    "name": "Degeberga",
+    "alternatenames": "Degeberga",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718133,
+    "name": "Dals Langed",
+    "alternatenames": "Dals Langed,Dals Långed,Langed,Långed",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718144,
+    "name": "Dalsjoefors",
+    "alternatenames": "Dalsjoefors,Dalsjofors,Dalsjöfors,Dalsjøfors",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718248,
+    "name": "Dalby",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718271,
+    "name": "Dalaroe",
+    "alternatenames": "Dalaro,Dalaroe,Dalarö,Dalarø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718393,
+    "name": "Charlottenberg",
+    "alternatenames": "",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718759,
+    "name": "Bunkeflostrand",
+    "alternatenames": "Bunkeflostrand",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718836,
+    "name": "Bua",
+    "alternatenames": "",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718975,
+    "name": "Brunna",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718981,
+    "name": "Brunna",
+    "alternatenames": "Brunna",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718983,
+    "name": "Brunn",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2718991,
+    "name": "Brunflo",
+    "alternatenames": "Brunflu,Брунфлу",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719106,
+    "name": "Bromoella",
+    "alternatenames": "Bromoella,Bromolla,Bromölla,Bromølla,Brum'ola,Brumjolla,brwmwlla,Брумьола,Брумёлла,بروموللا",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719111,
+    "name": "Bromma",
+    "alternatenames": "Bromma,Bromma stadsdelsomrade,Bromma stadsdelsområde",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719212,
+    "name": "Broby",
+    "alternatenames": "Broby kyrkoby,Brody Kyrkoby",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719245,
+    "name": "Bro",
+    "alternatenames": "Bro",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719312,
+    "name": "Brevik",
+    "alternatenames": "Brevik",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719318,
+    "name": "Brevik",
+    "alternatenames": "Bredvik,Brevik",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719466,
+    "name": "Bredbyn",
+    "alternatenames": "",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719485,
+    "name": "Bredaryd",
+    "alternatenames": "Bredaryd",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719670,
+    "name": "Brastad",
+    "alternatenames": "Brastad",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719961,
+    "name": "Bralanda",
+    "alternatenames": "Bralanda,Brålanda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2719965,
+    "name": "Braekne-Hoby",
+    "alternatenames": "Brakne-Hoby,Bräkne-Hoby",
+    "subcountry": "Blekinge"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720004,
+    "name": "Braecke",
+    "alternatenames": "",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720028,
+    "name": "Braas",
+    "alternatenames": "Braas,Braås",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720037,
+    "name": "Boxholm",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720383,
+    "name": "Borlaenge",
+    "alternatenames": "BLE,Borlaenge,Borlenge,Borlänge,Burlange,Burlenge,Burlengė,bolleng-e,burlenge,bwrlanj,bwrlnyh,Борленге,Бурленге,Бурлӓнге,بورلانج,بورلنیه,ბურლენგე,볼렝에",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720437,
+    "name": "Borgholm",
+    "alternatenames": "Borgholm,Borgkhol'm,Borikholm,bwrghhwlm,Боргхольм,Борихолм,بورغهولم",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720485,
+    "name": "Borensberg",
+    "alternatenames": "Borensberg,Burensberi,Буренсбери",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720501,
+    "name": "Boras",
+    "alternatenames": "Boerosia,Boras,Boros,Borås,Buras,Buros,Burosa,Burosas,Celfsborg,boloseu,borosu,bu luo si,bu ros,burosi,bwras,bwrws,Борос,Бурас,Бурос,בורוס,بوراس,بوروس,บูโรส,ბუროსი,ボロース,布羅斯,보로스",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720504,
+    "name": "Bor",
+    "alternatenames": "Bor",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720670,
+    "name": "Bollstabruk",
+    "alternatenames": "Bollsta,Bollstabruk",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720679,
+    "name": "Bollnaes",
+    "alternatenames": "Boll'nes,Bolnes,Bolnesas,bo er nai si,borunesu,bwlns,Болльнес,Болнес,بولنس,ボルネス,博爾奈斯",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720681,
+    "name": "Bollmora",
+    "alternatenames": "Boollmora",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2720689,
+    "name": "Bollebygd",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721035,
+    "name": "Bodafors",
+    "alternatenames": "Bodafors",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721259,
+    "name": "Boo",
+    "alternatenames": "Bo,Boo",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721285,
+    "name": "Blomstermala",
+    "alternatenames": "Blomstermala,Blomstermåla",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721348,
+    "name": "Blentarp",
+    "alternatenames": "Blentarp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721534,
+    "name": "Bjuv",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721581,
+    "name": "Bjursas",
+    "alternatenames": "Bjursas,Bjursås",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721585,
+    "name": "Bjurholm",
+    "alternatenames": "",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721828,
+    "name": "Bjoerneborg",
+    "alternatenames": "Bjoerneborg,Bjorneborg,Bjorneborgs,Bjorneborgs bruk,Björneborg,Björneborgs,Björneborgs bruk,Bjørneborg",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2721946,
+    "name": "Bjoerlanda",
+    "alternatenames": "Bjoerlanda,Bjorlanda,Björlanda,Bjørlanda",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722029,
+    "name": "Bjoerkoe",
+    "alternatenames": "Bjoerkoe,Bjorko,Björkö,Bjørkø",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722302,
+    "name": "Bjoerboholm",
+    "alternatenames": "Bjoerboholm,Bjorboholm,Björboholm,Bjørboholm",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722320,
+    "name": "Bjaesta",
+    "alternatenames": "Bjasta,Bjästa",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722362,
+    "name": "Bjaerred",
+    "alternatenames": "Bjarred,Bjärred",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722363,
+    "name": "Bjaernum",
+    "alternatenames": "Bjarnum,Bjärnum",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722545,
+    "name": "Billingsfors",
+    "alternatenames": "Billingsfors",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722563,
+    "name": "Billesholm",
+    "alternatenames": "Billesholm",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722567,
+    "name": "Billeberga",
+    "alternatenames": "Billeberga",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722570,
+    "name": "Billdal",
+    "alternatenames": "Billdal",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722734,
+    "name": "Bergsjoe",
+    "alternatenames": "Bergsjo,Bergsjoe,Bergsjö,Bergsjø",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722742,
+    "name": "Bergshamra",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722751,
+    "name": "Hoverberg",
+    "alternatenames": "Berg,Bergsbyn",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722794,
+    "name": "Bergkvara",
+    "alternatenames": "",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722836,
+    "name": "Bergeforsen",
+    "alternatenames": "Bergeforsen",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722861,
+    "name": "Bergby",
+    "alternatenames": "Bergby",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2722996,
+    "name": "Berg",
+    "alternatenames": "",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723079,
+    "name": "Bengtsfors",
+    "alternatenames": "Bengtsforsh,Бенгтсфорш",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723287,
+    "name": "Bastad",
+    "alternatenames": "Bostad,bashtad,bo si ta de,Бостад,باشتاد,博斯塔德",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723350,
+    "name": "Barsloev",
+    "alternatenames": "Barsloev,Barslov,Bårslöv,Bårsløv",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723434,
+    "name": "Barkaroe",
+    "alternatenames": "Bakaroby,Barkaro,Barkaroe,Barkarö,Barkarø",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723488,
+    "name": "Bara",
+    "alternatenames": "",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723489,
+    "name": "Bara",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723503,
+    "name": "Bankeryd",
+    "alternatenames": "Bankeryd",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723567,
+    "name": "Balsta",
+    "alternatenames": "Bolsta,bwlsta,Болста,بولستا",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2723655,
+    "name": "Baelinge",
+    "alternatenames": "Balinge,Balingeby,Bälinge,Bälingeby",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724134,
+    "name": "Axvall",
+    "alternatenames": "Axvall",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724231,
+    "name": "Avesta",
+    "alternatenames": "Avesta,XYP,Авеста",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724321,
+    "name": "Atvidaberg",
+    "alternatenames": "Atvid,Otvidabergas,Otvidaberi,awtwydbryh,Åtvid,Отвидабери,اوتویدبریه",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724435,
+    "name": "Astorp",
+    "alternatenames": "Ostorp,awstwlp,Осторп,اوستولپ",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724693,
+    "name": "Asmundtorp",
+    "alternatenames": "Asmundtorp,Assmundtorp",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724778,
+    "name": "Askersund",
+    "alternatenames": "Askershund,Аскершунд",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724958,
+    "name": "Asele",
+    "alternatenames": "Asele,Osele,Sjeltie,Åsele,Оселе",
+    "subcountry": "Västerbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2724962,
+    "name": "Aseda",
+    "alternatenames": "",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725003,
+    "name": "Asbro",
+    "alternatenames": "Asbro,Åsbro",
+    "subcountry": "Örebro"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725066,
+    "name": "Asa",
+    "alternatenames": "Asa,Åsa",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725073,
+    "name": "As",
+    "alternatenames": "",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725076,
+    "name": "As",
+    "alternatenames": "As,Ås",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725123,
+    "name": "Arvika",
+    "alternatenames": "Arvika,Oscarsstad,XYY,a er wei ka,arwyka,Арвика,ارویکا,ᐊᕐᕕᑲ,阿爾維卡",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725136,
+    "name": "Arvidsjaur",
+    "alternatenames": "AJR,Arvids'jaur,Arvidsjaur,Arvidsujaur,Арвидсъяур,Арвидсяур,Арвідсьяур",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725192,
+    "name": "Arsunda",
+    "alternatenames": "Arsunda,Årsunda",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725201,
+    "name": "Arsta",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725271,
+    "name": "Arno",
+    "alternatenames": "Arno,Arnoe,Arnö,Arnø",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725277,
+    "name": "Arnoe",
+    "alternatenames": "Arno,Arnoe,Arnö,Arnø",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725336,
+    "name": "Arloev",
+    "alternatenames": "Arl'ov,Arloev,Arlov,Arlöv,Arløv,Арльов",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725348,
+    "name": "AErla",
+    "alternatenames": "Arla,Ärla",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725372,
+    "name": "Arjeplog",
+    "alternatenames": "Ar'eplug,Арьеплуг",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725379,
+    "name": "Arjaeng",
+    "alternatenames": "Arjange,Arjeng,Oreng,Årjeng,Årjänge,Оренг,ᐅᕐᔭᖕ",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725456,
+    "name": "Arbra",
+    "alternatenames": "Arbra,Arbrå",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725471,
+    "name": "Arboga",
+    "alternatenames": "Arboga,Arbuga,XXT,a er bo jia,arbwga,arbwgha,Арбога,Арбуга,أربوغا,اربوگا,阿尔博加",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725670,
+    "name": "Annelund",
+    "alternatenames": "Annelund",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725722,
+    "name": "Ankarsrum",
+    "alternatenames": "Ankarsrum",
+    "subcountry": "Kalmar"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725872,
+    "name": "Angered",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725901,
+    "name": "AEngelholm",
+    "alternatenames": "AEngelholm,AEngelholms,AGH,Engelholm,Engelkholm,Ängelholm,Ängelholms,Енгелхолм",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2725924,
+    "name": "Ange",
+    "alternatenames": "Onge,Онге",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726005,
+    "name": "Aneby",
+    "alternatenames": "Anebju,Анебю",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726026,
+    "name": "Anderstorp",
+    "alternatenames": "Anderstorp",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726032,
+    "name": "Anderstorp",
+    "alternatenames": "Anderstorp",
+    "subcountry": "Jönköping"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726049,
+    "name": "Andersloev",
+    "alternatenames": "Andersloev,Anderslov,Anderslöv,Andersløv",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726163,
+    "name": "Amotfors",
+    "alternatenames": "Amot,Amotfors,Amotsfors,Åmot,Åmotfors,Åmotsfors",
+    "subcountry": "Värmland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726240,
+    "name": "Amal",
+    "alternatenames": "Amalia,Omol,Omol',amal,ao mo er,awmwl,Омол,Омоль,آمال,اومول,奧莫爾",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726285,
+    "name": "AElvkarleby",
+    "alternatenames": "",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726314,
+    "name": "Alvesta",
+    "alternatenames": "Al'vesta,Alvesta,alwsta,Алвеста,Альвеста,الوستا",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726332,
+    "name": "AElvdalen",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726347,
+    "name": "AElvaengen",
+    "alternatenames": "AElvaengen,Alfangen,Alvangen,Elvengen,Älfängen,Älvängen,Елвенген",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726353,
+    "name": "Alunda",
+    "alternatenames": "Alunda",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726394,
+    "name": "Alta",
+    "alternatenames": "Alta,Elta,alta,Älta,Елта,التا",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726470,
+    "name": "Alsike",
+    "alternatenames": "Alsike",
+    "subcountry": "Uppsala"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726544,
+    "name": "AElmsta",
+    "alternatenames": "Almsta,Elmsta,Älmsta",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726576,
+    "name": "AElmhult",
+    "alternatenames": "Elmkhult,almhwlt,erumufuruto,Елмхулт,المهولت,エルムフルト",
+    "subcountry": "Kronoberg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726756,
+    "name": "Alingsas",
+    "alternatenames": "Alingsas,Alingsos,Alingsosas,Alingsosia,a ling suo si,alingsosi,alynsaws,Алингсас,Алингсос,Алінгсос,الینساوس,ალინგსოსი,阿灵索斯",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726939,
+    "name": "Alfta",
+    "alternatenames": "",
+    "subcountry": "Gävleborg"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2726983,
+    "name": "Aled",
+    "alternatenames": "Aled,Åled",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727130,
+    "name": "Alafors",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727222,
+    "name": "Akers Styckebruk",
+    "alternatenames": "Akers Styckebruk,Åkers Styckebruk",
+    "subcountry": "Södermanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727234,
+    "name": "Akersberga",
+    "alternatenames": "Akersberga,Okersberga,Okershberja,Okeršberga,awkshbqya,Акерсберга,Окерсберга,Окершберя,اوکشبقیا",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727314,
+    "name": "Akarp",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727320,
+    "name": "Akarp",
+    "alternatenames": "",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727363,
+    "name": "Ahus",
+    "alternatenames": "Ahus,Okhus,ao hu si,awhws,Åhus,Охус,اوهوس,奧胡斯",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727594,
+    "name": "Aby",
+    "alternatenames": "Aby,Åby",
+    "subcountry": "Östergötland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 2727731,
+    "name": "Abborrberget",
+    "alternatenames": "",
+    "subcountry": "Dalarna"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3234968,
+    "name": "Vaestra Hagen",
+    "alternatenames": "Vastra Hagen,Västra Hagen",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3326962,
+    "name": "Enhagen-Ekbacken",
+    "alternatenames": "Enhagen-Ekbacken",
+    "subcountry": "Västmanland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3331429,
+    "name": "Saxtorpsskogen",
+    "alternatenames": "Saxtorpsskogen,Svanabacken",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3331621,
+    "name": "Andalen",
+    "alternatenames": "Andalen",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3331674,
+    "name": "Nolvik",
+    "alternatenames": "Nolvik",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3336565,
+    "name": "Vi",
+    "alternatenames": "Vi",
+    "subcountry": "Västernorrland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3336566,
+    "name": "Fisksaetra",
+    "alternatenames": "Fisksatra,Fisksätra",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3336567,
+    "name": "Ekeby",
+    "alternatenames": "Ekeby",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 3336568,
+    "name": "Skanoer med Falsterbo",
+    "alternatenames": "Skanoer med Falsterbo,Skanor med Falsterbo,Skanör med Falsterbo,Skanør med Falsterbo",
+    "subcountry": "Skåne"
+  },
+  {
+    "country": "SE",
+    "geonameid": 6269436,
+    "name": "Ingared",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 6619708,
+    "name": "Majorna",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 6943587,
+    "name": "Onsala",
+    "alternatenames": "Onsala,awnsalh,Онсала,اونساله",
+    "subcountry": "Halland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 7283918,
+    "name": "Olstorp",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 7304423,
+    "name": "Akalla",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 7304427,
+    "name": "Tensta",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 7304434,
+    "name": "Bjoerkskatan",
+    "alternatenames": "",
+    "subcountry": "Norrbotten"
+  },
+  {
+    "country": "SE",
+    "geonameid": 7931985,
+    "name": "Alby",
+    "alternatenames": "",
+    "subcountry": "Stockholm"
+  },
+  {
+    "country": "SE",
+    "geonameid": 8288543,
+    "name": "Hammarkullen",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 8288544,
+    "name": "Rannebergen",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 8288546,
+    "name": "Eriksbo",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 8288547,
+    "name": "Gardsten",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 8288548,
+    "name": "Loevgaerdet",
+    "alternatenames": "",
+    "subcountry": "Västra Götaland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 9114206,
+    "name": "Are",
+    "alternatenames": "Are,Are i Sverige,OSD,Ore,Åre,Åre i Sverige,Оре",
+    "subcountry": "Jämtland"
+  },
+  {
+    "country": "SE",
+    "geonameid": 10942905,
+    "name": "Marielund",
+    "alternatenames": "",
+    "subcountry": "Norrbotten"
+  }
+]

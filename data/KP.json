@@ -1,0 +1,681 @@
+[
+  {
+    "country": "KP",
+    "geonameid": 1866362,
+    "name": "Yonggang-up",
+    "alternatenames": "Chinji-ri,Shinchi-ri,Shinchido,Shinchidō,Yonggang,Yonggang-up,Yonggang-ŭp",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1866453,
+    "name": "Yongbyon",
+    "alternatenames": "Neihen,Nyongbyon,Nyŏngbyŏn,Yongbyon,Yongbyon-up,Yŏngbyŏn,Yŏngbyŏn-ŭp",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1866569,
+    "name": "Yonan-up",
+    "alternatenames": "Enan,Yonan,Yonan-up,Yŏnan,Yŏnan-ŭp",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1866587,
+    "name": "Yomju-up",
+    "alternatenames": "Chonggo-dong,Chŏnggŏ-dong,Teisha,Teisha-do,Teisha-dō,Yomju,Yomju-up,Yŏmju,Yŏmju-ŭp,yeomju,염주",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1866923,
+    "name": "Wonsan",
+    "alternatenames": "Gensan,Genzan,Genzan Hu,Onsan,Vonsan,Vonsanas,WOS,Wensen,Wonsan,Wŏnsan,Yuenchan,Yuensan,wonsan,wonsansi,yuan shan shi,Вонсан,元山市,원산,원산시",
+    "subcountry": "Kangwŏn-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1867927,
+    "name": "T'ongch'on-up",
+    "alternatenames": "Kojo,Kojŏ,Kotei,T'ongch'on,T'ongch'on-up,T’ongch’ŏn,T’ongch’ŏn-ŭp",
+    "subcountry": "Kangwŏn-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1868998,
+    "name": "Sungho 1-tong",
+    "alternatenames": "Shoko-ri,Shōko-ri,Sungho,Sungho 1-tong,Sungho-dong,Sungno-ri,Sŭngho,Sŭngho 1-tong,Sŭngho-dong,Sŭngno-ri,seungho1dong,승호1동",
+    "subcountry": "Pyongyang"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1869012,
+    "name": "Sunch'on",
+    "alternatenames": "Junsen,Sunch'on,Sunch'on-dong,Sunch'on-up,Sunch’ŏn,Sunch’ŏn-dong,Sunch’ŏn-ŭp",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1869021,
+    "name": "Sunan",
+    "alternatenames": "Junan,Sunan,Sunan-dong,Sunan-ni,Sunan-up,Sunan-ŭp,sun-an,Сунан,순안",
+    "subcountry": "Pyongyang"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1869446,
+    "name": "Songnim-ni",
+    "alternatenames": "Kenjiho,Kenjiko,Kenniho,Kenziho,Kyomip'o,Kyŏmip’o,Shorin,Shōrin,Songnim,Songnim-ni,Songnimni,songlimli,송림리",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1870413,
+    "name": "Sil-li",
+    "alternatenames": "Sil-li,Sin-ni",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1870434,
+    "name": "Sinmak",
+    "alternatenames": "Shimbaku,Shimmaku,Shinbaku,Sinmak,sinmag,신막",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1870742,
+    "name": "Sinanju",
+    "alternatenames": "Shin-anshu,Shin-anshū,Sin-ansyu,Sin-ansyū,Sinanju,Sinanju-nodongjagu,Sinanju-rodongjagu,Wonhung-ni,Wŏnhŭng-ni,sin-anju,신안주",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1870883,
+    "name": "Sariwon",
+    "alternatenames": "Hozan,Sa-ri-uen,Sarivone,Sariwon,Sariwŏn,Shariin,Syariin,Sā-ri-uen,Саривоне",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1871028,
+    "name": "Sangsong-ni",
+    "alternatenames": "Ku Yangdok,Ku Yangdŏk,Sangsong-ni,Sangsŏng-ni,Tongyang,Tongyang-ni,Toyo,Tōyō,Yangdok,Yangdŏk,Yotoku,Yōtoku",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1871484,
+    "name": "Samho-rodongjagu",
+    "alternatenames": "Samho,Samho-dong,Samho-nodongjagu,Samho-rodongjagu,Sanko,samholodongjagu,삼호로동자구",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1871859,
+    "name": "Pyongyang",
+    "alternatenames": "Binh Nhuong,Bình Nhưỡng,FNJ,Heijo,Heijo-fu,Heijō,Heijō-fu,Heizyo,Heizyo Hu,Heizyō,Heizyō Hu,Hpyeng-yang,P'yongyang,P'yongyang-si,P'yŏngyang,P'yŏngyang-si,P-hjong-jang,P-hjöng-jang,Pchenjanas,Pchjongjang,Phenian,Phenjan,Phenjana,Phyeng-yang,Phyong-yang,Pienyang,Pingyang,Pion'gian'nk,Pion'nkgian'nk,Piongiang,Pionguiangue,Pionyang,Pjoengjang,Pjongian,Pjongjang,Pjongjango,Pjöngjang,Pkhen'jan,Pkhenjan,Pxenyan,Pyeongyang,Pyoengyang,Pyongyang,Pyongyang-si,Pyöngyang,bywnghyangh,peiyngyang,pi'ongayanga,ping rang,ping rang shi,piyam iyam,piyonyan,pkheniani,pyamgayanga,pyang yang,pyeong-yang,pyeong-yangjighalsi,pyeong-yangsi,pyon'gyang,pyongayanga,pywng yang,pywngyang,Πιονγιάνγκ,Πιονγκγιάνγκ,Пхеньян,Пхенян,Пјонгјанг,Փխենյան,פיאנגיאנג,פיונגיאנג,بيونغيانغ,پيونګيانګ,پيونگ يانگ,پيوڭياڭ,پیانگ یانگ,پیونگ‌یانگ,پیۆنگیانگ,प्याँगयांग,प्योंगयांग,পিয়ং ইয়াং,ਪਿਓਂਗਯਾਂਗ,பியொங்யாங்,ಪ್ಯೊನ್ಗ್ಯಾಂಗ್,เปียงยาง,ཕོང་ཡང་།,ფხენიანი,ፕዮንግያንግ,平壌,平壤,平壤市,평양,평양시,평양직할시",
+    "subcountry": "Pyongyang"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1871871,
+    "name": "P'yongsong",
+    "alternatenames": "P'yongsong,P’yŏngsŏng,Sain-ni,Sainjang,Sanchon,Shajimjo,Shajimjō,Shajinjo,Shajinjō,Shaninjo,Shaninjō",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1871967,
+    "name": "Pyoksong-up",
+    "alternatenames": "Ch'wiya,Chuya,Ch’wiya,Pyoksong,Pyoksong-up,Pyŏksŏng,Pyŏksŏng-ŭp,Suiya-ri",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1872726,
+    "name": "Panghyon-dong",
+    "alternatenames": "Namsi,Nanshi,Panghyon,Panghyon-dong,Panghyon-nodongjagu,Panghyŏn,Panghyŏn-dong,Panghyŏn-nodongjagu,banghyeondong,방현동",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1873172,
+    "name": "Ongjin",
+    "alternatenames": "Bazan,Onchzhin,Ongjin,Ongjin-up,Ongjin-ŭp,Oshin,Osin,Yoshin,Yōshin,ongjin,Ōshin,Ōsin,Ончжин,옹진",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1873757,
+    "name": "Namp'o",
+    "alternatenames": "Channampo,Chinnamp'o,Chinnamp’o,Chinnanpo,Namp'o,Nampkho,Namp’o,Tinnanpo,Treaty Port,Tschin-nam-p-ho,nampo,Нампхо,남포",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1875054,
+    "name": "Kwaksan",
+    "alternatenames": "Kakusan,Kakuzan,Kwaksan,Kwaksan-up,Kwaksan-ŭp,gwagsan,곽산",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1875107,
+    "name": "Kusong",
+    "alternatenames": "Kijo,Kijō,Kuisong,Kuisŏng,Kusong,Kusong-up,Kusŏng,Kusŏng-ŭp,Kwisog,Kwisŏg,guseong,구성",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1875506,
+    "name": "Kujang-up",
+    "alternatenames": "Kuchung,Kujang,Kujang-dong,Kujang-up,Kujang-ŭp,Kyujo-do,Kyujō-dō",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1875588,
+    "name": "Kowon-up",
+    "alternatenames": "Kogen,Kovon-do,Kowon,Kowon-up,Kowŏn,Kowŏn-ŭp,Kōgen,gowon,Ковон-до,고원",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1875632,
+    "name": "Kosan",
+    "alternatenames": "Kosan,Kosan-up,Kosan-ŭp,Shinko-san,Shinkozan,Shinkō-san,Shinkōzan,Sin'gosan,Sin’gosan,gosan,고산",
+    "subcountry": "Kangwŏn-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1875790,
+    "name": "Koksan",
+    "alternatenames": "Kokan,Kokchang,Koksan,Koksan-up,Koksan-ŭp,Kokusan,Kokuso,Kokusō,Kokuzan,gogsan,곡산",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1876153,
+    "name": "Kangdong-up",
+    "alternatenames": "Kandong,Kangdong,Kangdong-up,Kangdong-ŭp,Koto,Kōtō",
+    "subcountry": "Pyongyang"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1876373,
+    "name": "Kaesong",
+    "alternatenames": "Kaesong,Kaesŏng,Kai-seng,Kaijo,Kaijō,Kaisong,Kaizyo,Kaizyō,Kehson,Kesongas,Shoto,Shōto,Songdo,gaeseongsi,gaeseongteuggeubsi,kai cheng shi,kai cheng te ji shi,Кэсон,开城特级市,開城市,개성시,개성특급시",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1876873,
+    "name": "Hwangju-up",
+    "alternatenames": "Hwangju,Hwangju-up,Hwangju-ŭp,Koshu,Koshyu,Kosyu,Kōshū,Kōsyū,hwangjueub,황주읍",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1877030,
+    "name": "Hungnam",
+    "alternatenames": "Hungbong-ni,Hungdogi-dong,Hungdogil-tong,Hungdok-2-dong,Hungdok-tong,Hungdoki-dong,Hungdong-ni,Hungnam,Hungnam-dong,Hungnam-ni,Hungyam,Hŭngbong-ni,Hŭngdong-ni,Hŭngdŏgi-dong,Hŭngdŏgil-tong,Hŭngdŏk-2-dong,Hŭngdŏk-tong,Hŭngdŏki-dong,Hŭngnam,Hŭngnam-dong,Hŭngnam-ni,Konan,Kōnan,heunglam,흥람",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1877046,
+    "name": "Hukkyo-ri",
+    "alternatenames": "Hukkyo-ri,Hŭkkyo-ri,Kokkyo-ri,Kokkyō-ri,Kokukyori,heuggyoli,흑교리",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1877148,
+    "name": "Hoeyang",
+    "alternatenames": "Chunyang,Hoeyang,Hoeyang-up,Hoeyang-ŭp,Junyo,Waiyo,Waiyō,hoeyang,회양",
+    "subcountry": "Kangwŏn-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1877449,
+    "name": "Hamhung",
+    "alternatenames": "Hamheung,Hamhung,Hamhungas,Hamhungo,Hamhŭng,Hienhing,Kanko,Kankō,hamheung,hamheungsi,xian xing shi,咸興市,함흥,함흥시",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1877615,
+    "name": "Haeju",
+    "alternatenames": "Haeju,Hai-dschu,Hai-ju,Hai-tjyou,Haijuube,Haitcheou,Kaishu,Kaishū,Khehdzhu,haeju,Хэджу,해주",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1877872,
+    "name": "Chunghwa",
+    "alternatenames": "Chunghwa,Chunghwa-up,Chunghwa-ŭp,Chuwa,Chūwa,junghwa,중화",
+    "subcountry": "Pyongyang"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1878389,
+    "name": "Chongju",
+    "alternatenames": "Chongju,Chongju-up,Chŏngju,Chŏngju-ŭp,Teishu,Teishū,Teisyu,Teisyū,jeongju,정주",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1879029,
+    "name": "Changyon",
+    "alternatenames": "Changyon,Changyon-up,Changyŏn,Changyŏn-ŭp,Choen,Chōen,Tschang-jon,Tschang-jön,jang-yeon,장연",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1879487,
+    "name": "Chaeryong-up",
+    "alternatenames": "Chaenyong,Chaenyŏng,Chaeryong,Chaeryong-up,Chaeryŏng,Chaeryŏng-ŭp,Cheyong,Sainei,Sainei-men,Sainei-yu,Sainei-yū,jaelyeong-eub,재령읍",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1879544,
+    "name": "Ayang-ni",
+    "alternatenames": "Ayang-ni,Gayo-ri,Gayō-ri,ayangli,아양리",
+    "subcountry": "Hwanghae-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1879613,
+    "name": "Anju",
+    "alternatenames": "Aanshu,An-dschu,Anju,Anju-up,Anju-ŭp,Anshu,Anshū,Ansyu,Ansyu Yu,Ansyū,Ansyū Yū,anju,안주",
+    "subcountry": "South Pyongan"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1879672,
+    "name": "Anbyon-up",
+    "alternatenames": "Ampen,Anbyon,Anbyon-up,Anbyŏn,Anbyŏn-ŭp,Anhen,Anpen",
+    "subcountry": "Kangwŏn-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1879682,
+    "name": "Anak",
+    "alternatenames": "Aenak,Anag-up,Anag-ŭp,Anak,Anak-up,Anak-ŭp,Angaku,Nangaku,an-ag,안악",
+    "subcountry": "Hwanghae-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 1932058,
+    "name": "Sinsang-ni",
+    "alternatenames": "Sinsang-ni,sinsangli,신상리",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2038854,
+    "name": "Yuktae-dong",
+    "alternatenames": "Rokudaito-ri,Rokudaitō-ri,Yuktae-dong,Yuktae-nodongjagu,Yuktaedong-ni,Yuktaetong-ni",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2039557,
+    "name": "Ungsang-nodongjagu",
+    "alternatenames": "Ungsang-dong,Ungsang-ni,Ungsang-nodongjagu,ungsanglodongjagu,웅상로동자구",
+    "subcountry": "Rason"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2039589,
+    "name": "Undok",
+    "alternatenames": "Eundeok,Hoeam,Hoeam-dong,Kaigan,Kaigan-do,Kaigan-dō,Kyonghung,Kyonghung Up,Kyŏnghŭng,Kyŏnghŭng Ŭp,Undog-up,Undok,eundeog,Ŭndŏg-ŭp,Ŭndŏk,은덕",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2039623,
+    "name": "Uiju",
+    "alternatenames": "Eui-chu,Gishu,Gishū,Gisyu,Gisyū,Ui-tsiu,Uiju,Uiju-up,Wi-dschu,Wi-ju,uiju,Ŭiju,Ŭiju-ŭp,의주",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2039625,
+    "name": "Uijin-dong",
+    "alternatenames": "Uijil-li,Uijin-dong,Uijin-ni,uijindong,uijinli,Ŭijil-li,Ŭijin-dong,Ŭijin-ni,의진동,의진리",
+    "subcountry": "Chagang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2040316,
+    "name": "Sungam-nodongjagu",
+    "alternatenames": "Kjong-song,Kjöng-söng,Kyeng-seng,Kyojo,Kyongsong,Kyongusogu,Kyozyo,Kyōjō,Kyōzyō,Kyŏngsŏng,Sungam-ni,Sungam-nodongjagu,Sŭngam-ni,Sŭngam-nodongjagu,seung-amlodongjagu,승암로동자구",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2040674,
+    "name": "Sonbong",
+    "alternatenames": "Ongei,Seonbong,Sonbon,Sonbong,Sonbong-up,Sŏnbong,Sŏnbong-ŭp,Unggi,Unggi-up,Unggi-yu,Yuki,Yūki,seonbong,Сонбон,선봉",
+    "subcountry": "Rason"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2040893,
+    "name": "Sinuiju",
+    "alternatenames": "New Eui-chu,Shingishu,Shingishū,Sin-eui-chu,Sin-gi-shu,Sineidzu,Sineidžu,Sinidzsu,Sinuiju,Sinyichju,Sinŭiju,Wi-dschu,Wi-ju,sin-uiju,sin-uijusi,xin yi zhou,xin yi zhou shi,新义州,新義州市,신의주,신의주시",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2041533,
+    "name": "Sakchu-up",
+    "alternatenames": "Sakchu,Sakchu-up,Sakchu-ŭp,Sakushu,Sakushū",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2041702,
+    "name": "Puryong",
+    "alternatenames": "Funei,Kuum-nodongjagu,Kuup-nodongjagu,Kuŭm-nodongjagu,Kuŭp-nodongjagu,Pu-rjong,Punyong,Punyŏng,Purong-dong,Puryong,Puryong-ni,Puryong-up,Puryŏng,Puryŏng-ŭp,Puyong,bulyeong,부령",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2041817,
+    "name": "Pukchil-lodongjagu",
+    "alternatenames": "Hokuchin,Puckchin,Pukch'ang,Pukchil-lodongjagu,Pukchin,Pukchin-nodongjagu,Pukch’ang,Pukutin,bugjinlodongjagu,북진로동자구",
+    "subcountry": "P'yŏngan-bukto"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042249,
+    "name": "Yonggwang-up",
+    "alternatenames": "Goro-ri,Gorō-ri,Oro,Oro-ri,Oro-up,Oro-ŭp,Yonggwang-up,Yongwang,Yŏnggwang-ŭp,Yŏngwang",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042267,
+    "name": "Onsong",
+    "alternatenames": "Kosong,Kosong-ni,Kosŏng,Kosŏng-ni,Onjo,Onjō,Onsong,Onsong-up,Onsŏng,Onsŏng-ŭp,onseong,온성",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042498,
+    "name": "Ranam",
+    "alternatenames": "Naman,Nanam,Ranam,lanam,Нанам,라남",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042503,
+    "name": "Namyang",
+    "alternatenames": "Namyang,Namyang-dong,nam-yang,남양",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042645,
+    "name": "Rajin",
+    "alternatenames": "Najin,Najin-up,Najin-ŭp,Radzin,Rajin,Rashin,Rasin,lajin,Радзин,라진",
+    "subcountry": "Rason"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042738,
+    "name": "Musan-up",
+    "alternatenames": "Mosan,Mozan,Musan,Musan-up,Musan-ŭp,musan-eub,무산읍",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042893,
+    "name": "Manp'o",
+    "alternatenames": "Mampochin,Manhochin,Manp'o,Manp'o-up,Manp'ojin,Manpochin,Manp’o,Manp’o-ŭp,Manp’ojin,Nanpaojin,manpo,만포",
+    "subcountry": "Chagang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042985,
+    "name": "Kyongwon",
+    "alternatenames": "Gyeongwon,Keigen,Kyongwon,Kyungwan,Kyungwon,Kyŏngwŏn,gyeong-won,경원",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2042987,
+    "name": "Kyongsong",
+    "alternatenames": "Churuonjan,Chuul,Chuuronjang,Chuŭl,Chuŭronjang,Kyongsong,Kyongsong-up,Kyŏngsŏng,Kyŏngsŏng-ŭp,Shuotsu,Shuotsuonjo,Shuotsuonjō,gyeongseong,경성",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043478,
+    "name": "Kimch'aek-si",
+    "alternatenames": "Kimch'aek,Kimch'aek-si,Kimch’aek,Kimch’aek-si,Siong-tschin,Siöng-tschin,Song-chin,Songjin,Sŏngjin,gimchaeg,gimchaegsi,김책,김책시",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043484,
+    "name": "Kilju",
+    "alternatenames": "Kichishu,Kichishū,Kil'dzhu,Kil-dschu,Kilchu,Kilchu-up,Kilchu-ŭp,Kilju,Kisshu,Kisshū,gilju,Кильджу,길주",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043531,
+    "name": "Kapsan-up",
+    "alternatenames": "Kapsan,Kapsan-up,Kapsan-ŭp,Kapsane-do,Kosan,Kozan,Kōsan,Kōzan,gabsan-eub,Капсане-до,갑산읍",
+    "subcountry": "Yanggang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043572,
+    "name": "Kanggye",
+    "alternatenames": "Kakai,Kang-ge,Kange,Kanggye,Kanggye-si,Kokai,Kōkai,gang-gye,gang-gyesi,jiang jie,jiang jie shi,Канге,江界,江界市,강계,강계시",
+    "subcountry": "Chagang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043677,
+    "name": "Iwon-up",
+    "alternatenames": "Gunsen,Iwon,Iwon-up,Iwŏn,Iwŏn-ŭp,Kunsen,Kunson,Kunsŏn,liwon,리원",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043755,
+    "name": "Rimgan-ni",
+    "alternatenames": "Imgang-dong,Imgangni,Rimgan-ni,imgangli,limgangli,림강리,임강리",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043835,
+    "name": "Hyesan-dong",
+    "alternatenames": "Hyesan-dong,Hyesandong,hyesandong,혜산동",
+    "subcountry": "Yanggang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043837,
+    "name": "Hyesan",
+    "alternatenames": "Hesanjin,Hyesan,Hyesan-si,Hyesanjin,Keisanchin,Keizan,Keizanchin,Keizantin,hui shan,hui shan shi,hyesan,hyesansi,恵山市,惠山,惠山市,혜산,혜산시",
+    "subcountry": "Yanggang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2043983,
+    "name": "Hungju-dong",
+    "alternatenames": "Hungju-dong,Hungju-ri,Hŭngju-dong,Hŭngju-ri,heungjudong,흥주동",
+    "subcountry": "Chagang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2044050,
+    "name": "Hongwon",
+    "alternatenames": "Hongwon,Hongwon-up,Hongwŏn,Hongwŏn-ŭp,Kogen,Kogon,Kōgen,hong-won,홍원",
+    "subcountry": "Hamgyŏng-namdo"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2044091,
+    "name": "Hoeryong",
+    "alternatenames": "Hoenyong,Hoenyŏng,Hoeryeong,Hoeryong,Hoeryong-up,Hoeryŏng,Hoeryŏng-ŭp,Kaeryong,Kaeryŏng,Kainei,Kainei-yu,Kainei-yŭ,Kwainei,hoelyeong,회령",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2044104,
+    "name": "Hoemul-li",
+    "alternatenames": "Hoemul-li,Hoemun-dong,Hoemun-ni,Kaibon,Kaibun-do,Kaibun-dŏ,hoemunli,회문리",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2044149,
+    "name": "Hau-ri",
+    "alternatenames": "Hau-ri,Haun-ni,Meisen,Menchkan,Menchkhon,Myonchon,Myongch'on,Myŏngch’ŏn,hauli,하우리",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2044757,
+    "name": "Chongjin",
+    "alternatenames": "Cchongdzin,Ch'ongjin,Cheongjin,Chkhonchzhine,Chkhondzhin,Chkhundzhin,Chongjin,Chonjin,Chonzhin',Chŏngjin,Ch’ŏngjin,Condzinas,Congjin,Cshongdzsin,RGO,Seishin,Seisin,Tschiun-tschan,Tschiün-tschan,ch xng cin,cheongjinsi,chwngjn,congjina,qing jin shi,Ĉongĵin,Čchongdžin,Čondžinas,Чонжинь,Чхонджин,Чхонджін,Чхончжине,Чхънджин,چونگجن,चोंग्जिन,ช็องจิน,清津市,청진시",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2045005,
+    "name": "Chasong",
+    "alternatenames": "Chasong,Chasong-up,Chasŏng,Chasŏng-ŭp,Jijo,Jijō,Tscha-song,Tscha-söng,Zizyo,Zizyō",
+    "subcountry": "Chagang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2045311,
+    "name": "Aoji",
+    "alternatenames": "Agochi,Agochi-do,Agochi-dŏ,Agoji-do,Agoji-dŏ,Aodi-ri,Aoji,Aoji-dong,Aoji-ri,aoji,aojili,Аоди-ри,아오지,아오지리",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2049653,
+    "name": "Sungjibaegam",
+    "alternatenames": "Seungjibaegam,Sungjibaegam,Sungjipaegam,Sŭngjibaegam,seungjibaeg-am,승지백암",
+    "subcountry": "Yanggang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 2050500,
+    "name": "Komusan Il-tong",
+    "alternatenames": "Gomusan Il-dong,Komusan 1-tong,Komusan Il-tong,gomusan1dong,고무산1동",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 6305399,
+    "name": "Song-dong",
+    "alternatenames": "Seongdong,Song-dong,Songjon,Sŏng-dong,Sŏngjŏn,seongdong,seongjeon,성동,성전",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 6305686,
+    "name": "Chungbong",
+    "alternatenames": "Chungbong,Jungbong,jungbong,중봉",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 6305713,
+    "name": "Sech'on",
+    "alternatenames": "Sech'on,Secheon,Sech’ŏn,secheon,세천",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12083759,
+    "name": "Hahoe-dong",
+    "alternatenames": "Hahoe-dong,Hahoedong,hahoedong,하회동",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12083797,
+    "name": "Kogonwon",
+    "alternatenames": "Kogonwon,Kogŏnwon,gogeon-won,고건원",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12083823,
+    "name": "Ryongdang",
+    "alternatenames": "Ryongdang,Yongdang,lyongdang,yongdang,룡당,용당",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12083895,
+    "name": "Sambong",
+    "alternatenames": "Sambong,sambong,삼봉",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12084874,
+    "name": "Kwirak",
+    "alternatenames": "Gwirak,Kwirak,gwilag,귀락",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12084881,
+    "name": "Ungsang",
+    "alternatenames": "Ungsang,ungsang,웅상",
+    "subcountry": "Rason"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12088116,
+    "name": "Namsan",
+    "alternatenames": "Namsan,namsan,남산",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12090378,
+    "name": "P'ungin",
+    "alternatenames": "P'ungin,Pungin,P’ungin,pung-in,풍인",
+    "subcountry": "Hambuk"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12120793,
+    "name": "Yongha",
+    "alternatenames": "Yongha,yongha,용하",
+    "subcountry": "Yanggang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12120961,
+    "name": "Nongnim",
+    "alternatenames": "Nongnim,noglim,녹림",
+    "subcountry": "Yanggang-do"
+  },
+  {
+    "country": "KP",
+    "geonameid": 12120994,
+    "name": "Rajuk",
+    "alternatenames": "Najuk,Rajuk,lajug,라죽",
+    "subcountry": "Yanggang-do"
+  }
+]

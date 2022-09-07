@@ -1,0 +1,471 @@
+[
+  {
+    "country": "ML",
+    "geonameid": 2448428,
+    "name": "Youwarou",
+    "alternatenames": "Youvarou,Youwarou,Yuwaru",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2448442,
+    "name": "Yorosso",
+    "alternatenames": "Joroso,Yorosso,Yɔrɔso,Йоросо",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2448489,
+    "name": "Yelimane",
+    "alternatenames": "EYL,Yelimane,Yelimani,Yélimané",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2448518,
+    "name": "Yanfolila",
+    "alternatenames": "Yanfolila",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2449060,
+    "name": "Tominian",
+    "alternatenames": "Tomina,Tominian,Tomiɲan",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2449067,
+    "name": "Timbuktu",
+    "alternatenames": "TOM,Timbocto,Timboctu,Timboctó,Timboctú,Timboektoe,Timbouctou,Timbuctoo,Timbuctu,Timbuctù,Timbuctú,Timbuktu,Timbuktuo,Timbuktú,Timbúktú,Timbûktû,Timpouktou,Tiombuctu,Tombouctou,Tombuctu,Tombuctú,Tombuktu,Tombutu,Tombutum,Tonbuktu,Tumutu,rrimbakrru,tang pu tu,thim bak tu,tibakatu,timabuktu,timbakatu,timbaktu,timbugtu,timpaktu,ting ba ke tu,tmbktw,tonbukutou,tymbwktw,tymbwqtw,Τιμπουκτού,Тимбукту,Томбукту,Тімбукту,טימבוקטו,تمبكتو,تیمبوکتو,ٹمبکٹو,टिंबक्टू,टिम्बकटू,तिमबुक्तु,ਤਿੰਬਕਤੂ,ટિમ્બક્ટુ,திம்பக்து,టింబక్టు,ಟಿಂಬಕ್ಟು,റ്റിംബക്റ്റൂ,ทิมบักตู,ტომბუქტუ,トンブクトゥ,廷巴克图,廷巴克圖,湯瀑圖,팀북투",
+    "subcountry": "Tombouctou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2449893,
+    "name": "Tessalit",
+    "alternatenames": "Tesalit,Tesaliti,Tessalit,tai sa li,Τεσσαλίτ,Тесалит,泰薩利",
+    "subcountry": "Kidal"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2449938,
+    "name": "Tenenkou",
+    "alternatenames": "Tenenkou,Ténenkou,Tɛnɛnkun",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2450173,
+    "name": "Taoudenni",
+    "alternatenames": "Taodeni,Taodenni,Taodéni,Taoudeni,Taoudenni,Taoudéni,Taudeni,Taudenio,Taudenis,Tawudeni,Taŭdenio,taudeni,tawdiny,tawdny,twdny,Таоденни,تاودني,تودني,تودنّي,تَوْدِنّي,タウデニ",
+    "subcountry": "Taoudénit"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2450849,
+    "name": "Sokolo",
+    "alternatenames": "Soala,Sokolo,Sokolon,Swala,Соколо",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2451185,
+    "name": "Sikasso",
+    "alternatenames": "KSS,Sikasas,Sikaso,Sikasso,shikaso,sikaso,sykasw,xi ka suo,Σικασσό,Сикасо,Сікасо,سيكاسو,سیکاسو,シカソ,錫卡索,시카소",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2451455,
+    "name": "Sagala",
+    "alternatenames": "Sagala,Segala,Segela,Seguela,Séguéla,Ségéla",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2451478,
+    "name": "Segou",
+    "alternatenames": "SZU,Segi,Segou,Segoukoro,Segu,Segú,Senkou,Ségou,Ségoukoro,sai gu,segu,sgw,syghw,Σεγκού,Сеги,Сегу,سيغو,سگو,セグー,塞古,세구",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2451778,
+    "name": "San",
+    "alternatenames": "San",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2451935,
+    "name": "Sagalo",
+    "alternatenames": "Sagallo,Sagalo",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2452510,
+    "name": "Ntossoni",
+    "alternatenames": "Ntosoni,Ntossoni",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2452651,
+    "name": "Nioro",
+    "alternatenames": "NIX,Nioro,Nioro du Sahel,Noiro,Ɲooro,Ɲòoro",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2452655,
+    "name": "Niono",
+    "alternatenames": "Niono,Ɲɔnɔ,Нионо",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2452830,
+    "name": "Niafunke",
+    "alternatenames": "Matounke,Niafounke,Niafounké,Niafunke,Niafunké,Ɲafunke",
+    "subcountry": "Tombouctou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2453044,
+    "name": "N'Debougou",
+    "alternatenames": "Debougou,Débougou,Ndebougou,Ndébougou",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2453079,
+    "name": "Nara",
+    "alternatenames": "NRM,Nara",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2453348,
+    "name": "Mopti",
+    "alternatenames": "MZI,Mopti,Moptis,Moti,Móti,Mɔputi,mo pu ti,mobti,moputi,mwbty,mwpty,Μοπτί,Мопти,Мопті,موبتي,موپتی,موپٹی,モプティ,莫普提,몹티",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2453383,
+    "name": "Molodo",
+    "alternatenames": "Molodo-Centre",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2453514,
+    "name": "Menaka",
+    "alternatenames": "Menaka,Ménaka,mei na ka,Μενακά,Менака,梅納卡",
+    "subcountry": "Ménaka"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2453662,
+    "name": "Markala",
+    "alternatenames": "Marakala,Markala",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2454268,
+    "name": "Koutiala",
+    "alternatenames": "KTX,Koutiala,Kucala,Kutiala,ku jia la,Кутиала,庫佳拉",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2454530,
+    "name": "Koulikoro",
+    "alternatenames": "Koulikoro,Koulikoro-Liberte,Koulikoro-Liberté,Kulikoras,Kulikoro,Kulikɔrɔ,Kulukɔrɔ,ku li ke luo,kullikolo,kurikoro,kwlykwrw,Κουλικορό,Куликоро,Кулікоро,كوليكورو,کولیکورو,クリコロ,庫利科羅,쿨리코로",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2454545,
+    "name": "Koula",
+    "alternatenames": "Koula,Kula",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2454674,
+    "name": "Koro",
+    "alternatenames": "Koro",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2454934,
+    "name": "Kolondieba",
+    "alternatenames": "Kolondieba,Kolondiéba,Kɔlɔnjɛba",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2454955,
+    "name": "Kolokani",
+    "alternatenames": "Kokolani,Kolokani,Kɔlɔkanin,Колокани",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455055,
+    "name": "Kokofata",
+    "alternatenames": "Kokofata",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455216,
+    "name": "Kita",
+    "alternatenames": "Kita",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455290,
+    "name": "Kidal",
+    "alternatenames": "Kidal,Kidal',Kidali,Kidalis,Kintal,ji da er,kidal,kidaru,kydal,Κιντάλ,Кидаль,Кідаль,كيدال,کڈال,کیدال,キダル,基達爾,키달",
+    "subcountry": "Kidal"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455438,
+    "name": "Kenenkoun",
+    "alternatenames": "Kenenkou,Kenenkoun,Keninkou,Kènènkoun,Kénenkou,Kéninkou",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455456,
+    "name": "Kinmparana",
+    "alternatenames": "Kemparana,Kimpanana,Kimparala,Kimparana,Kinmparana",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455465,
+    "name": "Ke-Macina",
+    "alternatenames": "Ke Machine,Ke Macina,Ke Massina,Ke-Macina,Ke-Masina,Ke-Masino,Ké Macina,Ké Massina,Ké-Macina,Kɛɛmasina,Kɛ̀ɛmasina",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455518,
+    "name": "Kayes",
+    "alternatenames": "KYS,Kaes,Kagies,Kajes,Kajesas,Kayes,Kayi,Káyì,ka yi,kai,kays,keseu,kyz,Καγιές,Каес,Кайес,Каєс,كايس,کایس,کیز,კაესი,カイ,卡伊,케스",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455558,
+    "name": "Kati",
+    "alternatenames": "Kati,Kati Ville,Katis,ka di,katy,Кати,كاتي,卡蒂",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455735,
+    "name": "Kangaba",
+    "alternatenames": "Kaba,Kangaba,Kangara,Кангаба",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2455974,
+    "name": "Kadiolo",
+    "alternatenames": "Kadiolo,Kajolo",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2456871,
+    "name": "Gourma Rharous",
+    "alternatenames": "Ararusi,Gourma Rharous,Gourma-Barous,Gourma-Rarous,Gourma-Rharous,Rharous",
+    "subcountry": "Tombouctou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2456917,
+    "name": "Goundam",
+    "alternatenames": "GUD,Goundam,Gundamu",
+    "subcountry": "Tombouctou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2457163,
+    "name": "Gao",
+    "alternatenames": "GAQ,Gao,Gawo,Gàwó,Nkao,gao,gaw,gayw,jaw,jia ao,ka xo,Γκάο,Гао,Ґао,גאו,جاو,گائو,گاو,กาโอ,ガオ,加奥,가오",
+    "subcountry": "Gao"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2458274,
+    "name": "Doumba",
+    "alternatenames": "",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2458334,
+    "name": "Douentza",
+    "alternatenames": "Douentza,Douenza,Duwanza,Dúwanzà",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2458589,
+    "name": "Djenne",
+    "alternatenames": "Djenne,Djenné,Djénné,Jene,Jɛnɛ,Jɛ̀nɛ,dzhene,jnh,Джене,جنه",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2458623,
+    "name": "Dire",
+    "alternatenames": "Dire,Diré",
+    "subcountry": "Tombouctou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2458747,
+    "name": "Dioila",
+    "alternatenames": "Dioila,Dioïla,Dɔyila",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2458881,
+    "name": "Diema",
+    "alternatenames": "Diema,Diena,Diéma,Diéna,Jema,Jɛma",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2459657,
+    "name": "Bourem",
+    "alternatenames": "Bourem,Burem,Burɛmu",
+    "subcountry": "Gao"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2459775,
+    "name": "Bougouni",
+    "alternatenames": "Bougoum,Bougouni,Buguni,Bugunin",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460013,
+    "name": "Bla",
+    "alternatenames": "Bila,Bla",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460278,
+    "name": "Baroueli",
+    "alternatenames": "Barawuli,Baroueli,Barouéli,Barweli,Barwéli",
+    "subcountry": "Ségou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460401,
+    "name": "Bankass",
+    "alternatenames": "Bankas,Bankass,Bankasse,Bankassi,Bankassé",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460489,
+    "name": "Bandiagara",
+    "alternatenames": "Bandiagara,Banjagara,Bánjagara",
+    "subcountry": "Mopti"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460546,
+    "name": "Banamba",
+    "alternatenames": "Banamba,Bananba",
+    "subcountry": "Koulikoro"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460596,
+    "name": "Bamako",
+    "alternatenames": "BKO,Bamaco - Bamako,Bamakas,Bamako,Bamaku,Bamakó,Bamakɔ,Bammaco,Bammako,Bàmakɔ,Mpamako,ba ma ke,bamako,bamakw,bmqw,Μπαμάκο,Бамако,Բամակո,במקו,باماكو,باماکو,ባማኮ,バマコ,巴馬科,바마코",
+    "subcountry": "Bamako"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460755,
+    "name": "Bafoulabe",
+    "alternatenames": "Bafilabɛn,Bafoulabe,Bafoulabé,Bafulabe,Báfilabɛn",
+    "subcountry": "Kayes"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2460954,
+    "name": "Araouane",
+    "alternatenames": "Araouan,Araouane,Araoune,Arawan,arawan,أراوان",
+    "subcountry": "Tombouctou"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2461003,
+    "name": "Ansongo",
+    "alternatenames": "Ansongo",
+    "subcountry": "Gao"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2596472,
+    "name": "Abeibara",
+    "alternatenames": "Abeibara,Abeïbara",
+    "subcountry": "Kidal"
+  },
+  {
+    "country": "ML",
+    "geonameid": 2596483,
+    "name": "Inekar",
+    "alternatenames": "Inekar,Inekari,Inékar",
+    "subcountry": "Gao"
+  },
+  {
+    "country": "ML",
+    "geonameid": 8631807,
+    "name": "Ti-n-Essako",
+    "alternatenames": "Ti-n-Essako,Tin-Essako,Tinisako",
+    "subcountry": "Kidal"
+  },
+  {
+    "country": "ML",
+    "geonameid": 11280089,
+    "name": "Leleni",
+    "alternatenames": "",
+    "subcountry": "Sikasso"
+  },
+  {
+    "country": "ML",
+    "geonameid": 11477144,
+    "name": "Figuira-Toma",
+    "alternatenames": "",
+    "subcountry": "Bamako"
+  },
+  {
+    "country": "ML",
+    "geonameid": 12225168,
+    "name": "Werekela",
+    "alternatenames": "Werekela N8",
+    "subcountry": "Ségou"
+  }
+]

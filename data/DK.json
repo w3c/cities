@@ -1,0 +1,2809 @@
+[
+  {
+    "country": "DK",
+    "geonameid": 2609990,
+    "name": "Vra",
+    "alternatenames": "Vra,Vraa,Vrå",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610020,
+    "name": "Vordingborg",
+    "alternatenames": "Vordingborg,Вордингборг",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610025,
+    "name": "Vorbasse",
+    "alternatenames": "Vorbasse,Ворбассе",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610075,
+    "name": "Vojens",
+    "alternatenames": "SKS,Vojens",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610095,
+    "name": "Vodskov",
+    "alternatenames": "Vodskov",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610140,
+    "name": "Vissenbjerg",
+    "alternatenames": "Vissenbjerg,Vissenbjerg Kirke",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610159,
+    "name": "Virklund",
+    "alternatenames": "Virklund",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610162,
+    "name": "Vipperod",
+    "alternatenames": "Vipperod,Vipperød",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610189,
+    "name": "Vindinge",
+    "alternatenames": "Vindinge",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610196,
+    "name": "Vinderup",
+    "alternatenames": "Vinderup,Vinderup Garde,Vinderup Gårde",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610207,
+    "name": "Vindeby",
+    "alternatenames": "Vindeby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610259,
+    "name": "Vildbjerg",
+    "alternatenames": "Vilbjaerg,Vilbjerg,Vilbjærg,Vildbjerg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610307,
+    "name": "Videbaek",
+    "alternatenames": "Videbaek,Videbäk,Videbæk",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610311,
+    "name": "Viby",
+    "alternatenames": "Viby,Viby Sj,Viby Sjaelland,Viby Sjælland",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610319,
+    "name": "Viborg",
+    "alternatenames": "Vibor,Viborg,Viborga,Viborgas,Viburgo,Vimpornk,Wibergis,ZGX,biboleu,viborgi,vuibo,wei bao,Βίμποργκ,Вибор,Виборг,Віборг,ویبو، ڈنمارک,ვიბორგი,ヴィボー,維堡,비보르",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610328,
+    "name": "Vaeggerlose",
+    "alternatenames": "Vaeggerlose,Vigerlose,Vigerlöse,Væggerløse",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610380,
+    "name": "Vester-Skerninge",
+    "alternatenames": "Vester-Skerninge,West Skjerninge",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610437,
+    "name": "Vester Hassing",
+    "alternatenames": "Vester Hasing,Vester Hassing",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610499,
+    "name": "Vestbjerg",
+    "alternatenames": "QXF,Vestbjaerg,Vestbjerg,Vestbjærg",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610543,
+    "name": "Vemb",
+    "alternatenames": "Vem,Vemb",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610566,
+    "name": "Vekso",
+    "alternatenames": "Vekso,Veksø,Vikso,Viksø",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610613,
+    "name": "Vejle",
+    "alternatenames": "Vaile,Vailė,Vajle,Vejle,baille,vaile,vuaire,wa ai lei,waylh,wile,Вайле,Вајле,Вејле,وایله,ไวเล,ვაილე,ヴァイレ,瓦埃勒,바일레",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610634,
+    "name": "Vejen",
+    "alternatenames": "Comuna Vejen,Kommun Vejen,Municipi de Vejen,Munisipalitas Vejen,Vayen,Vejen,Vejen Chu-ti-chhi,Vejen Chū-tī-chhī,Vejen Kommune,Vejen Komuun,Vejen Municipality,Vejen kommune,Vejenin kunta,wa yi en zi zhi shi,Վայեն,ვეიენის მუნიციპალიტეტი,瓦伊恩自治市",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610726,
+    "name": "Varde",
+    "alternatenames": "Varde,Варде",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610734,
+    "name": "Vanlose",
+    "alternatenames": "Vanlose,Vanløse",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610760,
+    "name": "Vamdrup",
+    "alternatenames": "Vamdrup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610789,
+    "name": "Vallensbaek",
+    "alternatenames": "Vallensbaek,Vallensbæk",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610802,
+    "name": "Valby",
+    "alternatenames": "Val'bju,Valby,Вальбю",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610823,
+    "name": "Vadum",
+    "alternatenames": "Vadum",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610884,
+    "name": "Undlose",
+    "alternatenames": "Ondlose,Ondløse,Undlose,Undløse",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610908,
+    "name": "Ulstrup",
+    "alternatenames": "Ulstrup,Ulstrupbro",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610942,
+    "name": "Ullerslev",
+    "alternatenames": "Ullerslev",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2610959,
+    "name": "Ulfborg",
+    "alternatenames": "Ulborg,Ulfborg,Ulfkaer,Ulfkær,Ulvborg Stationsby",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611041,
+    "name": "Tylstrup",
+    "alternatenames": "Tylstrup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611132,
+    "name": "Tune",
+    "alternatenames": "Tune",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611189,
+    "name": "Trorod",
+    "alternatenames": "Trorod,Trørød",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611227,
+    "name": "Troense",
+    "alternatenames": "Troense",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611256,
+    "name": "Trige",
+    "alternatenames": "Trige",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611311,
+    "name": "Tranebjerg",
+    "alternatenames": "Tranebierg,Tranebjaerg,Tranebjerg,Tranebjærg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611316,
+    "name": "Tranbjerg",
+    "alternatenames": "Tranbjaerg,Tranbjerg,Tranbjerg J,Tranbjærg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611486,
+    "name": "Torring",
+    "alternatenames": "Nye Torring,Nye Törring,Torring,Torring Stationsby,Tørring,Tørring Stationsby",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611497,
+    "name": "Tonder",
+    "alternatenames": "Tender,Tjonner,Tonder,Tondern,Tuner,Tynne,Tønder,tndr  danmark,toeneleu,touna,Тендер,Тённер,تندر، دانمارک,トゥナー,퇴네르",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611509,
+    "name": "Tollose",
+    "alternatenames": "Tollose,Tollose Stationsby,Töllöse Stationsby,Tølløse",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611518,
+    "name": "Tommerup Stationsby",
+    "alternatenames": "Tommerup,Tommerup Stationsby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611520,
+    "name": "Tommerup",
+    "alternatenames": "Tommerup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611565,
+    "name": "Toftlund",
+    "alternatenames": "Toftlund",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611610,
+    "name": "Tjaereborg",
+    "alternatenames": "Tjaereborg,Tjb,Tjæreborg",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611651,
+    "name": "Tisvilde",
+    "alternatenames": "Tisvilde",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611653,
+    "name": "Tistrup",
+    "alternatenames": "Gammel Tistrup,Tistrup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611684,
+    "name": "Tinglev",
+    "alternatenames": "Tinglev",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611738,
+    "name": "Thyboron",
+    "alternatenames": "Thyboron,Thyborøn,Tyboron,Tyboron By,Tyborøn,Tyborøn By",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611742,
+    "name": "Thuro By",
+    "alternatenames": "Thuro,Thuro By,Thurø,Thurø By,Turo By,Turö By",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611747,
+    "name": "Thorso",
+    "alternatenames": "Thorso,Thorsø,Torso,Torsø",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611755,
+    "name": "Thisted",
+    "alternatenames": "TED,Thystad,Tisted",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611761,
+    "name": "Them",
+    "alternatenames": "Tem,Them",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611817,
+    "name": "Taulov",
+    "alternatenames": "Tavlov,Tavlov Nebel",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611828,
+    "name": "Taastrup",
+    "alternatenames": "Taastrup,Tastrup,Tåstrup,Тааструп",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611852,
+    "name": "Tars",
+    "alternatenames": "Taars,Tars,Tors,Tårs",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611862,
+    "name": "Tarnby",
+    "alternatenames": "Taarnby,Tarnby,Tornbju,Tårnby,Торнбю,ტორნბი",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611865,
+    "name": "Tarm",
+    "alternatenames": "Tarm",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611982,
+    "name": "Svogerslev",
+    "alternatenames": "Svogerslev",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611998,
+    "name": "Svinninge",
+    "alternatenames": "Svininge,Svinninge",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2611999,
+    "name": "Svinninge",
+    "alternatenames": "Svinninge",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612021,
+    "name": "Svenstrup",
+    "alternatenames": "Svenstrup,Svenstrup J",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612022,
+    "name": "Svenstrup",
+    "alternatenames": "Svendstrup,Svenstrup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612045,
+    "name": "Svendborg",
+    "alternatenames": "QXV,Svenborg,Svendborg,Svennborge,svenborgi,Свендборг,Свеннборге,სვენბორგი",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612053,
+    "name": "Svejbaek",
+    "alternatenames": "",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612057,
+    "name": "Svebolle",
+    "alternatenames": "Svebolle,Svebolle Stationsby,Svebølle,Svebølle Stationsby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612078,
+    "name": "Svaneke",
+    "alternatenames": "Svaneke",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612107,
+    "name": "Sunds",
+    "alternatenames": "Sunde,Sunds",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612130,
+    "name": "Sulsted",
+    "alternatenames": "QYQ,Sulsted",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612192,
+    "name": "Stubbekobing",
+    "alternatenames": "Stubbekiobing,Stubbekiöbing,Stubbekjobing,Stubbekjöbing,Stubbekobing,Stubbekøbing",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612204,
+    "name": "Struer",
+    "alternatenames": "Comuna Struer,Kommun Struer,Municipi de Struer,Munisipalitas Struer,QWQ,Struehr,Struer,Struer Chu-ti-chhi,Struer Chū-tī-chhī,Struer Kommune,Struer Komuun,Struer Municipality,Struer kommune,Struerin kunta,si chu e zi zhi shi,Струер,Струэр,斯楚厄自治市",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612211,
+    "name": "Stroby Egede",
+    "alternatenames": "Stroby Egede,Strøby Egede",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612224,
+    "name": "Strib",
+    "alternatenames": "Strib,Стриб",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612274,
+    "name": "Strandby",
+    "alternatenames": "Strandby",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612301,
+    "name": "Storvorde",
+    "alternatenames": "Storevorde,Storvorde",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612381,
+    "name": "Store Merlose",
+    "alternatenames": "Merlose,Merlöse,Store Merlose,Store Merløse",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612411,
+    "name": "Store Heddinge",
+    "alternatenames": "Store Hedinge",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612500,
+    "name": "Stovring",
+    "alternatenames": "",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612529,
+    "name": "Stoholm",
+    "alternatenames": "Stoholm",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612541,
+    "name": "Stilling",
+    "alternatenames": "Stilling",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612552,
+    "name": "Stige",
+    "alternatenames": "Stige",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612588,
+    "name": "Stensved",
+    "alternatenames": "Stensved",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612629,
+    "name": "Stenlose",
+    "alternatenames": "",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612633,
+    "name": "Stenlille",
+    "alternatenames": "Stenlille",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612689,
+    "name": "Stege",
+    "alternatenames": "Stege",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612695,
+    "name": "Stavtrup",
+    "alternatenames": "Stautrup,Stavtrup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612710,
+    "name": "Stavnsholt",
+    "alternatenames": "Stavnsholt",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612730,
+    "name": "Starup",
+    "alternatenames": "Starup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612823,
+    "name": "Spentrup",
+    "alternatenames": "Spentrup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612862,
+    "name": "Soro",
+    "alternatenames": "Sora,Sore,Sorey,Sorjo,Soro,Sorė,Sórey,soloe,sore,suo lei,Соре,Соро,Сорё,ソレ,索勒,소뢰",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2612955,
+    "name": "Sonderso",
+    "alternatenames": "Sonderse,Sonderso,Sönderse,Søndersø",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613102,
+    "name": "Sonderborg",
+    "alternatenames": "Munisipalitas Sonderborg,Munisipalitas Sønderborg,SGD,Senderborg,Sionderborgas,Sjonnenborg,Sjonnerborg,Soenderborg,Sonderborg,Sonderburg,Synneborre,Sønderborg,senabo,senerborgi,soeneleuboleu,Сендерборг,Сённенборг,Сённерборг,სენერბორგი,セナボー,쇠네르보르",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613106,
+    "name": "Sonder Bjert",
+    "alternatenames": "Bjaert,Bjert,Bjært,Sonder Bjert,Stenderup Halvoen,Stenderup Halvøen,Sønder Bjert",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613136,
+    "name": "Sollested",
+    "alternatenames": "Sollested,Søllested",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613172,
+    "name": "Soften",
+    "alternatenames": "Soften,Søften",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613233,
+    "name": "Solrod Strand",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613234,
+    "name": "Solrod",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613254,
+    "name": "Solbjerg",
+    "alternatenames": "Solbjaerg,Solbjærg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613293,
+    "name": "Snoghoj",
+    "alternatenames": "Snoghoj,Snoghøj",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613322,
+    "name": "Snejbjerg",
+    "alternatenames": "Snejbjaerg,Snejbjerg,Snejbjærg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613345,
+    "name": "Smorumnedre",
+    "alternatenames": "Smorum,Smorumnedre,Smørum,Smørumnedre",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613451,
+    "name": "Slangerup",
+    "alternatenames": "Gmina Slangerup,Slangerup",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613460,
+    "name": "Slagelse",
+    "alternatenames": "Slagel'se,Slagel'seh,Slagelse,si la e er se zi zhi shi,slagelse,Слагельсе,Слагельсэ,სლაგელსე,斯拉厄爾瑟自治市",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613471,
+    "name": "Skaevinge",
+    "alternatenames": "Gmina Skaevinge,Gmina Skævinge,Skaevinge,Skævinge",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613539,
+    "name": "Skaerbaek",
+    "alternatenames": "Scherrebek,Skaerbaek,Skærbæk",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613621,
+    "name": "Skovby",
+    "alternatenames": "Skovby,Skovby Ostj,Skovby Østj",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613672,
+    "name": "Skorping",
+    "alternatenames": "Gmina Skorping,Gmina Skørping,Skoerping,Skorping,Skorping Stationsby,Skörping,Skörping Stationsby,Skørping",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613685,
+    "name": "Skodsborg",
+    "alternatenames": "Skodsborg",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613694,
+    "name": "Skaelskor",
+    "alternatenames": "Skaelskor,Skjelskor,Skjelskör,Skælskør",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613715,
+    "name": "Skjern",
+    "alternatenames": "Gmina Skjern,STA,Skern,Skerne,Skjern",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613731,
+    "name": "Skive",
+    "alternatenames": "SQW,Skive,Скиве",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613766,
+    "name": "Skibby",
+    "alternatenames": "Skibby,Skiby",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613887,
+    "name": "Skanderborg",
+    "alternatenames": "Skanderborg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2613939,
+    "name": "Skagen",
+    "alternatenames": "QJV,Skagen,Skagenas,askagn,si ka en,skajn,Скаген,اسکاگن,سكاجن,斯卡恩",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614010,
+    "name": "Sindal",
+    "alternatenames": "CNL,Gmina Sindal,Sindal",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614030,
+    "name": "Silkeborg",
+    "alternatenames": "Sil'keborg,Silkeborg,Silkeborgas,XAH,shirukebo,silkeboleu,sylkybwrj,xi er ke bao,Силкеборг,Силькеборг,Сількеборг,سيلكيبورج,სილკებორგი,シルケボー,锡尔克堡,실케보르",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614135,
+    "name": "Seden",
+    "alternatenames": "Seden",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614172,
+    "name": "Saeby",
+    "alternatenames": "Saeby,Sæby",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614328,
+    "name": "Sakskobing",
+    "alternatenames": "Gmina Sakskobing,Gmina Sakskøbing,Sakskjobing,Sakskjøbing,Sakskobing,Sakskøbing,Saxkiobing,Saxkiöbing,Saxkjobing,Saxkjöbing",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614343,
+    "name": "Sabro",
+    "alternatenames": "Sabro",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614349,
+    "name": "Ryslinge",
+    "alternatenames": "Gmina Ryslinge,Ryslinge",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614353,
+    "name": "Ryomgard",
+    "alternatenames": "Ryomgaard,Ryomgard,Ryomgård,Ryumgaard,Ryumgard,Ryumgård",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614387,
+    "name": "Ry",
+    "alternatenames": "Ry,Rye,Rye Stationsby",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614432,
+    "name": "Rudkobing",
+    "alternatenames": "Rudkiobing,Rudkjobing,Rudkjöbing,Rudkobing,Rudkøbing",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614481,
+    "name": "Roskilde",
+    "alternatenames": "Hroarskelda,Hróarskelda,RKE,Roschildia,Roskil'de,Roskilde,Roskildė,Roskile,Roskille,loseukille,luo si ji lei,raskylh,rosukire,rx ski ld,Роскилде,Роскиле,Роскилле,Роскильде,Роскіле,Роскілле,Ռոսկիլդե,راسکیله,راسکیلے,รอสกิลด์,როსკილე,ロスキレ,罗斯基勒,로스킬레",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614515,
+    "name": "Rorvig",
+    "alternatenames": "Rorvig,Rørvig",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614547,
+    "name": "Ronnede",
+    "alternatenames": "Gmina Ronnede,Gmina Rønnede,Ronnede,Rønnede",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614553,
+    "name": "Ronne",
+    "alternatenames": "RNN,Rene,Renne,Rione,Rionė,Rjonne,Roneh,Ronne,Rønne,ZDY,rene,Рене,Ронэ,Рённе,レネ",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614565,
+    "name": "Ronde",
+    "alternatenames": "Ronde,Rønde",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614595,
+    "name": "Rodvig",
+    "alternatenames": "Rjodvig,Rodvig,Rødvig,Рёдвиг",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614600,
+    "name": "Rodovre",
+    "alternatenames": "Comuna Rodovre,Comuna Rødovre,Kommun Rodovre,Kommun Rødovre,Municipi de Rodovre,Municipi de Rødovre,Munisipalitas Rodovre,Munisipalitas Rødovre,Redovre,Rodovre,Rodovre Chu-ti-chhi,Rodovre Kommune,Rodovre Komuun,Rodovre Municipality,Rodovre koezseg,Rodovre kommune,Rodovren kunta,Rødovre,Rødovre Chū-tī-chhī,Rødovre Kommune,Rødovre Komuun,Rødovre Municipality,Rødovre kommune,Rødovre község,Rødovren kunta,lei zao lei zi zhi shi,Редовре,勒藻勒自治市",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614611,
+    "name": "Rodekro",
+    "alternatenames": "Gmina Rodekro,Gmina Rødekro,Rodekro,Rødekro",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614623,
+    "name": "Rodding",
+    "alternatenames": "Rodding,Rødding",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614624,
+    "name": "Rodbyhavn",
+    "alternatenames": "Rodby Havn,Rodbyhavn,Roedby-havn,Rødbyhavn",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614626,
+    "name": "Rodby",
+    "alternatenames": "Gmina Rodby,Gmina Rødby,Rodby,Rødby,lei ci bi,勒兹比",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614764,
+    "name": "Ringsted",
+    "alternatenames": "Ringsted,ling si tai ci,Рингстед,რინგსტედი,灵斯泰兹",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614776,
+    "name": "Ringkobing",
+    "alternatenames": "Ringkiobingas,Ringkjobing,Ringkjöbing,Ringkobing,Ringkøbing",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614790,
+    "name": "Ringe",
+    "alternatenames": "Ringe",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2614813,
+    "name": "Ribe",
+    "alternatenames": "Ribe,Ripar,Rípar,li bo,libe,ribe,rybh,Рибе,Рібе,ریبه,リーベ,里伯,리베",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615006,
+    "name": "Randers",
+    "alternatenames": "Randers,Randersa,Randersas,Raners,Ranners,Ranters,ZIR,lan ne si,laneleuseu,ra nex s,ranasu,randrs,ranersi,Ράντερς,Рандерс,Ранерс,Раннерс,راندرس,رانڈرز,ราเนอส์,რანერსი,ラナース,蘭訥斯,라네르스",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615023,
+    "name": "Ramlose",
+    "alternatenames": "Ramlose,Ramløse",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615089,
+    "name": "Praesto",
+    "alternatenames": "Gmina Praesto,Gmina Præstø,Praesto,Præstø",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615222,
+    "name": "Pandrup",
+    "alternatenames": "Gmina Pandrup,Panderup,Pandrup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615242,
+    "name": "Padborg",
+    "alternatenames": "Padborg,Падборг",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615267,
+    "name": "Outrup",
+    "alternatenames": "Ovtrup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615304,
+    "name": "Over Holluf",
+    "alternatenames": "Over Holluf",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615351,
+    "name": "Otterup",
+    "alternatenames": "Otterup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615359,
+    "name": "Osted",
+    "alternatenames": "Osted,Ousted",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615644,
+    "name": "Orum",
+    "alternatenames": "Orum,Ørum",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615666,
+    "name": "Orslev",
+    "alternatenames": "Orslev,Ørslev",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615718,
+    "name": "Orbaek",
+    "alternatenames": "Orbaek,Ørbæk",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615730,
+    "name": "Olstykke",
+    "alternatenames": "Olstykke,Ølstykke",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615736,
+    "name": "Olsted",
+    "alternatenames": "Olsted,Ølsted",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615749,
+    "name": "Olgod",
+    "alternatenames": "Gmina Olgod,Gmina Ølgod,OElgod,Olgod,Ölgod,Ølgod",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615859,
+    "name": "Oksbol",
+    "alternatenames": "Oksbol,Oksbøl,Oxbol,Oxbøl,Oxsbol,Oxsböl",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615876,
+    "name": "Odense",
+    "alternatenames": "ODE,Odehnseh,Odensa,Odense,Odensė,Odinsve,Ontense,Othania,Ottensee,adnsh,awdnsh,odense,odinse,ou deng sai,xo den se,Óðinsvé,Όντενσε,Оденсе,Одэнсэ,Օդենսե,אודנזה,أودنسه,ادنسه,اودنسے,اوڈینس,ओडिन्से,โอเดนเซ,ოდენსე,オーデンセ,欧登塞,오덴세",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615886,
+    "name": "Odder",
+    "alternatenames": "Odder,Оддер",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615911,
+    "name": "Nysted",
+    "alternatenames": "Nijsted,Nysted",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615932,
+    "name": "Nyrad",
+    "alternatenames": "Nyraad,Nyrad,Nyråd",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615961,
+    "name": "Nykobing Falster",
+    "alternatenames": "Nikebing Falster,Niukiobingas,Njukebing Fal'ster,Njukjobing,Nykjobing,Nykobing F,Nykobing Falster,Nykøbing F,Никебинг Фалстер,Нюкебінґ Фальстер,Нюкёбинг,ニュークビン・ファルスター",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615962,
+    "name": "Nykobing Sjaelland",
+    "alternatenames": "Nykiobing,Nykiöbing,Nykjobing,Nykjöbing,Nykobing Sj,Nykøbing Sj",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2615964,
+    "name": "Nykobing Mors",
+    "alternatenames": "Nykjobing,Nykjöbing,Nykobing,Nykobing M,Nykøbing,Nykøbing M",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616015,
+    "name": "Nyborg",
+    "alternatenames": "Niborg,Njuborg,Nyborg,ni bao zi zhi shi,Ниборг,Нюборг,尼堡自治市",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616038,
+    "name": "Naestved",
+    "alternatenames": "Naestved,Nestved,Nestvedas,nai si te wei ci,neseuteubedeu,nesutovuezu,Нествед,ნესტვედი,ネストヴェズ,奈斯特韦兹,네스트베드",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616172,
+    "name": "Nordby",
+    "alternatenames": "Nordby,Odden",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616176,
+    "name": "Nordborg",
+    "alternatenames": "Gmina Nordborg,Nordborg,Nordburg",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616235,
+    "name": "Norresundby",
+    "alternatenames": "Norresundby,Nørresundby,neresunbiu,ნერესუნბიუ",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616279,
+    "name": "Norre Nebel",
+    "alternatenames": "Norre Nebel,Nørre Nebel",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616349,
+    "name": "Norre Broby",
+    "alternatenames": "Broby,Norre Broby,Nørre Broby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616357,
+    "name": "Norre Bindslev",
+    "alternatenames": "Bindslev,Norre Bindslev,Nørre Bindslev",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616365,
+    "name": "Norre Alslev",
+    "alternatenames": "Gmina Norre Alslev,Gmina Nørre Alslev,Norre Alslev,Nørre Alslev",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616368,
+    "name": "Norre Aby",
+    "alternatenames": "Norre Aaby,Norre Aby,Nørre Aaby,Nørre Åby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616412,
+    "name": "Norager",
+    "alternatenames": "Norager,Norager Stationsby,Nörager Stationsby,Nørager",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616423,
+    "name": "Nodebo",
+    "alternatenames": "Nodebo,Nødebo",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616450,
+    "name": "Niva",
+    "alternatenames": "Niva,Nivaa,Nivå",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616483,
+    "name": "Nibe",
+    "alternatenames": "Nibe,Нибе",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616504,
+    "name": "Nexo",
+    "alternatenames": "Nekso,Neksø",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616518,
+    "name": "Neder Vindinge",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616540,
+    "name": "Neder Holluf",
+    "alternatenames": "Neder Holluf",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616599,
+    "name": "Nakskov",
+    "alternatenames": "Nakskov,Nakskovas,Naskov,Наксков",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616672,
+    "name": "Munkebo",
+    "alternatenames": "Munkebo",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2616933,
+    "name": "Middelfart",
+    "alternatenames": "Middel'fart,Миддельфарт",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617030,
+    "name": "Marstal",
+    "alternatenames": "Marstal,Marstal',Марсталь",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617034,
+    "name": "Marslet",
+    "alternatenames": "Maarslet,Marslet,Mårslet",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617072,
+    "name": "Maribo",
+    "alternatenames": "MRW,Maribo,Марибо,Марібо",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617076,
+    "name": "Mariager",
+    "alternatenames": "Gmina Mariager,Mariager,Мариагер",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617112,
+    "name": "Malov",
+    "alternatenames": "Maalov,Maaløv,Malov,Måløv",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617114,
+    "name": "Malling",
+    "alternatenames": "Malling",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617175,
+    "name": "Lystrup",
+    "alternatenames": "Lystrup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617176,
+    "name": "Lystrup",
+    "alternatenames": "Lystrup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617220,
+    "name": "Lynge",
+    "alternatenames": "Lynge",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617312,
+    "name": "Lunderskov",
+    "alternatenames": "Lunderskov",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617423,
+    "name": "Losning",
+    "alternatenames": "Losning,Løsning",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617443,
+    "name": "Lokken",
+    "alternatenames": "Lekken,Ljokken,Лёккен",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617450,
+    "name": "Lojt Kirkeby",
+    "alternatenames": "Loitkirkeby,Lojt,Lojt Kirkeby,Löjt,Løjt Kirkeby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617457,
+    "name": "Logumkloster",
+    "alternatenames": "Gmina Logumkloster,Gmina Løgumkloster,Loegumkloster,Logumkloster,Logumkloster Sogn,Lögumkloster,Løgumkloster,Løgumkloster Sogn",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617463,
+    "name": "Logten",
+    "alternatenames": "Logten,Løgten",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617464,
+    "name": "Logstrup",
+    "alternatenames": "Logstrup,Løgstrup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617467,
+    "name": "Logstor",
+    "alternatenames": "Gmina Logstor,Gmina Løgstør,Loegstoer,Logstor,Lögstör,Løgstør",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617538,
+    "name": "Liseleje",
+    "alternatenames": "Liseleje",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617543,
+    "name": "Lisbjerg",
+    "alternatenames": "Lisbjaerg,Lisbjerg,Lisbjærg",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617619,
+    "name": "Lind",
+    "alternatenames": "",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617626,
+    "name": "Vaerlose",
+    "alternatenames": "Lille Vaerlose,Lille Værløse,Vaerlose,Værløse",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617658,
+    "name": "Lillerod",
+    "alternatenames": "",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617812,
+    "name": "Lemvig",
+    "alternatenames": "Lemvig,Лемвиг",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617832,
+    "name": "Lejre",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617879,
+    "name": "Lasby",
+    "alternatenames": "Laasby,Lasby,Låsby",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617936,
+    "name": "Langeskov",
+    "alternatenames": "Langeskov",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2617981,
+    "name": "Langa",
+    "alternatenames": "Langa,Langaa,Langå",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618091,
+    "name": "Kvistgard",
+    "alternatenames": "Kvistgaard,Kvistgard,Kvistgård",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618148,
+    "name": "Krusa",
+    "alternatenames": "Krusa,Krusaa,Kruså",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618361,
+    "name": "Korsor",
+    "alternatenames": "Korser,Korsjor,Korsor,Korsør,Корсер,Корсёр",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618415,
+    "name": "Koge",
+    "alternatenames": "Kege,Keje,Kioge,Kiogė,Kjoge,Koge,Køge,ke e,koie,kyuge,Кеге,Кеје,Кёге,კეგე,キューゲ,克厄,코이에",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618425,
+    "name": "Copenhagen",
+    "alternatenames": "CPH,Cobanhavan,Copenaga,Copenaghen,Copenaguen,Copenhaga,Copenhagen,Copenhague,Copenhaguen,Copenhaguen - Kobenhavn,Copenhaguen - København,Cóbanhávan,Hafnia,Kapehngagen,Kaupmannahoefn,Kaupmannahöfn,Keypmannahavn,Kjobenhavn,Kjopenhamn,Kjøpenhamn,Kobenhamman,Kobenhaven,Kobenhavn,Kodan,Kodaň,Koebenhavn,Koeoepenhamina,Koepenhamn,Kopenage,Kopenchage,Kopengagen,Kopenhaagen,Kopenhag,Kopenhaga,Kopenhage,Kopenhagen,Kopenhagena,Kopenhago,Kopenhāgena,Kopenkhagen,Koppenhaga,Koppenhága,Kòpenhaga,Köbenhavn,Köpenhamn,Kööpenhamina,København,Københámman,ge ben ha gen,khopenheken,kopanahagana,kopenahagena,kopenahegena,kopenhagen,kwbnhaghn,kwpnhgn,qwpnhgn,Κοπεγχάγη,Капэнгаген,Копенгаген,Копенхаген,Կոպենհագեն,קופנהאגן,קופנהגן,كوبنهاغن,كوپېنھاگېن,ܟܘܦܢܗܓܢ,कोपनहागन,কোপেনহাগেন,কোপেনহেগেন,โคเปนเฮเกน,ཀའོ་པེན་ཧ་ཀེན,კოპენჰაგენი,ኮፐንሀገን,ኮፕንሀግ,コペンハーゲン,哥本哈根,코펜하겐",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618468,
+    "name": "Kongens Lyngby",
+    "alternatenames": "Kgs. Lyngby,Konigs Lyngby,Lyngby",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618489,
+    "name": "Kolt",
+    "alternatenames": "Kolt",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618528,
+    "name": "Kolding",
+    "alternatenames": "Kol'ding,Kol'dyng,Kolding,Koldinga,Koldingas,Koldingo,Kolling,ZBT,ke ling,khxleng,kolling,koringu,kwldngh,kwldyng,Колдинг,Коллинг,Кольдинг,Кольдынг,كولدنغ,کولدینگ,کولڈنگ,คอเลง,კოლინგი,コリング,科靈,콜링",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618545,
+    "name": "Kokkedal",
+    "alternatenames": "Kokkedal',Коккедаль",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618660,
+    "name": "Knabstrup",
+    "alternatenames": "Knabstrup,Knabstrup Stationsby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618718,
+    "name": "Klitmoller",
+    "alternatenames": "Klitmoller,Klitmøller",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618787,
+    "name": "Klarup",
+    "alternatenames": "Klarup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618814,
+    "name": "Kjellerup",
+    "alternatenames": "Kellerup,Kjellerup,QJW",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618872,
+    "name": "Kirke Hvalso",
+    "alternatenames": "Hvalso,Hvalsø",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618888,
+    "name": "Kirke-Esbonderup",
+    "alternatenames": "Esbonderup,Esbönderup,Kirke-Esbonderup,Kirke-Esbønderup",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618931,
+    "name": "Kibaek",
+    "alternatenames": "Kibaek,Kibæk",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2618944,
+    "name": "Kerteminde",
+    "alternatenames": "Kierteminde,Kjerteminde",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619061,
+    "name": "Kas",
+    "alternatenames": "Kaas,Kas,Kås",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619068,
+    "name": "Karup",
+    "alternatenames": "KRP,Karup,Karup J,Midtjylland,Каруп",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619154,
+    "name": "Kalundborg",
+    "alternatenames": "Kallundborg,Kalundborg",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619216,
+    "name": "Jyllinge",
+    "alternatenames": "Jyllinge",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619220,
+    "name": "Jyderup",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619221,
+    "name": "Jyderup",
+    "alternatenames": "Jyderup",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619251,
+    "name": "Juelsminde",
+    "alternatenames": "Juelsminde",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619287,
+    "name": "Jaegerspris",
+    "alternatenames": "Gmina Jaegerspris,Gmina Jægerspris,Jaegerspris,Jægerspris",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619340,
+    "name": "Jelling",
+    "alternatenames": "Eling,Elling,Gravhoegarna,Gravhögarna,Jelling,ieringu,ye ling,yylyn,Еллинг,Елінг,יילין,イェリング,耶靈",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619377,
+    "name": "Ishoj",
+    "alternatenames": "Ishoj,Ishøj",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619426,
+    "name": "Ikast",
+    "alternatenames": "QLZ",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619528,
+    "name": "Hvidovre",
+    "alternatenames": "Hvidovre,Khvidovre,Хвидовре",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619537,
+    "name": "Hvide Sande",
+    "alternatenames": "",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619624,
+    "name": "Hurup",
+    "alternatenames": "Hurup,Thy",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619650,
+    "name": "Hundested",
+    "alternatenames": "Gmina Hundested,Hundested",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619669,
+    "name": "Humlebaek",
+    "alternatenames": "",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619771,
+    "name": "Horsens",
+    "alternatenames": "Horsens,Horsensas,Khorsens,h xr sens,holeusenseu,horsensi,hosensu,huo er sen si,hwrsyns,hwrzns,Хорсенс,هورزنس,هورسينس,ہارسنز,ฮอร์เซนส์,ჰორსენსი,ホーセンス,霍尔森斯,호르센스",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619782,
+    "name": "Hornsyld",
+    "alternatenames": "Hornsyld",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619787,
+    "name": "Hornslet",
+    "alternatenames": "Hornslet",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619807,
+    "name": "Hornbaek",
+    "alternatenames": "Hornbaek,Hornbæk",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619844,
+    "name": "Horve",
+    "alternatenames": "Horv,Horve,Hørv,Hørve",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619845,
+    "name": "Horuphav",
+    "alternatenames": "Horuphav,Høruphav",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619856,
+    "name": "Horsholm",
+    "alternatenames": "Hiorsholmas,Horsholm,Hørsholm,Kherskhol'm,Khjorskhol'm,hersholmi,Херсхольм,Хёрсхольм,ჰერსჰოლმი",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619859,
+    "name": "Horning",
+    "alternatenames": "Horning,Hørning,Norre Horning,Nørre Hörning",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619860,
+    "name": "Horning",
+    "alternatenames": "Horning,Hørning",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619882,
+    "name": "Hong",
+    "alternatenames": "Gmina Hong,Gmina Høng,Hong,Høng",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619965,
+    "name": "Hojby",
+    "alternatenames": "Hojby,Højby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2619967,
+    "name": "Hojby",
+    "alternatenames": "",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620030,
+    "name": "Holte",
+    "alternatenames": "Holte,Ny-Holte",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620042,
+    "name": "Holsted",
+    "alternatenames": "Holsted",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620046,
+    "name": "Holstebro",
+    "alternatenames": "Holstebro,Khol'stebro,Kholstebro,Kholtesbro,QWO,huo er si te bu luo,Холстебро,Холтесбро,Хольстебро,ჰოლსტებრო,霍爾斯特布羅",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620134,
+    "name": "Holeby",
+    "alternatenames": "Gmina Holeby,Holeby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620147,
+    "name": "Holbaek",
+    "alternatenames": "Holbaek,Holbekas,Holbæk,Hollbaek,Hollbæk,Khol'bek,Kholbek,Холбек,Хольбек,ჰოლბეკი",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620167,
+    "name": "Hobro",
+    "alternatenames": "Hobro,Khobro,hwbrw,Хобро,هوبرو",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620186,
+    "name": "Hjortshoj",
+    "alternatenames": "Hjortshoj,Hjortshøj",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620210,
+    "name": "Hjordkaer",
+    "alternatenames": "Hjordkaer,Hjordkær",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620214,
+    "name": "Hjorring",
+    "alternatenames": "Hjoerring,Hjorring,Hjörring,Hjørring,Jering,Khjoring,ieringi,Јеринг,Хјоринг,იერინგი",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620275,
+    "name": "Hjallerup",
+    "alternatenames": "Hjallerup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620279,
+    "name": "Hirtshals",
+    "alternatenames": "Hirtshals,Khirtskhal's,Lilleheden Hornsnaes,Lilleheden Hornsnæs,XAJ,xi ci hai er si,Хиртсхальс,希茨海尔斯",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620287,
+    "name": "Hinnerup",
+    "alternatenames": "Hinnerup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620288,
+    "name": "Hinnerup",
+    "alternatenames": "Gmina Hinnerup,Hinnerup,Hinnerup-Broby,Khinnerup,Хиннеруп",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620320,
+    "name": "Hillerod",
+    "alternatenames": "Hillerod,Hillerød,Khillerod,hylrwd,Хиллерод,הילרוד",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620425,
+    "name": "Herning",
+    "alternatenames": "Gerning,Herning,Herningas,Kherning,Munisipalitas Herning,Munisipaliti Herning,ZRY,hai ning,heaningu,herningi,Гернінг,Хернинг,ჰერნინგი,ヘアニング,海宁",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620431,
+    "name": "Herlev",
+    "alternatenames": "Herlev",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620473,
+    "name": "Helsingor",
+    "alternatenames": "Elseneur,Elsinoer,Elsinor,Elsinore,Elsinör,Gel'singer,Helsingioras,Helsingjaeyri,Helsingoer,Helsingor,Helsingör,Helsingør,Khel'singjor,Khelsinger,he er xin ge,hel singnge xr,helsing-oeleu,helsingeri,herushingeru,hylysynkwr,xi xing jia,Гельсінгер,Хелсингер,Хельсингёр,Хельсінгёр,هيليسينكور,เฮลซิงเงอร์,ჰელსინგერი,ヘルシンゲル,希星加,赫爾辛格,헬싱외르",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620476,
+    "name": "Helsinge",
+    "alternatenames": "Khel'singe,Хельсинге",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620528,
+    "name": "Hellebaek",
+    "alternatenames": "Hellebaek,Hellebæk",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620583,
+    "name": "Hedensted",
+    "alternatenames": "",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620587,
+    "name": "Hedehusene",
+    "alternatenames": "Hedehusene",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620664,
+    "name": "Havdrup",
+    "alternatenames": "Havdrup",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620676,
+    "name": "Hatting",
+    "alternatenames": "Hatting",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620704,
+    "name": "Hasselager",
+    "alternatenames": "Hasselager",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620712,
+    "name": "Haslev",
+    "alternatenames": "Khaslev,Хаслев",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620750,
+    "name": "Harlev",
+    "alternatenames": "Harlev J,Harlev Stationsby",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620751,
+    "name": "Harlev",
+    "alternatenames": "Haarlev,Harlev,Hårlev",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620765,
+    "name": "Haarby",
+    "alternatenames": "Harby,Hårby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620767,
+    "name": "Harboore",
+    "alternatenames": "Harboor,Harboør",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620786,
+    "name": "Hanstholm",
+    "alternatenames": "Gmina Hanstholm,Hanstholm",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620814,
+    "name": "Hammerum",
+    "alternatenames": "Hammerum,Hamrum",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620835,
+    "name": "Hammel",
+    "alternatenames": "Gmina Hammel,Hammel,funmeru,フンメル",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620871,
+    "name": "Hals",
+    "alternatenames": "Hals",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620952,
+    "name": "Hadsund",
+    "alternatenames": "Gmina Hadsund,Hadsund,Hadsundas,Khadsund,Khadsunn,hadsuni,qi xin,Хадсунд,Хадсунн,ჰადსუნი,乞信",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620956,
+    "name": "Hadsten",
+    "alternatenames": "Hadsten Stationsby,Khadsten,Хадстен",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620964,
+    "name": "Haderslev",
+    "alternatenames": "Hadersleben,Haderslev,Haderslevas,Haderslevo,Khadehrsleu,Khaderslev,haderslevi,Хадерслев,Хадэрслеў,ჰადერსლევი",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2620997,
+    "name": "Gundsomagle",
+    "alternatenames": "Gundsomagle,Gundsømagle",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621072,
+    "name": "Guderup",
+    "alternatenames": "Guderup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621101,
+    "name": "Graested",
+    "alternatenames": "Graested,Græsted",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621193,
+    "name": "Grindsted",
+    "alternatenames": "Grindsted",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621215,
+    "name": "Greve",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621230,
+    "name": "Grenaa",
+    "alternatenames": "Grena,Grenaa,Grenå",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621258,
+    "name": "Grasten",
+    "alternatenames": "Gmina Grasten,Gmina Gråsten,Graasten,Grasten,Gravenstein,Gråsten",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621279,
+    "name": "Gram",
+    "alternatenames": "",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621304,
+    "name": "Gorlev",
+    "alternatenames": "Giorley,Gjorlev,Gjörlev,Gmina Gorlev,Gmina Gørlev,Gorlev,Gørlev",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621348,
+    "name": "Glumso",
+    "alternatenames": "Glumso,Glumsø",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621356,
+    "name": "Glostrup",
+    "alternatenames": "Comuna Glostrup,Glostrup,Glostrup Chu-ti-chhi,Glostrup Chū-tī-chhī,Glostrup Kommune,Glostrup Komuun,Glostrup Municipality,Glostrup koezseg,Glostrup kommuna,Glostrup kommune,Glostrup község,Glostrupin kunta,Glostrups kommun,Gmina Glostrup,Kommun Glostrup,Municipi de Glostrup,Munisipalitas Glostrup,ge luo si chu pu zi zhi shi,Глоструп,Գլոստրուպ,გლოსტრუპი,格洛斯楚普自治市",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621393,
+    "name": "Glamsbjerg",
+    "alternatenames": "Glamsbjaerg,Glamsbjerg,Glamsbjærg,Gmina Glamsbjerg",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621431,
+    "name": "Gjern",
+    "alternatenames": "Gern,Gjern,Gmina Gjern",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621435,
+    "name": "Gjellerup",
+    "alternatenames": "Gellerup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621436,
+    "name": "Gjellerup",
+    "alternatenames": "Gellerup,Gjellerup,Gjellerup Kirkeby",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621448,
+    "name": "Give",
+    "alternatenames": "Give",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621449,
+    "name": "Gistrup",
+    "alternatenames": "Gistrup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621471,
+    "name": "Gilleleje",
+    "alternatenames": "Gilleje,Gilleleje",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621478,
+    "name": "Gevninge",
+    "alternatenames": "Gevninge,Gjevninge",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621614,
+    "name": "Ganlose",
+    "alternatenames": "Ganlose,Ganløse",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621618,
+    "name": "Gandrup",
+    "alternatenames": "Ganderup,Gandrup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621710,
+    "name": "Galten",
+    "alternatenames": "Galten,Sonder Galten",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621727,
+    "name": "Gadstrup",
+    "alternatenames": "Gadstrup",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621805,
+    "name": "Fuglebjerg",
+    "alternatenames": "Fuglebaerg,Fuglebjerg,Fuglebærg,Gmina Fuglebjerg",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621896,
+    "name": "Frejlev",
+    "alternatenames": "Freilev,Frejlev",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621910,
+    "name": "Frederiksvaerk",
+    "alternatenames": "Frederiksvaerk,Frederiksværk",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621912,
+    "name": "Frederikssund",
+    "alternatenames": "Frederikssund,Frederikssunn,Frederiksund,Фредерикссунн,Фредериксунд",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621927,
+    "name": "Frederikshavn",
+    "alternatenames": "Fladstrand,Frederikshaunas,Frederikshavn kommuna,Frederikskhavn,Fredrikshamn,QFH,fei te lie gang,furezerikusuhaun,peuledeligseuhaun,prederikshavni,Фредериксхавн,ფრედერიქსჰავნი,フレゼリクスハウン,腓特烈港,프레데릭스하운",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621942,
+    "name": "Frederiksberg",
+    "alternatenames": "Frederiksberg,Frederiksberg Kommune,Frederiksbergin kunta,Frenteriksmpernk,fei te lie si bei,frydryksbrgh,peuledeligseubeleu,prederikʼsbergi,Φρέντερικσμπεργκ,Фредериксберг,Фредеріксберг,فريدريكسبرغ,فریڈرکسبرگ,ფრედერიკსბერგი,腓特烈斯贝,프레데릭스베르",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621945,
+    "name": "Frederiksberg",
+    "alternatenames": "Frederiksberg",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621951,
+    "name": "Fredericia",
+    "alternatenames": "Fredericia,Fredericija,Frederisija,ZBJ,furezerishia,peuledelisia,prederisia,Фредерисия,Фредериција,ფრედერისია,フレゼリシア,프레데리시아",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621956,
+    "name": "Fredensborg",
+    "alternatenames": "",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2621967,
+    "name": "Framlev",
+    "alternatenames": "",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622002,
+    "name": "Forlev",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622061,
+    "name": "Flong",
+    "alternatenames": "Flong,Fløng",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622139,
+    "name": "Fjerritslev",
+    "alternatenames": "Fjerreslev,Fjerritslev,Gmina Fjerritslev",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622226,
+    "name": "Fensmark",
+    "alternatenames": "",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622306,
+    "name": "Farum",
+    "alternatenames": "Farum,Фарум",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622310,
+    "name": "Farso",
+    "alternatenames": "Farso,Farsoe,Farsö,Farsø,Gmina Farso,Gmina Farsø",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622369,
+    "name": "Faxe Ladeplads",
+    "alternatenames": "Fakse Ladeplads,Faxe Havn",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622372,
+    "name": "Faxe",
+    "alternatenames": "Fakse,Faxe,Gmina Fakse,Факсе",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622383,
+    "name": "Faaborg",
+    "alternatenames": "Fabberg,Faborg,Fåborg",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622418,
+    "name": "Espergaerde",
+    "alternatenames": "Espergaerde,Espergjaerde,Espergjærde,Espergærde",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622431,
+    "name": "Eskilstrup",
+    "alternatenames": "Eskildstrup,Eskilstrup",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622447,
+    "name": "Esbjerg",
+    "alternatenames": "EBJ,Ehsb'erg,Esber,Esberg,Esbjaerg,Esbjerg,Esbjerga,Esbjergas,Esbjærg,Esbyerq,ai si bi yue,asbjrg,asbyrg,aysbyrgh,esbieri,eseubieleu,esubyau,xe sbiyer,Есбер,Есбєрг,Есбјерг,Эсбьерг,אסביירג,إيسبيرغ,اسبجرگ,اسبیرگ,เอสบีเยร์,ესბიერი,エスビャウ,埃斯比约,에스비에르",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622587,
+    "name": "Elling",
+    "alternatenames": "Elling",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622664,
+    "name": "Ejby",
+    "alternatenames": "Ejby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622665,
+    "name": "Ejby",
+    "alternatenames": "Ejby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622666,
+    "name": "Ejby",
+    "alternatenames": "Egby,Ejby,Gammel Ejby",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622686,
+    "name": "Egtved",
+    "alternatenames": "Egtved,Gmina Egtved",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622793,
+    "name": "Ebeltoft",
+    "alternatenames": "AEbeltoft,Ebeltoft kommune,Ehbel'toft,Æbeltoft,Эбельтофт",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622854,
+    "name": "Dybbol",
+    "alternatenames": "Dybbol,Dybbøl",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622888,
+    "name": "Dronninglund",
+    "alternatenames": "Dronninglund,Gmina Dronninglund",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2622937,
+    "name": "Dragor",
+    "alternatenames": "Dragjor,Dragoer,Dragor,Dragör,Dragør,de la e zi zhi shi,Драгёр,德拉厄自治市",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623028,
+    "name": "Dianalund",
+    "alternatenames": "Dianalund",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623181,
+    "name": "Christianshavn",
+    "alternatenames": "Christianshavn",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623183,
+    "name": "Christiansfeld",
+    "alternatenames": "Christianfeld,Christiansfeld,Gmina Christiansfeld",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623188,
+    "name": "Charlottenlund",
+    "alternatenames": "Charlottenlund",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623199,
+    "name": "Byrum",
+    "alternatenames": "Byrum",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623247,
+    "name": "Bullerup",
+    "alternatenames": "Bullerup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623267,
+    "name": "Buddinge",
+    "alternatenames": "",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623306,
+    "name": "Brovst",
+    "alternatenames": "Brovst,Gmina Brovst",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623321,
+    "name": "Brorup",
+    "alternatenames": "Brorup,Brørup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623337,
+    "name": "Bronderslev",
+    "alternatenames": "Bronderslev,Brønderslev,XAQ",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623340,
+    "name": "Brondbyvester",
+    "alternatenames": "Brondby,Brondbyvester,Brøndby,Brøndbyvester,West Brondby,West Bröndby",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623394,
+    "name": "Broager",
+    "alternatenames": "Broacker,Broager,Broager Sogn,Gmina Broager",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623432,
+    "name": "Brenderup",
+    "alternatenames": "Braenderup,Brenderup,Brenderup Fyn,Brænderup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623441,
+    "name": "Brejning",
+    "alternatenames": "Bregning,Brejning",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623486,
+    "name": "Bredsten",
+    "alternatenames": "Bredsten",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623516,
+    "name": "Braedstrup",
+    "alternatenames": "Braedstrup,Bredstrup,Brædstrup",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623554,
+    "name": "Brande",
+    "alternatenames": "Brande,Gmina Brande,ZMW",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623570,
+    "name": "Bramming",
+    "alternatenames": "Bramming,Bramminge,Bramminge Stationsby,Gmina Bramming",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623627,
+    "name": "Borup",
+    "alternatenames": "Borup,Tingtved-Borup",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623628,
+    "name": "Borup",
+    "alternatenames": "Borup",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623694,
+    "name": "Bording Kirkeby",
+    "alternatenames": "Bording,Bording Kirkeby,Borring",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623736,
+    "name": "Borkop",
+    "alternatenames": "Borkop,Børkop",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623857,
+    "name": "Bogense",
+    "alternatenames": "Bogense,Богенсе",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623905,
+    "name": "Blovstrod",
+    "alternatenames": "Blovstrod,Blovstrød",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623973,
+    "name": "Baekke",
+    "alternatenames": "Baekke,Bække",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2623978,
+    "name": "Bjaeverskov",
+    "alternatenames": "Bjaeverskov,Bjeverskov,Bjæverskov",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624019,
+    "name": "Bjerringbro",
+    "alternatenames": "Bjerringbro",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624112,
+    "name": "Birkerod",
+    "alternatenames": "Birkerod,Birkerød",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624144,
+    "name": "Billund",
+    "alternatenames": "BLL,Billund,Billunda,Billunn,Bilount,Bilundas,Gmina Billund,bi long,billun,bilundi,Μπιλούντ,Биллунн,ბილუნდი,比隆,빌룬",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624193,
+    "name": "Bellinge",
+    "alternatenames": "Bellinge",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624212,
+    "name": "Beder",
+    "alternatenames": "Beder,Бедер",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624341,
+    "name": "Ballerup",
+    "alternatenames": "Balerup,Balleru,Ballerup,Ballerup Belediyesi,Ballerup Chu-ti-chhi,Ballerup Chū-tī-chhī,Ballerup Kommune,Ballerup Komuun,Ballerup Municipality,Ballerup koezseg,Ballerup kommune,Ballerup község,Ballerupin kunta,Comuna Ballerup,Kommun Ballerup,Municipi de Ballerup,Munisipalitas Ballerup,Munisipaliti Ballerup,ba lei lu pu zi zhi shi,Բալերուպ,巴勒魯普自治市",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624419,
+    "name": "Avlum",
+    "alternatenames": "Aulum,Avlum",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624435,
+    "name": "Auning",
+    "alternatenames": "Auning,Avning",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624439,
+    "name": "Augustenborg",
+    "alternatenames": "Augustenborg,Gmina Augustenborg,Аугустенборг",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624499,
+    "name": "Assentoft",
+    "alternatenames": "Assentoft",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624502,
+    "name": "Assens",
+    "alternatenames": "Assens,Ассенс",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624521,
+    "name": "Asnaes",
+    "alternatenames": "Asnaes,Asnæs",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624587,
+    "name": "Arup",
+    "alternatenames": "Aarup,Arup,Årup",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624595,
+    "name": "Arslev",
+    "alternatenames": "Aarslev,Arslev,Årslev",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624602,
+    "name": "Aars",
+    "alternatenames": "Aars,Ars,Gmina Aars,asu,Års,アース",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624652,
+    "name": "Arhus",
+    "alternatenames": "ARR,Aarhus,Aarhusium,Archous,Arhus,Arhuzo,Arosar,Orhusa,Orhūsa,Orkhus,ao hu si,ofusu,Árósar,Århus,Άρχους,Орхус,אורהוס,オーフス,奥胡斯",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624660,
+    "name": "Arden",
+    "alternatenames": "Arden,Arden Stationsby",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624784,
+    "name": "Alsgarde",
+    "alternatenames": "Aalsgaard,Aalsgaarde,Alsgarde,Ålsgårde",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624819,
+    "name": "Allingabro",
+    "alternatenames": "Allingaabro,Allingabro,Allingåbro",
+    "subcountry": "Central Jutland"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624864,
+    "name": "Alestrup",
+    "alternatenames": "Aalestrup,Alestrup,Ålestrup",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624886,
+    "name": "Aalborg",
+    "alternatenames": "AAL,Aalborg,Alaborg,Alborg,Almpornk,Ol'barg,Ol'borg,Olbor,Olborg,Olborga,Olborgas,albrg,albw,albwrg,albwrgh,ao er bao,olboleu,olborgi,orubo,xx lb xr,Álaborg,Ålborg,Άλμποργκ,Олбор,Олборг,Ольбарг,Ольборг,Օլբորգ,אולבורג,آلبرگ,آلبو,آلبورغ,آلبورگ,ออลบอร์,ოლბორგი,オールボー,奥尔堡,올보르",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624896,
+    "name": "Albaek",
+    "alternatenames": "Aalbaek,Aalbæk,Albaek,Ålbæk",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624906,
+    "name": "Albertslund",
+    "alternatenames": "Al'bertslunn,Albertslun,Albertslund,Albertslund Chu-ti-chhi,Albertslund Chū-tī-chhī,Albertslund Kommune,Albertslund Komuun,Albertslund Municipality,Albertslund koezseg,Albertslund kommune,Albertslund község,Albertslundin kunta,Comuna Albertslund,Gmina Albertslund,Kommun Albertslund,Municipi dAlbertslund,Munisipalitas Albertslund,Munisipaliti Albertslund,a er bei te si long zi zhi shi,Альбертслунн,Ալբերտսլուն,شهر البرتس‌لاند,阿爾貝特斯隆自治市",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2624929,
+    "name": "Akirkeby",
+    "alternatenames": "Aakirkeby",
+    "subcountry": "Capital Region"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2625001,
+    "name": "AEroskobing",
+    "alternatenames": "AEroskiobing,AEroskjobing,AEroskobing,Æroskiobing,Æröskjöbing,Ærøskøbing",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2625037,
+    "name": "Abybro",
+    "alternatenames": "Aabybro,Abybro,Gmina Aabybro,Åbybro",
+    "subcountry": "North Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 2625070,
+    "name": "Aabenraa",
+    "alternatenames": "Aabenra,Aabenraa,Aabenrå,Abenra,Abenrá,Abrenra,Apenrade,Obenro,XNR,ao ben luo,obenlo,obenro,Åbenrå,Åbrenrå,Обенро,オーベンロー,奥本罗,오벤로",
+    "subcountry": "South Denmark"
+  },
+  {
+    "country": "DK",
+    "geonameid": 3229248,
+    "name": "Sundby",
+    "alternatenames": "Sundby",
+    "subcountry": "Zealand"
+  },
+  {
+    "country": "DK",
+    "geonameid": 8198686,
+    "name": "Christianso",
+    "alternatenames": "",
+    "subcountry": "Capital Region"
+  }
+]

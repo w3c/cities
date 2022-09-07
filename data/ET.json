@@ -1,0 +1,758 @@
+[
+  {
+    "country": "ET",
+    "geonameid": 325579,
+    "name": "Ziway",
+    "alternatenames": "Ziway,Zwai,Zway",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 325780,
+    "name": "Yirga `Alem",
+    "alternatenames": "Abosto,Agraria,Dalle,Irgalem,Yirga `Alem,Yirga ‘Alem,Yirgalem,Ābosto",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 326036,
+    "name": "Yabelo",
+    "alternatenames": "Iavello,Yabalo,Yabelo,Yabēlo,Yavello,Yavelo,Yeabelo,Yebelo,Yābalo",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 326206,
+    "name": "Werota",
+    "alternatenames": "Wereta,Wereta (2),Werota,Worota,Worrota",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 326259,
+    "name": "Were Ilu",
+    "alternatenames": "Uorra Ilu,Uorre Ilu,Wara Haylu,Wara Hāylu,Warayelu,Ware Ilu,Warra Hailu,Were Ilu,Were Īlu,Wereyilu,Woreyilu",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 326308,
+    "name": "Wenji",
+    "alternatenames": "Uongi,Wenji,Wenjī,Wonji",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 326321,
+    "name": "Wendo",
+    "alternatenames": "Uondo,Wando,Wendo,Wondo",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 327162,
+    "name": "Turmi",
+    "alternatenames": "Turmi,Турми",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 327234,
+    "name": "Tulu Bolo",
+    "alternatenames": "Masno Gabado,Tulu Bolo",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 327694,
+    "name": "Tepi",
+    "alternatenames": "TIE,Tepi,Tippi,Tēpī",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 328316,
+    "name": "Sire",
+    "alternatenames": "Sere,Seri,Serē,Sire,Sire (2),Siri,Sirie,Siriè,Sirre,Sīrē,Sīrē (2)",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 328689,
+    "name": "Shashemene",
+    "alternatenames": "Sciasciamanna,Sciasciamanne,Shashamana,Shashamane,Shashamani,Shashamanna,Shashamanni,Shashamané,Shashemene,Shashemenē,Shāshamani,ሻሸመኔ",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 328709,
+    "name": "Shambu",
+    "alternatenames": "Sciambo,Shambo,Shambu,Shembo,Shembu",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 328716,
+    "name": "Shakiso",
+    "alternatenames": "SKR,Shakiso,sha ji suo,沙基索",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 328880,
+    "name": "Sendafa",
+    "alternatenames": "Sandafe,Sendafa,Sendefa,Sendefà",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 329114,
+    "name": "Sebeta",
+    "alternatenames": "Sebeta",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 329586,
+    "name": "Robit",
+    "alternatenames": "",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 330120,
+    "name": "Nejo",
+    "alternatenames": "NEJ,Najo,Nedjo,Neggio,Nego,Nejo,Neju",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 330186,
+    "name": "Nazret",
+    "alternatenames": "Adama,Hadama,Nazareth,Nazret,Nazreth,Nazrēt",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 330491,
+    "name": "Mojo",
+    "alternatenames": "Maggio,Moccia,Modjo,Moggio,Mojjio,Mojjo,Mojo",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 330534,
+    "name": "Mizan Teferi",
+    "alternatenames": "MTF,Mesan,Mizan,Mizan Tafari,Mizan Teferi,Mizon Teferi,Mīzan Teferī",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 330764,
+    "name": "Metu",
+    "alternatenames": "Mattu,Mettu,Metu",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 330811,
+    "name": "Metahara",
+    "alternatenames": "Matahara,Matahārā,Metahara,Metahāra,Metehara",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 331038,
+    "name": "Mendi",
+    "alternatenames": "Mandi,Mendi,Mendī,NDM,Менди",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 331180,
+    "name": "Mek'ele",
+    "alternatenames": "MQX,Macalle,Macallè,Makale,Makalle,Maqale,Maqalle,Maqalē,Mehkehle,Mek'ele,Mekele,Mekelie,Mekelle,Mek’ele,me khele,mo ke lai,mqlh,Мекеле,Мэкэле,מקלה,میکیلے,เมเคเล,መቀሌ,默克萊",
+    "subcountry": "Tigray"
+  },
+  {
+    "country": "ET",
+    "geonameid": 331259,
+    "name": "Mega",
+    "alternatenames": "Mega,Megga,Mēga",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 331416,
+    "name": "Maych'ew",
+    "alternatenames": "Mai Ceu,Mai Chio,Mai Cio,Mai Ciò,Mai Keu,Maichew,Maitchew,Maych'awu,Maych'ew,Maych’awu,Maych’ew",
+    "subcountry": "Tigray"
+  },
+  {
+    "country": "ET",
+    "geonameid": 331968,
+    "name": "Lobuni",
+    "alternatenames": "Lobuni,Omorate,Оморате",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 332129,
+    "name": "Leku",
+    "alternatenames": "Leku,Locu",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 332288,
+    "name": "Lalibela",
+    "alternatenames": "Klippekirkerne i Lalibela,LLI,Labibela,Lalibala,Lalibehla,Lalibela,Lalībela,Lālibalā,la li bei la,Лалибела,Лалибэла,ላሊበላ,拉利貝拉",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 332746,
+    "name": "Korem",
+    "alternatenames": "Koram,Korem,Kworam,Quaram,Quoram,Quoram Vecchia,Quorem",
+    "subcountry": "Tigray"
+  },
+  {
+    "country": "ET",
+    "geonameid": 332817,
+    "name": "Konso",
+    "alternatenames": "Konso,Консо",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 332880,
+    "name": "K'olito",
+    "alternatenames": "Alaba,Alaba K'ulito,Alaba Kolito,Colito,Golito,Goluto,K'olito,K’olīto,Ālaba K’ulīto",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 332938,
+    "name": "Kofele",
+    "alternatenames": "Cofole,Kefole,Kofale,Kofele,Kofelē",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 333103,
+    "name": "Kibre Mengist",
+    "alternatenames": "Adola,Angedi,Kibre Mengist",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 333356,
+    "name": "Kemise",
+    "alternatenames": "Cascim,Kassebie,Kemise,Kemissie,Kemisē,Kemse,Kemsē",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 333373,
+    "name": "Kombolcha",
+    "alternatenames": "Cambolcia,Combolcha,Combolcia,DSE,Kambolcha,Kambolchā,Kembolcha,Kombol'cha,Kombolcah,Kombolcha,Комбольча",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 333750,
+    "name": "Jinka",
+    "alternatenames": "Jinka",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 333772,
+    "name": "Jimma",
+    "alternatenames": "Djimma,Gima,Gimma,JIM,Jima,Jimma,Jīma",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 333795,
+    "name": "Jijiga",
+    "alternatenames": "Djidjiga,Djigdjiga,Dschidschiga,Dzhidzhiga,Dzidziga,Dżidżiga,Džidžiga,Giggiga,Giggigga,Gigiga,JIJ,Jigjiga,Jigjigga,Jijiga,gygygh,ji ji jia,jijiga,jyjyga,Ĝiĝiga,Джиджига,גיגיגה,جیجیگا,ጅጅጋ,吉吉加,지지가",
+    "subcountry": "Somali"
+  },
+  {
+    "country": "ET",
+    "geonameid": 334227,
+    "name": "Inda Silase",
+    "alternatenames": "Enda Salassie,Enda Selase,Enda Selassie,Enda Selassye,Enda Sellassie,Endā Selāsē,Inda Selassie,Inda Silase,Inda Silasē,SHC,Shire Inda Silase,Shirē Inda Silasē,Ynda Syllase",
+    "subcountry": "Tigray"
+  },
+  {
+    "country": "ET",
+    "geonameid": 334529,
+    "name": "Huruta",
+    "alternatenames": "Hurruta,Huruta,Huruta (1),Uruta Mariam",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 334609,
+    "name": "Hosa'ina",
+    "alternatenames": "Hosa'ina,Hosaena,Hosana,Hosanna,Hosa’ina,Hossana,Hosseina,Hosāenā",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 334700,
+    "name": "Hirna",
+    "alternatenames": "Hirna,Hīrna",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 335035,
+    "name": "Harar",
+    "alternatenames": "Charar,Harar,Harar Jugol,Hararas,Harer,Harrar,Hārar,Hārer,Kharar,Kharehr,Kharer,ha lei er,halaleu,harara,harari,hararu,hrr,Χαράρ,Харар,Харер,Харэр,הרר,هرر,ہرار,हरार,ਹਾਰਰ,ჰარარი,ሐረር,ハラール,哈勒尔,하라르",
+    "subcountry": "Harari"
+  },
+  {
+    "country": "ET",
+    "geonameid": 335286,
+    "name": "Hagere Selam",
+    "alternatenames": "Agere Selam,Agheresalam,Hagere Selam,Hula,Hāgere Selam",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 335288,
+    "name": "Hagere Hiywet",
+    "alternatenames": "Agere Hiywet,Ambo,Hagere Hiwot,Hagere Hiywet,Hagere Hiywot,Hagere-Hiywer,Hāgere Hiywet,Āmbo",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 335943,
+    "name": "Gore",
+    "alternatenames": "GOR,Gannat,Genud,Gore,Gorei,Gorē,Gwore",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336014,
+    "name": "Gondar",
+    "alternatenames": "GDQ,Gondar,Gondehr,Gonder,Gonderas,Gondero,Gwender,Gwonder,Nkontair,gondaleu,gondaru,gong de er,gwndr,Γκόνταιρ,Гондар,Гондэр,גונדר,ጎንደር ከተማ,ゴンダール,貢德爾,곤다르",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336350,
+    "name": "Goba",
+    "alternatenames": "GOB,Goba,Gobba,Gobbà,Гоба",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336372,
+    "name": "Waliso",
+    "alternatenames": "Chitu,Ghion,Gion,Giyon,Guyon,Ualiso,Uoliso,Uolisò,Waliso,Walliso,Walso,Weliso,Welso,Welīso,Woliso,Wolisso,Wolliso",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336454,
+    "name": "Ginir",
+    "alternatenames": "GNN,Ghigner,Ghiignir,Ghimir,Ghinner,Ghinnir,Ginir,Ginnir,Ginnīr,Gīnīr",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336496,
+    "name": "Gimbi",
+    "alternatenames": "GHD,Gembi,Ghimbi,Gimbi,Gīmbī",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336526,
+    "name": "Gidole",
+    "alternatenames": "Ghidole,Ghidolie,Gidole,Gīdolē",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336745,
+    "name": "Gewane",
+    "alternatenames": "Gauani,Gawani,Gawāni,Gewane,Gewani,Gewanē,Gewanī,Gouani",
+    "subcountry": "Āfar"
+  },
+  {
+    "country": "ET",
+    "geonameid": 336931,
+    "name": "Genet",
+    "alternatenames": "Genet,Gennet,Holata,Holeta,Holetta,Hollatta,Holota,Holotā,Oletta,Zhenja,Женя",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337010,
+    "name": "Gelemso",
+    "alternatenames": "Galamso,Gelemso,Ghelemso,Ghelemsò",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337083,
+    "name": "Gedo",
+    "alternatenames": "Gedo,Ghedo,Gēdo",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337152,
+    "name": "Gebre Guracha",
+    "alternatenames": "Cuyu,Gabra Guracha,Gabre Guracha,Gebre Guracha,Kuyu",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337405,
+    "name": "Gambela",
+    "alternatenames": "GMB,Gambeila,Gambela,Gambele,Gambella,Gambēla,Гамбеле",
+    "subcountry": "Gambela"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337712,
+    "name": "Finote Selam",
+    "alternatenames": "Fenote Selam,Finote Selam",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337771,
+    "name": "Fiche",
+    "alternatenames": "Feche,Fechē,Ficce,Fice,Fiche,Fichē,Fitche",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 337853,
+    "name": "Felege Neway",
+    "alternatenames": "Felege Neway,Felege Niway,Sawla,Sawla Felege Neway",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 338554,
+    "name": "Dubti",
+    "alternatenames": "Dubti,Dubtī,Dufti,Dufty,Duftī",
+    "subcountry": "Āfar"
+  },
+  {
+    "country": "ET",
+    "geonameid": 338726,
+    "name": "Dodola",
+    "alternatenames": "Dodola,Dodolla,Dodolo,Додола",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 338832,
+    "name": "Dire Dawa",
+    "alternatenames": "D'ire Daua,DIR,Daredawa,Dirdabo,Dirdabò,Dire Daba,Dire Daua,Dire Dawa,Dire Dewa,Dire-Daoua,Direaoua,Diredavy,Dirediua,Diré-Daoua,Dirē Dawa,D’ire Daua,dile dawa,dyrt dawa,Диредавы,דירה דאווה,ديرة داوا,ድሬዳዋ,디레 다와",
+    "subcountry": "Dire Dawa"
+  },
+  {
+    "country": "ET",
+    "geonameid": 338998,
+    "name": "Dila",
+    "alternatenames": "Dila,Dilla,Dīla,Дила",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339219,
+    "name": "Dese",
+    "alternatenames": "Dase,Dasē,Dese,Desje,Dessa,Dessi,Dessie,Dessye,Desē,Desė",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339448,
+    "name": "Dembi Dolo",
+    "alternatenames": "DEM,Dambidollo,Dambidolo,Dembi Doilo,Dembi Dolo,Dembidollo,Dembilollo,Dembī Dolo,Saio",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339551,
+    "name": "Dejen",
+    "alternatenames": "Degen,Dejen,Dingab",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339629,
+    "name": "Deder",
+    "alternatenames": "Dadar,Deder",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339666,
+    "name": "Bishoftu",
+    "alternatenames": "Biscioftu,Biscioftù,Bishoftu,Debra Zeit,Debre Zeit,Debre Zeyit,Debre Zeyt",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339671,
+    "name": "Debre Werk'",
+    "alternatenames": "Dabra Wark',Dabra Wark’,Dabra-Warq,Debra Uerch,Debra Uorc,Debra Uorch,Debra Uork,Debra Wark,Debra Werk,Debra Work,Debre Werk',Debre Werk’",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339686,
+    "name": "Debre Tabor",
+    "alternatenames": "DBT,Dabra-Tabor,Dabra-Tābor,Debra Tabor,Debre Tabor,Samara",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339692,
+    "name": "Debre Sina",
+    "alternatenames": "Debra Sina,Debre Sina,Debre Sīna",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339708,
+    "name": "Debre Mark'os",
+    "alternatenames": "DBM,Dabra Marko's,Dabra Mārko’s,Dabra-7arqos,Dabra-7ārqos,Debra Marcos,Debra Markos,Debre Marcos,Debre Mark'os,Debre Mark’os,Moncorer,Monkorer",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339734,
+    "name": "Debre Birhan",
+    "alternatenames": "Dabra Berham,Dabra-Berhan,Dabra-Berhān,Debra Berham,Debra Berhan,Debra Birhan,Debra Brehan,Debre Berhan,Debre Birhan",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 339823,
+    "name": "Debark'",
+    "alternatenames": "Dabark',Dabarq,Dabārk’,Dabārq,Davark,Debarec,Debarech,Debarek,Debark',Debark’,Devark,Dibark",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 340358,
+    "name": "Dabat",
+    "alternatenames": "Dabat,Dabat (2),Dahat",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 341297,
+    "name": "Butajira",
+    "alternatenames": "Butajera,Butajira,Butajīra,Butlagira,Buttagira",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 341397,
+    "name": "Bure",
+    "alternatenames": "Bure,Burie,Burja,Burye,Burē,bwry,Буря,بوري",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 341742,
+    "name": "Bonga",
+    "alternatenames": "Bonga,Bonga (1),Bonga (2),Bonga(2),Бонга",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 341877,
+    "name": "Boditi",
+    "alternatenames": "Boditi,Boditti,Boditu,Bodity,Bodītī",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 342190,
+    "name": "Bichena",
+    "alternatenames": "Bechana,Bechanā,Biccena,Bichana,Bichena",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 342559,
+    "name": "Bedesa",
+    "alternatenames": "Bedesa,Bedessa,Bedēsa",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 342567,
+    "name": "Bedele",
+    "alternatenames": "Beddele,Bedele,Bedelle,Bedelli,Bedelē",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 342641,
+    "name": "Bati",
+    "alternatenames": "Bati,Batia,Batie,Batī",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 342856,
+    "name": "Bako",
+    "alternatenames": "Bachio,Baco,Baka,Bako,Бако",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 342884,
+    "name": "Bahir Dar",
+    "alternatenames": "BJR,Babardur Georgis,Bachr-Ntar,Bahar,Bahar Dar,Bahar Dar Ghiorghis,Baher Dar,Baherdar-Giyorgis,Bahir Dar,Bahr Dar,Bahrdar Giyergio,Bahrdar Giyorgis,Bahyr Dar,Bakhir Dar,Bakhr-Dar,Bāherdār-Giyorgis,ba he da er,bahileudaleu,bahr-dari,bhr dar,bhr dr,Μπαχρ-Νταρ,Бахир Дар,Бахр-Дар,בהר דר,بحر دار,ბაჰრ-დარი,ባሕር-ዳር,巴赫達爾,바히르다르",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343134,
+    "name": "Awash",
+    "alternatenames": "Auasc,Awash,Āwash",
+    "subcountry": "Āfar"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343137,
+    "name": "Hawassa",
+    "alternatenames": "AWA,Avase,Awasa,Awassa,Hawassa,Āwasa,ʼwwsh,Авасе,אווסה",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343292,
+    "name": "Asosa",
+    "alternatenames": "ASO,Asosa,Āsosa,Асоса",
+    "subcountry": "Bīnshangul Gumuz"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343402,
+    "name": "Asbe Teferi",
+    "alternatenames": "Asba Littorio,Asbar Tafari,Asbatafari,Asbe Taferi,Asbe Tefen,Asbe Teferi,Asebe Tafari,Asebe Teferi,Āsbe Teferī,Āsebe Teferī",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343409,
+    "name": "Asaita",
+    "alternatenames": "Aisaita,Asaita,Asajita,Asayita,Asayta,Assayita,Aysa'ita,Āsayita,Āysa’īta,Асайита",
+    "subcountry": "Āfar"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343413,
+    "name": "Asasa",
+    "alternatenames": "Asasa,Āsasa",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343593,
+    "name": "Areka",
+    "alternatenames": "Ancheto,Areka,Areka Ancheto,Āreka",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 343663,
+    "name": "Arba Minch",
+    "alternatenames": "AMH,Arba Mench,Arba Minch,Arba Mintch,Arba-Mynch,Gantar,Minghi,Арба-Мынч,አርባ ምንጭ",
+    "subcountry": "SNNPR"
+  },
+  {
+    "country": "ET",
+    "geonameid": 344420,
+    "name": "Axum",
+    "alternatenames": "AXU,Akesum,Aksoum,Aksum,Aksumo,Axum,akswm,Āksum,Аксум,أكسوم,አክሱም",
+    "subcountry": "Tigray"
+  },
+  {
+    "country": "ET",
+    "geonameid": 344620,
+    "name": "Hagere Maryam",
+    "alternatenames": "Agere Mariam,Agere Maryam,Aghere Mariam,Alga,Alge,Alghe,Algheremariam,Algā,Hagere Mariam,Āgere Maryam",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 344661,
+    "name": "Agaro",
+    "alternatenames": "Agaro,Aggaro,Aggarò,Āgaro",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 344923,
+    "name": "Adis Zemen",
+    "alternatenames": "Addis Zaman,Addis Zemen,Adis Zemen,Ādīs Zemen",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 344976,
+    "name": "Adis `Alem",
+    "alternatenames": "Addis Alem,Addis-Alam,Addis-Ālam,Adis `Alem,Ādīs ‘Alem",
+    "subcountry": "Oromiya"
+  },
+  {
+    "country": "ET",
+    "geonameid": 344979,
+    "name": "Addis Ababa",
+    "alternatenames": "ADD,Addis Ababa,Addis Abaeba,Addis Abbaba,Addis Abeba,Addis Abäba,Addis-Abeba,Addis-Abebae,Addisz-Abeba,Adis Ababa,Adis Abeba,Adis-Abebo,Adisabeba,Adís Abeba,Antis Ampempa,Finfinne,Neanthopolis,a di si a bei ba,addisa ababa,adisa ababa,adiseuababa,adisuabeba,adys ababa,Ādīs Ābeba,Αντίς Αμπέμπα,Аддис-Абебæ,Аддис-Абеба,Адис Абеба,Ադիս Աբեբա,אדיס אבבה,آدیس آبابا,أديس أبابا,ئەددىس -ئەبىبە,अदिस अबाबा,আদ্দিস আবাবা,አዲስ አበባ,アディスアベバ,阿迪斯阿貝巴,아디스아바바",
+    "subcountry": "Addis Ababa"
+  },
+  {
+    "country": "ET",
+    "geonameid": 345149,
+    "name": "Adigrat",
+    "alternatenames": "Adigrat",
+    "subcountry": "Tigray"
+  },
+  {
+    "country": "ET",
+    "geonameid": 345353,
+    "name": "Adet",
+    "alternatenames": "Addiet,Addiet Canna,Adet,Ādēt",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 345704,
+    "name": "Abomsa",
+    "alternatenames": "Abomsa,Abonsa",
+    "subcountry": "Amhara"
+  },
+  {
+    "country": "ET",
+    "geonameid": 6913519,
+    "name": "Semera",
+    "alternatenames": "SZE,Semera,semera,სემერა,ሰመራ",
+    "subcountry": "Āfar"
+  },
+  {
+    "country": "ET",
+    "geonameid": 7910079,
+    "name": "Sodo",
+    "alternatenames": "",
+    "subcountry": "SNNPR"
+  }
+]

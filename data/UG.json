@@ -1,0 +1,989 @@
+[
+  {
+    "country": "UG",
+    "geonameid": 225797,
+    "name": "Zombo",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 225835,
+    "name": "Yumbe",
+    "alternatenames": "Yumbe",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 225858,
+    "name": "Wobulenzi",
+    "alternatenames": "Wobolenzi,Wobulenzi,Wobulenzil",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 225964,
+    "name": "Wakiso",
+    "alternatenames": "Wakiso",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226110,
+    "name": "Tororo",
+    "alternatenames": "TRY,Tororas,Tororo,tololo,tororo,tuo luo luo,Тороро,トロロ,托罗罗,토로로",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226234,
+    "name": "Soroti",
+    "alternatenames": "SRT,Soroti,suo luo ti,swrwty,סורוטי,سوروتی,索羅提",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226267,
+    "name": "Sironko",
+    "alternatenames": "Siroko,Sironko,Solokho,Soloko,xi long ke,錫龍科",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226330,
+    "name": "Serere",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226361,
+    "name": "Sembabule",
+    "alternatenames": "Sembabule",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226600,
+    "name": "Rukungiri",
+    "alternatenames": "Kinyasano,Rukungire,Rukungiri",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226676,
+    "name": "Rubirizi",
+    "alternatenames": "Rubirizi",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226690,
+    "name": "Rubanda",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226727,
+    "name": "Rakai",
+    "alternatenames": "Rakai",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226823,
+    "name": "Pallisa",
+    "alternatenames": "Palissa,Pallisa,Паллиса",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226853,
+    "name": "Paidha",
+    "alternatenames": "Pai-ida,Paidha,Payida",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 226866,
+    "name": "Pader Palwo",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227528,
+    "name": "Nyachera",
+    "alternatenames": "Nyachera,Nyakyera",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227592,
+    "name": "Ntungamo",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227593,
+    "name": "Ntungamo",
+    "alternatenames": "Ntungamo",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227605,
+    "name": "Ntoroko",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227680,
+    "name": "Nsika",
+    "alternatenames": "Nsiika,Nsika,Nsiki",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227812,
+    "name": "Njeru",
+    "alternatenames": "Daru,Njeru",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227843,
+    "name": "Ngora",
+    "alternatenames": "Ngora",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 227904,
+    "name": "Nebbi",
+    "alternatenames": "Nebbi,Nebi",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228094,
+    "name": "Namutumba",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228227,
+    "name": "Namasuba",
+    "alternatenames": "",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228418,
+    "name": "Nakasongola",
+    "alternatenames": "Nakasongola",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228429,
+    "name": "Nakaseke",
+    "alternatenames": "Nakaseke",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228853,
+    "name": "Mukono",
+    "alternatenames": "Mukono",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228894,
+    "name": "Muhororo",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 228971,
+    "name": "Mubende",
+    "alternatenames": "Mubende,Mubendi,موبیندے",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229024,
+    "name": "Mpigi",
+    "alternatenames": "",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229059,
+    "name": "Moyo",
+    "alternatenames": "Moyo,OYG",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229112,
+    "name": "Moroto",
+    "alternatenames": "Maroto,Moroto",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229139,
+    "name": "Mityana",
+    "alternatenames": "Mit'jana,Mitiyana,Mityana,Митьяна",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229144,
+    "name": "Mitoma",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229268,
+    "name": "Mbarara",
+    "alternatenames": "Barara,MBQ,Mbarara,eumbalala,mbarara,Μπαράρα,Мбарара,مبارارا,მბარარა,음바라라",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229278,
+    "name": "Mbale",
+    "alternatenames": "Mbale,Mbalė,mu ba lai,Мбале,מבאלה,مبالے,姆巴萊",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229292,
+    "name": "Mayuge",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229361,
+    "name": "Masindi Port",
+    "alternatenames": "Masindi Port",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229362,
+    "name": "Masindi",
+    "alternatenames": "KCU,Masinai,Masindi,Masindis,masyndy,Масинди,ماسیندی",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229380,
+    "name": "Masaka",
+    "alternatenames": "Masaka,Masaki,Масака,Масаки",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229397,
+    "name": "Maracha",
+    "alternatenames": "Maraca,Maracha",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229599,
+    "name": "Lyantonde",
+    "alternatenames": "Lyantonde",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229630,
+    "name": "Lwengo",
+    "alternatenames": "Lwengo",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229746,
+    "name": "Luwero",
+    "alternatenames": "",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 229911,
+    "name": "Lugazi",
+    "alternatenames": "Lugazi,Lugazis,lwgazy,لوگازی",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230166,
+    "name": "Lira",
+    "alternatenames": "Lira,lyrh,Лира,לירה,لیرا، یوگنڈا",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230256,
+    "name": "Kyotera",
+    "alternatenames": "Kyotera",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230299,
+    "name": "Kyenjojo",
+    "alternatenames": "Kyanjojo,Kyenjojo,Kyonjojo",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230331,
+    "name": "Kyegegwa",
+    "alternatenames": "Kyegegwa",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230584,
+    "name": "Kumi",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230617,
+    "name": "Kotido",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230725,
+    "name": "Koboko",
+    "alternatenames": "Kaboko,Koboko",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230893,
+    "name": "Kitgum",
+    "alternatenames": "Kitgum,Kitgumo,Китгум",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 230993,
+    "name": "Kisoro",
+    "alternatenames": "Kisolo,Kisoro,kyswrw,کیسورو",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231083,
+    "name": "Kiryandongo",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231103,
+    "name": "Kiruhura",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231139,
+    "name": "Kireka",
+    "alternatenames": "Kireka",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231250,
+    "name": "Kilembe",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231426,
+    "name": "Kigorobya",
+    "alternatenames": "Kigorobya",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231532,
+    "name": "Kibuku",
+    "alternatenames": "Kibuku",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231550,
+    "name": "Kiboga",
+    "alternatenames": "Kiboga",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231554,
+    "name": "Kibingo",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231617,
+    "name": "Kibale",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231696,
+    "name": "Kayunga",
+    "alternatenames": "Kayunga",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 231947,
+    "name": "Katakwi",
+    "alternatenames": "Katakwi",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232066,
+    "name": "Kasese",
+    "alternatenames": "KSE,Kasese,Kasesė,ka sai sai,qssh,Касесе,קססה,کاسیسے,卡塞塞",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232235,
+    "name": "Kapchorwa",
+    "alternatenames": "Kapchorwa,Sabei,Sebei",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232287,
+    "name": "Kanungu",
+    "alternatenames": "Kanungu,Kinkizi,Makiro",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232307,
+    "name": "Kanoni",
+    "alternatenames": "Kanone,Kanoni",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232371,
+    "name": "Kamwenge",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232397,
+    "name": "Kamuli",
+    "alternatenames": "Kamuli",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232422,
+    "name": "Kampala",
+    "alternatenames": "Campala,IKampala,KLA,Kaempaala,Kambaala,Kampal,Kampala,Kampalo,Kanpala,kam pa la,kambala,kampala,kampalla,kan pa la,kanpara,kapala,kmbala,kmpala,qmplh,Καμπάλα,Кампала,Կամպալա,קאמפאלא,קמפלה,كامبالا,كامپالا,كمبالا,کامپالا,کمپالا,کمپالہ,कंपाला,कम्पाला,ਕੰਪਾਲਾ,କାମ୍ପାଲା,கம்பாலா,กัมปาลา,ཀམ་པ་ལ།,კამპალა,ካምፓላ,カンパラ,坎帕拉,캄팔라",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232490,
+    "name": "Kalungu",
+    "alternatenames": "",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232526,
+    "name": "Kaliro",
+    "alternatenames": "Kaliro",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232571,
+    "name": "Kalangala",
+    "alternatenames": "Kalangala",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232619,
+    "name": "Kakumiro",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232713,
+    "name": "Kajansi",
+    "alternatenames": "",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 232834,
+    "name": "Kagadi",
+    "alternatenames": "Kagadi",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233019,
+    "name": "Kaberamaido",
+    "alternatenames": "Kaberamaido,Kabiramaido",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233070,
+    "name": "Kabale",
+    "alternatenames": "Kabale,Kabalė,Кабале,קבאלה",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233093,
+    "name": "Kaabong",
+    "alternatenames": "Kaabong",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233114,
+    "name": "Jinja",
+    "alternatenames": "Dzhindzha,Dzindza,Džindža,JIN,Jinga,Jinja,Tzintza,gyngh,jin gu,jinja,Τζίντζα,Джинджа,גינגה,ジンジャ,金賈,진자",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233275,
+    "name": "Iganga",
+    "alternatenames": "Igang,Iganga,aganga,Иганга,اگانگا",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233299,
+    "name": "Ibanda",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233312,
+    "name": "Hoima",
+    "alternatenames": "Hoima,Khoima,Хоима,ہویما",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233346,
+    "name": "Gulu",
+    "alternatenames": "Gul,Gulu,Nkoulou,ULU,gu lu,gullu,gulu,gwlw,Γκουλού,Гул,Гулу,גולו,گولو,გულუ,古盧,굴루",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233382,
+    "name": "Gombe",
+    "alternatenames": "Gombe",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233476,
+    "name": "Fort Portal",
+    "alternatenames": "Fort Portal,Fort Portalas,Fort-Portal,Kabarole,poteupoteol,Форт-Портал,فورٹ پورٹل,フォート・ポータル,포트포털",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233508,
+    "name": "Entebbe",
+    "alternatenames": "EBB,Ehntebbe,Entebbe,Entebe,Entebė,antbh,antyby,en de pei,entebe,Ентеббе,Ентебе,Энтеббе,אנטבה,ענטעבע,إنتيبي,انتبه,انتیبے,အင်တက်ဘီမြို့,ენტებე,エンテベ,恩德培,엔테베",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233563,
+    "name": "Dokolo",
+    "alternatenames": "Dokolo",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233725,
+    "name": "Byakabanda",
+    "alternatenames": "Byakabanda,Kyakabanda",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233730,
+    "name": "Bwizibwera",
+    "alternatenames": "Bwizibwera",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233738,
+    "name": "Bweyogerere",
+    "alternatenames": "Bweyogerere",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233840,
+    "name": "Buyende",
+    "alternatenames": "Buyende",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233886,
+    "name": "Buwenge",
+    "alternatenames": "Buwenge",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 233982,
+    "name": "Butebo",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234004,
+    "name": "Butaleja",
+    "alternatenames": "Butaleja",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234077,
+    "name": "Busia",
+    "alternatenames": "Busia,Busla,bu xi ya,بوسیا، یوگنڈا,布西亞",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234081,
+    "name": "Bushenyi",
+    "alternatenames": "Bushenyi",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234092,
+    "name": "Busembatia",
+    "alternatenames": "Busembatia",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234178,
+    "name": "Bundibugyo",
+    "alternatenames": "Bundibugyo",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234259,
+    "name": "Bulisa",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234306,
+    "name": "Bulambuli",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234328,
+    "name": "Bukwa",
+    "alternatenames": "Bukwa,Bukwo",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234371,
+    "name": "Bukomansimbi",
+    "alternatenames": "Bukamba,Bukomansimbe,Bukomansimbi",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234412,
+    "name": "Bukedea",
+    "alternatenames": "Bukedea,Bukidea",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234480,
+    "name": "Buikwe",
+    "alternatenames": "Buikwe",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234565,
+    "name": "Bugiri",
+    "alternatenames": "Bugiri",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234578,
+    "name": "Bugembe",
+    "alternatenames": "Bugembe",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234637,
+    "name": "Bududa",
+    "alternatenames": "Baduda,Bududa",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234658,
+    "name": "Budaka",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 234769,
+    "name": "Binyiny",
+    "alternatenames": "Binyin,Binyiny",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235039,
+    "name": "Arua",
+    "alternatenames": "Arua,RUA,a lu a,alua,arwa,Аруа,اروا,阿鲁阿,아루아",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235130,
+    "name": "Apac",
+    "alternatenames": "Apac,Apach",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235186,
+    "name": "Amuria",
+    "alternatenames": "Amuria",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235191,
+    "name": "Amudat",
+    "alternatenames": "Amdat,Amudat",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235203,
+    "name": "Amolatar",
+    "alternatenames": "Amolatar,Amolitar,Amolota,Amolotar,Molitar",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235293,
+    "name": "Alebtong",
+    "alternatenames": "Alebtong,Alebtongo",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235489,
+    "name": "Adjumani",
+    "alternatenames": "Adjumani,Ajumani",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 235574,
+    "name": "Abim",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 448226,
+    "name": "Nakapiripirit",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 448227,
+    "name": "Pader",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 448232,
+    "name": "Margherita",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 448243,
+    "name": "Nwoya",
+    "alternatenames": "Nwoya",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 7911405,
+    "name": "Isingiro",
+    "alternatenames": "Isingiro",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 7911406,
+    "name": "Manafwa",
+    "alternatenames": "Manafwa",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 7911407,
+    "name": "Oyam",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8015635,
+    "name": "Amuru",
+    "alternatenames": "Amuru",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051532,
+    "name": "Namayingo",
+    "alternatenames": "",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051533,
+    "name": "Kitamilo",
+    "alternatenames": "Kitamilo",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051534,
+    "name": "Kyankwanzi",
+    "alternatenames": "Kyankwanzi",
+    "subcountry": "Central Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051535,
+    "name": "Kole",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051536,
+    "name": "Otuke",
+    "alternatenames": "Otuke",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051537,
+    "name": "Napak",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8051538,
+    "name": "Luuka Town",
+    "alternatenames": "Luuka Town",
+    "subcountry": "Eastern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8261527,
+    "name": "Buhweju",
+    "alternatenames": "",
+    "subcountry": "Western Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8261528,
+    "name": "Agago",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8261529,
+    "name": "Lamwo",
+    "alternatenames": "",
+    "subcountry": "Northern Region"
+  },
+  {
+    "country": "UG",
+    "geonameid": 8629026,
+    "name": "Kampala Central Division",
+    "alternatenames": "",
+    "subcountry": "Central Region"
+  }
+]

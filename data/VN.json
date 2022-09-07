@@ -1,0 +1,4496 @@
+[
+  {
+    "country": "VN",
+    "geonameid": 1560037,
+    "name": "Yen Vinh",
+    "alternatenames": "Yen Vinh,Yên Vinh",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560078,
+    "name": "Yen Thanh",
+    "alternatenames": "Yen Thanh,Yên Thành",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560143,
+    "name": "Yen Ninh",
+    "alternatenames": "Yen Ninh,Yên Ninh",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560166,
+    "name": "Thi Tran Yen Minh",
+    "alternatenames": "Thi Tran Yen Minh,Thị Trấn Yên Minh,Yen Minh,Yên Minh",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560227,
+    "name": "Yen Lac",
+    "alternatenames": "Yen Lac,Yên Lạc,Yến Lạc",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560229,
+    "name": "Yen Lac",
+    "alternatenames": "Yen Lac,Yên Lac,Yên Lạc",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560336,
+    "name": "Yen Chau",
+    "alternatenames": "Muong Vat,Yen Chau,Yên Châu",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560349,
+    "name": "Yen Bai",
+    "alternatenames": "Jenbaj,Yen Bai,Yen Bay,Yên Bái,Йенбай",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1560551,
+    "name": "Xuan Mai",
+    "alternatenames": "",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1561914,
+    "name": "Cai Doi Vam",
+    "alternatenames": "Cai Doi Vam,Cái Đôi Vàm,Xom Cai Doi Vam,Xóm Cái Đôi Vàm",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562176,
+    "name": "Trang Bom",
+    "alternatenames": "Trang Bom,Trảng Bom,Xa Trang Bom,Xã Trảng Bôm",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562308,
+    "name": "Gia Ray",
+    "alternatenames": "Gia Ray,Xa Gia Ray,Xã Gia Ray",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562414,
+    "name": "Vung Tau",
+    "alternatenames": "Cap-Saint-Jacques,Cape Saint James,Saint James,St. James,VTG,Ville du Cap,Vung Tau,Vungtau,Vũng Tàu,Xa Vung Tau,bungttau,buntau,tou dun shi,Вунгтау,ブンタウ,頭 頓市,붕따우",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562418,
+    "name": "Vung Liem",
+    "alternatenames": "Vung Liem,Vũng Liêm",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562456,
+    "name": "Vu Ban",
+    "alternatenames": "Vi Ban,Vi Bản,Vu Ban,Vụ Bản",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562464,
+    "name": "Vo Xu",
+    "alternatenames": "Vo Xu,Võ Xu,Xo Xu,Xõ Xu",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562538,
+    "name": "Vi Thanh",
+    "alternatenames": "Duc Long,Vi Tanh,Vi Thanh,Vị Thanh,Đức Long",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562548,
+    "name": "Vinh Yen",
+    "alternatenames": "Vieh Yen,Vinh Yen,Vĩnh Yên,Yen",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562568,
+    "name": "Thi Tran Vinh Tuy",
+    "alternatenames": "Thi Tran Vinh Tuy,Thị Trấn Vĩnh Tuy,Vinh Tuy,Vĩnh Tuy",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562592,
+    "name": "Vinh Thuan",
+    "alternatenames": "Vinh Thuan,Vĩnh Thuận",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562611,
+    "name": "Vinh Thanh",
+    "alternatenames": "Vinh Thanh,Vinh Thinh,Vĩnh Thạnh",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562693,
+    "name": "Vinh Long",
+    "alternatenames": "Vinh Long,Vĩnh Long,XVL",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562697,
+    "name": "Vinh Loc",
+    "alternatenames": "Nhan Lo,Vinh Loc,Vĩnh Lộc",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562773,
+    "name": "Vinh Chau",
+    "alternatenames": "Vinh Chau,Vĩnh Châu",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562782,
+    "name": "Vinh Binh",
+    "alternatenames": "Hoa Dong,Vinh Binh,Vinh Loi,Vĩnh Bình",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562798,
+    "name": "Vinh",
+    "alternatenames": "VII,Vin,Vin',Vinh,Vinis,bin,fynh,rong shi,vuin,wiy,wyn,wyn  wytnam,Вин,Винь,Вінь,וין,فينه,وین، ویتنام,وینہ,วิญ,ヴィン,荣市,빈",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562820,
+    "name": "Viet Tri",
+    "alternatenames": "Viet Tri,Vietri,Việt Trì",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1562984,
+    "name": "Van Quan",
+    "alternatenames": "Van Quan,Văn Quan",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563006,
+    "name": "Van Gia",
+    "alternatenames": "Van Gia,Van Ninh,Vạn Giã,Vạn Ninh",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563139,
+    "name": "Van Dinh",
+    "alternatenames": "Van Dinh,Vân Đình",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563141,
+    "name": "Van Dien",
+    "alternatenames": "Van Dien,Văn Điển",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563169,
+    "name": "Van Canh",
+    "alternatenames": "Van Canh,Vân Canh",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563241,
+    "name": "Thanh Pho Uong Bi",
+    "alternatenames": "Thanh Pho Uong Bi,Thành Phố Uông Bí,Uong Bi,Uông Bí",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563265,
+    "name": "Tuy Phuoc",
+    "alternatenames": "Trung Tin,Trung Tín,Tuy Phuoc,Tuy Phươc,Tuy Phước",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563281,
+    "name": "Tuy Hoa",
+    "alternatenames": "Chau Thanh,TBB,Thanh pho Tuy Hoa,Thuy Hoa,Thành phố Tuy Hòa,Toy Hoa,Tuikhoa,Tuy Hoa,Tuy Hòa,sui he shi,touihoa,Туихоа,トゥイホア,綏和市",
+    "subcountry": "Phú Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563287,
+    "name": "Tuyen Quang",
+    "alternatenames": "Thanh Pho Tuyen Quang,Thành Phố Tuyên Quang,Tuyen Kang,Tuyen Kwang,Tuyen Quang,Tuyên Quang",
+    "subcountry": "Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563359,
+    "name": "Hoa Binh",
+    "alternatenames": "Cua Rao,Cus Rao,Hoa Binh,Hòa Bình,Kua Rao,Tuong Duong,Tương Dương",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563370,
+    "name": "Tu Nghia",
+    "alternatenames": "La Ha,La Hà,Tu Nghia,Tư Nghĩa",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563704,
+    "name": "Thi Tran Trung Khanh",
+    "alternatenames": "Thi Tran Trung Khanh,Thị Trấn Trùng Khánh,Trung Khanh,Trung Khanh Phu,Trùng Khánh,Trùng Khánh Phủ",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563823,
+    "name": "Tri Ton",
+    "alternatenames": "Tri Ton,Tri Tôn",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563926,
+    "name": "Tra Vinh",
+    "alternatenames": "Phu Vinh,Phú Vinh,Tra Vin,Tra Vinh,Trà Vinh",
+    "subcountry": "Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1563977,
+    "name": "Tra On",
+    "alternatenames": "Tra On,Trà Ôn",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564046,
+    "name": "Trang Bang",
+    "alternatenames": "Trang Bang,Trảng Bàng",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564065,
+    "name": "Thi Tran Tram Tau",
+    "alternatenames": "Tham Tau,Thi Tran Tram Tau,Thị Trấn Trạm Tấu,Tram Tau,Trạm Tấu",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564070,
+    "name": "Tra My",
+    "alternatenames": "Hau Duc,Hậu Đúc,Tien Tra,Tiên Trà,Tra Mi,Tra My,Trà Mi,Trà My",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564075,
+    "name": "Tram Chim",
+    "alternatenames": "Tram Chim,Tràm Chim",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564238,
+    "name": "Tra Cu",
+    "alternatenames": "Huong Tra Cu,Hương Trà Cú,Tra Cu,Trà Cú",
+    "subcountry": "Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564257,
+    "name": "Tra Bong",
+    "alternatenames": "Tra Bong,Tra Xuan,Trà Bồng,Trà Xuân",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564548,
+    "name": "Tinh Gia",
+    "alternatenames": "Tinh Gia,Tĩnh Gia",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564576,
+    "name": "Tieu Can",
+    "alternatenames": "Tieu Can,Tiểu Cần",
+    "subcountry": "Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564629,
+    "name": "Tien Phuoc",
+    "alternatenames": "Phuoc An,Phước An,Tien Ky,Tien Phuoc,Tiên Kỳ,Tiên Phước",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564818,
+    "name": "Thu Thua",
+    "alternatenames": "Cho Thu Thua,Thu Thua,Thủ Thừa",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1564835,
+    "name": "Thuong Xuan",
+    "alternatenames": "Thuong Xuan,Thường Xuân",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565019,
+    "name": "Thu Duc",
+    "alternatenames": "Thu Duc,Thủ Đức",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565022,
+    "name": "Thu Dau Mot",
+    "alternatenames": "Phu Cuong,Phú Cường,Thu Dau Mot,Thủ Dầu Một,Tkhuzaumot,thu seiwhmt,touzaumotto,tu long mu shi she,tujeoumos,tw dayw mwt,Тхузаумот,تو دائو موت,تھو داو مؤت,ถูเสิ่วหมต,トゥーザウモット,土龍木市社,투저우못",
+    "subcountry": "Bình Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565115,
+    "name": "Tho Xuan",
+    "alternatenames": "Quan Phu,Tho Xuan,Thọ Xuân",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565136,
+    "name": "Thot Not",
+    "alternatenames": "Tho Not,Thot Not,Thốt Nốt",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565157,
+    "name": "Thoi Lai",
+    "alternatenames": "Thoi Lai,Thới Lai",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565164,
+    "name": "Thoi Binh",
+    "alternatenames": "Thoi Binh,Thot Binh,Thới Bình",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565760,
+    "name": "Ai Tu",
+    "alternatenames": "Ai Tu,Thon Ai Tu,Thôn Ái Tử,Ái Tử",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565969,
+    "name": "Thi Tran That Khe",
+    "alternatenames": "That Ke,That Khe,Thi Tran That Khe,Thất Khê,Thị Trấn Thất Khê",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1565992,
+    "name": "Than Uyen",
+    "alternatenames": "Muong Than,Than Huyen,Than Uven,Than Uvên,Than Uyen,Than Uyên",
+    "subcountry": "Lai Châu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566029,
+    "name": "Phu Loc",
+    "alternatenames": "Huyen Thanh Tri,Huyện Thạnh Trị,Phu Loc,Phú Lộc,Thanh Tr,Thạnh Tr",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566053,
+    "name": "Thanh Son",
+    "alternatenames": "Huyen Thanh Son,Huyện Thanh Sơn,Thanh Son,Thanh Sơn",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566078,
+    "name": "Thanh Phu",
+    "alternatenames": "Huong Thanh Phu,Hương Thạnh Phú,Phu,Phú,Thanh Phu,Thạnh Phú",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566083,
+    "name": "Ho Chi Minh City",
+    "alternatenames": "Cathair Ho Chi Minh,Cidade de Ho Chi Minh,Ciudad Ho Chi Minh,Gia GJinh,Gia Định,HCMC,HCMV,Ho Chi Minh,Ho Chi Minh City,Ho Chi Minh Ville,Ho Chi Minh-borg,Ho Chi Minh-byen,Ho Chi Minh-staden,Ho Chi Minhin kaupunki,Ho Chi Minhstad,Ho Ci Minovo Mesto,Ho Si Minh-varos,Ho Si Minh-város,Ho Či Minovo Město,Ho-Chi-Minh-Stadt,Ho-Chi-Minh-Ville,Ho-Ci-Min-urbo,Ho-Ĉi-Min-urbo,Hociminovo Mesto,Hosimina,Hosiminh,Hočiminovo Mesto,Hošimina,Hošiminh,Hô Chi Minh Ville,Hô-Chi-Minh-Ville,Hồ Chí Minhin kaupunki,Khoshimin,Kota Ho Chi Minh,Kota Hồ Chí Minh,SGN,Sai Gon,Saigon,Saïgon,Sài Gòn,TPHCM,Thanh pho Ho Chi Minh,Thành phố Hồ Chí Minh,hochimin,hochimin shi,hojjimin,hu zhi ming shi,hw z'y myn syty,mdynt hw tshy mynh,saigon,saygwn,Хошимин,הו צ'י מין סיטי,سايگون,مدينة هو تشي مينه,サイゴン,ホーチミン,ホーチミン市,胡志明市,호찌민,호치민",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566093,
+    "name": "Thanh Ne",
+    "alternatenames": "Thanh Ne,Thanh Nê",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566166,
+    "name": "Thanh Hoa",
+    "alternatenames": "THD,Than Hoa,Thanh Hoa,Thanh Hóa,Than” Hoa",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566206,
+    "name": "Thanh Chuong",
+    "alternatenames": "Thanh Chuong,Thanh Chương",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566226,
+    "name": "Thanh Binh",
+    "alternatenames": "Thanh Binh,Thanh Bình",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566319,
+    "name": "Thai Nguyen",
+    "alternatenames": "Taj-Nguen,Thai Nguyen,Thanh Pho Thai Nguyen,Thành Phố Thái Nguyên,Thái Nguyên,Тай-Нгуен",
+    "subcountry": "Thái Nguyên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566346,
+    "name": "Thai Binh",
+    "alternatenames": "Kua Loc,Taibinh,Thai Bin,Thai Binh,Thanh Pho Thai Binh,Thành Phố Thái Bình,Thái Bình",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566378,
+    "name": "Kim Tan",
+    "alternatenames": "Kim Tan,Kim Tân,Thach Thanh,Thạch Thành",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566411,
+    "name": "Thach Ha",
+    "alternatenames": "Thach Ha,Thạch Hà",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566559,
+    "name": "Tay Ninh",
+    "alternatenames": "Tai nin,Tay Ninh,Tehjnin',Tei Nin,Tây Ninh,Vilojati Tej Nin,tainin,tay nynha,tteoinin,xi ning shi,Вилояти Тей Нин,Тэйнинь,Тэйнінь,تای نینها,تاے ننہ,タイニン,西寧市,떠이닌",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566566,
+    "name": "Tay Ho",
+    "alternatenames": "Tay Ho,Tây Hồ",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566570,
+    "name": "Tay Dang",
+    "alternatenames": "Huyen Ba Vi,Huyện Ba Vì,Tay Dang,Tây Dắng,Tây Dằng,Tây Đằng",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566863,
+    "name": "GJai Tan",
+    "alternatenames": "",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566889,
+    "name": "GJam Doi",
+    "alternatenames": "Dam Doi,Tan Long,Tân Long,Xom Tan Long,Đầm Dơi",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566912,
+    "name": "Tan Ky",
+    "alternatenames": "Tan Ky,Tân Kỳ",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566958,
+    "name": "Tanh Linh",
+    "alternatenames": "Lac Tanh,Lạc Tánh,Tanh Linh,Thanh Linh,Tánh Linh,Xa Lac Tanh,Xã Lạc Tánh",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566962,
+    "name": "Tan Hiep",
+    "alternatenames": "Ben Tranh,Tan Hiep,Tân Hiệp",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1566963,
+    "name": "Tan Hiep",
+    "alternatenames": "Tan Hiep,Tân Hiệp",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567032,
+    "name": "Tan Chau",
+    "alternatenames": "Tan Chau,Tân Châu",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567069,
+    "name": "Tan An",
+    "alternatenames": "Tan,Tan Am,Tan An,Tân An,Тан",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567148,
+    "name": "Tam Ky",
+    "alternatenames": "Tam Ky,Tam Kỳ,Tanky",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567178,
+    "name": "Tam Dao",
+    "alternatenames": "Tam Dao,Tam Đảo,Trai Ngau",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567201,
+    "name": "Tam Binh",
+    "alternatenames": "Tam Binh,Tam Bình",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567221,
+    "name": "Thi Tran Ta Lung",
+    "alternatenames": "Ta Lung,Thi Tran Ta Lung,Thị Trấn Tà Lùng,Tà Lùng",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567617,
+    "name": "Son Tinh",
+    "alternatenames": "Son Tinh,Sơn Tịnh",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567621,
+    "name": "Son Tay",
+    "alternatenames": "Son Tay,Son-Taj,Sontai,Sơn Tây,Сон-Тай",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567646,
+    "name": "Son Ha",
+    "alternatenames": "La Lang,Le Lang,Son Ha,Sơn Hà",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567649,
+    "name": "Son Duong",
+    "alternatenames": "Dong Chau,Huyen Son Duong,Huyên Sơn Dương,Son Duong,Sơn Dương,Thuong Chau,Thượng Châu",
+    "subcountry": "Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567681,
+    "name": "Son La",
+    "alternatenames": "SQH,Son La,Son La Chau,Son Lu,Son-La,Sơn La,Thanh Pho Son La,Thành Phố Sơn La,shan luo shi,Сон-Ла,山羅市",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567701,
+    "name": "Song Ma",
+    "alternatenames": "Ban Na Nhiu,Bản Na Nhiu,Song Ma,Sông Mã",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567723,
+    "name": "Song Cau",
+    "alternatenames": "Bong Cau,Bông Cầu,Song Cau,Song Ka,Song Ko,Songkau,Sông Cầu",
+    "subcountry": "Phú Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567788,
+    "name": "Soc Trang",
+    "alternatenames": "Khanh Hong,Khanh Hung,Khánh Hưng,SOA,Shokchang,Soc Trang,Sok Trang,Sóc Trăng,Шокчанг",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567878,
+    "name": "Thi Tran Sin Ho",
+    "alternatenames": "Sin Ho,Sinh Ho,Sinh Hồ,Thi Tran Sin Ho,Thị Trấn Sìn Hồ,Tsin Ho,Tsin Hô,Tsinh Ho,Tsinh Hô",
+    "subcountry": "Lai Châu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1567902,
+    "name": "Si Ma Cai",
+    "alternatenames": "Ngam Pang,Si Ma Cai,Si Ma Kai,Sin Ma Kai,Sin Ma Kay",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568043,
+    "name": "Sa Pa",
+    "alternatenames": "Chapa,Sapa,Сапа",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568212,
+    "name": "Sa Dec",
+    "alternatenames": "Sa GJec,Sa Đéc",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568510,
+    "name": "Rach Gia",
+    "alternatenames": "Lit-ka-su,Li̍t-ka-sṳ,Rac'zja,Rach Gia,Rach Zhia,Racza,Racža,Rat'zja,Rạch Giá,VKG,Zhac Zhja,di shi shi,lagja,racha gya,rakkuza,rch gya,sak sa,Жаћ Жја,Ратьзя,Рацьзя,راچا گیا,رچ گیآ,สักซ้า,ラックザー,迪石市,락자",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568526,
+    "name": "Muong Chien",
+    "alternatenames": "Muong Chien,Mường Chiên,Quinh Nhai,Quynh Nhai,Quỳnh Nhai",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568540,
+    "name": "Quynh Coi",
+    "alternatenames": "Quynh Coi,Quỳnh Côi",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568574,
+    "name": "Qui Nhon",
+    "alternatenames": "Ki N'on,Ki N’on,Kin-hon,Kuinjon,Kwinhon,Qui Nhan,Qui Nhon,Qui Nhơn,Quinn Yan,Quinton,Quy Nhon,Quy Nhơn,UIH,gui ren shi,kku-inyeon,kuinyon,Куинён,クイニョン,歸仁市,꾸이년",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568593,
+    "name": "Quy Hop",
+    "alternatenames": "Qui Hop,Quy Hop,Quì Hợp,Quỳ Hợp",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568605,
+    "name": "Quy Dat",
+    "alternatenames": "Oui Dat,Qui Dat,Qui Đạt,Quy Dat,Quy Đạt",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568608,
+    "name": "Quy Chau",
+    "alternatenames": "Ke Bon,Phu Qui Chau,Qui Chau,Quy Chau,Quí Châu,Quỳ Châu,Qùy Chau",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568616,
+    "name": "Que Son",
+    "alternatenames": "Dong Phu,Que Son,Quế Sơn,Đông Phú",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568619,
+    "name": "Kim Son",
+    "alternatenames": "Kim Son,Kim Sơn,Que Phong,Quế Phong",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568706,
+    "name": "Quan Hoa",
+    "alternatenames": "Quan Hoa,Quan Hóa",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568717,
+    "name": "Quang Yen",
+    "alternatenames": "Kang Yen,Kwang Yen,Quang Yen,Quảng Yên",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568728,
+    "name": "Thi Tran Quang Uyen",
+    "alternatenames": "Quang Uyen,Quảng Uyên,Thi Tran Quang Uyen,Thị Trấn Quảng Uyên",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568737,
+    "name": "Ba Don",
+    "alternatenames": "Ba Don,Ba Đồn,Quang Trach,Quảng Trach",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568759,
+    "name": "Quan Hau",
+    "alternatenames": "Quan Hau,Quang Ninh,Quán Hàu,Quảng Ninh",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1568770,
+    "name": "Quang Ngai",
+    "alternatenames": "Kang Ngei,Kong-ngi-su,Kuangngaj,Kvang Ngaj,Kwang Ngai,Kóng-ngi-sṳ,Quang Ngai,Quảng Ngãi,Thanh pho Quang Ngai,Thành phố Quảng Ngãi,Vilojati Kuang Ngaj,guang yi shi,kkwang-eung-ai,kuangai,kwang ngay,Вилояти Куанг Нгай,Кванг Нгај,Куангнгай,کوانگ نگای,クアンガイ,廣義市,꽝응아이",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569620,
+    "name": "Plei Kan",
+    "alternatenames": "Plei Can,Plei Cần,Plei Kan,Plei Kần,Polei Kan,Pơlei Kan",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569684,
+    "name": "Pleiku",
+    "alternatenames": "Gia Lai,PXU,Play Cu,Play Ku,Plei Cu,Pleiku,Plejku,Plây Cu,Plây Ku,Po-loi-ku,Pô-lòi-kú,Tinh Pleiku,Tỉnh Pleiku,bo lai gu shi,pel yku,plykw,ppeullaeikku,pureiku,Плеику,Плейку,پلیکو,เปล็ยกู,プレイク,波來古市,쁠래이꾸",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569806,
+    "name": "Phu Yen",
+    "alternatenames": "Phu Yen,Phù Yên",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569850,
+    "name": "Phu Vang",
+    "alternatenames": "Phu Vang,Phú Vang",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569857,
+    "name": "Phu Tuc",
+    "alternatenames": "Ban Ba M'La,Ban Ba M’La,Phu Tuc,Phú Túc",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569898,
+    "name": "Phu Thong",
+    "alternatenames": "Phu Thong,Phủ Thông",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569901,
+    "name": "Phu Tho",
+    "alternatenames": "Pho Tho,Phu Tho,Phu To,Phú Thọ,Thi Xa Phu Tho,Thị Xã Phú Thọ",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569973,
+    "name": "Duong GJong",
+    "alternatenames": "Duong Dong,Duong-Dong,Dương Dông,Xom Duong Dong,Дуонг-Донг",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1569991,
+    "name": "Phu Phong",
+    "alternatenames": "Phu Phong,Phú Phong",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570178,
+    "name": "GJai GJong",
+    "alternatenames": "An Dinh,Phuoc Loc,Phước Lôc,Phước Lộc",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570243,
+    "name": "Phuoc An",
+    "alternatenames": "Phuoc An,Phước An",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570263,
+    "name": "Phu Ninh",
+    "alternatenames": "Ninh hiep,Phu Ninh,Phù Ninh",
+    "subcountry": ""
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570319,
+    "name": "Phung Hiep",
+    "alternatenames": "Cay Duong,Cây Dương,Phung Hiep,Phung Niep,Phuong Heip,Phụng Hiệp",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570352,
+    "name": "Phu My",
+    "alternatenames": "Phu My,Phù Mỹ",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570449,
+    "name": "Phu Ly",
+    "alternatenames": "Fu Li,Ha-Nam,Phu Ly,Phu-li,Phủ Lý,Thanh Pho Phu Ly,Thành Phố Phủ Lý",
+    "subcountry": "Hà Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570496,
+    "name": "Phu Loc",
+    "alternatenames": "Cao Doi Xa,Cao Đôi Xa,Phu Loc,Phú Lộc,Quan Phu Loc,Quan Phú Lộc",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570549,
+    "name": "Phu Khuong",
+    "alternatenames": "Phu Khuong,Phú Khương",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570656,
+    "name": "Phuc Yen",
+    "alternatenames": "Phuc Yen,Phúc Yên",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570752,
+    "name": "Phu Cat",
+    "alternatenames": "Ngo May,Ngô Mây,Phu Cat,Phù Cát",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570762,
+    "name": "GJai Cuong",
+    "alternatenames": "Phu Binh,Phu Thuan,Phú Bình",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570815,
+    "name": "Phong Tho",
+    "alternatenames": "Muong So,Phong Tho,Phong Thổ",
+    "subcountry": "Lai Châu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570863,
+    "name": "Phong Dien",
+    "alternatenames": "Phong Dien,Phong Điền",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570864,
+    "name": "Phong GJien",
+    "alternatenames": "Phong Dien,Phong Điền",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570880,
+    "name": "Thi Tran Pho Lu",
+    "alternatenames": "Pho Lu,Phu-Lu,Phố Lu,Thi Tran Pho Lu,Thị Trấn Phố Lu",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570901,
+    "name": "Pho Chau",
+    "alternatenames": "Cho Pho,Pho Chau,Phố Châu",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1570906,
+    "name": "Ben Sung",
+    "alternatenames": "Ben Sung,Bến Sung,Pho Ben Sung,Pho Beu Sung,Phố Bến Sung",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571029,
+    "name": "Phat Diem",
+    "alternatenames": "Fak Diem,Phat Diem,Phát Diệm",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571058,
+    "name": "Phan Thiet",
+    "alternatenames": "Fan Thiet,Fant'et,Fanthit,Fantiet,Phan Thiet,Phan Thiết,Phan Tiet,Xa Phan Thiet,pan qie,Фантьет,潘切",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571067,
+    "name": "Phan Rang-Thap Cham",
+    "alternatenames": "PHA,Phan Rang,Phan Rang- Thap Cham,Phan Rang-Thap Cham,Phan Rang-Tháp Chàm,Phan Ranh",
+    "subcountry": "Ninh Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571644,
+    "name": "O Mon",
+    "alternatenames": "O Mon,Phong Phu,Phong Phú,Ô Môn",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571725,
+    "name": "Thi Tran Nuoc Hai",
+    "alternatenames": "Hoa An,Nouc Hai,Nuoc Hai,Nước Hai,Thi Tran Nuoc Hai,Thị Trấn Nước Hai",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571768,
+    "name": "Nui Deo",
+    "alternatenames": "Nui Deo,Núi Đèo",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571825,
+    "name": "GJai Quang",
+    "alternatenames": "Dai Phuoc An,Nong Lam,Nông Lâm",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571951,
+    "name": "Ninh Hoa",
+    "alternatenames": "Ninh Hoa,Ninh Hòa",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571954,
+    "name": "Ninh Giang",
+    "alternatenames": "Ninh Giang,Vinh-Ninh",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1571968,
+    "name": "Ninh Binh",
+    "alternatenames": "Nin Bin,Nin' Bin',Ninbinh,Ninh Binh,Ninh Bình,Thanh Pho Ninh Binh,Thành Phố Ninh Bình,ninbin,Нинь Бинь,닌빈",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572018,
+    "name": "Nhu Quynh",
+    "alternatenames": "Nhu Quynh,Như Quỳnh,Phu Quynh",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572071,
+    "name": "Nho Quan",
+    "alternatenames": "Nho Quan,Pho Nho Quan,Phu Nho Quan,Phủ Nho Quan",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572074,
+    "name": "Nhon Trach",
+    "alternatenames": "Nhon Trach,Nhơn Trạch,Phu Thanh",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572151,
+    "name": "Nha Trang",
+    "alternatenames": "INhatrang,Kanh-Hoa,NHA,Nacana,Nga-tsong-su,Ngà-tsông-sṳ,Nha Trang,Niacangas,Niačangas,Nja Chang,Njachang,nateulang,nha tranj,nha trng,nyachan,nyajjang,ya cang,ya zhuang,ya zhuang shi,Ņačana,Ња Чанг,Ня Чанг,Нячанг,نها ترانج,نها ترنگ,ญาจาง,ニャチャン,芽庄市,芽莊,芽莊市,나트랑,냐짱",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572249,
+    "name": "Nha Be",
+    "alternatenames": "Lazaret,Nha Be,Nha Bè,Nhà Bè",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572251,
+    "name": "Nha Bang",
+    "alternatenames": "Nh Bang,Nh Bàng,Nha Ban,Nha Bang,Nhà Bàng",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572274,
+    "name": "Thi Tran Nguyen Binh",
+    "alternatenames": "Nguyen Binh,Nguyên Bình,Thi Tran Nguyen Binh,Thị Trấn Nguyên Bình",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572368,
+    "name": "Ngo Dong",
+    "alternatenames": "Ngo Dong,Ngô Dong,Ngô Đồng",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572446,
+    "name": "Ngoc Lac",
+    "alternatenames": "Huong Ngoc Lac,Hương Ngọc Lac,Ngoc Lac,Ngọc Lac,Ngọc Lặc",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572508,
+    "name": "Tien Hai",
+    "alternatenames": "Ngoai De,Ngoại Đê,Tien Hai,Tiền Hải",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572526,
+    "name": "Nghi Xuan",
+    "alternatenames": "Nghi Xuan,Nghi Xuân,Uy Vien",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572536,
+    "name": "Quan Hanh",
+    "alternatenames": "Nghi Loc,Nghi Lộc,Quan Hanh,Quán Hành",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572565,
+    "name": "Nghia Lo",
+    "alternatenames": "Nghia Lo,Nghĩa Lộ",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572575,
+    "name": "Nghia Hanh",
+    "alternatenames": "Cho Chua,Chợ Chùa,Nghia Hanh,Nghĩa Hành",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572614,
+    "name": "Nga Son",
+    "alternatenames": "Nga Son,Nga Sơn",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572628,
+    "name": "Van Tung",
+    "alternatenames": "Ngan Son,Ngân Sơn,Van Tung,Vân Tùng",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572696,
+    "name": "Thi Tran Ngai Giao",
+    "alternatenames": "Ngai Giao,Ngải Giao,Thi Tran Ngai Giao,Thị Trấn Ngải Giao",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1572898,
+    "name": "Thi Tran Na Sam",
+    "alternatenames": "Na Cha,Na Cham,Na Sam,Na Sầm,Thi Tran Na Sam,Thị Trấn Na Sầm",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1573517,
+    "name": "Nam Dinh",
+    "alternatenames": "Nam Din,Nam Dinh,Nam GJinh,Nam Định,Namdin',Thanh Pho Nam Dinh,Thành Phố Nam Định,Намдинь",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1573524,
+    "name": "Nam Dan",
+    "alternatenames": "Nam Dan,Nam Đàn",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1573570,
+    "name": "Nam Can",
+    "alternatenames": "Nam Ca,Nam Can,Năm Că,Năm Căn",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1573993,
+    "name": "My Xuyen",
+    "alternatenames": "My Xuyen,Mỹ Xuyên",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574023,
+    "name": "My Tho",
+    "alternatenames": "Mitho,My Tho,Mỹ Tho",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574024,
+    "name": "My Tho",
+    "alternatenames": "My Tho,Mỹ Thọ",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574093,
+    "name": "My Loc",
+    "alternatenames": "My Loc,Mỹ Lộc",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574148,
+    "name": "Thanh My",
+    "alternatenames": "My Hiep,Mỹ Hiệp,Thanh My,Thạnh Mỹ",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574250,
+    "name": "Muong Nhe",
+    "alternatenames": "Muong Nhe,Muong Nhie,Mường Nhié,Mường Nhé",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574257,
+    "name": "Muong Lay",
+    "alternatenames": "Muong Lay,Mường Lay,https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_Lay",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574263,
+    "name": "Thi Tran Muong Khuong",
+    "alternatenames": "Muong Khuong,Mường Khương,Thi Tran Muong Khuong,Thị Trấn Mường Khương",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574307,
+    "name": "Muong Lat",
+    "alternatenames": "Gian Canh,Muong Lat,Mường Lát",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574362,
+    "name": "Mu Cang Chai",
+    "alternatenames": "Mu Cang Chai,Mù Cang Chải",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574507,
+    "name": "Mong Cai",
+    "alternatenames": "Mon Cay,Mon Gay,Mong Cai,Monkai,Móng Cái,Wangchieh",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574546,
+    "name": "Mo Duc",
+    "alternatenames": "Mo Duc,Mộ Đức",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574561,
+    "name": "Moc Chau",
+    "alternatenames": "Moc Chau,Mộc Châu,Na Bo",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574568,
+    "name": "Mo Cay",
+    "alternatenames": "Mo Cay,Mỏ Cày",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574638,
+    "name": "Minh Luong",
+    "alternatenames": "Minh Hoa,Minh Hòa,Minh Luong,Minh Lương",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574654,
+    "name": "Minh Long",
+    "alternatenames": "Ming Long,Minh Long,Poste de Minh Long",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1574706,
+    "name": "Thi Tran Meo Vac",
+    "alternatenames": "Meo Vac,Mieu Vac,Mieu Yac,Mèo Vạc,Thi Tran Meo Vac,Thị Trấn Mèo Vạc",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575080,
+    "name": "Ma Da Gui",
+    "alternatenames": "Ma Da Gui,Ma Đa Gui,Madagui",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575627,
+    "name": "Long Xuyen",
+    "alternatenames": "Cholong Xuyen,Chơlong Xuyen,Long Swiyen,Long Xuyen,Long Xuyên,Long-Shuyen",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575655,
+    "name": "Long Thanh",
+    "alternatenames": "Long Thanh,Long Thành",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575689,
+    "name": "Long Phu",
+    "alternatenames": "Bang Long,Bàng Long,Huong Long Phu,Hương Long Phú,Long Phu,Long Phú",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575703,
+    "name": "Long My",
+    "alternatenames": "Long My,Long Mỹ",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575864,
+    "name": "Loc Ninh",
+    "alternatenames": "Loc Nin',Loc Ninh,Loc Nin’,Lok Nin,Lộc Ninh",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575896,
+    "name": "Loc Binh",
+    "alternatenames": "Loc Binh,Loc Rinh,Lok-binh,Lộc Bình",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575965,
+    "name": "Lieu De",
+    "alternatenames": "Lien De,Lieu De,Lieu Đê,Liễu Đề",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1575993,
+    "name": "Lien Huong",
+    "alternatenames": "Lien Huong,Liên Hương,Long Huong",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1576073,
+    "name": "Kien Giang",
+    "alternatenames": "Kien Giang,Kiến Giang,Le Thuy,Let Thuy,Lệ Thủy,Tan Hau,Tân Hậu",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1576233,
+    "name": "Lap Vo",
+    "alternatenames": "Lap Vo,Lấp Vò",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1576275,
+    "name": "Lao Chai",
+    "alternatenames": "Lao Chai,Lao Chaj,Lao Chải,Lao Tchay,Лао Чай",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1576303,
+    "name": "Lao Cai",
+    "alternatenames": "Lao Cai,Lao Cai Lalawigan,Lao Kaj,Lao Kay,Laokai,Laokaj,Laokajus,Laos,Lo-kie-su,Lào Cai,Ló-kiê-sṳ,Vilojati Lao Kai,hla wkay,lao jie shi,laokkai,law kayy,layw kay,raokai,Вилояти Лао Каи,Лао Кај,Лаокай,لائو کای,لاو کائی,หล่าวกาย,ラオカイ,老街市,라오까이",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1576633,
+    "name": "Lang Son",
+    "alternatenames": "Lang Son,Lạng Sơn,Thanh Pho Lang Son,Thành Phố Lạng Sơn",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1576757,
+    "name": "Thi Tran Phuoc Buu",
+    "alternatenames": "Ap Phuoc Buu,Lang Phuoc Buu,Làng Phước Bửu,Phuoc Buu,Thi Tran Phuoc Buu,Thị Trấn Phước Bửu",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1577285,
+    "name": "Lung Ho",
+    "alternatenames": "Lang Ho,Lung Ho,Làng Ho,Lũng Hồ",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1577635,
+    "name": "Lang Chanh",
+    "alternatenames": "Huong Lang Chanh,Hương Lang Chánh,Lang Chanh,Lang Chieng Trai,Lang Chánh,Làng Chiêng Trai",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1577922,
+    "name": "Thi Tran Lai Vung",
+    "alternatenames": "Lai Vung",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1577929,
+    "name": "Lai Thieu",
+    "alternatenames": "Lai Thieu,Lái Thiêu",
+    "subcountry": "Bình Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1577958,
+    "name": "Lai Cach",
+    "alternatenames": "Lai Cach,Lai Cách",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1577995,
+    "name": "La Gi",
+    "alternatenames": "La Ghi,La Gi,Lag,Lagi",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578015,
+    "name": "Lak",
+    "alternatenames": "Don Lac,Lac Thien,Lak,Lạc Thiện,Lắk,Poste du Lac,Toa Quan Truong Lac Thien,Toà Quận Trưởng Lạc Thiện",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578066,
+    "name": "Lac Duong",
+    "alternatenames": "Binh Ninh,Lac Duong,Lạc Dương",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578127,
+    "name": "Muong Xen",
+    "alternatenames": "Ky Son,Kỳ Sơn,Muong Sen,Muong Xen,Muong Xén,Mường Xén",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578163,
+    "name": "Ky Anh",
+    "alternatenames": "Ky Anh,Kỳ Anh",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578500,
+    "name": "Kon Tum",
+    "alternatenames": "Cong Tum,Công Tum,Kon Tum,Tinh Kontum,Tỉnh Kontum",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578828,
+    "name": "Kinh Mon",
+    "alternatenames": "Kinh Mon,Kinh Môn,Phu-Kinh-Mon",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578947,
+    "name": "Kim Bai",
+    "alternatenames": "Kim Bai,Kim Bài",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1578998,
+    "name": "Kien Luong",
+    "alternatenames": "Kien Luong,Kiên Lương",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1579363,
+    "name": "Khe Sanh",
+    "alternatenames": "Huong Hoa,Khe Sanh",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1579615,
+    "name": "Thi Tran Khanh Yen",
+    "alternatenames": "Khanh Yen,Khanh Yen Thuong,Khánh Yên Thượng,Muong Xac,Mương Xác,Thi Tran Khanh Yen,Thị Trấn Khánh Yên",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1579739,
+    "name": "Ke Sat",
+    "alternatenames": "Ke Sat,Kẻ Sặt",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1579743,
+    "name": "Ke Sach",
+    "alternatenames": "Ke Sach,Kế Sách",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580054,
+    "name": "Huu Lung",
+    "alternatenames": "Huu Lung,Hữu Lũng,Lang Met",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580092,
+    "name": "Huong Tra",
+    "alternatenames": "Huong Tra,Hương Trà",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580123,
+    "name": "Huong Khe",
+    "alternatenames": "Huong Khe,Hương Khê,Thuong Thach",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580136,
+    "name": "Huong Canh",
+    "alternatenames": "Huang Canh,Huong Canh,Hương Canh",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580142,
+    "name": "Hung Yen",
+    "alternatenames": "Hong-Yen,Hung Yen,Hưng Yên",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580240,
+    "name": "Hue",
+    "alternatenames": "Choue,HUI,Hue,Huje,Hujė,Hué,Huế,Khjue,Khjueh,Khue,Sun-fa-su,Sun-fa-sṳ,Thanh pho Hue,Thành phố Huế,fue,hue,hwyh,shun hua,shun hua shi,we,Χουέ,Хуе,Хюе,Хюэ,הואה,هوئه,ہوائے,เว้,ჰუე,フエ,順化,順化市,顺化市,후에",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580262,
+    "name": "Ho Xa",
+    "alternatenames": "Ho Xa,Hồ Xá,Vinh Linh,Vĩnh Linh",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580349,
+    "name": "Binh Long",
+    "alternatenames": "An Loc,An Lôc,Binh Long,Bình Long,Hon Quan,Hớn Quản",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580410,
+    "name": "Ha Long",
+    "alternatenames": "Ha Long,Hon Cay,Hon Gai,Hon Gay,Hon Goi,Hong Gai,Honggay,Hạ Long,Hồng Gai,Khalong,Thanh Pho Ha Long,Thành Phố Hạ Long,xia long shi,Халонг,下龙市",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580421,
+    "name": "Hon Dat",
+    "alternatenames": "Hon Dat,Hòn Đất,Ngoc Hon Doc,Xom Hon Dat,Xóm Hòn Đất",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580541,
+    "name": "Hoi An",
+    "alternatenames": "Cidade Antiga de Hoi An,Faifo,Faifoh,Faifoo,Feifu,Hoi An,Hojanas,Hôi An,Hội An,Khoj An,Khoj An',Khojan,ho'i ena pracina sahara,hoi-ani,hoian,hui an,hui an shi,hwy an,hx yxan,Хой Ань,Хойан,Хоян,Хој Ан,הוי אן,هوي أن,ہؤئی آن,होइ एन प्राचीन सहर,ฮอยอัน,ჰოი-ანი,ホイアン,會安,會安市,호이안",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580572,
+    "name": "Hoc Mon",
+    "alternatenames": "Hoc Mon,Hóc Môn",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580593,
+    "name": "Hoa Vang",
+    "alternatenames": "Hoa Vang,Hòa Vang",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580754,
+    "name": "Hoa Mac",
+    "alternatenames": "Hoa Mac,Hoa Mao,Hòa Mạc",
+    "subcountry": "Hà Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580793,
+    "name": "Hoai An",
+    "alternatenames": "Hoai An,Hoài Ân,Tang Bat Ho,Tăng Bạt Hổ",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580830,
+    "name": "Hoa Binh",
+    "alternatenames": "Hao Binh,Hoa Bin,Hoa Binh,Hòa Bình,Thanh Pho Hoa Binh,Thành Phố Hòa Bình",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1580914,
+    "name": "Hiep Duc",
+    "alternatenames": "Dong An,Doug An,Hiep Duc,Hiệp Đức,Tan An,Tân An",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581047,
+    "name": "Ha Tinh",
+    "alternatenames": "Ha Thin,Ha Tin,Ha Tinh,Ho-tshin-su,Hà Tĩnh,Hò-tshin-sṳ,Kha Tin,Khatin',Province de Ha Tinh,Province de Hà Tĩnh,ha tiy,ha tyn,hattin,he jing shi,Ха Тин,Хатинь,ها تین,ہا تنہ,ห่าติ๋ญ,河靜市,하띤",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581052,
+    "name": "Ha Tien",
+    "alternatenames": "Ha Tien,Hà Tiên,Khat'en,Хатьен",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581130,
+    "name": "Hanoi",
+    "alternatenames": "Anoi,Anoy,Anòy,HAN,Ha Noi,Ha Nui,Hanoi,Hanoj,Hanoja,Hanojo,Hanojus,Hanoy,Hanoí,Hanoï,Hanòi,Hanói,Ho-nui-su,Hà Nội,Hò-nui-sṳ,Keicho,Khanoj,hano'i,hanoi,hanoy,hanwy,hanxy,he nei,he nei shi,hyanaya,khanwy,Ανόι,Ханой,Ханој,Հանոյ,האנוי,خانوي,هانوى,هانوي,هانوی,ھانۆی,ہنوئی,हनोई,হ্যানয়,ਹਨੋਈ,ହାନୋଇ,ஹனோய்,ಹಾನೊಯ್,හැනෝයි,ฮานอย,ཧེ་ནོ།,ဟနွိုင်းမြို့,ჰანოი,ሀኖይ,ទីក្រុងហានូយ,Ḥanoi,ハノイ,河內,河內市,하노이",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581268,
+    "name": "Thi Tran Thanh Nhat",
+    "alternatenames": "Ha Lang,Hạ Lang,Thi Tran Thanh Nhat,Thị Trấn Thanh Nhật",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581274,
+    "name": "Ha Lam",
+    "alternatenames": "Ha Lam,Hà Lam",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581298,
+    "name": "Haiphong",
+    "alternatenames": "HPH,Hai Phong,Haiphong,Hajfong,Hajfongo,Hải Phòng,Khajfon,hai fang shi,haifon,hayfwngh,hi fxng,Хайфон,هايفونغ,ไฮฟอง,ハイフォン,海防市",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581317,
+    "name": "Hai Lang",
+    "alternatenames": "Hai Lang,Hải Lăng,Thon Dien Sanh,Thôn Diên Sanh",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581326,
+    "name": "Hai Duong",
+    "alternatenames": "Hai Doong,Hai Duong,Hai dzung,Hai-Doung,Haidong,Haidöng,Hải Dương,Khajzyong,Thanh Pho Hai Duong,Thành Phố Hải Dương,Хайзыонг",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581339,
+    "name": "Ha Hoa",
+    "alternatenames": "Ha Hoa,Hạ Hoa,Hạ Hòa",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581349,
+    "name": "Ha Giang",
+    "alternatenames": "Ha Giang,Hà Giang,Thanh Pho Ha Giang,Thành Phố Hà Giang",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581364,
+    "name": "Ha Dong",
+    "alternatenames": "Ha Dong,Hà Đông",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581483,
+    "name": "Go Quao",
+    "alternatenames": "Go Quao,Gò Quao,Kien Hung,Kiên Hưng",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581529,
+    "name": "Go Cong",
+    "alternatenames": "Go Cong,Gò Công",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581613,
+    "name": "Giong Rieng",
+    "alternatenames": "Giong Rieng,Giồng Riềng,Kien Binh,Kiên Bình",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581673,
+    "name": "Gio Linh",
+    "alternatenames": "Gio Lin,Gio Linh",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1581834,
+    "name": "Gia Nghia",
+    "alternatenames": "Gia Nghia,Gia Nghĩa,Nghia Duc,Nghiã Đức,Quang Duc",
+    "subcountry": "Ðắk Nông"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582062,
+    "name": "Duy Xuyen",
+    "alternatenames": "Duy Xuyen,Duy Xuyên,Nam Phuoc,Nam Phước",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582173,
+    "name": "GJuc Trong",
+    "alternatenames": "Duc Trong,Dyk Trong,Lien Nghia,Liên Nghĩa,Đưc Trọng,Дык Тронг",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582175,
+    "name": "Duc Tho",
+    "alternatenames": "Duc Tho,Đưc Thọ,Đức Thọ",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582187,
+    "name": "Duc Phong",
+    "alternatenames": "Bu Dang,Bù Đăng,Duc Phong,Đức Phong",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582190,
+    "name": "Duc Pho",
+    "alternatenames": "Duc Pho,Pho Duc,Đức Phổ",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582203,
+    "name": "Dak Mil",
+    "alternatenames": "Dak Mil,Duc Lap,Duc Minh,Tram de Dak Mil,Đắk Mil,Đức Lập,Đức Minh",
+    "subcountry": "Ðắk Nông"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582431,
+    "name": "Dong Xuan",
+    "alternatenames": "Dong Xuan,La Hai,Đồng Xuân",
+    "subcountry": "Phú Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582436,
+    "name": "Dong Xoai",
+    "alternatenames": "Ap Dong Xoai,Don Luan,Dong Xoa,Dong Xoai,Dong Xoi,Dồng Xoài,Đồng Xoài,Ấp Đồng Xoài",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582467,
+    "name": "Thi Tran GJong Van",
+    "alternatenames": "Dong Van,Dong Vang,Dồng Văn,Thi Tran GJong Van,Thị Trấn Đồng Văn",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582743,
+    "name": "Dong Mo",
+    "alternatenames": "Dong Mo,Đồng Mỏ",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582863,
+    "name": "Thi Tran GJong Khe",
+    "alternatenames": "Dong Khe,Thi Tran GJong Khe,Thị Trấn Đông Khê,Ðông Khê",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582886,
+    "name": "Dong Hoi",
+    "alternatenames": "Dong Hoi,Dongkhoj,GJong Hoi,Kwang Binh,tong hai shi,Đồng Hới,Донгхой,同海市",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582926,
+    "name": "Dong Ha",
+    "alternatenames": "Dong Ha,Dong Na,GJong Ha,Thi Xa Dong Ha,Thi Xã Ðòng Hà,Ðông Hà,Đông Hà",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1582998,
+    "name": "Thi Tran GJong GJang",
+    "alternatenames": "Don Dang,Dong Dang,Thi Tran GJong GJang,Thị Trấn Đồng Đăng,Đông Đăng",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583168,
+    "name": "Anh Son",
+    "alternatenames": "Anh Son,Cho Do Luong,Cho Dô Lương,Do Luong,Đô Lương",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583240,
+    "name": "Doan Hung",
+    "alternatenames": "Doan Hung,Huyen Doan Hung,Huyện Đoan Hùng,Phu Doan,Đoan Hùng",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583342,
+    "name": "Dinh Lap",
+    "alternatenames": "Dinh Lap,Đình Lập",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583432,
+    "name": "Di Linh",
+    "alternatenames": "Di Linh,Djiring,Djring,Jiring",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583468,
+    "name": "Dien Khanh",
+    "alternatenames": "Dien Khanh,Diên Khánh,Kanh-Hoa,Kank Hoa,Khan' Hoa,Khanh Hoa,Khan’ Hoa",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583475,
+    "name": "Dien Chau",
+    "alternatenames": "Dien Chau,Diễn Châu,Phu Dien,Phu Dien Chau",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583477,
+    "name": "Dien Bien Phu",
+    "alternatenames": "D'enb'enfu,D'enbenfu,DIN,Dien Bien Phu,Dienbienfu,Dienbjenfu,Dijen Bijen Fu,GJien Bien Phu,Thien-pien-fu,Thièn-piên-fú,deiy n beiyn fu,dian bian fu,dienbienfu,dienbienpu,dyn byn fw,dyyn byyn fw,Ðiện Biên Phủ,Điện Biên Phủ,Диенбиенфу,Дијен Бијен Фу,Дьенбьенфу,Дьєнбєнфу,دیئن بیئن فو,دیئن بیئن پھو,دین بین فو,เดียนเบียนฟู,ດຽນບຽນຟູ,ディエンビエンフー,奠邊府,디엔비엔푸",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583478,
+    "name": "Dien Ban",
+    "alternatenames": "Dien Ban,Kwang Nam,Quang Nam,Vinh Dien,Vĩnh Điện,Điện Bàn",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583497,
+    "name": "Diem Dien",
+    "alternatenames": "Diem Dien,Diêm Điền,Diễm Điên,Giemdiem",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583518,
+    "name": "Di An",
+    "alternatenames": "Di An,Dĩ An",
+    "subcountry": "Bình Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583699,
+    "name": "Dau Tieng",
+    "alternatenames": "Dau Tieng,Dầu Tiếng,Quan Dau Tieng,Tri Tam,Tri Tâm,Xom Dau Tieng",
+    "subcountry": "Bình Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583752,
+    "name": "Thi Tran Dat Do",
+    "alternatenames": "Phuoc Tho,Thi Tran Dat Do,Thị Trấn Đất Đỏ,Xa Phuoc Tho,Xã Phước Thọ",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1583992,
+    "name": "Da Nang",
+    "alternatenames": "DAD,Da Nang,Danang,GJa Nang,Tourane,Turan,danan,danang,xian gang,Đà Nẵng,Да Нанг,ダナン,岘港,峴港,다낭",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584071,
+    "name": "Da Lat",
+    "alternatenames": "DLI,Da Lat,Da lat,Dalat,Ðà Lạt,Далат",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584099,
+    "name": "Dak Song",
+    "alternatenames": "Dak Song,Dao Thong,Xuong Cua May Dak Song,Xưởng Cưa Máy Dak Song,Đak Song,Đắk Song",
+    "subcountry": "Ðắk Nông"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584301,
+    "name": "GJai Loc",
+    "alternatenames": "Ai Nghia,Dai Loc,Ái Nghĩa,Đại Lộc",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584427,
+    "name": "Dak To",
+    "alternatenames": "Dac To,Dak To,Dak Tô,Quan Dak To,Quận Dak To,Đắc Tô,Đắk Tô",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584613,
+    "name": "Cung Son",
+    "alternatenames": "Cung Son,Củng Sơn,Son Hoa,Sơn Hòa",
+    "subcountry": "Phú Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584661,
+    "name": "Cu Chi",
+    "alternatenames": "Cu Chi,Củ Chi,Ku-Chi,Ку-Чи",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584784,
+    "name": "Co GJo",
+    "alternatenames": "Co Do,Cờ Đỏ",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584807,
+    "name": "Con Son",
+    "alternatenames": "Con Son,Con Son City,Côn Sơn,Kon-Shon,Phu Hai City,Poulo Condore,Pulo Condore,Thi-xa Con-son,Thị-xã Côn-sơn,Кон-Шон",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584909,
+    "name": "Con Cuong",
+    "alternatenames": "Con Cuong,Con Cuông",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1584955,
+    "name": "Co Loa",
+    "alternatenames": "Co Loa,Cổ Lóa",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585243,
+    "name": "Chuc Son",
+    "alternatenames": "Chuc Son,Chúc Sơn",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585281,
+    "name": "Chu",
+    "alternatenames": "Chu,Chũ",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585317,
+    "name": "Chon Thanh",
+    "alternatenames": "Ap Chon Thanh,Chon Thanh,Chơn Thành,Thanh Ghon,Ấp Chơn Thành",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585324,
+    "name": "Cho Moi",
+    "alternatenames": "Cho Moi,Chợ Mới",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585327,
+    "name": "Cho Moi",
+    "alternatenames": "Cho Moi,Chợ Mới",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585332,
+    "name": "Cho Lach",
+    "alternatenames": "Cho Lach,Cholac,Chơ Lách,Chợ Lách",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585343,
+    "name": "Giong Trom",
+    "alternatenames": "Cho Giong Trom,Chợ Giồng Trôm,Giomtrom,Giong Trom,Giồng Trôm",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585346,
+    "name": "Cho Gao",
+    "alternatenames": "Cho Gao,Chợ Gạo",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585356,
+    "name": "Cho Chu",
+    "alternatenames": "Cho Chu,Chợ Chu",
+    "subcountry": "Thái Nguyên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585457,
+    "name": "Chi Thanh",
+    "alternatenames": "Chi Thanh,Chi Thank,Chí Thạnh,Chí Thậnk",
+    "subcountry": "Phú Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585478,
+    "name": "Chi Ne",
+    "alternatenames": "Chi Ne,Chi Nê",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585489,
+    "name": "Chi Linh",
+    "alternatenames": "Chi Linh,Chí Linh,https://en.wikipedia.org/wiki/Ch%C3%AD_Linh",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585550,
+    "name": "Huyen Chiem Hoa",
+    "alternatenames": "Chiem Hoa,Chiêm Hóa,Huyen Chiem Hoa,Huyện Chiêm Hóa",
+    "subcountry": "Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585660,
+    "name": "Chau Doc",
+    "alternatenames": "Angiang,Chau Doc,Chau Phu,Chau Phú,Chaudok,Cho Dok,Châu Đốc",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585975,
+    "name": "Cau Ke",
+    "alternatenames": "Cau Ke,Cầu Kè,Huong Cau Ke,Hương Cầu Kè,Tam Can",
+    "subcountry": "Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1585982,
+    "name": "Cau Giat",
+    "alternatenames": "Cau Giat,Cầu Giát,Quynh Luu",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586052,
+    "name": "Cat Ba",
+    "alternatenames": "Apowan,Cac Ba,Cat Ba,Cát Bà,Kat Ba,Pho Cac Ba,Pho Cat Ba,Кат Ба",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586112,
+    "name": "Cao Thuong",
+    "alternatenames": "Cao Thuong,Cao Thượng",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586151,
+    "name": "Cao Lanh",
+    "alternatenames": "Cao Lanh,Cao Lãnh,Phong Thanh",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586185,
+    "name": "Cao Bang",
+    "alternatenames": "Cao Bang,Cao Bằng,Cao Pang,Kao Bang,Kao banh,Kaobang,Thanh Pho Cao Bang,Thành Phố Cao Bằng,Каобанг",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586203,
+    "name": "Can Tho",
+    "alternatenames": "Can Tho,Cần Thơ,Kan Tho,VCA,kanto,qin ju shi,カントー,芹苴市",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586288,
+    "name": "Can Gio",
+    "alternatenames": "Can Gio,Can Thanh,Cần Giờ,Cần Thạnh",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586295,
+    "name": "Can Duoc",
+    "alternatenames": "Can Duoc,Cần Đước",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586296,
+    "name": "Can Giuoc",
+    "alternatenames": "Can Duoc,Can Gioc,Can Giuoc,Cần Duộc,Cần Giuộc",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586316,
+    "name": "Cam Xuyen",
+    "alternatenames": "Cam Xuyen,Cẩm Xuyên",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586330,
+    "name": "Cam Thuy",
+    "alternatenames": "Cam Thuy,Cẩm Thủy,Huong Cam Thuy,Hương Cẩm Thủy",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586350,
+    "name": "Cam Ranh",
+    "alternatenames": "Cam Linh,Cam Ranh Port,Kamran',Thon Cam Ranh,Thôn Cam Ranh,Камрань",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586357,
+    "name": "Cam Pha Mines",
+    "alternatenames": "Cam Pha,Cam Pha Mines,Cẩm Phả,Cẩm Phả Mines",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586360,
+    "name": "Cam Pha",
+    "alternatenames": "Cam Pha,Cẩm Phả,Kamfa,VDO,jin pu shi,kam fa,kamufa,Камфа,كام فا,カムファ,锦普市",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586384,
+    "name": "Cam Lo",
+    "alternatenames": "Cam Lo,Cam Lộ,Thon Cam Lo,Thôn Cam Lộ",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586443,
+    "name": "Ca Mau",
+    "alternatenames": "CAH,Ca Mau,Camo,Cu Mau,Cà Mau,Kamao,Kamau,Quan Long,Quang Long,Song Kualon,Камау",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586502,
+    "name": "Cai Tau Ha",
+    "alternatenames": "Ai Tau Ha,Cai Tau Ha,Cao Tao Ha,Cái Tàu Hạ",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586519,
+    "name": "Cai Rang",
+    "alternatenames": "Cai Rang,Chau Thanh,Châu Thành,Cái Răng",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586524,
+    "name": "Cai Nuoc",
+    "alternatenames": "Cai Nuoc,Cái Nước",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586530,
+    "name": "Cai Nhum",
+    "alternatenames": "Cai Nhum,Cái Nhum,Minh Duc,Minh Đúc",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586798,
+    "name": "Buon Trap",
+    "alternatenames": "Ban Trap,Buon Trap,Buôn Trăp,Buôn Trấp",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586896,
+    "name": "Buon Ma Thuot",
+    "alternatenames": "BMV,Ban Me Thaut,Ban Me Thnot,Ban Me Thot,Ban Me Thout,Ban Me Thuot,Ban Mê Thuột,Ban-me-Thurt,Benmethout,Buon Ma Thuot,Buon Me Thuot,Buôn Ma Thuột,Buôn Mê Thuột,Lac Giao,Lạc Giao,Me Thuot,Metuotas",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1586989,
+    "name": "Buon Ho",
+    "alternatenames": "Ban Ho,Buon Ho,Buôn Hô,Buôn Hồ",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587406,
+    "name": "Hoan Lao",
+    "alternatenames": "Bo Trach,Bố Trạch,Hoan Lao,Hoàn Lão",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587488,
+    "name": "Bong Son",
+    "alternatenames": "Bong Son,Bồng Sơn,Hoai Nhon,Hoài Nhon",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587613,
+    "name": "Bu Dop",
+    "alternatenames": "Bo Duc,Bu Dop,Bô Dức,Bù Đốp,Quan Ba Duc,Quan Bo Duc,Quận Bá Đức,Quận Bố Đức,Xa Phuoc Loc,Xã Phươc Lộc",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587759,
+    "name": "Binh Thuy",
+    "alternatenames": "Binh Thuy,Bình Thủy",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587791,
+    "name": "Binh Son",
+    "alternatenames": "Binh Son,Bình Sơn,Chau O,Châu Ổ",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587866,
+    "name": "Binh Gia",
+    "alternatenames": "Binh Gia,Bình Gia,Pho Binh Gia,Phố Bình Gia",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587883,
+    "name": "Binh Dai",
+    "alternatenames": "Binh Dai,Bình Đại",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587888,
+    "name": "Tan Tuc",
+    "alternatenames": "Binh Chanh,Bình Chánh,Tan Tuc,Tân Túc",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587919,
+    "name": "Bim Son",
+    "alternatenames": "Bien Son,Bim Son,Biên Sơn,Bỉm Sơn",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587923,
+    "name": "Bien Hoa",
+    "alternatenames": "Bia Hoa,Bien Hoa,Bienhoa,Biên Hòa",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1587976,
+    "name": "Ben Tre",
+    "alternatenames": "Ben Tre,Bến Tre,Truc Giang,Trúc Giang",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588057,
+    "name": "Ben Cau",
+    "alternatenames": "Ap Ben Cau,Ben Cau,Bến Cầu,Hieu Thien",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588178,
+    "name": "Ba Tri",
+    "alternatenames": "Ba Tri",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588182,
+    "name": "Ba To",
+    "alternatenames": "Ba To,Ba Tơ",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588242,
+    "name": "Thi Tran Pho Rang",
+    "alternatenames": "Bao Yen,Bảo Yên,Lang Pho Rang,Làng Pho Rang,Thi Tran Pho Rang,Thị Trấn Phố Ràng",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588275,
+    "name": "Bao Loc",
+    "alternatenames": "Ap Thanh Tam,Ban Lao,Bao Loc,Baolok,Blao,Bảo Lộc,Cong Hinh,Баолок,Ấp Thánh Tâm",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588278,
+    "name": "Thi Tran Bao Lac",
+    "alternatenames": "Bao Lac,Bảo Lạc,Thi Tran Bao Lac,Thị Trấn Bảo Lạc",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1588316,
+    "name": "Ban Yen Nhan",
+    "alternatenames": "Ban Yen Nhan,Bẩn Yên Nhân,My Hao,Mỹ Hào",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1590225,
+    "name": "It Ong",
+    "alternatenames": "Ban Hit Ong,Ban It Ong,Bản It Ong,It Ong,Ít Ong",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1590900,
+    "name": "Thi Tran Thuan Chau",
+    "alternatenames": "Ban Chieng Ly,Ban Dhieng Ly,Bản Chiêng Lý,Thi Tran Thuan Chau,Thuan Chau,Thị Trấn Thuận Châu",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591422,
+    "name": "Bac Yen",
+    "alternatenames": "Bac Yen,Bắc Yên",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591435,
+    "name": "Bac Son",
+    "alternatenames": "Bac Son,Bắc Sơn",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591449,
+    "name": "Bac Ninh",
+    "alternatenames": "Bac Ninh,Bacht Ninh,Bak Nin,Bak Ninh,Bắc Ninh",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591474,
+    "name": "Bac Lieu",
+    "alternatenames": "Bac Lieu,Bac-Lien,Bach Lieu,Bak Lieu,Bạc Liêu,Thanh Pho Bac Lieu,Thành Phố Bạc Liêu,Vinh Loi,Vĩnh Lợi",
+    "subcountry": "Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591522,
+    "name": "Bac Ha",
+    "alternatenames": "Bac Ha,Bắc Hà,Pa Kha",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591527,
+    "name": "Bac Giang",
+    "alternatenames": "Bac Giang,Bakziangas,Bakzjang,Bắc Giang,Pet-kong,Pet-kông,Phu Lang Thong,Phu Lang Thuong,Phu Long Thuong,Thuong,Vilojati Bak Giang,bagjang,bak gyang,bak zyang,bakuzan,bei jiang shi,Бакзянг,Вилояти Бак Гианг,باک زیانگ,باک گیانگ,バクザン,北江市,박장",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1591538,
+    "name": "Bac Kan",
+    "alternatenames": "Bac Can,Bac Kan,Bak Kan,Bắc Cạn,Bắc Kạn",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1592152,
+    "name": "Tan Tru",
+    "alternatenames": "Ap Tan Thuan,Tan Tru,Tân Trụ,Ấp Tân Thuận",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1592214,
+    "name": "Ap Tan Ngai",
+    "alternatenames": "Ap Tan Ngai,Thanh Ngai,Thanh Ngãi,Ấp Tân Ngãi",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1592307,
+    "name": "An Hoa",
+    "alternatenames": "",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1594308,
+    "name": "An Nhon",
+    "alternatenames": "An Nhon,An Nhơn,Bhin-Dinh,Bin Din,Binh Dinh",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1594371,
+    "name": "An Lao",
+    "alternatenames": "An Lao,An Lão",
+    "subcountry": "Bình Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1594454,
+    "name": "An Duong",
+    "alternatenames": "An Duong,An Dương",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1594496,
+    "name": "An Chau",
+    "alternatenames": "An Chau,An Châu",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1594518,
+    "name": "An Bien",
+    "alternatenames": "An Bien,An Biên",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1594548,
+    "name": "A Luoi",
+    "alternatenames": "A Luoi,A Lưới",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1904560,
+    "name": "Quan Bay",
+    "alternatenames": "Phu My,Phú Mỹ,Quan 7,Quan Bay,Quận 7,Quận Bảy",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1941427,
+    "name": "Tam Diep",
+    "alternatenames": "Tam Diep,Tam Điệp",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 1942015,
+    "name": "Chau Thanh",
+    "alternatenames": "Chau Thanh,Châu Thành,Huong Chau Thanh,Hương Châu Thành",
+    "subcountry": "Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 7910088,
+    "name": "Uyen Hung",
+    "alternatenames": "",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8200099,
+    "name": "Yen Lap",
+    "alternatenames": "Huyen Yen Lap,Huyện Yên Lập,Yen Lap,Yên Lập",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8200205,
+    "name": "Thanh Ba",
+    "alternatenames": "Huyen Thanh Hoa,Huyện Thanh Hòa,Thanh Ba",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8200212,
+    "name": "Song Thao",
+    "alternatenames": "Huyen Song Thao,Huyện Sông Thao,Song Thao,Sông Thao",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8200783,
+    "name": "Hung Hoa",
+    "alternatenames": "Hung Hoa,Huyen Tam Thanh,Huyện Tam Thanh,Hưng Hóa",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8200836,
+    "name": "Phong Chau",
+    "alternatenames": "Huyen Phong Chau,Huyện Phong Châu,Phong Chau,Phong Châu",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8309330,
+    "name": "Thi Tran Tan Yen",
+    "alternatenames": "Tan Yen,Thi Tran Tan Yen,Thị Trấn Tân Yên,Tân Yên",
+    "subcountry": "Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8309683,
+    "name": "Tan Viet",
+    "alternatenames": "Tan Viet,Tân Việt",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8309686,
+    "name": "Pac Miau",
+    "alternatenames": "Bao Lam,Bảo Lâm,Pac Miau,Pac Mieu,Pác Miầu,Păc Miều",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8310244,
+    "name": "Lap Thach",
+    "alternatenames": "Lap Thach,Lập Thạch",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8336866,
+    "name": "An Chau",
+    "alternatenames": "An Chau,An Châu",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8336885,
+    "name": "Nui Sap",
+    "alternatenames": "Nui Sap,Núi Sập",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8337809,
+    "name": "Tam Vu",
+    "alternatenames": "Tam Vu,Tầm Vu",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340623,
+    "name": "Gia Binh",
+    "alternatenames": "Gia Binh,Gia Bình",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340640,
+    "name": "Thua",
+    "alternatenames": "Thua,Thứa",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340649,
+    "name": "Cho",
+    "alternatenames": "Cho,Chờ",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340671,
+    "name": "Pho Moi",
+    "alternatenames": "Pho Moi,Phố Mới",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340703,
+    "name": "Ho",
+    "alternatenames": "Ho,Hồ",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340720,
+    "name": "Lim",
+    "alternatenames": "Lim",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8340760,
+    "name": "Cung Kiem",
+    "alternatenames": "Cung Kiem,Cung Kiệm",
+    "subcountry": "Bắc Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8341023,
+    "name": "Thi Tran Ganh Hao",
+    "alternatenames": "Thi Tran Ganh Hao,Thị Trấn Gành Hào",
+    "subcountry": "Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8341032,
+    "name": "Thi Tran Ngan Dua",
+    "alternatenames": "Thi Tran Ngan Dua,Thị Trấn Ngan Dừa",
+    "subcountry": "Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8341039,
+    "name": "Thi Tran Phuoc Long",
+    "alternatenames": "Thi Tran Phuoc Long,Thị Trấn Phước Long",
+    "subcountry": "Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8341049,
+    "name": "Thi Tran Gia Rai",
+    "alternatenames": "Thi Tran Gia Rai,Thị Trấn Giá Rai",
+    "subcountry": "Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8341067,
+    "name": "Thi Tran Hoa Binh",
+    "alternatenames": "Thi Tran Hoa Binh,Thị Trấn Hòa Bình",
+    "subcountry": "Bạc Liêu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8375952,
+    "name": "Cai Dau",
+    "alternatenames": "Cai Dau,Cái Dầu",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8376452,
+    "name": "Cau Go",
+    "alternatenames": "Cau Go,Cầu Gồ",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8376497,
+    "name": "GJoi Ngo",
+    "alternatenames": "GJoi Ngo,Đồi Ngô",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8376580,
+    "name": "Neo",
+    "alternatenames": "Neo",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8376599,
+    "name": "Bich GJong",
+    "alternatenames": "Bich GJong,Bích Động",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8376620,
+    "name": "Thang",
+    "alternatenames": "Thang,Thắng",
+    "subcountry": "Bắc Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8381808,
+    "name": "Boc Bo",
+    "alternatenames": "Boc Bo,Bộc Bố",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8381874,
+    "name": "Bang Lung",
+    "alternatenames": "Bang Lung,Bằng Lũng",
+    "subcountry": "Bắc Kạn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8421407,
+    "name": "Thi Tran Long GJien",
+    "alternatenames": "Thi Tran Long GJien,Thị Trấn Long Điền",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8425634,
+    "name": "Muong Cha",
+    "alternatenames": "Muong Cha,Mường Chà,Thi Tran Muong Cha,Thị Trấn Mường Chà",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8425650,
+    "name": "Thi Tran Tua Chua",
+    "alternatenames": "Thi Tran Tua Chua,Thị Trấn Tủa Chùa",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8425679,
+    "name": "Dien Bien Dong",
+    "alternatenames": "Dien Bien Dong,Điện Biên Đông",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8425689,
+    "name": "Thi Tran GJien Bien",
+    "alternatenames": "Thi Tran GJien Bien,Thị Trấn Điện Biên",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8456727,
+    "name": "Tam Duong",
+    "alternatenames": "Tam Duong,Tam Đường",
+    "subcountry": "Lai Châu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8456741,
+    "name": "Lai Chau",
+    "alternatenames": "Lai Chau,Lai Châu,Muang Lay",
+    "subcountry": "Lai Châu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8456777,
+    "name": "Thi Tran Muong Te",
+    "alternatenames": "Thi Tran Muong Te,Thị Trấn Mường Tè",
+    "subcountry": "Lai Châu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8473973,
+    "name": "Thi Tran Tam Son",
+    "alternatenames": "Thi Tran Tam Son,Thị Trấn Tam Sơn",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8473987,
+    "name": "Thi Tran Vi Xuyen",
+    "alternatenames": "Thi Tran Vi Xuyen,Thị Trấn Vị Xuyên",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8473988,
+    "name": "Thi Tran Viet Lam",
+    "alternatenames": "Thi Tran Viet Lam,Thị Trấn Việt Lâm",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8473997,
+    "name": "Thi Tran Viet Quang",
+    "alternatenames": "Thi Tran Viet Quang,Thị Trấn Việt Quang",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8474004,
+    "name": "Yen Phu",
+    "alternatenames": "Yen Phu,Yên Phú",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8474041,
+    "name": "Thi Tran Vinh Quang",
+    "alternatenames": "Thi Tran Vinh Quang,Thị Trấn Vinh Quang",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8474046,
+    "name": "Yen Binh",
+    "alternatenames": "Yen Binh,Yên Bình",
+    "subcountry": "Hà Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8476780,
+    "name": "Thi Tran Thong Nong",
+    "alternatenames": "Thi Tran Thong Nong,Thị Trấn Thông Nông",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8476806,
+    "name": "Thi Tran Xuan Hoa",
+    "alternatenames": "Thi Tran Xuan Hoa,Thị Trấn Xuân Hoà",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8476898,
+    "name": "Thi Tran Hung Quoc",
+    "alternatenames": "Thi Tran Hung Quoc,Thị Trấn Hùng Quốc",
+    "subcountry": "Cao Bằng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8522260,
+    "name": "Thi Tran Cao Loc",
+    "alternatenames": "Thi Tran Cao Loc,Thị Trấn Cao Lộc",
+    "subcountry": "Lạng Sơn"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8523103,
+    "name": "Thi Tran Vinh Loc",
+    "alternatenames": "Thi Tran Vinh Loc,Thị Trấn Vĩnh Lộc",
+    "subcountry": "Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8526353,
+    "name": "Son Thinh",
+    "alternatenames": "Son Thinh,Sơn Thịnh,Van Chan,Văn Chấn",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8526401,
+    "name": "Co Phuc",
+    "alternatenames": "Co Phuc,Cổ Phúc",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8526448,
+    "name": "Thi Tran Yen The",
+    "alternatenames": "Thi Tran Yen The,Thị Trấn Yên Thế",
+    "subcountry": "Yên Bái"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8538202,
+    "name": "Thi Tran Na Hang",
+    "alternatenames": "Na Hang,Thi Tran Na Hang,Thị Trấn Na Hang",
+    "subcountry": "Tuyên Quang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8539621,
+    "name": "Binh Minh",
+    "alternatenames": "Binh Minh,Bình Minh,Cai Von,Cái Vồn",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8540986,
+    "name": "An Phu",
+    "alternatenames": "An Phu,An Phú",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8540990,
+    "name": "Phu My",
+    "alternatenames": "Phu My,Phú Mỹ",
+    "subcountry": "An Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8541545,
+    "name": "Thi Tran Phu My",
+    "alternatenames": "Thi Tran Phu My,Thị Trấn Phú Mỹ",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8541991,
+    "name": "Bat Xat",
+    "alternatenames": "Bat Xat,Bát Xát,Thi Tran Bat Xat,Thị Trấn Bát Xát",
+    "subcountry": "Lào Cai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8545216,
+    "name": "Hat Lot",
+    "alternatenames": "Hat Lot,Hát Lót,Thi Tran Hat Lot,Thị Trấn Hát Lót",
+    "subcountry": "Sơn La"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8549842,
+    "name": "Quang Xuong",
+    "alternatenames": "Quang Xuong,Quảng Xương",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8549844,
+    "name": "Nong Cong",
+    "alternatenames": "Nong Cong,Nông Cống",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8549876,
+    "name": "Quan Son",
+    "alternatenames": "Quan Son,Quan Sơn",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8549965,
+    "name": "Yen Cat",
+    "alternatenames": "Yen Cat,Yên Cát",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550048,
+    "name": "But Son",
+    "alternatenames": "But Son,Bút Sơn",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550086,
+    "name": "Canh Nang",
+    "alternatenames": "Canh Nang,Cành Nàng",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550102,
+    "name": "Hau Loc",
+    "alternatenames": "Hau Loc,Hậu Lộc",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550248,
+    "name": "Trieu Son",
+    "alternatenames": "Trieu Son,Triệu Sơn",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550330,
+    "name": "Quan Lao",
+    "alternatenames": "Quan Lao,Quán Lào",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550371,
+    "name": "Ha Trung",
+    "alternatenames": "Ha Trung,Hà Trung",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550774,
+    "name": "Rung Thong",
+    "alternatenames": "Rung Thong,Rừng Thông",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8550778,
+    "name": "Van Ha",
+    "alternatenames": "Van Ha,Vạn Hà",
+    "subcountry": "Thanh Hóa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551344,
+    "name": "Da Bac",
+    "alternatenames": "Da Bac,Đà Bắc",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551391,
+    "name": "Muong Khen",
+    "alternatenames": "Muong Khen,Mường Khến",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551433,
+    "name": "Hang Tram",
+    "alternatenames": "Hang Tram,Hàng Trạm",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551473,
+    "name": "Bo",
+    "alternatenames": "Bo",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551496,
+    "name": "Luong Son",
+    "alternatenames": "Luong Son,Lương Sơn",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551505,
+    "name": "Ky Son",
+    "alternatenames": "Ky Son,Kỳ Sơn",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8551531,
+    "name": "Cao Phong",
+    "alternatenames": "Cao Phong",
+    "subcountry": "Hòa Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8553243,
+    "name": "Me",
+    "alternatenames": "Me",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8553249,
+    "name": "Thien Ton",
+    "alternatenames": "Thien Ton,Thiên Tồn",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8553328,
+    "name": "Yen Thinh",
+    "alternatenames": "Yen Thinh,Yên Thịnh",
+    "subcountry": "Ninh Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8554356,
+    "name": "Xuan Truong",
+    "alternatenames": "Xuan Truong,Xuân Trường",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8554357,
+    "name": "Yen Dinh",
+    "alternatenames": "Yen Dinh,Yên Định",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8554466,
+    "name": "Lam",
+    "alternatenames": "Lam,Lâm",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8554483,
+    "name": "Goi",
+    "alternatenames": "Goi,Gôi",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8554539,
+    "name": "Nam Giang",
+    "alternatenames": "Nam Giang",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8554560,
+    "name": "Co Le",
+    "alternatenames": "Co Le,Cổ Lễ",
+    "subcountry": "Nam Định"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8564034,
+    "name": "Que",
+    "alternatenames": "Que,Quế",
+    "subcountry": "Hà Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8564068,
+    "name": "Vinh Tru",
+    "alternatenames": "Vinh Tru,Vĩnh Trụ",
+    "subcountry": "Hà Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8564079,
+    "name": "Binh My",
+    "alternatenames": "Binh My,Bình Mỹ",
+    "subcountry": "Hà Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8564088,
+    "name": "Thanh Luu",
+    "alternatenames": "Thanh Liem,Thanh Liêm,Thanh Luu,Thanh Lưu",
+    "subcountry": "Hà Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8569519,
+    "name": "Hung Ha",
+    "alternatenames": "Hung Ha,Hưng Hà",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8569541,
+    "name": "Vu Thu",
+    "alternatenames": "Vu Thu,Vũ Thư",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8569646,
+    "name": "Dong Hung",
+    "alternatenames": "Dong Hung,Đông Hưng",
+    "subcountry": "Thái Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8594709,
+    "name": "Thanh Pho Ba Ria",
+    "alternatenames": "Ba Ria,Bà Rịa,Thanh Pho Ba Ria,Thành Phố Bà Rịa",
+    "subcountry": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8594715,
+    "name": "Thi Tran Tuan Giao",
+    "alternatenames": "Thi Tran Tuan Giao,Thị Trấn Tuần Giáo",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8594716,
+    "name": "Muong Ang",
+    "alternatenames": "Muong Ang,Mường Ảng,Thi Tran Muong Ang,Thị Trấn Mường Ảng",
+    "subcountry": "Ðiện Biên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8595083,
+    "name": "An Lao",
+    "alternatenames": "An Lao,An Lão",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8595111,
+    "name": "Tien Lang",
+    "alternatenames": "Tien Lang,Tiên Lãng",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8595146,
+    "name": "Nui Doi",
+    "alternatenames": "Nui Doi,Núi Đối",
+    "subcountry": "Haiphong"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8595948,
+    "name": "Quang Ha",
+    "alternatenames": "Quang Ha,Quảng Hà",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8596004,
+    "name": "Troi",
+    "alternatenames": "Troi,Trới",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8596063,
+    "name": "Co To",
+    "alternatenames": "Co To,Cô Tô",
+    "subcountry": "Quảng Ninh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607120,
+    "name": "Thanh Mien",
+    "alternatenames": "Thanh Mien,Thanh Miện",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607137,
+    "name": "Nam Sach",
+    "alternatenames": "Nam Sach,Nam Sách",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607197,
+    "name": "Gia Loc",
+    "alternatenames": "Gia Loc,Gia Lộc",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607207,
+    "name": "Tu Ky",
+    "alternatenames": "Tu Ky,Tứ Kỳ",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607221,
+    "name": "Thanh Ha",
+    "alternatenames": "Thanh Ha,Thanh Hà",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607234,
+    "name": "Phu Thai",
+    "alternatenames": "Phu Thai,Phú Thái",
+    "subcountry": "Hải Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607797,
+    "name": "Du",
+    "alternatenames": "Du,Đu",
+    "subcountry": "Thái Nguyên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607905,
+    "name": "Huong Son",
+    "alternatenames": "Huong Son,Hương Sơn",
+    "subcountry": "Thái Nguyên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8607921,
+    "name": "Chua Hang",
+    "alternatenames": "Chua Hang,Chùa Hang",
+    "subcountry": "Thái Nguyên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8608557,
+    "name": "Thanh Thuy",
+    "alternatenames": "Thanh Thuy,Thanh Thủy",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8608578,
+    "name": "Lam Thao",
+    "alternatenames": "Lam Thao,Lâm Thao",
+    "subcountry": "Phú Thọ"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8609125,
+    "name": "Me Linh",
+    "alternatenames": "Me Linh,Mê Linh",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8609151,
+    "name": "Vinh Tuong",
+    "alternatenames": "Vinh Tuong,Vĩnh Tường",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8609160,
+    "name": "Hop Hoa",
+    "alternatenames": "Hop Hoa,Hợp Hòa",
+    "subcountry": "Vĩnh Phúc"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612735,
+    "name": "Van Giang",
+    "alternatenames": "Van Giang,Văn Giang",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612761,
+    "name": "Yen My",
+    "alternatenames": "Yen My,Yên Mỹ",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612781,
+    "name": "Khoai Chau",
+    "alternatenames": "Khoai Chau,Khoái Châu",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612792,
+    "name": "Luong Bang",
+    "alternatenames": "Luong Bang,Lương Bằng",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612808,
+    "name": "An Thi",
+    "alternatenames": "An Thi,Ân Thi",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612817,
+    "name": "Tran Cao",
+    "alternatenames": "Tran Cao,Trần Cao",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8612829,
+    "name": "Vuong",
+    "alternatenames": "Vuong,Vương",
+    "subcountry": "Hưng Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615817,
+    "name": "Lien Quan",
+    "alternatenames": "Lien Quan,Liên Quan",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615841,
+    "name": "Phuc Tho",
+    "alternatenames": "Phuc Tho,Phúc Thọ",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615856,
+    "name": "Phung",
+    "alternatenames": "Phung,Phùng",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615873,
+    "name": "Troi",
+    "alternatenames": "Troi,Trôi",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615881,
+    "name": "Quoc Oai",
+    "alternatenames": "Quoc Oai,Quốc Oai",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615957,
+    "name": "Thuong Tin",
+    "alternatenames": "Thuong Tin,Thường Tín",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8615973,
+    "name": "Phu Xuyen",
+    "alternatenames": "Phu Xuyen,Phú Xuyên",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616004,
+    "name": "Dai Nghia",
+    "alternatenames": "Dai Nghia,Đại Nghĩa",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616016,
+    "name": "Soc Son",
+    "alternatenames": "Soc Son,Sóc Sơn",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616040,
+    "name": "Dong Anh",
+    "alternatenames": "Dong Anh,Đông Anh",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616055,
+    "name": "Cau Dien",
+    "alternatenames": "Cau Dien,Cầu Diễn",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616067,
+    "name": "Trau Quy",
+    "alternatenames": "Trau Quy,Trâu Quỳ",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616113,
+    "name": "Cau Giay",
+    "alternatenames": "Cau Giay,Cầu Giấy",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616118,
+    "name": "Thanh Xuan",
+    "alternatenames": "Thanh Xuan,Thanh Xuân",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616121,
+    "name": "Dong Da",
+    "alternatenames": "Dong Da,Đống Đa",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616124,
+    "name": "Hoan Kiem",
+    "alternatenames": "Hoan Kiem,Hoàn Kiếm",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8616127,
+    "name": "Hai BaTrung",
+    "alternatenames": "Hai BaTrung,Hai BàTrưng",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8627929,
+    "name": "Hung Nguyen",
+    "alternatenames": "Hung Nguyen,Hưng Nguyên",
+    "subcountry": "Nghệ An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8637745,
+    "name": "Vu Quang",
+    "alternatenames": "Vu Quang,Vũ Quang",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8637813,
+    "name": "Nghen",
+    "alternatenames": "Nghen,Nghèn",
+    "subcountry": "Hà Tĩnh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8646553,
+    "name": "Dong Le",
+    "alternatenames": "Dong Le,Đồng Lê",
+    "subcountry": "Quảng Bình"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8650753,
+    "name": "Krong Klang",
+    "alternatenames": "Krong Klang,Krông Klang",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656112,
+    "name": "Khe Tre",
+    "alternatenames": "Khe Tre",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656203,
+    "name": "Sia",
+    "alternatenames": "Sia,Sịa",
+    "subcountry": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656376,
+    "name": "Thanh Khe",
+    "alternatenames": "Thanh Khe,Thanh Khê",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656395,
+    "name": "Cam Le",
+    "alternatenames": "Cam Le,Cẩm Lệ",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656396,
+    "name": "Son Tra",
+    "alternatenames": "Son Tra,Sơn Trà",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656409,
+    "name": "Lien Chieu",
+    "alternatenames": "Lien Chieu,Liên Chiểu",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8656412,
+    "name": "Ngu Hanh Son",
+    "alternatenames": "Ngu Hanh Son,Ngũ Hành Sơn",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8668502,
+    "name": "Prao",
+    "alternatenames": "Prao",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8668521,
+    "name": "Kham Duc",
+    "alternatenames": "Kham Duc,Khâm Đức",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8668557,
+    "name": "Nui Thanh",
+    "alternatenames": "Nui Thanh,Núi Thành",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8668697,
+    "name": "Phu Ninh",
+    "alternatenames": "Phu Ninh,Phú Ninh",
+    "subcountry": "Quảng Nam"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8673079,
+    "name": "Tay Tra",
+    "alternatenames": "Tay Tra,Tây Trà",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8673396,
+    "name": "Ly Son",
+    "alternatenames": "Ly Son,Lý Sơn",
+    "subcountry": "Quảng Ngãi Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8675891,
+    "name": "Dak Glei",
+    "alternatenames": "Dak Glei,Đắk Glei",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8675937,
+    "name": "Sa Thay",
+    "alternatenames": "Sa Thay,Sa Thầy",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8675967,
+    "name": "Dak Ha",
+    "alternatenames": "Dak Ha,Đắk Hà",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8675975,
+    "name": "Dak Rve",
+    "alternatenames": "Dak Rve,Đắk Rve",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8675985,
+    "name": "Mang GJen",
+    "alternatenames": "Mang GJen,Măng Đen",
+    "subcountry": "Kon Tum"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8695369,
+    "name": "Dak Doa",
+    "alternatenames": "Dak Doa,Đak Đoa,Đăk Đoa",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701187,
+    "name": "K Bang",
+    "alternatenames": "K Bang",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701220,
+    "name": "Kong Chro",
+    "alternatenames": "Kong Chro,Kông Chro",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701230,
+    "name": "Ia Pa",
+    "alternatenames": "Ia Pa",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701253,
+    "name": "A Yun Pa",
+    "alternatenames": "A Yun Pa",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701288,
+    "name": "Chu Se",
+    "alternatenames": "Chu Se,Chư Sê",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701301,
+    "name": "Chu Prong",
+    "alternatenames": "Chu Prong,Chư Prông",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701320,
+    "name": "Chu Ty",
+    "alternatenames": "Chu Ty,Chư Ty",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701330,
+    "name": "Ia Kha",
+    "alternatenames": "Ia Kha",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701345,
+    "name": "Phu Hoa",
+    "alternatenames": "Phu Hoa,Phú Hòa",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8701374,
+    "name": "Kon Dong",
+    "alternatenames": "Kon Dong,Kon Dơng",
+    "subcountry": "Gia Lai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8719315,
+    "name": "Hai Rieng",
+    "alternatenames": "Hai Rieng,Hai Riêng",
+    "subcountry": "Phú Yên"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8724967,
+    "name": "Ea Sup",
+    "alternatenames": "Ea Sup,Ea Súp",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8724987,
+    "name": "Ea Drang",
+    "alternatenames": "Ea Drang,Ea Drăng",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8725000,
+    "name": "Krong Nang",
+    "alternatenames": "Krong Nang,Krông Năng",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8725037,
+    "name": "Quang Phu",
+    "alternatenames": "Quang Phu,Quảng Phú",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8725054,
+    "name": "Ea Kar",
+    "alternatenames": "Ea Kar",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8725113,
+    "name": "Krong Kmar",
+    "alternatenames": "Krong Kmar,Krông Kmar",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8725127,
+    "name": "M'Drak",
+    "alternatenames": "M'Drak,M’Đrăk",
+    "subcountry": "Đắk Lắk"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8743021,
+    "name": "Khanh Vinh",
+    "alternatenames": "Khanh Vinh,Khánh Vĩnh",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8743031,
+    "name": "To Hap",
+    "alternatenames": "To Hap,Tô Hạp",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8743057,
+    "name": "Cam Lam",
+    "alternatenames": "Cam Lam,Cam Lâm",
+    "subcountry": "Khánh Hòa"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8746448,
+    "name": "Ea T'ling",
+    "alternatenames": "Ea T'ling,Ea T’ling",
+    "subcountry": "Ðắk Nông"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8746533,
+    "name": "Dak Mam",
+    "alternatenames": "Dak Mam,Đắk Mâm",
+    "subcountry": "Ðắk Nông"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8991407,
+    "name": "GJinh Van",
+    "alternatenames": "Din' Van,Dinh Van,Đinh Văn,Динь Ван",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8991425,
+    "name": "Thanh My",
+    "alternatenames": "Thanh My,Thạnh Mỹ",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8991482,
+    "name": "Loc Thang",
+    "alternatenames": "Loc Thang,Lộc Thắng",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8991503,
+    "name": "Dong Nai",
+    "alternatenames": "Dong Nai,Đồng Nai",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8991515,
+    "name": "Da Teh",
+    "alternatenames": "Da Teh,Đạ Tẻh",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8993912,
+    "name": "Bac Ai",
+    "alternatenames": "Bac Ai,Bác Ái",
+    "subcountry": "Ninh Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8993916,
+    "name": "Tan Son",
+    "alternatenames": "Tan Son,Tân Sơn",
+    "subcountry": "Ninh Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8993931,
+    "name": "Phuoc Dan",
+    "alternatenames": "Phuoc Dan,Phước Dân",
+    "subcountry": "Ninh Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8993961,
+    "name": "Khanh Hai",
+    "alternatenames": "Khanh Hai,Khánh Hải",
+    "subcountry": "Ninh Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8998414,
+    "name": "Cho Lau",
+    "alternatenames": "Cho Lau,Chợ Lầu",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8998439,
+    "name": "Ma Lam",
+    "alternatenames": "Ma Lam,Ma Lâm",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 8998450,
+    "name": "Thuan Nam",
+    "alternatenames": "Thuan Nam,Thuận Nam",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9000266,
+    "name": "Phu Quy",
+    "alternatenames": "Phu Quy,Phú Quý",
+    "subcountry": "Bình Thuận"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9075694,
+    "name": "Tan Phu",
+    "alternatenames": "Tan Phu,Tân Phú",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9075713,
+    "name": "Vinh An",
+    "alternatenames": "Vinh An,Vĩnh An",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9075749,
+    "name": "Thong Nhat",
+    "alternatenames": "Thong Nhat,Thống Nhất",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9075789,
+    "name": "Long Khanh",
+    "alternatenames": "Long Khanh,Long Khánh",
+    "subcountry": "Đồng Nai"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9078184,
+    "name": "Tan Phu",
+    "alternatenames": "Tan Phu,Tân Phú",
+    "subcountry": "Bình Phước"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9081295,
+    "name": "Tan Chau",
+    "alternatenames": "Tan Chau,Tân Châu",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9081304,
+    "name": "Tan Bien",
+    "alternatenames": "Tan Bien,Tân Biên",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9081315,
+    "name": "Chau Thanh",
+    "alternatenames": "Chau Thanh,Châu Thành",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9081327,
+    "name": "Hoa Thanh",
+    "alternatenames": "Hoa Thanh,Hòa Thành",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9081340,
+    "name": "Go Dau",
+    "alternatenames": "Go Dau,Gò Dầu",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9081358,
+    "name": "Duong Minh Chau",
+    "alternatenames": "Duong Minh Chau,Dương Minh Châu",
+    "subcountry": "Tây Ninh Province"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9101346,
+    "name": "Tan Hung",
+    "alternatenames": "Tan Hung,Tân Hưng",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9101373,
+    "name": "Vinh Hung",
+    "alternatenames": "Vinh Hung,Vĩnh Hưng",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9101389,
+    "name": "Tan Thanh",
+    "alternatenames": "Tan Thanh,Tân Thạnh",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9101395,
+    "name": "Thanh Hoa",
+    "alternatenames": "Thanh Hoa,Thạnh Hóa",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9101404,
+    "name": "Dong Thanh",
+    "alternatenames": "Dong Thanh,Đông Thành",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9101411,
+    "name": "Hau Nghia",
+    "alternatenames": "Hau Nghia,Hậu Nghĩa",
+    "subcountry": "Long An"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9113556,
+    "name": "My Phuoc",
+    "alternatenames": "My Phuoc,Mỹ Phước",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9113580,
+    "name": "Tan Hoa",
+    "alternatenames": "Tan Hoa,Tân Hòa",
+    "subcountry": "Tiền Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9280687,
+    "name": "Thu Muoi Mot",
+    "alternatenames": "Thu Muoi Mot,Thứ Mười Một",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9289561,
+    "name": "Sa Rai",
+    "alternatenames": "Sa Rai,Sa Rài",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9290486,
+    "name": "Long Ho",
+    "alternatenames": "Long Ho,Long Hồ",
+    "subcountry": "Vĩnh Long"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9292220,
+    "name": "Duyen Hai",
+    "alternatenames": "Duyen Hai,Duyên Hải",
+    "subcountry": "Trà Vinh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9531891,
+    "name": "Chau Thanh",
+    "alternatenames": "Chau Thanh,Châu Thành",
+    "subcountry": "Bến Tre"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9533392,
+    "name": "Vinh Thanh",
+    "alternatenames": "Vinh Thanh,Vĩnh Thạnh",
+    "subcountry": "Can Tho"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534523,
+    "name": "Nang Mau",
+    "alternatenames": "Nang Mau,Nàng Mau",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534547,
+    "name": "Nga Bay",
+    "alternatenames": "Nga Bay,Ngã Bảy",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534553,
+    "name": "Nga Sau",
+    "alternatenames": "Nga Sau,Ngã Sáu",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534559,
+    "name": "Mot Ngan",
+    "alternatenames": "Mot Ngan,Một Ngàn",
+    "subcountry": "Hậu Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534807,
+    "name": "Cu Lao Dung",
+    "alternatenames": "Cu Lao Dung,Cù Lao Dung",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534824,
+    "name": "Chau Thanh",
+    "alternatenames": "Chau Thanh,Châu Thành",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9534829,
+    "name": "Huynh Huu Nghia",
+    "alternatenames": "Huynh Huu Nghia,Huỳnh Hữu Nghĩa",
+    "subcountry": "Sóc Trăng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9643200,
+    "name": "U Minh",
+    "alternatenames": "U Minh",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9643221,
+    "name": "Tran Van Thoi",
+    "alternatenames": "Tran Van Thoi,Trần Văn Thời",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9643257,
+    "name": "Ngoc Hien",
+    "alternatenames": "Ngoc Hien,Ngọc Hiển",
+    "subcountry": "Cà Mau"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645048,
+    "name": "Quan Hai",
+    "alternatenames": "Quan 2,Quan Hai,Quận 2,Quận Hai",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645059,
+    "name": "Quan Chin",
+    "alternatenames": "Quan 9,Quan Chin,Quận 9,Quận Chín",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645071,
+    "name": "Quan Bon",
+    "alternatenames": "Quan 4,Quan Bon,Quận 4,Quận Bốn",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645072,
+    "name": "Quan Sau",
+    "alternatenames": "Quan 6,Quan Sau,Quận 6,Quận Sáu",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645073,
+    "name": "Quan Nam",
+    "alternatenames": "Quan 5,Quan Nam,Quận 5,Quận Năm",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645074,
+    "name": "Quan Mot",
+    "alternatenames": "Quan 1,Quan Mot,Quận 1,Quận Một",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645075,
+    "name": "Quan Phu Nhuan",
+    "alternatenames": "Quan Phu Nhuan,Quận Phú Nhuận",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645083,
+    "name": "Quan Tan Phu",
+    "alternatenames": "",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645084,
+    "name": "Quan Muoi Mot",
+    "alternatenames": "Quan 11,Quan Muoi Mot,Quận 11,Quận Mười Một",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645085,
+    "name": "Quan Muoi",
+    "alternatenames": "Quan 10,Quan Muoi,Quận 10,Quận Mười",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645086,
+    "name": "Quan Ba",
+    "alternatenames": "Quan 3,Quan Ba,Quận 3,Quận Ba",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 9645087,
+    "name": "Quan Binh Thanh",
+    "alternatenames": "",
+    "subcountry": "Ho Chi Minh"
+  },
+  {
+    "country": "VN",
+    "geonameid": 11496092,
+    "name": "Hoang Sa",
+    "alternatenames": "",
+    "subcountry": "Da Nang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12061022,
+    "name": "Thi Tran Tan Thanh",
+    "alternatenames": "",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12166265,
+    "name": "Khom 2",
+    "alternatenames": "",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12166273,
+    "name": "Quan GJuc Thinh",
+    "alternatenames": "",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12166275,
+    "name": "Quan GJuc Thanh",
+    "alternatenames": "Duc Thanh District",
+    "subcountry": "Đồng Tháp"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12166276,
+    "name": "Quan Lap Vo",
+    "alternatenames": "",
+    "subcountry": ""
+  },
+  {
+    "country": "VN",
+    "geonameid": 12166277,
+    "name": "Hoang Sa",
+    "alternatenames": "",
+    "subcountry": ""
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217184,
+    "name": "Huyen Lam Ha",
+    "alternatenames": "Huyen Lam Ha,Huyện Lâm Hà,Lam Ha,Lam Ha District,Lâm Hà",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217190,
+    "name": "Huyen Bao Lam",
+    "alternatenames": "",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217192,
+    "name": "Xa Phuc Tho",
+    "alternatenames": "Xa Phuc Tho,Xã Phúc Thọ",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217196,
+    "name": "Xa Tan Ha",
+    "alternatenames": "",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217197,
+    "name": "Xa Tan Van",
+    "alternatenames": "",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217198,
+    "name": "Xa Hoai GJuc",
+    "alternatenames": "",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217199,
+    "name": "Xa Tan Thanh",
+    "alternatenames": "",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12217200,
+    "name": "Xa GJa K'Nang",
+    "alternatenames": "",
+    "subcountry": "Lâm Đồng"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12253704,
+    "name": "Phu Quoc",
+    "alternatenames": "Phu Quoc,Phú Quốc",
+    "subcountry": "Kiến Giang"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12261368,
+    "name": "thi xa Quang Tri",
+    "alternatenames": "Quang Tri,Quảng Trị",
+    "subcountry": "Quảng Trị"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12382295,
+    "name": "Quang Minh",
+    "alternatenames": "",
+    "subcountry": "Hanoi"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12382296,
+    "name": "Thuan An",
+    "alternatenames": "",
+    "subcountry": "Bình Dương"
+  },
+  {
+    "country": "VN",
+    "geonameid": 12489739,
+    "name": "GJai Nghia",
+    "alternatenames": "",
+    "subcountry": "Quảng Nam"
+  }
+]

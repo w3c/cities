@@ -1,0 +1,51 @@
+[
+  {
+    "country": "GD",
+    "geonameid": 3579833,
+    "name": "Victoria",
+    "alternatenames": "Grand Pauve,Grand Pauvre,Saint Mark,Saint Mark Village,Saint Marks",
+    "subcountry": "Saint Mark"
+  },
+  {
+    "country": "GD",
+    "geonameid": 3579891,
+    "name": "Sauteurs",
+    "alternatenames": "Sauteurs,Sautiers",
+    "subcountry": "Saint Patrick"
+  },
+  {
+    "country": "GD",
+    "geonameid": 3579925,
+    "name": "Saint George's",
+    "alternatenames": "Fort Royal,Georgetown,Grenada City,Lewis,Port Louis,Port Royal,Saint George,Saint George's,Saint George.s,Saint-Georges,Sent Dzordzas,Sent Džordžas,Sent Tzortzes,Sent-Dzhorzhes,St Georges,St. George's,seinteujojiseu,sentojojizu,snt g'wrg',Σεντ Τζόρτζες,Сент-Джоржес,סנט ג'ורג',セントジョージズ,세인트조지스",
+    "subcountry": "Saint George"
+  },
+  {
+    "country": "GD",
+    "geonameid": 3579931,
+    "name": "Saint David's",
+    "alternatenames": "",
+    "subcountry": "Saint David"
+  },
+  {
+    "country": "GD",
+    "geonameid": 3580215,
+    "name": "Hillsborough",
+    "alternatenames": "",
+    "subcountry": "Carriacou and Petite Martinique"
+  },
+  {
+    "country": "GD",
+    "geonameid": 3580236,
+    "name": "Grenville",
+    "alternatenames": "Grenville,La Baye",
+    "subcountry": "Saint Andrew"
+  },
+  {
+    "country": "GD",
+    "geonameid": 3580279,
+    "name": "Gouyave",
+    "alternatenames": "Charlotte Town,Gouave,Gouyave,Goyave,Guyave",
+    "subcountry": "Saint John"
+  }
+]

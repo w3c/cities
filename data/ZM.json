@@ -1,0 +1,471 @@
+[
+  {
+    "country": "ZM",
+    "geonameid": 175499,
+    "name": "Nchelenge",
+    "alternatenames": "Nchelenge,Нчеленге",
+    "subcountry": "Luapula"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 175555,
+    "name": "Nakonde",
+    "alternatenames": "Nakonde",
+    "subcountry": "Muchinga"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 175961,
+    "name": "Mpulungu",
+    "alternatenames": "Mpolungu,Mpulungu",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 175967,
+    "name": "Mporokoso",
+    "alternatenames": "Mpolokoso,Mporokoso",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 176146,
+    "name": "Mbala",
+    "alternatenames": "Abercorn,MMQ,Mbala,Мбала",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 176555,
+    "name": "Kawambwa",
+    "alternatenames": "Kawambwa,Kawamowa",
+    "subcountry": "Luapula"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 176758,
+    "name": "Kaputa",
+    "alternatenames": "Kaputa",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 895953,
+    "name": "Zambezi",
+    "alternatenames": "BBZ,Balovale,Rio Zambeze,Sambesi,Sambesí,Zambesi,Zambeze,Zambezi,Zambezė,Zambèze,Zambézi,zan bi xi he,zanbeji chuan,zmbzy,Замбези,Замбезі,זמבזי,ザンベジ川,赞比西河",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 897045,
+    "name": "Solwezi",
+    "alternatenames": "SLI,Solouezi,Soluezi,Solvezi,Solvezis,Solwesi,Solwezi,sol-weji,soruueji,suo lu wei qi,swlwyzy,Σολουέζι,Солвези,Солвезі,Солуези,سولویزی,ソルウェジ,索盧韋齊,솔웨지",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 897456,
+    "name": "Sinazongwe",
+    "alternatenames": "Sinasongwe,Sinazongwe",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 898188,
+    "name": "Siavonga",
+    "alternatenames": "Chapvonga,Siavonga",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 898905,
+    "name": "Sesheke",
+    "alternatenames": "SJQ,Sesheke,Shesheke,Sisheke,Шешеке",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 898912,
+    "name": "Serenje",
+    "alternatenames": "Serenje",
+    "subcountry": "Central"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 898947,
+    "name": "Senanga",
+    "alternatenames": "SXG,Senanga,Sinanga",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 899274,
+    "name": "Samfya",
+    "alternatenames": "Samfya",
+    "subcountry": "Luapula"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 899825,
+    "name": "Petauke",
+    "alternatenames": "Petauke",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 900056,
+    "name": "Nyimba",
+    "alternatenames": "Nyimba",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 901344,
+    "name": "Ndola",
+    "alternatenames": "NLA,Ndola,Ntola,en duo la,eundolla,ndola,ndora,ndwla,Ντόλα,Ндола,ندولا,ნდოლა,ンドラ,恩多拉,은돌라",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 901766,
+    "name": "Namwala",
+    "alternatenames": "Namwala",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 902344,
+    "name": "Nakambala",
+    "alternatenames": "Nakambala",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 902620,
+    "name": "Mwinilunga",
+    "alternatenames": "Mvinilunga,Mwinilunga,Wwinilunga,Мвинилунга",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 902721,
+    "name": "Mwense",
+    "alternatenames": "Mwense",
+    "subcountry": "Luapula"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 904241,
+    "name": "Mungwi",
+    "alternatenames": "Mungwi",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 904422,
+    "name": "Mumbwa",
+    "alternatenames": "Mumbwa",
+    "subcountry": "Central"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 905382,
+    "name": "Mufumbwe",
+    "alternatenames": "Mufumbwe",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 905395,
+    "name": "Mufulira",
+    "alternatenames": "Mufulira,Mufulire,Муфулире",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 905789,
+    "name": "Mpongwe",
+    "alternatenames": "Mpongwe",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 905846,
+    "name": "Mpika",
+    "alternatenames": "Mpika,mupika,Мпика,ムピカ",
+    "subcountry": "Muchinga"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 906044,
+    "name": "Monze",
+    "alternatenames": "Monze",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 906054,
+    "name": "Mongu",
+    "alternatenames": "MNR,Mongu,Mungu,Монгу",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 906221,
+    "name": "Mkushi",
+    "alternatenames": "Mkushi",
+    "subcountry": "Central"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 907111,
+    "name": "Mazabuka",
+    "alternatenames": "Mazabuka,Мазабука",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 907770,
+    "name": "Mansa",
+    "alternatenames": "Fort Rosebery,MNS,Mansa,Mbila,Roseberry,man sa,mansa,mansa  zymbya,Манса,مانسا، زیمبیا,曼薩,만사",
+    "subcountry": "Luapula"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 908718,
+    "name": "Maamba",
+    "alternatenames": "Maamba",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 908913,
+    "name": "Luwingu",
+    "alternatenames": "Luingu,Luwingo,Luwingu",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 909137,
+    "name": "Lusaka",
+    "alternatenames": "LUN,Lousaka,Louzaka,Lusaca,Lusak,Lusaka,Lusako,Lúsaka,Lûsaka,lu sa ka,lu sha ka,lucakka,lusaka,lwsaka,lwsqh,lwwsaka,rusaka,Λουσάκα,Лусака,Լուսակա,לוסאקא,לוסקה,لوساكا,لوساکا,لووساکا,لۇساكا,लुसाका,লুসাকা,ਲੁਸਾਕਾ,ଲୁସାକ,லுசாக்கா,ลูซากา,ལུ་ས་ཀ།,ლუსაკა,ሉሳካ,ルサカ,盧薩卡,路沙卡,루사카",
+    "subcountry": "Lusaka"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 909299,
+    "name": "Lundazi",
+    "alternatenames": "Lundazi",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 909488,
+    "name": "Lukulu",
+    "alternatenames": "LXU,Lukulu",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 909863,
+    "name": "Luanshya",
+    "alternatenames": "Luansh'ja,Luansha,Luanshya,Luanshyo,Luansija,Luanšija,lu an xia,luansya,lwanshya,ruansha,Луанша,Луаншья,لوانشیا,ルアンシャ,盧安夏,루안샤",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 909887,
+    "name": "Luangwa",
+    "alternatenames": "Feira,Luangwa",
+    "subcountry": "Lusaka"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 910111,
+    "name": "Livingstone",
+    "alternatenames": "LVI,Livin'nkston,Livingston,Livingston shaary,Livingstonas,Livingstone,Livingstore,Livingstun,Maramba,li wen si dun,libingseuteon,lywwyngstwn,Λίβινγκστον,Ливингстон,Ливингстон шаары,Ливингстън,Марамба,ליווינגסטון,لیونگسٹون، زیمبیا,利文斯顿,리빙스턴",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 910361,
+    "name": "Limulunga",
+    "alternatenames": "Limulunga",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 911148,
+    "name": "Kitwe",
+    "alternatenames": "KIW,Kitoue,Kitue,Kitve,Kitve-Nkana,Kitvė,Kitwe,Kitwe Nkana,Nkana-Kitwe,ji te wei,kiteuwe,kitoue,kytwy,Κίτουε,Китве,Китве-Нкана,Китуе,Кітве,Կիտվե-Նկանա,كيتوي,کتوے,კიტვე,キトウェ,基特韦,키트웨",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 912226,
+    "name": "Kataba",
+    "alternatenames": "Kataba",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 912628,
+    "name": "Kasempa",
+    "alternatenames": "Kasama,Kasempa",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 912764,
+    "name": "Kasama",
+    "alternatenames": "Arcidiocesi di Kasama,KAA,Kasama,Kazama,ka sa ma,kasama,kasama  zymbya,Καζάμα,Касама,Կասամա,کاساما، زیمبیا,カサマ,卡薩馬,카사마",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 913029,
+    "name": "Kapiri Mposhi",
+    "alternatenames": "Kapiri Imposhi,Kapiri Mposhi",
+    "subcountry": "Central"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 913323,
+    "name": "Kaoma",
+    "alternatenames": "KMZ,Kaoma,Mankoya,Mankoye,Nankoya,Nunkoya",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 913613,
+    "name": "Kansanshi",
+    "alternatenames": "Kansanshi,Kansanshi Mine,Kansenshi",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 914959,
+    "name": "Kalulushi",
+    "alternatenames": "Kalulshi,Kalulushi",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 915285,
+    "name": "Kalengwa",
+    "alternatenames": "Kalengwa",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 915471,
+    "name": "Kalabo",
+    "alternatenames": "KLB,Kalabo",
+    "subcountry": "Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 915883,
+    "name": "Kafue",
+    "alternatenames": "Kafe,Kafue,Кафе",
+    "subcountry": "Lusaka"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 916095,
+    "name": "Kabwe",
+    "alternatenames": "Broken Hill,Kabue,Kabve,Kabveh,Kabvė,Kabwe,QKE,ka bu wei,kabeuwe,kabuue,kabwy,Кабве,Кабвэ,Кабуе,كابوي,کابوے,カブウェ,卡布韦,카브웨",
+    "subcountry": "Central"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 916246,
+    "name": "Kabompo",
+    "alternatenames": "Kabompo",
+    "subcountry": "North-Western"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 916668,
+    "name": "Isoka",
+    "alternatenames": "Isoka",
+    "subcountry": "Muchinga"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 917011,
+    "name": "Gwembe",
+    "alternatenames": "Gwembe",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 917688,
+    "name": "Chongwe",
+    "alternatenames": "Chongwe",
+    "subcountry": "Lusaka"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 917748,
+    "name": "Choma",
+    "alternatenames": "Choma",
+    "subcountry": "Southern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 918702,
+    "name": "Chipata",
+    "alternatenames": "CIP,Chipata,Cipata,Fort Jameson,Tsipata,chipata,chpata,qi pa ta,Čipata,Τσιπάτα,Чипата,چپاتا,奇帕塔,치파타",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 918905,
+    "name": "Chinsali",
+    "alternatenames": "Chinsala,Chinsali",
+    "subcountry": "Muchinga"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 919009,
+    "name": "Chingola",
+    "alternatenames": "CGJ,Chingola,Cingola,ching-golla,chingora,chngwla,qin ge la,shynghwla,Čingola,Чингола,شينغولا,چنگولا,チンゴラ,欽戈拉,칭골라",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 919544,
+    "name": "Chililabombwe",
+    "alternatenames": "Bancroft,Chilabombwe,Chiliabombwe,Chiliadomewe,Chililabombwe",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 920233,
+    "name": "Chibombo",
+    "alternatenames": "Chibombo",
+    "subcountry": "Central"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 920820,
+    "name": "Chambishi",
+    "alternatenames": "Chambezi,Chambishi",
+    "subcountry": "Copperbelt"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 920901,
+    "name": "Chama",
+    "alternatenames": "Chama",
+    "subcountry": "Muchinga"
+  },
+  {
+    "country": "ZM",
+    "geonameid": 921028,
+    "name": "Chadiza",
+    "alternatenames": "Chadiza",
+    "subcountry": "Eastern"
+  }
+]

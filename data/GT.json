@@ -1,0 +1,2382 @@
+[
+  {
+    "country": "GT",
+    "geonameid": 3587506,
+    "name": "Zunilito",
+    "alternatenames": "Zunilito",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587510,
+    "name": "Zunil",
+    "alternatenames": "Zunil",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587543,
+    "name": "Zaragoza",
+    "alternatenames": "Zaragoza",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587546,
+    "name": "Zapotitlan",
+    "alternatenames": "Zapotitlan,Zapotitlán",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587578,
+    "name": "Zacualpa",
+    "alternatenames": "Zacualpa",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587587,
+    "name": "Zacapa",
+    "alternatenames": "Sakapa,Zacapa,Сакапа",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587593,
+    "name": "Yupiltepeque",
+    "alternatenames": "Tupiltepeque,Yupiltepeque",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587636,
+    "name": "Yepocapa",
+    "alternatenames": "San Pedro Yepocapa,Yepocapa",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587902,
+    "name": "Villa Nueva",
+    "alternatenames": "Vil'ja-Nuehva,Vilja Nueva,Viljanueva,Villa Nueva,bi ya nu ai wa,wya nwywa  gwatymala,Вилья-Нуэва,Вилянуева,ویا نویوا، گواتیمالا,比亞努埃瓦",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3587923,
+    "name": "Villa Canales",
+    "alternatenames": "Villa Anales,Villa Canales",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588040,
+    "name": "Usumatlan",
+    "alternatenames": "Usumatlan,Usumatlán,Uzumatlan,Uzumatlán",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588043,
+    "name": "Uspantan",
+    "alternatenames": "San Miguel Uspantan,San Miguel Uspantán,Uspantan,Uspantán",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588057,
+    "name": "Union",
+    "alternatenames": "La Union,La Unión,Union,Unión",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588206,
+    "name": "Tucuru",
+    "alternatenames": "San Miguel Tucuru,San Miguel Tucurú,Tucuru,Tucurú",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588258,
+    "name": "Totonicapan",
+    "alternatenames": "Totonicapan,Totonicapán,Totonikapan,Тотоникапан",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588308,
+    "name": "Todos Santos Cuchumatan",
+    "alternatenames": "Cuchumatan,Todos Santos,Todos Santos Cuchumatan,Todos Santos Cuchumatanes,Todos Santos Cuchumatán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588460,
+    "name": "Tejutla",
+    "alternatenames": "Tejutla",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588469,
+    "name": "Teculutan",
+    "alternatenames": "Teculutan,Teculután",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588474,
+    "name": "Tectitan",
+    "alternatenames": "Tectipan,Tectitan,Tectitlan,Tectitán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588476,
+    "name": "Tecpan Guatemala",
+    "alternatenames": "Tecpam,Tecpan,Tecpan Guatemala,Tecpán,Tecpán Guatemala",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588491,
+    "name": "Taxisco",
+    "alternatenames": "Taxisco",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588554,
+    "name": "Tamahu",
+    "alternatenames": "Tamahu,Tamahú",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588588,
+    "name": "Tajumulco",
+    "alternatenames": "Tajumulco",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588603,
+    "name": "Tactic",
+    "alternatenames": "Tactic",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588612,
+    "name": "Tacana",
+    "alternatenames": "Tacana,Tacaná",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588653,
+    "name": "Sumpango",
+    "alternatenames": "Sumpango",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588694,
+    "name": "Soloma",
+    "alternatenames": "San Pedro Soloma,Soloma",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588698,
+    "name": "Solola",
+    "alternatenames": "Solola,Sololá,Солола",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588720,
+    "name": "Siquinala",
+    "alternatenames": "Siquinala,Siquinalá",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588726,
+    "name": "Sipacapa",
+    "alternatenames": "Sipacapa",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588760,
+    "name": "Sibinal",
+    "alternatenames": "Sabinal,Sibinal,Sivinal",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588762,
+    "name": "Sibilia",
+    "alternatenames": "Sibilia",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588858,
+    "name": "Senahu",
+    "alternatenames": "Senahu,Senahú",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3588984,
+    "name": "Sayaxche",
+    "alternatenames": "Sayaxche,Sayaxché,Sayazche,Sayazché",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589036,
+    "name": "San Vicente Pacaya",
+    "alternatenames": "San Vicente,San Vicente Martir,San Vicente Mártir,San Vicente Pacaya",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589062,
+    "name": "Santo Tomas La Union",
+    "alternatenames": "Santo Tomas La Union,Santo Tomás La Unión",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589072,
+    "name": "Santo Domingo Xenacoj",
+    "alternatenames": "Santa Domingo Xenacoj,Santo Domingo Xecanoj,Santo Domingo Xenacoj,Xenacoj,Xenaeoj",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589074,
+    "name": "Santo Domingo Suchitepequez",
+    "alternatenames": "Santo Domingo,Santo Domingo Suchitepequez,Santo Domingo Suchitepéquez",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589101,
+    "name": "Santiago Sacatepequez",
+    "alternatenames": "Santiago,Santiago Sacatepequez,Santiago Sacatepéquez",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589103,
+    "name": "Santiago Chimaltenango",
+    "alternatenames": "Chimaltenango,Santiago Chimaltenango",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589105,
+    "name": "Santiago Atitlan",
+    "alternatenames": "Atitlan,Atitlán,Santiago",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589159,
+    "name": "Santa Rosa de Lima",
+    "alternatenames": "Santa Rosa,Santa Rosa de Lima,Santa Rose de Lima",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589247,
+    "name": "Santa Maria Visitacion",
+    "alternatenames": "Santa Maria Visitacion,Santa María Visitación",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589249,
+    "name": "Santa Maria Ixhuatan",
+    "alternatenames": "Ixhuatan,Ixhuatán,Santa Maria Ixhuatan,Santa María Ixhuatán",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589253,
+    "name": "Santa Maria de Jesus",
+    "alternatenames": "Santa Maria,Santa Maria de Jesus,Santa María,Santa María de Jesús",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589256,
+    "name": "Santa Maria Chiquimula",
+    "alternatenames": "Santa Maria Chiquimula,Santa María Chiquimula",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589282,
+    "name": "Santa Lucia Utatlan",
+    "alternatenames": "Santa Lucia,Santa Lucia Utatlan,Santa Lucía,Santa Lucía Utatlán",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589285,
+    "name": "Santa Lucia Milpas Altas",
+    "alternatenames": "Santa Lucia,Santa Lucia Milpas Altas,Santa Lucía,Santa Lucía Milpas Altas",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589287,
+    "name": "Santa Lucia La Reforma",
+    "alternatenames": "Santa Lucia La Reforma,Santa Lucía La Reforma",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589289,
+    "name": "Santa Lucia Cotzumalguapa",
+    "alternatenames": "Santa Lucia,Santa Lucia Cotzumalguapa,Santa Lucía,Santa Lucía Cotzumalguapa",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589355,
+    "name": "Santa Eulalia",
+    "alternatenames": "Santa Eulalia",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589395,
+    "name": "Santa Cruz Verapaz",
+    "alternatenames": "Santa Cruz,Santa Cruz Verapaz",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589398,
+    "name": "Santa Cruz Naranjo",
+    "alternatenames": "Santa Cruz,Santa Cruz Naranjo",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589400,
+    "name": "Santa Cruz Mulua",
+    "alternatenames": "Mulua,Muluá,Santa Cruz Mulua,Santa Cruz Muluá",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589402,
+    "name": "Santa Cruz La Laguna",
+    "alternatenames": "Santa Cruz,Santa Cruz La Laguna",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589404,
+    "name": "Santa Cruz del Quiche",
+    "alternatenames": "AQB,Santa Cruz del Quiche,Santa Cruz del Quiché,Santa-Krus-del'-Kiche,Санта-Крус-дель-Киче",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589408,
+    "name": "Santa Cruz Balanya",
+    "alternatenames": "Santa Cruz Balanya,Santa Cruz Balanyá",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589433,
+    "name": "Santa Clara La Laguna",
+    "alternatenames": "Santa Clara,Santa Clara La Laguna",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589452,
+    "name": "Santa Catarina Pinula",
+    "alternatenames": "Santa Catarina Pinula",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589454,
+    "name": "Santa Catarina Palopo",
+    "alternatenames": "Santa Catalina,Santa Catarina,Santa Catarina Palopo,Santa Catarina Palopó",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589456,
+    "name": "Santa Catarina Mita",
+    "alternatenames": "Santa Catarina Mita",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589458,
+    "name": "Santa Catarina Ixtahuacan",
+    "alternatenames": "Santa Catarina Ixtaguacan,Santa Catarina Ixtaguacán,Santa Catarina Ixtahuacan,Santa Catarina Ixtahuacán",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589460,
+    "name": "Santa Catarina Barahona",
+    "alternatenames": "Santa Catalina,Santa Catarina,Santa Catarina Barahona",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589468,
+    "name": "Santa Barbara",
+    "alternatenames": "Santa Barbara,Santa Bárbara",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589475,
+    "name": "Santa Barbara",
+    "alternatenames": "Santa Barbara,Santa Bárbara",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589480,
+    "name": "Santa Apolonia",
+    "alternatenames": "Santa Apolonia",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589498,
+    "name": "Santa Ana Huista",
+    "alternatenames": "Santa Ana Huista",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589507,
+    "name": "Santa Ana",
+    "alternatenames": "Santa Ana",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589541,
+    "name": "San Sebastian Huehuetenango",
+    "alternatenames": "San Sebastian,San Sebastian Huehuetenango,San Sebastián,San Sebastián Huehuetenango",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589543,
+    "name": "San Sebastian Coatan",
+    "alternatenames": "San Sebastian Coatan,San Sebastián Coatán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589548,
+    "name": "San Sebastian",
+    "alternatenames": "San Sebastian,San Sebastián",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589554,
+    "name": "Sansare",
+    "alternatenames": "Sansare",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589569,
+    "name": "San Raimundo",
+    "alternatenames": "San Raimundo,San Raymundo",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589577,
+    "name": "San Rafael Pie de la Cuesta",
+    "alternatenames": "San Rafael,San Rafael Pie Cuesta,San Rafael Pie de La Cuesta,San Rafael Pie de la Cuesta,San Rafael Pie la Cuesta,San Rafael Pié la Cuesta",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589579,
+    "name": "San Rafael Petzal",
+    "alternatenames": "San Rafael,San Rafael Petzal",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589592,
+    "name": "San Rafael Las Flores",
+    "alternatenames": "San Rafael,San Rafael Las Flores",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589595,
+    "name": "San Rafael La Independencia",
+    "alternatenames": "San Rafael Independencia,San Rafael La Independencia",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589626,
+    "name": "San Pedro Sacatepequez",
+    "alternatenames": "San Pedra,San Pedro,San Pedro Sacatepequez,San Pedro Sacatepéquez,San Pedro Zacatepec,sheng pei de luo sa ka te pei ke si,聖佩德羅薩卡特佩克斯",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589627,
+    "name": "San Pedro Sacatepequez",
+    "alternatenames": "San Pedro Sacatepequez,San Pedro Sacatepéquez",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589629,
+    "name": "San Pedro Pinula",
+    "alternatenames": "San Pedro Pinula",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589632,
+    "name": "San Pedro Necta",
+    "alternatenames": "San Pedro Necta",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589637,
+    "name": "San Pedro La Laguna",
+    "alternatenames": "San Pedro,San Pedro La Laguna",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589640,
+    "name": "San Pedro Jocopilas",
+    "alternatenames": "San Pedro Jocopilas,San Pédro Jocopilas",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589643,
+    "name": "San Pedro Carcha",
+    "alternatenames": "Carcha,Carchá,San Pedro Carcha,San Pedro Carchá",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589646,
+    "name": "San Pedro Ayampuc",
+    "alternatenames": "San Pedro Ayampuc",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589669,
+    "name": "San Pablo La Laguna",
+    "alternatenames": "San Pablo,San Pablo La Laguna,San Pablo Laguna",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589671,
+    "name": "San Pablo Jocopilas",
+    "alternatenames": "San Pablo,San Pablo Jocopilas",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589677,
+    "name": "San Pablo",
+    "alternatenames": "San Pablo",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589706,
+    "name": "San Miguel Siguila",
+    "alternatenames": "San Miguel Siguila,San Miguel Sigüilá,Siguila,Sigüilá",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589709,
+    "name": "San Miguel Panan",
+    "alternatenames": "Panan,Panán,San Miguel Panan,San Miguel Panán",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589720,
+    "name": "San Miguel Ixtahuacan",
+    "alternatenames": "San Miguel,San Miguel Ixtahuacan,San Miguel Ixtahuacán",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589727,
+    "name": "San Miguel Duenas",
+    "alternatenames": "Duenas,Dueñas,San Miguel Duenas,San Miguel Dueñas",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589730,
+    "name": "San Miguel Chicaj",
+    "alternatenames": "San Miguel Chicaj",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589734,
+    "name": "San Miguel Acatan",
+    "alternatenames": "San Miguel Acatan,San Miguel Acatán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589770,
+    "name": "San Mateo Ixtatan",
+    "alternatenames": "San Mateo Ixtatan,San Mateo Ixtatán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589774,
+    "name": "San Mateo",
+    "alternatenames": "San Mateo",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589776,
+    "name": "San Martin Zapotitlan",
+    "alternatenames": "San Martin,San Martin Zapotitlan,San Martín,San Martín Zapotitlán",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589778,
+    "name": "San Martin Sacatepequez",
+    "alternatenames": "San Martin,San Martin Sacatepequez,San Martín,San Martín Sacatepéquez",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589780,
+    "name": "San Martin Jilotepeque",
+    "alternatenames": "San Martin Jilotepeque,San Martín Jilotepeque",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589795,
+    "name": "San Marcos La Laguna",
+    "alternatenames": "San Marcos,San Marcos La Laguna",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589805,
+    "name": "San Marcos",
+    "alternatenames": "La Union,San Marcos,San Marcos La Union,San Markosas,San-Markos,sanmaleukoseu,sheng ma ke si,Сан-Маркос,聖馬科斯,산마르코스",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589812,
+    "name": "San Manuel Chaparron",
+    "alternatenames": "Chaparron,Chaparrón,San Manuel Chaparron,San Manuel Chaparrón",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589822,
+    "name": "San Luis Jilotepeque",
+    "alternatenames": "Jilotepeque,San Luis,San Luis Jilotepeque",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589824,
+    "name": "San Luis Ixcan",
+    "alternatenames": "",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589841,
+    "name": "San Luis",
+    "alternatenames": "San Luis",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589850,
+    "name": "San Lucas Toliman",
+    "alternatenames": "San Lucas,San Lucas Toliman,San Lucas Tolimán",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589852,
+    "name": "San Lucas Sacatepequez",
+    "alternatenames": "San Lucas,San Lucas Sacatepequez,San Lucas Sacatepéquez",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589865,
+    "name": "San Lorenzo",
+    "alternatenames": "San Lorenzo",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589869,
+    "name": "San Lorenzo",
+    "alternatenames": "San Lorenzo",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589880,
+    "name": "San Juan Tecuaco",
+    "alternatenames": "San Juan Tecuaco,Tecuaco",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589885,
+    "name": "San Juan Sacatepequez",
+    "alternatenames": "San Juan Sacatepequez,San Juan Sacatepéquez",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589896,
+    "name": "San Juan La Laguna",
+    "alternatenames": "San Juan,San Juan La Laguna",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589900,
+    "name": "San Juan Ixcoy",
+    "alternatenames": "San Juan Ixcoy",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589903,
+    "name": "San Juan Ermita",
+    "alternatenames": "San Juan Ermita,San Juan de la Ermita",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589913,
+    "name": "San Juan Cotzal",
+    "alternatenames": "San Juan Cotzal",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589917,
+    "name": "San Juan Chamelco",
+    "alternatenames": "Chamelco,San Juan Chamelco",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589923,
+    "name": "San Juan Bautista",
+    "alternatenames": "San Juan,San Juan Bautista",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589925,
+    "name": "San Juan Atitan",
+    "alternatenames": "San Juan Atitan,San Juan Atitlan,San Juan Atitlán,San Juan Atitán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589975,
+    "name": "San Jose Poaquil",
+    "alternatenames": "San Jose Poaquil,San José Poaquil",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589977,
+    "name": "San Jose Pinula",
+    "alternatenames": "San Jose Pinula,San José Pinula",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589983,
+    "name": "San Jose Ojetenan",
+    "alternatenames": "",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3589985,
+    "name": "San Jose Ojetenam",
+    "alternatenames": "San Jose Ixjoyon,San Jose Ixjoyon Ojetenan,San Jose Ojetenam,San Jose Ojetenan,San José Ixjoyón,San José Ixjoyón Ojetenán,San José Ojetenam,San José Ojetenán",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590017,
+    "name": "San Jose La Arada",
+    "alternatenames": "San Jose Arada,San Jose La Arada,San José Arada,San José La Arada",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590029,
+    "name": "San Jose El Idolo",
+    "alternatenames": "San Jose El Idolo,San José El Ídolo",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590030,
+    "name": "San Jose del Golfo",
+    "alternatenames": "San Jose El Golfo,San Jose del Golfo,San José El Golfo,San José del Golfo",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590041,
+    "name": "San Jose Chacaya",
+    "alternatenames": "San Jose,San Jose Chacaya,San José,San José Chacayá",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590053,
+    "name": "San Jose Acatempa",
+    "alternatenames": "Acatempa,San Jose Acatempa,San José Acatempa",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590069,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590090,
+    "name": "San Jorge",
+    "alternatenames": "San Jorge",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590114,
+    "name": "San Jeronimo",
+    "alternatenames": "San Jeronimo,San Jerónimo",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590127,
+    "name": "San Jacinto",
+    "alternatenames": "San Jacinto",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590188,
+    "name": "San Gaspar Ixchil",
+    "alternatenames": "San Gaspar,San Gaspar Ixchil",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590195,
+    "name": "San Gabriel",
+    "alternatenames": "San Gabriel",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590197,
+    "name": "San Francisco Zapotitlan",
+    "alternatenames": "San Francisco Zapotitlan,San Francisco Zapotitlán",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590213,
+    "name": "San Francisco la Union",
+    "alternatenames": "San Francisco La Union,San Francisco La Unión,San Francisco la Union,San Francisco la Unión",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590219,
+    "name": "San Francisco El Alto",
+    "alternatenames": "San Francisco,San Francisco El Alto",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590249,
+    "name": "San Francisco",
+    "alternatenames": "San Francisco",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590288,
+    "name": "San Felipe",
+    "alternatenames": "San Felipe",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590312,
+    "name": "San Diego",
+    "alternatenames": "San Diego",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590316,
+    "name": "San Cristobal Verapaz",
+    "alternatenames": "San Cristobal,San Cristobal Verapaz,San Cristóbal,San Cristóbal Verapaz",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590318,
+    "name": "San Cristobal Totonicapan",
+    "alternatenames": "San Cristobal,San Cristobal Totonicapan,San Cristóbal,San Cristóbal Totonicapán",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590323,
+    "name": "San Cristobal Cucho",
+    "alternatenames": "San Cristobal,San Cristobal Cucho,San Cristóbal,San Cristóbal Cucho",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590325,
+    "name": "San Cristobal Acasaguastlan",
+    "alternatenames": "Acasaguastlan,Acasaguastlán,San Cristobal,San Cristobal Acasaguastlan,San Cristóbal,San Cristóbal Acasaguastlán",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590347,
+    "name": "San Carlos Sija",
+    "alternatenames": "San Carlos,San Carlos Sija,Sija",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590355,
+    "name": "San Carlos Alzatate",
+    "alternatenames": "Alzatate,San Carlos Alzatate",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590384,
+    "name": "San Bernardino",
+    "alternatenames": "San Bernardino",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590389,
+    "name": "San Benito",
+    "alternatenames": "San Benito",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590393,
+    "name": "San Bartolome Milpas Altas",
+    "alternatenames": "San Barlotome Milpas Altas,San Barlotomé Milpas Altas,San Bartolome,San Bartolome Milpas Altas,San Bartolomé,San Bartolomé Milpas Altas",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590395,
+    "name": "San Bartolome Jocotenango",
+    "alternatenames": "San Bartolome Jocotenango,San Bartolomé Jocotenango",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590399,
+    "name": "San Bartolo",
+    "alternatenames": "San Bartolo",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590406,
+    "name": "Sanarate",
+    "alternatenames": "Sanarate",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590412,
+    "name": "San Antonio Suchitepequez",
+    "alternatenames": "San Antonio,San Antonio Suchitepequez,San Antonio Suchitepéquez",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590419,
+    "name": "San Antonio Sacatepequez",
+    "alternatenames": "San Antonio,San Antonio Sacatepequez,San Antonio Sacatepéquez",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590424,
+    "name": "San Antonio Palopo",
+    "alternatenames": "San Antonio,San Antonio Palopo,San Antonio Palopó",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590449,
+    "name": "San Antonio La Paz",
+    "alternatenames": "San Antonio La Paz",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590456,
+    "name": "San Antonio Ilotenango",
+    "alternatenames": "San Antonio Ilotenango",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590458,
+    "name": "San Antonio Huista",
+    "alternatenames": "San Antonio Huista",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590475,
+    "name": "San Antonio Aguas Calientes",
+    "alternatenames": "San Antonio,San Antonio Aguas Calientes",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590520,
+    "name": "San Andres Xecul",
+    "alternatenames": "San Andres,San Andres Xecul,San Andrés,San Andrés Xecul",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590522,
+    "name": "San Andres Villa Seca",
+    "alternatenames": "San Andres,San Andres Villa Seca,San Andrés,San Andrés Villa Seca",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590524,
+    "name": "San Andres Semetabaj",
+    "alternatenames": "San Andres,San Andres Semetabaj,San Andrés,San Andrés Semetabaj",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590526,
+    "name": "San Andres Sajcabaja",
+    "alternatenames": "San Andres Sajcabaja,San Andrés Sajcabajá",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590529,
+    "name": "San Andres Itzapa",
+    "alternatenames": "Itzapa,San Andres Itzapa,San Andrés Itzapa",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590537,
+    "name": "San Andres",
+    "alternatenames": "San Andres,San Andrés,sheng an de lei si,聖安德雷斯",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590547,
+    "name": "San Agustin Acasaguastlan",
+    "alternatenames": "San Agustin,San Agustin Acasaguastlan,San Agustín,San Agustín Acasaguastlán",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590567,
+    "name": "Samayac",
+    "alternatenames": "",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590605,
+    "name": "Salcaja",
+    "alternatenames": "Salcaja,Salcajá",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590616,
+    "name": "Salama",
+    "alternatenames": "Salama,Salamá",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590690,
+    "name": "Sacapulas",
+    "alternatenames": "Sacapulas",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590788,
+    "name": "Rio Hondo",
+    "alternatenames": "Rio Hondo,Río Hondo",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590804,
+    "name": "Rio Bravo",
+    "alternatenames": "Rio Bravo,Río Bravo",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590814,
+    "name": "Rio Blanco",
+    "alternatenames": "Rio Blanco,Río Blanco",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590858,
+    "name": "Retalhuleu",
+    "alternatenames": "RER,Retalhuleo,Retalhuleu,Retalhuley,Retaluleu,Реталулеу",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590881,
+    "name": "Raxruha",
+    "alternatenames": "Raxrruja,Raxrrujá,Raxruha,Raxruhá,Raxruja,Raxrujá",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590924,
+    "name": "Rabinal",
+    "alternatenames": "Rabinal",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590973,
+    "name": "Quezaltepeque",
+    "alternatenames": "Quetzaltepeque,Quezaltepeque",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590979,
+    "name": "Quetzaltenango",
+    "alternatenames": "AAZ,Kecaltenangas,Kecaltenango,Kesal'tenango,Ketsaltenan'nko,Ketzaltenango,Quetzaltenanco,Quetzaltenango,Quetzaltenānco,Quexaltenango,Quezaltenango,ke sa er te nan ge,keteusaltenang-go,ketsuarutenango,Κετσαλτενάνγκο,Кесальтенанго,Кецалтенанго,ケツァルテナンゴ,克薩爾特南戈,케트살테낭고",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3590987,
+    "name": "Quesada",
+    "alternatenames": "Quesada,Quezada",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591028,
+    "name": "Purulha",
+    "alternatenames": "Purulha,Purulhá",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591060,
+    "name": "Puerto San Jose",
+    "alternatenames": "GSJ,Puerto San Chose,Puerto San Chosė,Puerto San Jose,Puerto San José,Puerto de San Jose,Puerto de San José,San Jose,San Jose de Guatemala,San José,San José de Guatemala,sheng he sai gang,پورتو سان ہوزے,聖何塞港",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591062,
+    "name": "Puerto Barrios",
+    "alternatenames": "PBR,Puehrto-Barrios,Puerto Barijosas,Puerto Barios,Puerto Barrios,ba li ao si gang,Пуерто Бариос,Пуэрто-Барриос,פוארטו באריוס,巴里奧斯港",
+    "subcountry": "Izabal"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591092,
+    "name": "Pueblo Nuevo Vinas",
+    "alternatenames": "Pueblo Nuevo,Pueblo Nuevo Vinas,Pueblo Nuevo Viñas",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591093,
+    "name": "Tiquisate",
+    "alternatenames": "Pueblo Nuevo,Pueblo Nuevo Tiquisate,Tiquisate,Tiquizate",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591106,
+    "name": "Pueblo Nuevo",
+    "alternatenames": "Pueblo Nuevo",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591181,
+    "name": "Poptun",
+    "alternatenames": "PON,Poctum,Poctun,Poctún,Poptun,Poptún,Santa Barbara,Santa Bárbara",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591210,
+    "name": "Pochuta",
+    "alternatenames": "Pochuta",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591216,
+    "name": "Playa Grande",
+    "alternatenames": "PKJ,Playa Grande",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591415,
+    "name": "Petapa",
+    "alternatenames": "Petapa,San Miguel Petapa",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591512,
+    "name": "Patzun",
+    "alternatenames": "Patzun,Patzún",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591517,
+    "name": "Patzite",
+    "alternatenames": "Patzite,Patzité",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591523,
+    "name": "Patzicia",
+    "alternatenames": "Patzicia,Patzicía",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591541,
+    "name": "Patulul",
+    "alternatenames": "Patulul",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591574,
+    "name": "Pastores",
+    "alternatenames": "Pastores",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591618,
+    "name": "Pasaco",
+    "alternatenames": "Pasaco",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591629,
+    "name": "Parramos",
+    "alternatenames": "Parramos",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591676,
+    "name": "Panzos",
+    "alternatenames": "Panzos,Panzós",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591750,
+    "name": "Panajachel",
+    "alternatenames": "Panajachel",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591833,
+    "name": "Palin",
+    "alternatenames": "Palin,Palín",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591841,
+    "name": "Palestina de los Altos",
+    "alternatenames": "Palestina,Palestina de los Altos",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591851,
+    "name": "Palencia",
+    "alternatenames": "Palencia",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591885,
+    "name": "Pajapita",
+    "alternatenames": "Pajapita",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591955,
+    "name": "Pachalum",
+    "alternatenames": "Pachalum,Pachalun",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3591997,
+    "name": "Ostuncalco",
+    "alternatenames": "Ostuncalco,San Juan Ostuncalco",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592019,
+    "name": "Oratorio",
+    "alternatenames": "El Oratorio,Oratorio",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592035,
+    "name": "Olopa",
+    "alternatenames": "Olopa",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592041,
+    "name": "Olintepeque",
+    "alternatenames": "Olintepeque",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592086,
+    "name": "Ocos",
+    "alternatenames": "Ocos,Ocós,Puerto De Ocos",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592105,
+    "name": "Nuevo San Carlos",
+    "alternatenames": "Nuevo San Carlos",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592108,
+    "name": "Nuevo Progreso",
+    "alternatenames": "Nuevo Progreso,Nuevo Progresso",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592126,
+    "name": "Nueva Santa Rosa",
+    "alternatenames": "Nueva Santa Rosa",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592145,
+    "name": "Nueva Concepcion",
+    "alternatenames": "Concepcion,Concepcion La Grande,Concepción,Concepción La Grande,Nueva Concepcion,Nueva Concepción",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592217,
+    "name": "Nenton",
+    "alternatenames": "Nenton,Nentón",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592237,
+    "name": "Nebaj",
+    "alternatenames": "Nebaj",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592286,
+    "name": "Nahuala",
+    "alternatenames": "Nahuala,Nahualá",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592322,
+    "name": "Moyuta",
+    "alternatenames": "Moyuta,Moyutla,Pueblo Moyuta",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592349,
+    "name": "Morazan",
+    "alternatenames": "Morazan,Morazán",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592362,
+    "name": "Morales",
+    "alternatenames": "Morales",
+    "subcountry": "Izabal"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592477,
+    "name": "Monjas",
+    "alternatenames": "Monjas",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592483,
+    "name": "Momostenango",
+    "alternatenames": "Momostenango",
+    "subcountry": "Totonicapán"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592519,
+    "name": "Mixco",
+    "alternatenames": "Mishko,Mixco,Мишко",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592609,
+    "name": "Mazatenango",
+    "alternatenames": "Masatenango,Mazatenango,Масатенанго",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592635,
+    "name": "Mataquescuintla",
+    "alternatenames": "Mataquescuintla,Mataquesquintla",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592642,
+    "name": "Masagua",
+    "alternatenames": "Masagua",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592751,
+    "name": "Malacatancito",
+    "alternatenames": "Malacatancito,Santa AnaMalacatan,Santa AnaMalacatán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592753,
+    "name": "Malacatan",
+    "alternatenames": "Malacatan,Malacatán",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3592770,
+    "name": "Magdalena Milpas Altas",
+    "alternatenames": "Magdalena,Magdalena Milpas Altas",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3593235,
+    "name": "Los Amates",
+    "alternatenames": "Los Amates",
+    "subcountry": "Izabal"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3593376,
+    "name": "Livingston",
+    "alternatenames": "",
+    "subcountry": "Izabal"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3593500,
+    "name": "La Union",
+    "alternatenames": "La Union,La Unión",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3593542,
+    "name": "La Tinta",
+    "alternatenames": "La Tinta",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594143,
+    "name": "La Reforma",
+    "alternatenames": "La Reforma,Reforma",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594315,
+    "name": "Lanquin",
+    "alternatenames": "Lanquin,Lanquín",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594422,
+    "name": "La Libertad",
+    "alternatenames": "La Libertad,la li bo ta de,拉利伯塔德",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594423,
+    "name": "La Libertad",
+    "alternatenames": "La Florida,La Libertad",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594575,
+    "name": "La Gomera",
+    "alternatenames": "La Gomera",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594703,
+    "name": "La Esperanza",
+    "alternatenames": "Esperanza,La Esperanza",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594753,
+    "name": "La Democracia",
+    "alternatenames": "Democracia,La Democracia",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594754,
+    "name": "La Democracia",
+    "alternatenames": "La Demacracia,La Democracia",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3594989,
+    "name": "La Blanca",
+    "alternatenames": "Hacienda La Blanca,La Blanca",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595069,
+    "name": "Jutiapa",
+    "alternatenames": "Juliapa,Jutiapa,Khutiapa,Хутиапа",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595148,
+    "name": "Joyabaj",
+    "alternatenames": "Joyabaj",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595171,
+    "name": "Jocotenango",
+    "alternatenames": "Jocotenango",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595181,
+    "name": "Jocotan",
+    "alternatenames": "Jocotan,Jocotán",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595224,
+    "name": "Jerez",
+    "alternatenames": "Jerez",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595232,
+    "name": "Jalpatagua",
+    "alternatenames": "Jalpatagua",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595237,
+    "name": "Jalapa",
+    "alternatenames": "Jalapa,Khalapa,Халапа",
+    "subcountry": "Jalapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595248,
+    "name": "Jacaltenango",
+    "alternatenames": "Jacaltenango,Khakal'tenango,Хакальтенанго",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595255,
+    "name": "Iztapa",
+    "alternatenames": "Istapa,Iztapa,Iztapa Puerto,Puerto Iztapa,Puerto de Iztapa",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595282,
+    "name": "Ixtahuacan",
+    "alternatenames": "Istaguacan,Istaguacán,Itzal,Ixtahuacan,Ixtahuacán,San Ildefonso,San Ildefonso Ixtahuacan,San Ildefonso Ixtahuacán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595329,
+    "name": "Ixchiguan",
+    "alternatenames": "Ixchiguan,Ixchiguán",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595366,
+    "name": "Ipala",
+    "alternatenames": "Ipala,Jilotepeque",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595403,
+    "name": "Huite",
+    "alternatenames": "Huite,Huité",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595406,
+    "name": "Huitan",
+    "alternatenames": "Huitan,Huitán",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595416,
+    "name": "Huehuetenango",
+    "alternatenames": "HUG,Huehuetenangas,Huehuetenango,Uehuehtenango,Ueuetenango,ue-uetenang-go,ueuetenango,wei wei te nan ge,Уеуетенанго,Уэуэтенанго,ウェウェテナンゴ,韋韋特南戈,우에우에테낭고",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595503,
+    "name": "Guazacapan",
+    "alternatenames": "Guazacapan,Guazacapán",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595554,
+    "name": "Guanagazapa",
+    "alternatenames": "Guanagazapa",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595560,
+    "name": "Gualan",
+    "alternatenames": "Guala,Gualan,Gualá,Gualán",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595631,
+    "name": "Granados",
+    "alternatenames": "Granados",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595674,
+    "name": "Genova",
+    "alternatenames": "Genova,Génova",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595714,
+    "name": "Fraijanes",
+    "alternatenames": "Fraijanes",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595721,
+    "name": "Flores Costa Cuca",
+    "alternatenames": "Flores,Flores Costa Cuca",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595725,
+    "name": "Flores",
+    "alternatenames": "FRS,Flores,Flores Peten,Flores Petén,Floresas,flwrys  ayl pytyn,fu luo lei si,peulloleseu,phloresa,plwrs,Флорес,פלורס,فلوریس، ایل پیتین,ফ্লোরেস,弗洛雷斯,플로레스",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595757,
+    "name": "Estanzuela",
+    "alternatenames": "Estanzuela",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595778,
+    "name": "Esquipulas Palo Gordo",
+    "alternatenames": "Esquipulas Palo Gordo,Palo Gorde,Palo Gordo",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595783,
+    "name": "Esquipulas",
+    "alternatenames": "Eskipulasas,Esquipulas,ai si ji pu la si,埃斯基普拉斯",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595803,
+    "name": "Escuintla",
+    "alternatenames": "Ehskuintla,Escuintla,Esquintla,esukuintora,Эскуинтла,エスクィントラ",
+    "subcountry": "Escuintla"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3595929,
+    "name": "El Tumbador",
+    "alternatenames": "El Trumbador,El Tumbador,Tumbador",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596041,
+    "name": "El Tejar",
+    "alternatenames": "El Tejar,Tejar",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596249,
+    "name": "El Rodeo",
+    "alternatenames": "El Rodeo,Rodeo",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596389,
+    "name": "El Quetzal",
+    "alternatenames": "El Quetzal,Quetzal",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596421,
+    "name": "Guastatoya",
+    "alternatenames": "El Progreso,Guastatoya,Gusfatoya,Progreso",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596423,
+    "name": "El Progreso",
+    "alternatenames": "El Progreso,Progreso",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596644,
+    "name": "El Palmar",
+    "alternatenames": "El Palmar,Palmar",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3596940,
+    "name": "El Jicaro",
+    "alternatenames": "El Jicaro,El Jícaro,Jicaro",
+    "subcountry": "El Progreso"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597078,
+    "name": "El Estor",
+    "alternatenames": "El Estor",
+    "subcountry": "Izabal"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597301,
+    "name": "El Chol",
+    "alternatenames": "El Chol,Santa Cruz El Chol",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597339,
+    "name": "El Chal",
+    "alternatenames": "El Chal",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597587,
+    "name": "El Asintal",
+    "alternatenames": "Acintal,Asintal,El Acintal,El Asintal",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597676,
+    "name": "El Adelanto",
+    "alternatenames": "Adelanto,El Adelanto",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597722,
+    "name": "Dolores",
+    "alternatenames": "Dolores",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597750,
+    "name": "Cuyotenango",
+    "alternatenames": "Cuyotenango",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597772,
+    "name": "Cunen",
+    "alternatenames": "Cunen,Cunén",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597802,
+    "name": "Cuilco",
+    "alternatenames": "Cuilco",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597804,
+    "name": "Cuilapa",
+    "alternatenames": "Cuajiniquilapa,Cuilapa",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597837,
+    "name": "Cubulco",
+    "alternatenames": "Cubulco",
+    "subcountry": "Baja Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597966,
+    "name": "Conguaco",
+    "alternatenames": "Conguaco",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597976,
+    "name": "Concepcion Tutuapa",
+    "alternatenames": "Concepcion,Concepcion Tutuapa,Concepción,Concepción Tutuapa,Conception,Conception Tutuapa",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597985,
+    "name": "Concepcion Las Minas",
+    "alternatenames": "Concepcion,Concepcion Las Minas,Concepción,Concepción Las Minas",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3597993,
+    "name": "Concepcion Chiquirichapa",
+    "alternatenames": "Concepcion,Concepcion Chiquirichapa,Concepción,Concepción Chiquirichapa",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598005,
+    "name": "Concepcion Huista",
+    "alternatenames": "Concepcion,Concepcion Huista,Concepción,Concepción Huista",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598006,
+    "name": "Concepcion",
+    "alternatenames": "Concepcion,Concepción",
+    "subcountry": "Sololá"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598025,
+    "name": "Comitancillo",
+    "alternatenames": "Comitacillo,Comitancillo",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598031,
+    "name": "Comapa",
+    "alternatenames": "Comapa",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598034,
+    "name": "Comalapa",
+    "alternatenames": "Comalapa",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598041,
+    "name": "Colotenango",
+    "alternatenames": "Colotenango",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598073,
+    "name": "Colomba",
+    "alternatenames": "Colomba",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598119,
+    "name": "Coban",
+    "alternatenames": "CBV,Coban,Cobán,Koban,Kobanas,Santo Domingo de Coban,Santo Domingo de Cobán,ke wan,koban,Кобан,קובאן,科萬,코반",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598122,
+    "name": "Coatepeque",
+    "alternatenames": "CTF,Coatepec,Coatepeque,Koatepeke,Koatepekė,ke a te pei ke,Коатепеке,کواتیپیکے، کویتسالتینانگو,科阿特佩克",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598128,
+    "name": "Ciudad Vieja",
+    "alternatenames": "Ciudad Vieja",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598129,
+    "name": "Ciudad Tecun Uman",
+    "alternatenames": "Ayutla,Ciudad Tecun Uman,Ciudad Tecún Umán",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598131,
+    "name": "Melchor de Mencos",
+    "alternatenames": "Allahan,Ciudad Melchor de Mencos,Fallabon,Fallabón,MCR,Melchor Mencos,Melchor de Mencos",
+    "subcountry": "Petén"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598132,
+    "name": "Guatemala City",
+    "alternatenames": "Cidade da Guatemala,Citta del Guatemala,Città del Guatemala,Ciudad Guatemala,Ciudad de Guatemala,Ciutat de Guatemala,GUA,Guate,Guatemala,Guatemala City,Guatemala Hiria,Guatemala by,Guatemala la Nueva,Guatemala-Stadt,Guatemala-Urbo,Guatemala-stad,Gvatemala,Gvatemalurbo,Gwatemala,New Guatemala,Nueva Guatemala,Nueva Guatemala de la Asuncion,Nueva Guatemala de la Asunción,Pole tes Gouatemalas,Santiago de Guatimala,gua de ma la shi,guatemarashiti,gwatemalla si,gwatemallasiti,kawtemalasiti,mdynt ghwatymala,shhr gwatmala,Πόλη της Γουατεμάλας,Гватемала,גואטמלה סיטי,גוואטמלה סיטי,شهر گواتمالا,مدينة غواتيمالا,กัวเตมาลาซิตี,グアテマラシティ,瓜地馬拉市,과테말라 시,과테말라시티",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598277,
+    "name": "Chuarrancho",
+    "alternatenames": "Chibatutuy,Chuarrancho",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598415,
+    "name": "Chisec",
+    "alternatenames": "Chisec",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598462,
+    "name": "Chiquimulilla",
+    "alternatenames": "Chiquimulilla",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598465,
+    "name": "Chiquimula",
+    "alternatenames": "CIQ,Chikimula,Chiquimula,Ciudad Procer,Ciudad Prócer,La Perla de Oriente,Чикимула",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598513,
+    "name": "Chinique",
+    "alternatenames": "Chinique",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598529,
+    "name": "Chinautla",
+    "alternatenames": "Chignautla,Chinautla,Santa Cruz de Chinautla",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598572,
+    "name": "Chimaltenango",
+    "alternatenames": "Chimal'tenango,Chimaltenango,Santa Ana Chimaltenango,Чимальтенанго",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598655,
+    "name": "Chichicastenango",
+    "alternatenames": "Chichicastenango,Chichikastenango,Santo Tomas Chichicastenango,Santo Tomás Chichicastenango,Чичикастенанго",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598659,
+    "name": "Chiche",
+    "alternatenames": "Chiche,Chiché",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598670,
+    "name": "Chicaman",
+    "alternatenames": "Chicaman,Chicamán",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598678,
+    "name": "Chicacao",
+    "alternatenames": "Chicacao",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598692,
+    "name": "Chiantla",
+    "alternatenames": "Chiantla",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598787,
+    "name": "Champerico",
+    "alternatenames": "Champerico,Puerto Champerico,Puerto de Champerico",
+    "subcountry": "Retalhuleu"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598804,
+    "name": "Chajul",
+    "alternatenames": "Chajul",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598825,
+    "name": "Chahal",
+    "alternatenames": "Chahal",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598958,
+    "name": "Catarina",
+    "alternatenames": "Catarina",
+    "subcountry": "San Marcos"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3598968,
+    "name": "Casillas",
+    "alternatenames": "Casillas",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599069,
+    "name": "Cantel",
+    "alternatenames": "Cantel",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599094,
+    "name": "Canilla",
+    "alternatenames": "Canilla,Canillá,Caniya,Caniyá",
+    "subcountry": "Quiché"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599181,
+    "name": "Camotan",
+    "alternatenames": "Camotan,Camotán",
+    "subcountry": "Chiquimula"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599253,
+    "name": "Cajola",
+    "alternatenames": "Cajola,Cajolá",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599265,
+    "name": "Cahabon",
+    "alternatenames": "Cahabon,Cahabón",
+    "subcountry": "Alta Verapaz"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599287,
+    "name": "Cabrican",
+    "alternatenames": "Cabrican,Cabricán",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599298,
+    "name": "Cabanas",
+    "alternatenames": "Cabanas,Cabañas",
+    "subcountry": "Zacapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599575,
+    "name": "Barillas",
+    "alternatenames": "Barillas",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599582,
+    "name": "Barberena",
+    "alternatenames": "Barbarena,Barberena",
+    "subcountry": "Santa Rosa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599633,
+    "name": "Atescatempa",
+    "alternatenames": "Atescatempa",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599639,
+    "name": "Asuncion Mita",
+    "alternatenames": "Asuncion,Asuncion Mita,Asunción Mita,Mita",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599699,
+    "name": "Antigua Guatemala",
+    "alternatenames": "Antigoua Gouatemala,Antigua,Antigua Guatemala,Antigua-Guatemala,Antigua-Gvatemala,Antigva Gvatemala,Antikva Gvatemalo,Huehcauh Cuauhtemallan,Huehcāuh Cuauhtēmallān,Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros,Santiago de los Caballeros de Guatemala,The Most Noble and Most Loyal City of Santiago of the Knights of Goathemala,an de gua,antikuva kuvattamala,Αντίγουα Γουατεμάλα,Антигва Гватемала,Антигуа-Гватемала,Антигуа-Гуатемала,Антіґуа-Ґватемала,אנטיגואה גואטמלה,ஆன்டிகுவா குவாத்தமாலா,ანტიგუა-გვატემალა,アンティグア・グアテマラ,安地瓜",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599735,
+    "name": "Amatitlan",
+    "alternatenames": "Amatitlan,Amatitlán,San Juan Amatitlan,San Juan Amatitlán",
+    "subcountry": "Guatemala"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599788,
+    "name": "Alotenango",
+    "alternatenames": "Alotenango,San Juan Alotenango",
+    "subcountry": "Sacatepéquez"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599793,
+    "name": "Almolonga",
+    "alternatenames": "Almolonga",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599912,
+    "name": "Aguacatan",
+    "alternatenames": "Aguacatan,Aguacatán",
+    "subcountry": "Huehuetenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3599972,
+    "name": "Agua Blanca",
+    "alternatenames": "Agua Blanca",
+    "subcountry": "Jutiapa"
+  },
+  {
+    "country": "GT",
+    "geonameid": 3600008,
+    "name": "Acatenango",
+    "alternatenames": "Acatenango",
+    "subcountry": "Chimaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 9975222,
+    "name": "San Juan Ostuncalco",
+    "alternatenames": "San Juan Ostuncalco",
+    "subcountry": "Quetzaltenango"
+  },
+  {
+    "country": "GT",
+    "geonameid": 9975226,
+    "name": "La Maquina",
+    "alternatenames": "La Maquina,La Máquina,San Jose La Maquina,San José La Máquina",
+    "subcountry": "Suchitepeque"
+  },
+  {
+    "country": "GT",
+    "geonameid": 9980863,
+    "name": "Fray Bartolome de Las Casas",
+    "alternatenames": "Fray Bartolome de Las Casas,Fray Bartolomé de Las Casas",
+    "subcountry": "Alta Verapaz"
+  }
+]

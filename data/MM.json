@@ -1,0 +1,527 @@
+[
+  {
+    "country": "MM",
+    "geonameid": 1285173,
+    "name": "Yenangyaung",
+    "alternatenames": "Yaynangyoung,Yenangyaung,Yenangyoung",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1285871,
+    "name": "Nyaungdon",
+    "alternatenames": "Nyanngdon,Nyaung-dun,Nyaungdon,Yandoon,Yandun",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1285899,
+    "name": "Yamethin",
+    "alternatenames": "Yamethin,Yamethinn",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1289828,
+    "name": "Wakema",
+    "alternatenames": "Wagay-ma,Wagema,Wagèma,Wakema,Wancuma,Wankinna",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1290374,
+    "name": "Twante",
+    "alternatenames": "Twante",
+    "subcountry": "Yangon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1290596,
+    "name": "Taungoo",
+    "alternatenames": "Taung-ngu,Taungngu,Taungoo,Taungu,Taungû,Toungoo,taung-u,txng xu,Таунгу,ตองอู,တောင်ငူမြို့,타웅우",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1291193,
+    "name": "Thongwa",
+    "alternatenames": "Thon-Khwa,Thongwa",
+    "subcountry": "Yangon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1292037,
+    "name": "Thayetmyo",
+    "alternatenames": "Thayetmo,Thayetmyo,Thyatmyo",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1292288,
+    "name": "Thaton",
+    "alternatenames": "Tha-tun,Thadon,Thadôn,Thaton",
+    "subcountry": "Mon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1292313,
+    "name": "Tharyarwady",
+    "alternatenames": "Tharrawaddy,Tharyarwady,Thayawadi",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1292579,
+    "name": "Thanatpin",
+    "alternatenames": "Tanatpin,Thanatpin",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1293625,
+    "name": "Dawei",
+    "alternatenames": "Davejus,Davėjus,Dawei,TVY,Tavoj,Tavoy,Tawe,Tawè,dauei,dawei,dawy,dawyy,thway,tu wa,Тавой,داوئی,داوی,ทวาย,ထားဝယ်မြို့,ダウェイ,土瓦,다웨이",
+    "subcountry": "Tanintharyi"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1293960,
+    "name": "Taunggyi",
+    "alternatenames": "Taundzhi,Taundzi,Taundzis,Taundžis,Taunggi Mong,Taunggyi,dong zhi,taungji,taunji,tawngyy,txng yi,Таунджи,Таунџи,تاونگئی,ตองยี,တောင်ကြီးမြို့,タウンジー,東枝,타웅지",
+    "subcountry": "Shan"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1294041,
+    "name": "Taungdwingyi",
+    "alternatenames": "Taungdwingyi",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1295301,
+    "name": "Tachilek",
+    "alternatenames": "THL,Tachajlejk,Tachileik,Tachilek,Tha Chaleak,Tha Chi Lek,Wan Ta-hki-lek,Wān Ta-hki-lēk,Тачайлейк",
+    "subcountry": "Shan"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1295395,
+    "name": "Syriam",
+    "alternatenames": "",
+    "subcountry": "Yangon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1295765,
+    "name": "Sittwe",
+    "alternatenames": "AKY,Ak'jab,Akjab,Akyab,Sittwe,Situe,Situeh,Sitve,Sitvė,shi dui,shittoue,sitave,siteuwe,wytwy,Акьяб,Ситуэ,Сітуе,ویتوی,सितवे,စစ်တွေမြို့,シットウェ,实兑,시트웨",
+    "subcountry": "Rakhine"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1296736,
+    "name": "Shwebo",
+    "alternatenames": "Shwebo",
+    "subcountry": "Sagain"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1298482,
+    "name": "Sagaing",
+    "alternatenames": "Sagajn,Sagang,Sitkaing,Сагайн",
+    "subcountry": "Sagain"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1298824,
+    "name": "Yangon",
+    "alternatenames": "Dagon,Gian'nkon,Jangon,Jangon khot,Jangona,Jangono,Jangun,Jangún,Ngiong-kong,Ngióng-kông,RGN,Rangon,Rangoon,Rangoun,Rangum,Rangun,Rangunas,Rangún,Rangūnas,Yangjgvangh,Yangon,Yangôn,Yanqon,iangoni,iyanguna,raguna,ranguna,rngwn,yang guang,yang-gon,yanghwn,yangkung,yangon,yanguna,yangwn,yankon,Ýangon,Γιανγκόν,Јангон,Рангун,Янгон,Янгон хот,Յանգոն,יאנגון,رنگون,يانغون,یانگون,यांगून,रङ्गुन,रङ्गून,ইয়াংগুন,ਰੰਗੂਨ,யங்கோன்,యాంగోన్,യംഗോൺ,ย่างกุ้ง,ཡང་ཀོང་།,ရန်ကုန်မြို့,იანგონი,ያንጎን,យ៉ាំងហ្គូន,ヤンゴン,仰光,양곤",
+    "subcountry": "Yangon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1298911,
+    "name": "Pyu",
+    "alternatenames": "Pyu",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1298987,
+    "name": "Pyinmana",
+    "alternatenames": "P'inmana,Pinmana,Pjinmana,Pyinmana,Pyinmana Naypyidaw,Pyinmank,Rangun,bin ma na,nai bi duo,p yin ma na,pinmana,Пьинмана,Пїнмана,Рангун,ปยินมะนา,ပျဉ်းမနားမြို့,ピンマナ,奈比多,彬馬那,핀마나",
+    "subcountry": "Nay Pyi Taw"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1299154,
+    "name": "Pyay",
+    "alternatenames": "PRU,Prome,Pyay,Pye,Pyei,Pyit,Проме",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1299237,
+    "name": "Pyapon",
+    "alternatenames": "P'japon,Pyabon,Pyabôn,Pyapon,Pyapun,Пьяпон",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1300466,
+    "name": "Bago",
+    "alternatenames": "Bagas,Bago,Begu,Pegou,Pegu,Pégou,bago,bagw  brma,bagw  myanmar,bo gu,peku,pha kho,Пегу,باگو، برما,باگو، میانمار,பெகு,พะโค,ပဲခူးမြို့,バゴー,勃固,바고",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1300969,
+    "name": "Paungde",
+    "alternatenames": "Paung-deh,Paungde",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1302439,
+    "name": "Pakokku",
+    "alternatenames": "PKK,Pagukku,Pakkoku,Pakokku,Пакокку",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1302849,
+    "name": "Hpa-An",
+    "alternatenames": "Hpa-An,Hpa-an,PAA,Pa-an,Pan",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1303361,
+    "name": "Nyaungshwe",
+    "alternatenames": "N'onshueh,Nyaung Shwe,Yawnghwe,Ньоншуэ,ညောငရေမြ,ညောင်ရွှေမြို့",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1303406,
+    "name": "Nyaunglebin",
+    "alternatenames": "Nyaunglebin",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1307741,
+    "name": "Myitkyina",
+    "alternatenames": "M'ichina,MYT,Michina,Mjicina,Mjičina,Myitkyin,Myitkyina,Myitkyinā,mi zhi na,michina,mit ci na,mitchina,myytkyyna,Мичина,Мьичина,Мїчина,میئتکیئنا,มิตจีนา,မြစ်ကြီးနားမြို့,ミッチーナー,密支那,미치나",
+    "subcountry": "Kachin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1307835,
+    "name": "Myingyan",
+    "alternatenames": "Myingan,Myingyan",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308052,
+    "name": "Myawadi",
+    "alternatenames": "Myawadi",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308204,
+    "name": "Myanaung",
+    "alternatenames": "Myanaung",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308415,
+    "name": "Mudon",
+    "alternatenames": "Mudon",
+    "subcountry": "Mon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308464,
+    "name": "Mawlamyinegyunn",
+    "alternatenames": "Mawlamyainggyun,Mawlamyinegyunn,Moulmeingyu,Moulmeingyun",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308465,
+    "name": "Mawlamyine",
+    "alternatenames": "MNU,Maulamiain,Mawlamyaing,Mawlamyine,Molam'jajn,Molamjainas,Molamjajn,Molamyaing,Moulamjin,Moulmein,Mulmejn,mao dan mian,mawlamyayn,mawlamyyn,meaa la leing,moramyain,moulmein,Моламьяйн,Моламяйн,Моуламјин,ماولامیئن,ماولامیاین,เมาะลำเลิง,မောလမြင,မော်လမြိုင်,モーラミャイン,毛淡棉,모울메인",
+    "subcountry": "Mon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308522,
+    "name": "Monywa",
+    "alternatenames": "Moniva,Monywa,Mounujua,Munywa,NYW,meng yu wa,mon'yuwa,moniwa,mony wa,mwnywa,Моунъюа,مونیوا,โมนยวา,မုံရွာ,モンユワ,蒙育瓦,모니와",
+    "subcountry": "Sagain"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1308937,
+    "name": "Mogok",
+    "alternatenames": "Magok,Mogok,Могок",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1309289,
+    "name": "Minbu",
+    "alternatenames": "Minbu",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1309333,
+    "name": "Mikenaungea",
+    "alternatenames": "",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1309611,
+    "name": "Myeik",
+    "alternatenames": "M'ej,MGZ,Mergui,Myeik,Мьей",
+    "subcountry": "Tanintharyi"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1309793,
+    "name": "Meiktila",
+    "alternatenames": "Meiktila,Mejtkhila,Miktila,mea thi la,meikeutilla,meittira,myyktyla,Мейтхила,میئکتیلا,เมะทีลา,မိတ္ထီလာမြို့,メイッティーラ,메이크틸라",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1309937,
+    "name": "Pyin Oo Lwin",
+    "alternatenames": "Maymo,Maymyo,Meimyu,Memyo,Pyin Oo Lwin",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1310120,
+    "name": "Mawlaik",
+    "alternatenames": "Mawlaik",
+    "subcountry": "Sagain"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1310362,
+    "name": "Maubin",
+    "alternatenames": "Ma-oo-beng,Manbin,Maubin",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1310460,
+    "name": "Martaban",
+    "alternatenames": "Martaban,Marteban,Moktama,Мартабан",
+    "subcountry": "Mon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1311874,
+    "name": "Mandalay",
+    "alternatenames": "MDL,Mandalaj,Mandalaja,Mandalajo,Mandalajus,Mandalay,Mandalay piirkond,Mandale,Mandalej,man de lei,mandalay,mandale,mandallei,mandaly,mandare,mantalai,manth a ley,Мандалай,Мандалеј,ماندالاي,ماندالی,ماندالے,मांडले,माण्डले,மண்டலை,మాండలే,มัณฑะเลย์,မန္တလေးမြို့,マンダレー,曼德勒,만달레이",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1312609,
+    "name": "Magway",
+    "alternatenames": "MWQ,Magueh,Magway,Magwe,Магуэ",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1313479,
+    "name": "Loikaw",
+    "alternatenames": "LIW,Loikaw,Lojko,Lwegaw,Lwègaw,Лойко",
+    "subcountry": "Kayah"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1314042,
+    "name": "Letpandan",
+    "alternatenames": "Letpadan,Letpandan,Letpatan",
+    "subcountry": "Bago"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1314759,
+    "name": "Lashio",
+    "alternatenames": "LSH,Lasha,Lashio,Lasho,Lasijas,Lašijas,la qu,lashyw,lasio,rasho,Лаша,Лашо,لاشیو,လားရှိုးမြို့,ラーショー,臘戌,라시오",
+    "subcountry": "Shan"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1316703,
+    "name": "Kyaukse",
+    "alternatenames": "Kyaukse",
+    "subcountry": "Mandalay"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1317375,
+    "name": "Kyaikto",
+    "alternatenames": "Kyaikto",
+    "subcountry": "Mon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1317397,
+    "name": "Kyaiklat",
+    "alternatenames": "Keiklat,Kyaiklat",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1317402,
+    "name": "Kyaikkami",
+    "alternatenames": "Amherst,Kyaikkami",
+    "subcountry": "Mon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1319364,
+    "name": "Keng Tung",
+    "alternatenames": "Keng Tung,Kēng Tung",
+    "subcountry": "Shan"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1319533,
+    "name": "Kayan",
+    "alternatenames": "Kayan",
+    "subcountry": "Yangon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1319573,
+    "name": "Kawthoung",
+    "alternatenames": "KAW,Kau Saung,Kawsong,Kawsung,Kawthaung,Kawthoung,Kodaun,Pulodua,Victoria Point,keaa sxng,Кодаун,เกาะสอง,ကောသောငးမြ,ကော့သောင်းမြို့",
+    "subcountry": "Tanintharyi"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1320944,
+    "name": "Kanbe",
+    "alternatenames": "Kanbe,Kanhe,Канбе",
+    "subcountry": "Yangon"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1325211,
+    "name": "Hinthada",
+    "alternatenames": "HEB,Henzada,Hintada,Hinthada",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1325443,
+    "name": "Hakha",
+    "alternatenames": "Haka,Hakha,ဟားခါးမြ,ဟားခါးမြို့",
+    "subcountry": "Chin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1326105,
+    "name": "Falam",
+    "alternatenames": "Falam,Palan,Фалам",
+    "subcountry": "Chin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1327659,
+    "name": "Chauk",
+    "alternatenames": "Chauk,Chouk,Чаук",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1328121,
+    "name": "Bogale",
+    "alternatenames": "Bogale",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1328218,
+    "name": "Bhamo",
+    "alternatenames": "BMO,Bamo,Banmaw,Banmo,Bhamo,Hsinkai,ba mo,bamo,pha mo,Бамо,Банмо,พะโม,ဗန်းမော်မြို့,バモー,八莫,바모",
+    "subcountry": "Kachin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1328421,
+    "name": "Pathein",
+    "alternatenames": "BSX,Basejn,Bassein,Bassejn,Pantejn,Patejn,Pathein,Patheinas,Puthein,bo sheng,patein,patyn,Бассейн,Пантейн,Патейн,پاتھین,پاتین,ပုသိမ်မြို့,パテイン,勃生,파테인",
+    "subcountry": "Ayeyarwady"
+  },
+  {
+    "country": "MM",
+    "geonameid": 1329239,
+    "name": "Myaydo",
+    "alternatenames": "Allanmyo,Aunglan,Aunglanmyo,Myaydo",
+    "subcountry": "Magway"
+  },
+  {
+    "country": "MM",
+    "geonameid": 6611854,
+    "name": "Nay Pyi Taw",
+    "alternatenames": "Kyatpyay,Kyetpyay,NYT,Naipidau,Nay Pyi Taw,Naypyidaw,Naypyitaw,Ne Pyi Daw,Pyinmana,naepido,nepido,내피도,네피도",
+    "subcountry": "Nay Pyi Taw"
+  },
+  {
+    "country": "MM",
+    "geonameid": 11524872,
+    "name": "Tagondaing",
+    "alternatenames": "Ta Khun Taing,Tagondaing,Tagundaing,Tagundajn,da kun ding,tagundaing,tan gang dai,Тагундайн,ดะกูนไดง์,စငမငထငး,စံင်မံင်ထုင်း,钽刚戴,타군다잉",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 11548637,
+    "name": "Tamoowoug",
+    "alternatenames": "",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 11548638,
+    "name": "Dellok",
+    "alternatenames": "",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 11548693,
+    "name": "Pulei",
+    "alternatenames": "",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 11548704,
+    "name": "Klonhtoug",
+    "alternatenames": "",
+    "subcountry": "Kayin"
+  },
+  {
+    "country": "MM",
+    "geonameid": 11810635,
+    "name": "Kyain Seikgyi Township",
+    "alternatenames": "",
+    "subcountry": "Kayin"
+  }
+]

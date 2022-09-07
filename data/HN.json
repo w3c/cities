@@ -1,0 +1,2935 @@
+[
+  {
+    "country": "HN",
+    "geonameid": 3600026,
+    "name": "Puerto Cortez",
+    "alternatenames": "Port Cortez,Puehrto-Kortes,Puerto Caballo,Puerto Cortes,Puerto Cortez,Puerto Cortés,Puerto de Caballos,Пуэрто-Кортес",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600057,
+    "name": "Zopilotepe",
+    "alternatenames": "Zopilotepe",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600134,
+    "name": "Zamora",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600139,
+    "name": "Zambrano",
+    "alternatenames": "Zambrano",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600165,
+    "name": "Yuscaran",
+    "alternatenames": "Yuscaran,Yuscarán",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600195,
+    "name": "Yoro",
+    "alternatenames": "ORO,Yoro",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600199,
+    "name": "Yorito",
+    "alternatenames": "Yorito",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600232,
+    "name": "Yarumela",
+    "alternatenames": "Yarumela",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600236,
+    "name": "Yaruchel",
+    "alternatenames": "Yaruchel",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600254,
+    "name": "Yamaranguila",
+    "alternatenames": "Yamaranguila",
+    "subcountry": "Intibucá"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600271,
+    "name": "Yaguacire",
+    "alternatenames": "Yaguacire",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600280,
+    "name": "Wawina",
+    "alternatenames": "Guaguina,Guawina,Wawina",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600327,
+    "name": "Villanueva",
+    "alternatenames": "Villanueva",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600328,
+    "name": "Villa Nueva",
+    "alternatenames": "Villa Nueva,Villanueva Viejo",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600338,
+    "name": "Villa de San Francisco",
+    "alternatenames": "Villa San Francisco,Villa de San Francisco",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600340,
+    "name": "Villa de San Antonio",
+    "alternatenames": "La Villa de San Antonio,San Antonio,Villa San Antonio,Villa de San Antonio",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600357,
+    "name": "Victoria",
+    "alternatenames": "Victoria",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600382,
+    "name": "Veracruz",
+    "alternatenames": "Veracruz",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600421,
+    "name": "Valle de Angeles",
+    "alternatenames": "Valle de Angeles,Valle de Ángeles",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600422,
+    "name": "Valle de Angeles",
+    "alternatenames": "Valle de Angeles,Valle de Ángeles",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600450,
+    "name": "Vallecillo",
+    "alternatenames": "Vallecillo",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600591,
+    "name": "Trujillo",
+    "alternatenames": "TJI,Truchiljas,Trujillo,Trukhil'jo,Trukhil'o,te lu xi e,teuluhiyo,trwkhyw,trwkhyw  kwlwn,Трухильо,Трухільйо,تروخیو,تروخیو، کولون,特魯希略,트루히요",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600598,
+    "name": "Trojas",
+    "alternatenames": "Trojas,Trojas Campo",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600605,
+    "name": "Trinidad de Copan",
+    "alternatenames": "La Trinidad,Trinidad,Trinidad de Copan,Trinidad de Copán",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600608,
+    "name": "Trinidad",
+    "alternatenames": "Trinidad",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600626,
+    "name": "Travesia",
+    "alternatenames": "Travesia,Travesía",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600629,
+    "name": "Tras Cerros",
+    "alternatenames": "Tras Cerros",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600642,
+    "name": "Toyos",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600662,
+    "name": "Tornabe",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600704,
+    "name": "Tocoa",
+    "alternatenames": "TCF,Tocoa,Tokoa,Токоа",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600841,
+    "name": "Teupasenti",
+    "alternatenames": "Teupasenti",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600895,
+    "name": "Tepusteca",
+    "alternatenames": "Tepusteca",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600906,
+    "name": "Tepanguare",
+    "alternatenames": "Tepanguara,Tepanguare",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600931,
+    "name": "Tela",
+    "alternatenames": "TEA,Tela",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600949,
+    "name": "Tegucigalpa",
+    "alternatenames": "TGU,Tegousigalpa,Tegousigoualpa,Tegucigalpa,Tegucigalpo,Tegucigucigalpa,Tegusigal'pa,Tegusigalp,Tegusigalpa,Teguzigalpa,Tehgusigal'pa,Tenkousinkalpa,Tequsiqalpa,Teuctzincalpan,Tègucigalpa,de gu si jia ba,te gu xi jia er ba,tegushigarupa,tegusigalapa,tegusigalpa,tekucikalpa,tekusikalpa,tgwsygalpa,tgwsyglph,tyghwsyghalba,Τεγκουσιγκάλπα,Τεγουσιγάλπα,Тегусигалпа,Тегусигальпа,Тегусігальпа,Тэгусігальпа,Տեգուսիգալպա,טגוסיגלפה,טעגוסיגאלפע,تيغوسيغالبا,تگوسیگالپا,ٹیگوسیگلپا,तेगुसिगल्पा,তেগুসিগালপা,ਤੇਗੂਸੀਗਾਲਪਾ,டெகுசிகல்பா,ടെഗൂസിഗാൽപ,เตกูซิกัลปา,ཐེ་གུ་སི་གེ་པ།,ტეგუსიგალპა,ቴጉሲጋልፓ,テグシガルパ,德古斯加巴,特古西加爾巴,테구시갈파",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600951,
+    "name": "Teguajinal",
+    "alternatenames": "Teguajinal",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600966,
+    "name": "Taulabe",
+    "alternatenames": "Taulabe,Taulabé",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600969,
+    "name": "Taujica",
+    "alternatenames": "Taujica",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3600997,
+    "name": "Taragual",
+    "alternatenames": "Taragual",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601039,
+    "name": "Tamara",
+    "alternatenames": "Tamara,Támara",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601072,
+    "name": "Talanga",
+    "alternatenames": "Talanga",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601159,
+    "name": "Sulaco",
+    "alternatenames": "SCD,Sulaco",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601162,
+    "name": "Sula",
+    "alternatenames": "Sula",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601179,
+    "name": "Subirana",
+    "alternatenames": "Subirana",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601282,
+    "name": "Sinuapa",
+    "alternatenames": "Sinuapa",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601302,
+    "name": "Silca",
+    "alternatenames": "Silca",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601311,
+    "name": "Siguatepeque",
+    "alternatenames": "Siguatepeque",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601367,
+    "name": "Sensenti",
+    "alternatenames": "Sensenti",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601402,
+    "name": "Savannah Bight",
+    "alternatenames": "Sabana Bight,Sabana Bigt,Savannah Bight",
+    "subcountry": "Bay Islands"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601403,
+    "name": "Saba",
+    "alternatenames": "Saba,Sabá,Sava,Savá",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601436,
+    "name": "San Vicente Centenario",
+    "alternatenames": "San Vicente,San Vicente Centenario,San Vicente del Centenario",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601462,
+    "name": "Santiago de Puringla",
+    "alternatenames": "Santiago Puringla,Santiago de Puringla",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601494,
+    "name": "Santa Rosa de Copan",
+    "alternatenames": "SDH,Santa Rosa,Santa Rosa Copan,Santa Rosa Copán,Santa Rosa de Copan,Santa Rosa de Copán,Santa Rosa de Kopan,Santa Rosa de Kopanas,Santa-Rosa-de-Kopan,ke pan sheng sheng luo sha,Санта Роса де Копан,Санта-Роса-де-Копан,科潘省聖羅莎",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601496,
+    "name": "Santa Rosa de Aguan",
+    "alternatenames": "Santa Rosa Aguan,Santa Rosa Aguán,Santa Rosa de Aguan,Santa Rosa de Aguán",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601517,
+    "name": "Santa Rita",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601518,
+    "name": "Santa Rita",
+    "alternatenames": "",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601519,
+    "name": "Santa Rita, Copan",
+    "alternatenames": "Santa Rita,Santa Rita de Copan,Santa Rita de Copán",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601543,
+    "name": "Santa Maria del Real",
+    "alternatenames": "El Real,Santa Maria de El Real,Santa Maria del Real,Santa María de El Real,Santa María del Real",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601563,
+    "name": "Santa Lucia",
+    "alternatenames": "Los Estanquillos,Santa Lucia,Santa Lucía",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601566,
+    "name": "Santa Lucia",
+    "alternatenames": "Santa Lucia,Santa Lucía",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601608,
+    "name": "Santa Elena",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601627,
+    "name": "Santa Cruz de Yojoa",
+    "alternatenames": "Santa Cruz de Yojoa",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601664,
+    "name": "Santa Cruz",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601672,
+    "name": "Santa Cruz",
+    "alternatenames": "",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601691,
+    "name": "Santa Barbara",
+    "alternatenames": "Santa Barbara,Santa Bárbara",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601702,
+    "name": "Santa Ana de Yusguare",
+    "alternatenames": "Santa Ana de Yusguare,Yusguare",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601707,
+    "name": "Santa Ana",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601719,
+    "name": "Santa Ana",
+    "alternatenames": "Santa Ana",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601733,
+    "name": "San Sebastian",
+    "alternatenames": "San Sebastian,San Sebastián",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601780,
+    "name": "San Pedro Zacapa",
+    "alternatenames": "San Pedro Zacapa,Zacapa",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601782,
+    "name": "San Pedro Sula",
+    "alternatenames": "SAP,San Pedro,San Pedro Sula,San Pedro Zollan,San Pedro Zōllān,San-Pedra-Sula,San-Pedro-Sula,san bydrw swla,san pe dor su la,sanpedeulosulla,san・pedoro・sura,sheng pei de luo su la,Сан Педро Сула,Сан-Педра-Сула,Сан-Педро-Сула,سان بيدرو سولا,سان پیڈرو سولا,ซานเปโดรซูลา,サン・ペドロ・スーラ,圣佩德罗苏拉,산페드로술라",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601784,
+    "name": "San Pedro de Tutule",
+    "alternatenames": "San Pedro Tutule,San Pedro de Tutule,Tutule",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601833,
+    "name": "San Nicolas",
+    "alternatenames": "San Nicolas,San Nicolás",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601834,
+    "name": "San Nicolas",
+    "alternatenames": "San Nicolas,San Nicolás",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601836,
+    "name": "San Nicolas",
+    "alternatenames": "",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601874,
+    "name": "San Matias",
+    "alternatenames": "San Matias,San Matías",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601888,
+    "name": "San Marcos de Colon",
+    "alternatenames": "San Marco de Colon,San Marcos,San Marcos de Colon,San Marcos de Colón",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601899,
+    "name": "San Marcos",
+    "alternatenames": "San Marcos",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601903,
+    "name": "San Marcos",
+    "alternatenames": "San Marcos,San Marcos de Ocotepeque",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601921,
+    "name": "San Manuel",
+    "alternatenames": "San Manuel,San Manuel Tehuma",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601925,
+    "name": "San Luis de Planes",
+    "alternatenames": "San Luis Planes,San Luis de Planes",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601932,
+    "name": "San Luis",
+    "alternatenames": "San Luis,San Luis Pajon,San Luis Pajón",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601936,
+    "name": "San Luis",
+    "alternatenames": "San Luis",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601951,
+    "name": "San Lucas",
+    "alternatenames": "San Lucas",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601977,
+    "name": "San Lorenzo",
+    "alternatenames": "San Lorenzo",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601984,
+    "name": "San Juan Pueblo",
+    "alternatenames": "San Juan,San Juan Pueblo",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601992,
+    "name": "San Juan de Planes",
+    "alternatenames": "Planes,Planes de San Juan,San Juan Planes,San Juan de Planes",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601993,
+    "name": "San Juan de Opoa",
+    "alternatenames": "San Juan Opoa,San Juan de Opoa",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3601999,
+    "name": "San Juan de Flores",
+    "alternatenames": "Cantaranas,Cantarranas,San Juan Flores,San Juan de Flores",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602065,
+    "name": "San Jose de Tarros",
+    "alternatenames": "",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602066,
+    "name": "San Jose de Rio Tinto",
+    "alternatenames": "Rio Tinto,Río Tinto,San Jose,San Jose de Rio Tinto,San Jose del Rio Tinto,San José,San José de Río Tinto,San José del Río Tinto",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602070,
+    "name": "San Jose del Potrero",
+    "alternatenames": "San Jose Potrero,San Jose del Potrero,San José Potrero,San José del Potrero",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602077,
+    "name": "San Jose del Boqueron",
+    "alternatenames": "Boqueron,Boquerón,San Jose del Boqueron,San José del Boquerón",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602092,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San Jose de Copan,San José,San José de Copán",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602094,
+    "name": "San Jose de Comayagua",
+    "alternatenames": "San Jose Comayagua,San Jose de Comayagua,San José Comayagua,San José de Comayagua",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602097,
+    "name": "San Jose de Colinas",
+    "alternatenames": "San Jose Colinas,San Jose de Colinas,San José Colinas,San José de Colinas",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602118,
+    "name": "San Jose",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602137,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602169,
+    "name": "San Joaquin",
+    "alternatenames": "",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602184,
+    "name": "San Jeronimo",
+    "alternatenames": "Jeronimo,San Jeronimo,San Jerónimo",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602190,
+    "name": "San Jeronimo",
+    "alternatenames": "El Espino,San Geronimo,San Jeronimo,San Jeronimo el Espino,San Jerónimo,San Jerónimo el Espino",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602205,
+    "name": "San Jeronimo",
+    "alternatenames": "San Jeronimo,San Jerónimo",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602257,
+    "name": "San Ignacio",
+    "alternatenames": "San Ignacio,San Ignasio",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602272,
+    "name": "San Francisco de Yojoa",
+    "alternatenames": "San Francisco Yojoa,San Francisco de Yojoa",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602277,
+    "name": "San Francisco del Valle",
+    "alternatenames": "San Francisco,San Francisco del Valle",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602281,
+    "name": "San Francisco de la Paz",
+    "alternatenames": "San Francisco de la Paz,San Francisco la Paz",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602284,
+    "name": "San Francisco de Coray",
+    "alternatenames": "Coray,San Francisco Coray,San Francisco de Coray",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602286,
+    "name": "San Francisco de Cones",
+    "alternatenames": "San Francisco de Cones",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602287,
+    "name": "San Francisco de Becerra",
+    "alternatenames": "San Francisco Becerra,San Francisco de Becerra",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602301,
+    "name": "San Francisco",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602337,
+    "name": "San Fernando",
+    "alternatenames": "San Fernando",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602355,
+    "name": "San Esteban",
+    "alternatenames": "SET,San Esteban",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602359,
+    "name": "Sandy Bay",
+    "alternatenames": "Sand Bay,Sandy Bay",
+    "subcountry": "Bay Islands"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602368,
+    "name": "San Diego",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602396,
+    "name": "San Buenaventura",
+    "alternatenames": "San Buenaventura",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602428,
+    "name": "San Antonio del Norte",
+    "alternatenames": "San Antonio Norte,San Antonio del Norte",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602436,
+    "name": "San Antonio de la Cuesta",
+    "alternatenames": "San Antonio,San Antonio de la Cuesta",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602444,
+    "name": "San Antonio de Cortes",
+    "alternatenames": "San Antonio de Cortes,San Antonio de Cortés",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602473,
+    "name": "San Antonio",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602474,
+    "name": "San Antonio",
+    "alternatenames": "San Antonio,San Antonio de Jimia",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602546,
+    "name": "San Agustin",
+    "alternatenames": "San Agustin,San Agustín",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602561,
+    "name": "Sambo Creek",
+    "alternatenames": "Crique,Sambo,Sambo Creeck,Sambo Creek,Zambo,Zambo Crique",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602602,
+    "name": "Salama",
+    "alternatenames": "Salama,Salamá",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602603,
+    "name": "Salama",
+    "alternatenames": "Salama,Salamá",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602680,
+    "name": "Sabanagrande",
+    "alternatenames": "Sabanagrande,Sabanu Grande",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602736,
+    "name": "Coxen Hole",
+    "alternatenames": "Coxen Hole,Coxen's Hole,Coxin Hole,RTB,Roatan Town",
+    "subcountry": "Bay Islands"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602758,
+    "name": "Rio Lindo",
+    "alternatenames": "Rio Lindo,Río Lindo",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602769,
+    "name": "Rio Esteban",
+    "alternatenames": "Rio Esteban,Río Esteban,San Esteban",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602777,
+    "name": "Rio Chiquito",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602785,
+    "name": "Rio Bonito",
+    "alternatenames": "",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602786,
+    "name": "Rio Blanquito",
+    "alternatenames": "Rio Blanquito,Río Blanquito",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602823,
+    "name": "Rio Abajo",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602852,
+    "name": "Reitoca",
+    "alternatenames": "Reitoca,Reitoco",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602952,
+    "name": "Quimistan",
+    "alternatenames": "Ouimistan,Quimistan,Quimistán",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3602984,
+    "name": "Quezailica",
+    "alternatenames": "Quesailica,Quezailaca,Quezailica",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603028,
+    "name": "Quebrada Seca",
+    "alternatenames": "Quebrada Seca",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603035,
+    "name": "Quebradas",
+    "alternatenames": "Las Quebradas,Quebradas,Trinidad de Quebradas",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603041,
+    "name": "Quebrada Larga",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603097,
+    "name": "Quebrada de Arena",
+    "alternatenames": "Quebrada Arena,Quebrada de Arena",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603130,
+    "name": "Punuare",
+    "alternatenames": "Punuare",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603136,
+    "name": "Punta Piedra",
+    "alternatenames": "Punta Piedra,Punta Piedras,Punta de Piedra",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603137,
+    "name": "Punta Ocote",
+    "alternatenames": "Punta Ocote,Punta de Ocote",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603157,
+    "name": "Puerto Lempira",
+    "alternatenames": "PEU,Puerto Lempira",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603167,
+    "name": "Puerto Castilla",
+    "alternatenames": "Puerto Castilla,Puerto Castillo",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603169,
+    "name": "Puerto Alto",
+    "alternatenames": "Puente Alto,Puerto Alto",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603221,
+    "name": "Pueblo Nuevo",
+    "alternatenames": "Pueblo Nuevo",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603224,
+    "name": "Pueblo Nuevo",
+    "alternatenames": "",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603256,
+    "name": "Proteccion",
+    "alternatenames": "Proteccion,Protección",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603267,
+    "name": "Prieta",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603326,
+    "name": "Potrerillos",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603330,
+    "name": "Potrerillos",
+    "alternatenames": "Porterillas,Potrerillos",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603343,
+    "name": "Potrerillos",
+    "alternatenames": "Potrerillos",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603627,
+    "name": "Pinalejo",
+    "alternatenames": "Pinalejo",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603649,
+    "name": "Pimienta Vieja",
+    "alternatenames": "Pimienta Vieja",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603799,
+    "name": "Petoa",
+    "alternatenames": "Petoa",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603805,
+    "name": "Pespire",
+    "alternatenames": "Pespire",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603856,
+    "name": "Pena Blanca",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603920,
+    "name": "Paujiles",
+    "alternatenames": "Paujiles",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3603998,
+    "name": "Paptalaya",
+    "alternatenames": "Cruta River,Papalaya,Paptalaya",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604181,
+    "name": "Oropoli",
+    "alternatenames": "Oropoli,Oropolí",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604184,
+    "name": "Oropendolas",
+    "alternatenames": "Las Urupas,Oropendolas,Oropendolo,Oropéndolas",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604189,
+    "name": "Orocuina",
+    "alternatenames": "Orocuina",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604203,
+    "name": "Orica",
+    "alternatenames": "Orica",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604229,
+    "name": "Omoa",
+    "alternatenames": "Omoa",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604251,
+    "name": "Olanchito",
+    "alternatenames": "OAN,Olanchita,Olanchito,Оланчито",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604263,
+    "name": "Ojos de Agua",
+    "alternatenames": "Ojo de Agua,Ojos de Agua",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604265,
+    "name": "Ojos de Agua",
+    "alternatenames": "",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604270,
+    "name": "Ojojona",
+    "alternatenames": "Ojojona",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604292,
+    "name": "Ojo de Agua",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604320,
+    "name": "Ocote Paulino",
+    "alternatenames": "Ocote Paulino,Ocote Pavlino",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604375,
+    "name": "Nuevo Chamelecon",
+    "alternatenames": "Nuevo Chamelecon,Nuevo Chamelecón,Nuvo Chameleco",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604384,
+    "name": "Nueva Ocotepeque",
+    "alternatenames": "Nueva Ocotepeque,Ocotepeque",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604386,
+    "name": "Nueva Jalapa",
+    "alternatenames": "Nueva Jalapa,Nuevo Jalapa",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604389,
+    "name": "Nueva Esperanza",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604395,
+    "name": "Nueva Armenia",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604414,
+    "name": "Nombre de Jesus",
+    "alternatenames": "Nombre Jesus,Nombre Jesús,Nombre de Jesus,Nombre de Jesús",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604478,
+    "name": "Naranjito",
+    "alternatenames": "El Naranjito,Naranjito",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604503,
+    "name": "Namasigue",
+    "alternatenames": "Namasigue,Namasigüe,Namasique",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604518,
+    "name": "Naco",
+    "alternatenames": "Las Flores de Naco,Naco",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604522,
+    "name": "Nacaome",
+    "alternatenames": "Nacaome",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604579,
+    "name": "Moroceli",
+    "alternatenames": "Moroceh,Moroceli,Morocelí",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604584,
+    "name": "Morazan",
+    "alternatenames": "Fransisko Morasan,Morazan,Morazon,Morazán,Morazón,Франсиско Морасан",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604614,
+    "name": "Monterrey",
+    "alternatenames": "Monte-Rey,Monterey del Norte,Monterrey,Monterrey Sur",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604686,
+    "name": "Monjaras",
+    "alternatenames": "Monjaras,Monjarás",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604712,
+    "name": "Mojiman",
+    "alternatenames": "Moiiman,Mojiman,Mojimán",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604795,
+    "name": "Minas de Oro",
+    "alternatenames": "Minas de Oro",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604835,
+    "name": "Mezapa",
+    "alternatenames": "Mezapa,Mezapa Boqueron,Mezapa Boquerón",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604911,
+    "name": "Mateo",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3604949,
+    "name": "Mata de Platano",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605000,
+    "name": "Marcovia",
+    "alternatenames": "Marcovia",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605005,
+    "name": "Marcala",
+    "alternatenames": "MRJ,Marcala",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605018,
+    "name": "Marale",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605042,
+    "name": "Manto",
+    "alternatenames": "Manto",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605053,
+    "name": "Mangulile",
+    "alternatenames": "Mangulile",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605222,
+    "name": "Lucerna",
+    "alternatenames": "Lucerna",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605258,
+    "name": "Los Tangos",
+    "alternatenames": "Los Tangos",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605382,
+    "name": "Los Planes",
+    "alternatenames": "Los Planes,Planes",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605436,
+    "name": "Los Naranjos",
+    "alternatenames": "Los Naranjos",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605491,
+    "name": "Los Llanitos",
+    "alternatenames": "Los Llanitos,Los Llanos",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605729,
+    "name": "Los Caminos",
+    "alternatenames": "Los Caminos,Los Cominos",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605837,
+    "name": "Lomitas",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605873,
+    "name": "Loma Alta",
+    "alternatenames": "Loma Alta",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3605950,
+    "name": "Liure",
+    "alternatenames": "Liure",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606035,
+    "name": "Lepaterique",
+    "alternatenames": "Lapaterique,Lepaterique",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606048,
+    "name": "Lepaera",
+    "alternatenames": "Lepaera",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606069,
+    "name": "Lejamani",
+    "alternatenames": "Lejamani,Lejamaní",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606075,
+    "name": "La Zumbadora",
+    "alternatenames": "La Zumbadora,Sumbadora,Zumbadora",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606097,
+    "name": "La Virtud",
+    "alternatenames": "La Virtud,Virtud",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606159,
+    "name": "La Union",
+    "alternatenames": "La Union,La Unión,Union,Unión",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606171,
+    "name": "La Union",
+    "alternatenames": "La Union,La Unión",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606185,
+    "name": "La Trinidad",
+    "alternatenames": "La Trinidad,Trinidad",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606250,
+    "name": "Las Vegas",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606251,
+    "name": "Las Vegas, Santa Barbara",
+    "alternatenames": "Las Vegas  Santa Barbara,Sauce",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606292,
+    "name": "Las Trojes",
+    "alternatenames": "Las Trojes,Trojes",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606319,
+    "name": "Las Tejeras",
+    "alternatenames": "Las Tejeras,Tejeras",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606669,
+    "name": "Las Lajas",
+    "alternatenames": "",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3606901,
+    "name": "San Jose de Las Conchas",
+    "alternatenames": "Las Conchas,Puerto Las Conchas,San Jose de Las Conchas,San José de Las Conchas",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607003,
+    "name": "La Sarrosa",
+    "alternatenames": "La Sarrosa,La Zarrosa,Sarrosa",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607030,
+    "name": "Las Animas",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607042,
+    "name": "La Sabana",
+    "alternatenames": "La Sabana",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607053,
+    "name": "La Rosa",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607146,
+    "name": "La Playona",
+    "alternatenames": "La Playona",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607254,
+    "name": "La Paz",
+    "alternatenames": "La Paz",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607294,
+    "name": "Langue",
+    "alternatenames": "Langue",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607381,
+    "name": "La Mina",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607419,
+    "name": "La Masica",
+    "alternatenames": "La Masica,Masica",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607436,
+    "name": "Lamani",
+    "alternatenames": "Lamani,Lamaní",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607511,
+    "name": "La Lima",
+    "alternatenames": "LLH,La Lima,La-Lima,Lima Vieja,Ла-Лима",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607538,
+    "name": "La Libertad",
+    "alternatenames": "La Liberdad,La Libertad",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607540,
+    "name": "La Libertad",
+    "alternatenames": "La Libertad",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607644,
+    "name": "La Labor",
+    "alternatenames": "La Labor",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607647,
+    "name": "La Jutosa",
+    "alternatenames": "Jutosa,La Jutosa",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607731,
+    "name": "La Bueso",
+    "alternatenames": "La Bueso,La Huesa",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607797,
+    "name": "Laguna Verde",
+    "alternatenames": "",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607802,
+    "name": "Laguna Seca",
+    "alternatenames": "",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607830,
+    "name": "La Guata",
+    "alternatenames": "Guata,La Guata",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607838,
+    "name": "La Guama",
+    "alternatenames": "La Guama",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607847,
+    "name": "La Guacamaya",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607919,
+    "name": "La Flecha",
+    "alternatenames": "La Flecha",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607930,
+    "name": "La Estancia",
+    "alternatenames": "La Estancia",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607931,
+    "name": "La Estancia",
+    "alternatenames": "Estancia,La Estancia",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607948,
+    "name": "La Esperanza",
+    "alternatenames": "La Esperanz,La Esperanza",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607966,
+    "name": "La Esperanza",
+    "alternatenames": "La Esperanza,Nueva Esperanza",
+    "subcountry": "Intibucá"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607983,
+    "name": "La Ermita",
+    "alternatenames": "Ermita,Hermita,La Ermita",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607986,
+    "name": "La Entrada",
+    "alternatenames": "La Entrada",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3607992,
+    "name": "La Encarnacion",
+    "alternatenames": "La Encarnacion,La Encarnación,La Ercarnacion,La Ercarnación",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608112,
+    "name": "La Criba",
+    "alternatenames": "",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608142,
+    "name": "La Concepcion",
+    "alternatenames": "",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608248,
+    "name": "La Ceiba",
+    "alternatenames": "Ceiba,LCE,La Ceiba,La Seiba,La Sejba,La-Sejba,la sai wa,Ла Сейба,Ла-Сейба,ラ・セイバ,拉塞瓦",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608377,
+    "name": "La Brea",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608500,
+    "name": "Jutiquile",
+    "alternatenames": "Jutiquile",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608503,
+    "name": "Juticalpa",
+    "alternatenames": "Juticalpa",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608514,
+    "name": "Jutiapa",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608522,
+    "name": "Jutiapa",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608631,
+    "name": "Joconal",
+    "alternatenames": "Goconal,Jaconal,Joconal,Joconales",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608635,
+    "name": "Jocon",
+    "alternatenames": "El Jocon,Jocon,Jocón",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608656,
+    "name": "Jiquinlaca",
+    "alternatenames": "Jiquinlaca,Jiquinlace",
+    "subcountry": "Intibucá"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608692,
+    "name": "Jicaro Galan",
+    "alternatenames": "",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608715,
+    "name": "Jesus de Otoro",
+    "alternatenames": "Jesus de Otoro,Jesús de Otoro",
+    "subcountry": "Intibucá"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608718,
+    "name": "Jerico",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608743,
+    "name": "Jamalteca",
+    "alternatenames": "Jamalteca",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608798,
+    "name": "Jacaleapa",
+    "alternatenames": "Jacaleapa",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608828,
+    "name": "Iralaya",
+    "alternatenames": "Ilaya,Iralaya,Irlaya",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608834,
+    "name": "Intibuca",
+    "alternatenames": "Intibuca,Intibucá",
+    "subcountry": "Intibucá"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3608860,
+    "name": "Ilama",
+    "alternatenames": "Ilama",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609112,
+    "name": "Guinope",
+    "alternatenames": "Guinope,Güinope",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609152,
+    "name": "Guayape",
+    "alternatenames": "El Guayabo,Guayape",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609231,
+    "name": "Guarizama",
+    "alternatenames": "Guarizama",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609293,
+    "name": "Guanaja",
+    "alternatenames": "GJA,Guanaja",
+    "subcountry": "Bay Islands"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609342,
+    "name": "Gualjoco",
+    "alternatenames": "Gualjaco,Gualjoco",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609389,
+    "name": "Gualaco",
+    "alternatenames": "GUO,Gualaco",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609415,
+    "name": "Guaimitas",
+    "alternatenames": "Guaimitas,Guaymitas",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609418,
+    "name": "Guaimaca",
+    "alternatenames": "Guaimaca",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609453,
+    "name": "Guacamaya",
+    "alternatenames": "Guacamaya,Guacamayas",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609586,
+    "name": "Gracias",
+    "alternatenames": "GAC,Gracias,Grasias,Grasjasas,ge la xi ya si,geulasiaseu,grasyas,Грасіас,گراسیاس,格拉西亞斯,그라시아스",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609608,
+    "name": "Goascoran",
+    "alternatenames": "Goascoran,Goascorán,Guas-Coran",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609667,
+    "name": "French Harbor",
+    "alternatenames": "French Harbor,French Harbour",
+    "subcountry": "Bay Islands"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609673,
+    "name": "Francia",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609681,
+    "name": "Florida",
+    "alternatenames": "Florida",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609690,
+    "name": "Flores",
+    "alternatenames": "Flores",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609742,
+    "name": "Esquias",
+    "alternatenames": "Esquias,Esquías",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609775,
+    "name": "Erandique",
+    "alternatenames": "EDQ,Erandique",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3609928,
+    "name": "El Zapotal del Norte",
+    "alternatenames": "El Zapotal,El Zapotal del Norte,Zapotal del Norte",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610046,
+    "name": "El Tular",
+    "alternatenames": "",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610051,
+    "name": "El Triunfo de la Cruz",
+    "alternatenames": "El Triunfo,El Triunfo de la Cruz,Triunfo,Triunfo de la Cruz",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610060,
+    "name": "El Triunfo",
+    "alternatenames": "El Triunfo,Triunfo",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610082,
+    "name": "El Transito",
+    "alternatenames": "",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610118,
+    "name": "El Tigre",
+    "alternatenames": "El Tigre,Tigre",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610139,
+    "name": "El Terrero",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610232,
+    "name": "El Tablon",
+    "alternatenames": "El Tablon,El Tablón,Tablon",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610251,
+    "name": "El Suyatal",
+    "alternatenames": "El Suyatal,Suyatal,Zuyatal",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610278,
+    "name": "El Socorro",
+    "alternatenames": "El Socorro,Socorro",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610318,
+    "name": "El Sauce",
+    "alternatenames": "El Sauce,Sauce",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610365,
+    "name": "El Rusio",
+    "alternatenames": "El Rusio",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610377,
+    "name": "El Rosario",
+    "alternatenames": "",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610487,
+    "name": "El Rincon",
+    "alternatenames": "El Rincon,El Rincón",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610555,
+    "name": "El Rancho",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610558,
+    "name": "Rancho Grande",
+    "alternatenames": "El Rancho,Rancho Grande",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610610,
+    "name": "El Puente",
+    "alternatenames": "",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610613,
+    "name": "El Progreso",
+    "alternatenames": "Ehl'-Progreso,El Progreso,El Progress,Progreso,Эль-Прогресо",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610675,
+    "name": "El Porvenir",
+    "alternatenames": "El Porvenir",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610676,
+    "name": "El Porvenir",
+    "alternatenames": "El Porvenir,Porvenir",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610687,
+    "name": "El Porvenir",
+    "alternatenames": "El Porvenir",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610693,
+    "name": "El Porvenir",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610789,
+    "name": "El Plan",
+    "alternatenames": "El Plan",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610813,
+    "name": "El Pino",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610866,
+    "name": "El Perico",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610912,
+    "name": "El Pedernal",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3610965,
+    "name": "El Paraiso",
+    "alternatenames": "El Paraiso,El Paraíso",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611040,
+    "name": "El Olivar",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611069,
+    "name": "El Ocoton",
+    "alternatenames": "El Ocoton,El Ocotón,Ocoton,Ocotona,Ocotón",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611088,
+    "name": "El Ocote",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611128,
+    "name": "El Obraje",
+    "alternatenames": "El Obraje,Obraje",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611133,
+    "name": "El Obraje",
+    "alternatenames": "",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611144,
+    "name": "El Nispero",
+    "alternatenames": "El Nispero,El Níspero,Nispero",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611150,
+    "name": "El Negrito",
+    "alternatenames": "El Negrito,Negrito",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611267,
+    "name": "El Mochito",
+    "alternatenames": "El Mochito,El Nochito,Mochito",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611270,
+    "name": "El Milagro",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611319,
+    "name": "El Maranon",
+    "alternatenames": "El Maranon,El Marañón,Maranon,Marañón",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611352,
+    "name": "El Lolo",
+    "alternatenames": "El Lolo",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611356,
+    "name": "El Llano",
+    "alternatenames": "El Llano",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611481,
+    "name": "El Juncal",
+    "alternatenames": "El Juncal,Juncal",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611572,
+    "name": "Elixir",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611699,
+    "name": "El Guayabito",
+    "alternatenames": "",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611718,
+    "name": "El Guapinol",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611719,
+    "name": "El Guantillo",
+    "alternatenames": "El Guantillo,Guantillo",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611720,
+    "name": "El Guante",
+    "alternatenames": "El Guante,Guante",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611842,
+    "name": "El Escano de Tepale",
+    "alternatenames": "El Escano,El Escano de Tepale,El Escaño de Tepale,Escano de Tepale,Escano de Tepales",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611844,
+    "name": "El Escanito",
+    "alternatenames": "El Escanito,Escanito",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611933,
+    "name": "El Cubolero",
+    "alternatenames": "El Cubolero,El Cubulero",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611986,
+    "name": "El Corpus",
+    "alternatenames": "El Corpus,El Corpús",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611987,
+    "name": "Corpus",
+    "alternatenames": "Corpus,El Corpus",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3611995,
+    "name": "El Corozal",
+    "alternatenames": "",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612064,
+    "name": "El Ciruelo",
+    "alternatenames": "Ciruelo,El Ciruelo",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612138,
+    "name": "El Chimbo",
+    "alternatenames": "Chimbo,El Chimbo",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612160,
+    "name": "El Chichicaste",
+    "alternatenames": "Chichicaste,El Chichicaste,El Chichiquiste",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612581,
+    "name": "El Benque",
+    "alternatenames": "El Benque",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612640,
+    "name": "El Balsamo",
+    "alternatenames": "Balsamo,Bálsamo,El Balsamo,El Bálsamo",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612734,
+    "name": "El Agua Dulcita",
+    "alternatenames": "Agua Dulcita,El Agua Dulcita",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612784,
+    "name": "El Achiotal",
+    "alternatenames": "Achiotal,El Achiotal,El Achotal",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612801,
+    "name": "Duyure",
+    "alternatenames": "Duyure",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612810,
+    "name": "Dulce Nombre de Culmi",
+    "alternatenames": "Culmi,Culmí,Ducle Nombre,Dulce Nombre,Dulce Nombre Culmi,Dulce Nombre Culmí,Dulce Nombre de Culmi,Dulce Nombre de Culmí,El Dulce Nombre",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612813,
+    "name": "Dulce Nombre",
+    "alternatenames": "Dulce Nombre",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612838,
+    "name": "Dolores",
+    "alternatenames": "Dolores",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612907,
+    "name": "Danli",
+    "alternatenames": "Danli,Danlí",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612929,
+    "name": "Cuyamel",
+    "alternatenames": "Cuaymel,Cuyamel",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612937,
+    "name": "Cuyali",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3612949,
+    "name": "Cusuna",
+    "alternatenames": "Casuna,Cusuma,Cusuna",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613015,
+    "name": "Cucuyagua",
+    "alternatenames": "Cucuyagua",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613105,
+    "name": "Coyoles Central",
+    "alternatenames": "Coyoles Central",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613145,
+    "name": "Correderos",
+    "alternatenames": "Corredero,Correderos,San Miguel Correderos",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613171,
+    "name": "Corquin",
+    "alternatenames": "Corguin,Corquin,Corquín",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613175,
+    "name": "Corozal",
+    "alternatenames": "",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613189,
+    "name": "Corocito",
+    "alternatenames": "Corocilo,Corocito",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613230,
+    "name": "Copan Ruinas",
+    "alternatenames": "Copan,Copan Ruinas,Copán,Copán Ruinas,Kopan,RUY,Копан",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613263,
+    "name": "Concordia",
+    "alternatenames": "Concordia",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613281,
+    "name": "Concepcion del Sur",
+    "alternatenames": "Concepcion,Concepcion Sur,Concepcion del Sur,Concepción Sur,Concepción del Sur",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613285,
+    "name": "Concepcion de la Barranca",
+    "alternatenames": "Concepcion Barrancas,Concepcion de la Barranca,Concepción Barrancas,Concepción de la Barranca",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613286,
+    "name": "Concepcion de Guasistagua",
+    "alternatenames": "Concepcion de Guasistagua,Concepción de Guasistagua,Guasistagua,Guyasistagua",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613321,
+    "name": "Comayagua",
+    "alternatenames": "Comayagua,XPL",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613371,
+    "name": "Cololaca",
+    "alternatenames": "Cololaca",
+    "subcountry": "Lempira"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613394,
+    "name": "Cofradia",
+    "alternatenames": "Cofradia,Cofradía",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613402,
+    "name": "Cofradia",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613509,
+    "name": "Chotepe",
+    "alternatenames": "Chotepe",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613528,
+    "name": "Ciudad Choluteca",
+    "alternatenames": "Chollolteca,Choluteca,Ciudad Choluteca",
+    "subcountry": "Choluteca"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613533,
+    "name": "Choloma",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613547,
+    "name": "Chivana",
+    "alternatenames": "Chivana",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613708,
+    "name": "Chalmeca",
+    "alternatenames": "Chalmeca",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613805,
+    "name": "Cerro Grande",
+    "alternatenames": "",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613847,
+    "name": "Cerro Blanco",
+    "alternatenames": "Cerro Blanco",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613900,
+    "name": "Ceguaca",
+    "alternatenames": "Ceguaca",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3613906,
+    "name": "Cedros",
+    "alternatenames": "Cedros,Cerros",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614011,
+    "name": "Casa Quemada",
+    "alternatenames": "",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614012,
+    "name": "Casa Quemada",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614113,
+    "name": "Carbajales",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614218,
+    "name": "Cane",
+    "alternatenames": "Cane",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614249,
+    "name": "Canaveral",
+    "alternatenames": "Canaveral,Canaverales,Cañaveral,Cañaverales",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614319,
+    "name": "Campamento",
+    "alternatenames": "Campamento",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614328,
+    "name": "Camasca",
+    "alternatenames": "Camasca,Villa de Camasca",
+    "subcountry": "Intibucá"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614343,
+    "name": "Camalote",
+    "alternatenames": "",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614381,
+    "name": "Callejones",
+    "alternatenames": "Callejones,Collejones",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614583,
+    "name": "Buenos Aires",
+    "alternatenames": "",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614663,
+    "name": "Brus Laguna",
+    "alternatenames": "BHG,Brewers,Brewers Lagoon,Brus Laguna",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614705,
+    "name": "Bonito Oriental",
+    "alternatenames": "",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614789,
+    "name": "Berlin",
+    "alternatenames": "Berlin,Berlín",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614797,
+    "name": "Belen Gualcho",
+    "alternatenames": "Belen,Belen Gualcho,Belén Gualcho,Gualcho",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614805,
+    "name": "Bejuco",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614835,
+    "name": "Barra Patuca",
+    "alternatenames": "Barra Patuca,Barra del Patuca,Butucamaya,Butukamaya,Patuca",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614872,
+    "name": "Baracoa",
+    "alternatenames": "Baracoa",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614893,
+    "name": "Balsamo Oriental",
+    "alternatenames": "Balsamo,Balsamo Oriental,Bálsamo Oriental",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614914,
+    "name": "Baja Mar",
+    "alternatenames": "Baja Mar",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614970,
+    "name": "Azacualpa",
+    "alternatenames": "Azacualpa",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614975,
+    "name": "Azacualpa",
+    "alternatenames": "Azacualpa",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3614997,
+    "name": "Ayapa",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615011,
+    "name": "Auka",
+    "alternatenames": "Auca,Auka",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615022,
+    "name": "Auas",
+    "alternatenames": "Ahuas,Ahuás,Auas,Awas,Butukawas",
+    "subcountry": "Gracias a Dios"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615028,
+    "name": "Atima",
+    "alternatenames": "Atima",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615030,
+    "name": "Atenas de San Cristobal",
+    "alternatenames": "Atenas de San Cristobal,Atenas de San Cristóbal,Kilometro 17,Kilómetro 17",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615065,
+    "name": "Armenta",
+    "alternatenames": "",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615067,
+    "name": "Armenia",
+    "alternatenames": "",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615069,
+    "name": "Arizona",
+    "alternatenames": "Arizona",
+    "subcountry": "Atlántida"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615070,
+    "name": "Arimis",
+    "alternatenames": "",
+    "subcountry": "Olancho"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615090,
+    "name": "Arenal",
+    "alternatenames": "Arenal,El Arenal",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615108,
+    "name": "Arauli",
+    "alternatenames": "Arauli,Araulí,Aurali",
+    "subcountry": "El Paraíso"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615115,
+    "name": "Aramecina",
+    "alternatenames": "Aramecina",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615125,
+    "name": "Arada",
+    "alternatenames": "Arada,La Arada",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615169,
+    "name": "Antigua Ocotepeque",
+    "alternatenames": "Antigua Ocotepeque,Vieja Ocotepeque",
+    "subcountry": "Ocotepeque"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615213,
+    "name": "Amapala",
+    "alternatenames": "Amapala",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615250,
+    "name": "La Alianza",
+    "alternatenames": "Alianza,La Alianza",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615279,
+    "name": "Ajuterique",
+    "alternatenames": "Ajuterique",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615332,
+    "name": "Aguas del Padre",
+    "alternatenames": "Aguas del Padre",
+    "subcountry": "Comayagua"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615358,
+    "name": "Agualote",
+    "alternatenames": "Agualote",
+    "subcountry": "Santa Bárbara"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615391,
+    "name": "Agua Fria",
+    "alternatenames": "",
+    "subcountry": "Valle"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615473,
+    "name": "Agua Caliente",
+    "alternatenames": "",
+    "subcountry": "Copán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615509,
+    "name": "Agua Blanca Sur",
+    "alternatenames": "Agua Blanca,Agua Blanca Sur,Agua Blanca del Sur",
+    "subcountry": "Yoro"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615556,
+    "name": "Agua Azul Rancho",
+    "alternatenames": "Agua Azul,Agua Azul Rancho,Granja",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615557,
+    "name": "Agua Azul",
+    "alternatenames": "Agua Azul,Agua Azul Sierra,Aserradero",
+    "subcountry": "Cortés"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3615582,
+    "name": "Agalteca",
+    "alternatenames": "Agalteca,Ingenio Agalteca",
+    "subcountry": "Francisco Morazán"
+  },
+  {
+    "country": "HN",
+    "geonameid": 3812188,
+    "name": "Texiguat",
+    "alternatenames": "",
+    "subcountry": "El Paraíso"
+  }
+]

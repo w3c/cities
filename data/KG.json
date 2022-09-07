@@ -1,0 +1,590 @@
+[
+  {
+    "country": "KG",
+    "geonameid": 1222554,
+    "name": "Tayan",
+    "alternatenames": "Taen,Tajan,Tayan,Таян",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222562,
+    "name": "Suluktu",
+    "alternatenames": "Seluka,Selukta,Suljukta,Sulyukta,Sүlүktү,Сулюкта,Сүлүктү",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222606,
+    "name": "Kyzyl-Eshme",
+    "alternatenames": "Kyzyl-Ehshme,Kyzyl-Eshme,Кызыл-Эшме",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222618,
+    "name": "Korgon",
+    "alternatenames": "Korgon,Lyaylyak,Коргон",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222635,
+    "name": "Aydarken",
+    "alternatenames": "Aidarken,Ajdarken,Aydarken,Khaidarkan,Khajdarkan,Khaydarkan,Khaydarken,Xaydarkon,Айдаркен,Хайдаркан",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222640,
+    "name": "Katran",
+    "alternatenames": "Katran,Катран",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222662,
+    "name": "Razzakov",
+    "alternatenames": "Isfana,Isfina,Razzakov,asfnh,yi si fa na,yysfana,İsfana,Ісфана,Исфана,Раззаков,ئیسفانا,اسفنه,伊斯法納",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222683,
+    "name": "Daroot-Korgon",
+    "alternatenames": "Daraut-Korgan,Daraut-Korgon,Daraut-Kurgan,Daroot-Korgan,Daroot-Korgon,Дароот-Коргон",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1222708,
+    "name": "Andarak",
+    "alternatenames": "Andarak,Андарак",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527004,
+    "name": "Balykchy",
+    "alternatenames": "Balagch,Balikci,Baliksi,Balikĉi,Baloktso,Balykchi,Balykchy,Balykchy shaary,Balykci,Balykcy,Balykczy,Balyktchy,Balyktschy,Balyktsjy,Balykči,Balykčy,Balõktšõ,Balıkçı,Bałykczy,Issyk-Kul',Issyk-Kul’,Rybach'e,Rybach'ye,Rybach’e,Rybach’ye,Ysyk-Kol,Ysyk-Köl,ba lei ke qi,balqchy,balyqchy  qrqyzstan,baruikuchi,Балагч,Балыкчи,Балыкчы шаары,Рыбачье,بالقچی,بالیقچی، قرقیزستان,バルイクチ,巴雷克奇",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527103,
+    "name": "Uch-Korgon",
+    "alternatenames": "Molotovabad,Uch-Korgon,Uch-Kurgan,Uch-Qo`rg`on,Uch-Qo‘rg‘on,Uchkorgon,Уч-Коргон,Үch-Korgon,Үч-Коргон",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527121,
+    "name": "Tyup",
+    "alternatenames": "Preobrazhenskoye,Tjup,Tup,Tyup,Tüp,Тюп",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527199,
+    "name": "Tokmok",
+    "alternatenames": "To'qmoq,Tokmak,Tokmakas,Tokmok,Toʻqmoq,tkhmaq,tokamoka,tokeumakeu,tokmaki,tokumaku,tuo ke ma ke,twkmwk,Токмак,Токмок,تخماق,توكموك,تۆقمۆق,तोकमोक,თოქმაქი,トクマク,托克马克,토크마크",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527232,
+    "name": "Ak-Suu",
+    "alternatenames": "Ak-Suu,Teplokljuchenka,Teploklyuchenka,Teploklyuchinka,Ак-Суу,Теплоключенка",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527260,
+    "name": "Tash-Kumyr",
+    "alternatenames": "Naryn,Tash-Komur,Tash-Kumyr,Tash-Kömür,Tashkumor,Tashkumör,Таш-Кумыр",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527299,
+    "name": "Talas",
+    "alternatenames": "Dmitriyevka,Dmitriyevskoye,Talas,Talass,Талас",
+    "subcountry": "Talas"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527317,
+    "name": "Suzak",
+    "alternatenames": "Suzak,Сузак",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527338,
+    "name": "Chuy",
+    "alternatenames": "Chuj,Chuy,Chüy,Pokrovka,Staraya Pokrovka,Staropokrovka,Чуй",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527351,
+    "name": "Sosnovka",
+    "alternatenames": "Sosnovka,Сосновка",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527360,
+    "name": "Sokuluk",
+    "alternatenames": "Kaganovich,Novo-Troitskoye,Sokuluk,Сокулук",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527496,
+    "name": "Pokrovka",
+    "alternatenames": "Pokrovka,Pokrovskoye,Покровка",
+    "subcountry": "Talas"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527497,
+    "name": "Kyzyl-Suu",
+    "alternatenames": "Kyzyl-Suu,Leninskoye,Nov Pokrovka,Novo-Pokrovskoye,Pokrovka,Кызыл-Суу,Покровка",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527513,
+    "name": "Uzgen",
+    "alternatenames": "O'zgan,OEsgoen,OEzcent,Owzgen,Ozgon,Oʻzgan,Uzgen,Uzgenas,Uzkend,awzgn,awzknd,wu zi gen,Ösgön,Özgön,Özkənd,Özçent,Узген,Өзген,Өзгөн,Өзгөн шаары,Ուզգեն,ئۆزگوێن,اؤزگن,اوزکند,烏茲根",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527534,
+    "name": "Osh",
+    "alternatenames": "O'sh,OSS,Och,Oix,Os,Osa,Osas,Osch,Osh,Osj,Osz,Ox,Oŝ,Oş,Oš,Oša,Ošas,Oʻsh,ao shen,awsh,osa,oshi,osi,xxch,Ош,אוש,أوش,اوش,ओश,ออช,ოში,オシ,奧什,오시",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527566,
+    "name": "Orozbekovo",
+    "alternatenames": "O`rozbekovo,Okhna,Orozbekov,Orozbekovo,O‘rozbekovo,Urazbekovo,Орозбеков,Орозбеково",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527592,
+    "name": "Naryn",
+    "alternatenames": "Naron,Naryn,Нарын",
+    "subcountry": "Naryn"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527688,
+    "name": "Bakai-Ata",
+    "alternatenames": "Bakaj-Ata,Leninpol',Бакай-Ата,Ленинполь",
+    "subcountry": "Talas"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527689,
+    "name": "Massy",
+    "alternatenames": "Lenin-Dzhol,Leninjol,Massy,Ленин-Джол,Массы",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527690,
+    "name": "Lebedinovka",
+    "alternatenames": "Lebedinka,Lebedinovka,Лебединовка",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527719,
+    "name": "Kyzyl-Kyya",
+    "alternatenames": "Kizol-Kiva,Kizyl-Kiya,Kizöl-Kiva,Kyzyl-Kija,Kyzyl-Kiya,Kyzyl-Kyja,Kyzyl-Kyya,Kzyl-Kiya,Qizilqiya,Кызыл-Кия,Кызыл-Кыя",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527902,
+    "name": "Kochkor",
+    "alternatenames": "Kochkor,Kochkorka,Кочкор",
+    "subcountry": "Naryn"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527903,
+    "name": "Kochkor-Ata",
+    "alternatenames": "Kochkor-Ata,Qo`chqor-Ota,Qo‘chqor-Ota,Кочкор-Ата",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527919,
+    "name": "Kyzyl-Adyr",
+    "alternatenames": "Aleksandrovka,Aleksandrovskiy,Aleksandrovskoye,Kirov,Kirovskoe,Kirovskoye,Kyzyl-Adyr,Кировское,Кызыл-Адыр",
+    "subcountry": "Talas"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1527951,
+    "name": "Khalmion",
+    "alternatenames": "Halmion,Kalmion,Khalmion,Xalmion,Халмион",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528005,
+    "name": "Kazarman",
+    "alternatenames": "Kazarman,Казарман",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528052,
+    "name": "Kerben",
+    "alternatenames": "Karavan,Kerben,Караван,Кербен",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528053,
+    "name": "Karavan",
+    "alternatenames": "Karavan,Kerben,Караван",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528091,
+    "name": "Kara Suu",
+    "alternatenames": "Kara Suu,Kara-Su,Kara-Suu,Qora-Suu,Кара Суу,Кара-Суу",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528121,
+    "name": "Karakol",
+    "alternatenames": "Karakol,Karakola,Karakolas,Karakoł,Karakul,Karàkol,Khargol,Prjeval'sk,Prjeval’sk,Przheval'sk,Przheval’sk,Qoraqo'l,Qoraqoʻl,ka la ke er,kalakol,karakola,karakoru,kha ra khxl,qrakwl  qrqyzstan,Каракол,Пржевальск,Харгол,Қарақол,קארקול,قاراقۆل,قراکول، قرقیزستان,काराकोल,คาราคอล,カラコル,卡拉科尔,카라콜",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528161,
+    "name": "Kara-Dzhygach",
+    "alternatenames": "Kara-Djygach,Kara-Dzhegach,Kara-Dzhygach,Kara-Zhygach,Karadzhigach,Qora-Jig`ach,Qora-Jig‘ach,Кара-Джыгач,Кара-Жыгач",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528182,
+    "name": "Kara-Balta",
+    "alternatenames": "Imeni Mikoyana,Kara-Balta,Kara-Balty,Karabalto,Karabaltö,Кара-Балта",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528190,
+    "name": "Kanysh-Kyya",
+    "alternatenames": "Kanysh-Kiya,Kanysh-Kyja,Kanysh-Kyya,Каныш-Кыя",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528193,
+    "name": "Kant",
+    "alternatenames": "Kant,Кант",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528234,
+    "name": "Kaindy",
+    "alternatenames": "Kainda,Kaindy,Kayyngdy,Molotovsk,Molotovskiy,Каинды",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528241,
+    "name": "Kadzhi-Say",
+    "alternatenames": "Kadzhi-Saj,Kadzhi-Say,Kaji-Say,Каджи-Сай",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528249,
+    "name": "Jalal-Abad",
+    "alternatenames": "Celal-Abad,Djalalabad,Dschalalabat,Dzalal Abad,Dzalal Abadas,Dzalal-Abad,Dzalalabad,Dzalalabada,Dzalalabat,Dzhalal Abad,Dzhalal-Abad,Dzjalal-Abad,Dzsalalabad,Dżalalabad,Džalal Abad,Džalal Abadas,Džalal-Abad,Džalalabada,Džalalabat,Jalal-Abad,Jalalabat,Jalolobod,Zalal-Abad,Zalalabad,Zalalabat,Zhalal-Abad,Zhalal-Abad shaary,Zhalalabat,gu la la ba de,jalalabada,jallal-abateu,jararabado,jlal-abad,Ĵalalabat,Žalal-Abad,Žalalabad,Žalalabat,Джалал Абад,Джалал-Абад,Жалал-Абад,Жалал-Абад шаары,Жалалабат,جلال-آباد,جلال‌آباد، قرقیزستان,جەلالابات، قرغیزستان,जलालाबाद,ジャララバード,賈拉拉巴德,잘랄아바트",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528252,
+    "name": "Ivanovka",
+    "alternatenames": "Ivanovka,Ivanovna,Ивановка",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528253,
+    "name": "Ivanovo-Alekseyevka",
+    "alternatenames": "Ivano-Alekseevka,Ivanovo-Alekseevka,Ivanovo-Alekseyevka,Kek-Oy,Këk-Oy,Иваново-Алексеевка",
+    "subcountry": "Talas"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528283,
+    "name": "Iradan",
+    "alternatenames": "Iradan,Radinan,Ирадан",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528320,
+    "name": "Gul'cha",
+    "alternatenames": "Guelchoe,Gul'cha,Gulcho,Gultscha,Gul’cha,Gülchö,Gүlchө,Гульча,Гүлчө",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528339,
+    "name": "Nookat",
+    "alternatenames": "Eski-Nookat,Iski-Naukat",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528512,
+    "name": "Cholpon-Ata",
+    "alternatenames": "Chalpan-Ata,Cholpon-Ata,Stanovishche Chalpan-Ata,Чолпон-Ата",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528566,
+    "name": "Chayek",
+    "alternatenames": "Chaek,Chayek,Kul'chigash,Kul’chigash,Чаек",
+    "subcountry": "Naryn"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528606,
+    "name": "Kemin",
+    "alternatenames": "Bostrorechenskoye,Bystrorechenskoye,Bystrovka,Kemin,Быстровка,Кемин",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528666,
+    "name": "Bokombayevskoye",
+    "alternatenames": "Boekoenbaev,Bokombaevskoe,Bokombayevskoye,Bokonbayevo,Bokonbayevskoye,Bökönbaev,Bөkөnbaj,Kol'tsovka,Kol’tsovka,Kunchigosh,Kunchigysh,Kunchigösh,Бокомбаевское,Бөкөнбай",
+    "subcountry": "Issyk-Kul"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528675,
+    "name": "Bishkek",
+    "alternatenames": "Bichkek,Biscecum,Bischkek,Bishkek,Bishkek osh,Bisjkek,Biskek,Biskeka,Biskekas,Biskeko,Biskekʻ,Bisqeq,Bisqueque,Biszkek,Bixkek,Biŝkeko,Bişkek,Bişqeq,Biškek,Biškeka,Biškekas,Bișkek,Bîşkek,FRU,Frunze,Mpiskek,Pishkek,Pishpek,bi shen kai ke,bichkhek,bisakeka,bishukeku,biskek,biskeka,biskekk,bisyukekeu,bshkyk,byshkk,byshkyk,bysqq,picukkek,Μπισκέκ,Бишкек,Бишкек ош,Бішкек,Բիշկեք,בישקעק,בישקק,بشکیک,بيشكك,بيشكيك,بيشکک,بیشکک,بیشکێک,बिश्केक,বিশকেক,ਬਿਸ਼ਕੇਕ,பிசுக்கெக்,ಬಿಷ್ಕೆಕ್,ബിഷ്കെക്ക്,บิชเคก,པི་སི་ཁེག,ბიშკეკი,ቢሽኬክ,ビシュケク,比什凯克,비슈케크",
+    "subcountry": "Bishkek"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528702,
+    "name": "Belovodskoye",
+    "alternatenames": "Belovodskoe,Belovodskoye,Stalinskoye,Беловодское",
+    "subcountry": "Chüy"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528717,
+    "name": "Bazar-Korgon",
+    "alternatenames": "Bazar,Bazar-Korgon,Bozor-Qo`rg`on,Bozor-Qo‘rg‘on,Базар-Коргон",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528735,
+    "name": "Batken",
+    "alternatenames": "Batken,Batkena,Batkenas,Batkén,Botken,ba te ken,badknd,basken,batakena,batoken,Баткен,باتکێن,بادکند,बातकेन,バトケン,巴特肯,밧켄",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528766,
+    "name": "Baetovo",
+    "alternatenames": "Baetov,Baetovo,Bayetovo,Djurbel'dzhin,Durbel'jin,Durbel’jin,Dyurbel'dzhin,Dyurbel'jin,Dyurbel’dzhin,Dyurbel’jin,Баетов,Баетово,Дюрбельджин",
+    "subcountry": "Naryn"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528796,
+    "name": "At-Bashi",
+    "alternatenames": "At-Bashi,At-Bashy,Ат-Баши,Ат-Башы",
+    "subcountry": "Naryn"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528831,
+    "name": "Aravan",
+    "alternatenames": "Aravan,Араван",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528856,
+    "name": "Alga",
+    "alternatenames": "Alga,Olg`a,Olg‘a,Алга",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1528875,
+    "name": "Ala-Buka",
+    "alternatenames": "Ala-Buka,Ola-Bo`ka,Ola-Bo`qa,Ola-Bo‘ka,Ola-Bo‘qa,Ала-Бука",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1538310,
+    "name": "Beshkent",
+    "alternatenames": "Beshkent,Togal,Бешкент",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 1538648,
+    "name": "Toktogul",
+    "alternatenames": "Toktogul,Токтогул",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 7648391,
+    "name": "Pulgon",
+    "alternatenames": "Pulgon,Пулгон",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 7649203,
+    "name": "Talas",
+    "alternatenames": "",
+    "subcountry": ""
+  },
+  {
+    "country": "KG",
+    "geonameid": 8134212,
+    "name": "Uch-Terek",
+    "alternatenames": "Sargata,UEch-Terek,Uch-Tereg,Üch-Terek,Саргата,Уч-Терег",
+    "subcountry": "Jalal-Abad"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8139689,
+    "name": "Kara-Debe",
+    "alternatenames": "Kara-Debe,Kara-Djobjo,Kara-Dobo,Kara-Dëbë,Kara-Döbö,Qora-Dyobyo,Кара-Дёбё",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8145969,
+    "name": "Kara-Kulja",
+    "alternatenames": "Kara-Kul'dzha,Kara-Kulja,Kara-Kul’dzha,Кара-Кульджа",
+    "subcountry": "Osh"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8375110,
+    "name": "Chek",
+    "alternatenames": "Chek,Чек",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8375150,
+    "name": "Kara-Bak",
+    "alternatenames": "Kara-Bak,Qora-Bak,Кара-Бак",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8375152,
+    "name": "Samarkandyk",
+    "alternatenames": "Samarkandyk,Самаркандык",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8376052,
+    "name": "Kyrgyz-Kyshtak",
+    "alternatenames": "Kirgiz-Kyshtak,Kyrgyz-Kyshtak,Qirg`iz-Qishtak,Qirg‘iz-Qishtak,Киргиз-Кыштак,Кыргыз-Кыштак",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8376054,
+    "name": "Kyzyl-Bulak",
+    "alternatenames": "Kyzyl-Bulak,Qizil-Buloq,Кызыл-Булак",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8376076,
+    "name": "Boz-Adyr",
+    "alternatenames": "Bo`z-Adir,Boz-Adyr,Bo‘z-Adir,Боз-Адыр",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8376125,
+    "name": "Markaz",
+    "alternatenames": "Markaz,Марказ",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8377525,
+    "name": "Kulundu",
+    "alternatenames": "Kulundu,Кулунду",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8377866,
+    "name": "Ak-Suu",
+    "alternatenames": "Ak-Suu,Zambarych,Ак-Суу",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8377922,
+    "name": "Toguz-Bulak",
+    "alternatenames": "Toguz-Bulak,Тогуз-Булак",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8382860,
+    "name": "Ak-Tatyr",
+    "alternatenames": "Ak-Tatyr,Ак-Татыр",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 8388007,
+    "name": "Ormosh",
+    "alternatenames": "O`rmosh,Ormosh,O‘rmosh,Ормош",
+    "subcountry": "Batken"
+  },
+  {
+    "country": "KG",
+    "geonameid": 10370337,
+    "name": "Ak-Say",
+    "alternatenames": "Ak-Sai,Ak-Saj,Ak-Say,Aksaj,Aksay,Ак-Сай,Аксай",
+    "subcountry": "Batken"
+  }
+]

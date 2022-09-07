@@ -1,0 +1,2585 @@
+[
+  {
+    "country": "IE",
+    "geonameid": 2654332,
+    "name": "Buncrana",
+    "alternatenames": "Bankrana,Bun Cranncha,Buncrana,Bunkrana,Банкрана,Бънкрана,ბანკრანა",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960869,
+    "name": "Youghal",
+    "alternatenames": "Eochaill,Jol,Yoal,Youghal,ioli,ywghl,Йол,یوغل,იოლი",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960936,
+    "name": "Wicklow",
+    "alternatenames": "Cill Maintain,Cill Maintainn,Cill Maintáinn,Cill Manntein,Cill Manntéin,Cill Mantan,Cill Mhanntain,Cill Mhantain,Cill Mhantáin,Wicklow",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960952,
+    "name": "Whitegate",
+    "alternatenames": "An Geata Ban,An Geata Bán,Whitegate",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960964,
+    "name": "Wexford",
+    "alternatenames": "Loch Garman,Wexford",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960970,
+    "name": "Westport",
+    "alternatenames": "Caair ny Mart,Cathair na Mart,Uehstport,Uestport,Westport,uesutopoto,weseuteupoteu,Уестпорт,Уэстпорт,ویسٹپورت، کاؤنٹی میو,უესტპორტი,ウェストポート,웨스트포트",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960987,
+    "name": "Watergrasshill",
+    "alternatenames": "Cnocan na Biolrai,Cnocán na Biolraí,Watergrasshill",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2960992,
+    "name": "Waterford",
+    "alternatenames": "Port Lairge,Port Làirge,Port Láirge,Purt Largey,Uoterford,Uoturford,Voterford,Voterfordas,WAT,Waterford,Waterford city,uotafodo,watrfwrd,wo te fu de,woteopeodeu,Вотерфорд,Уотерфорд,Уотърфорд,واترفورد,واٹرفرڈ,უოტერფორდი,ウォーターフォード,沃特福德,워터퍼드",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961006,
+    "name": "Virginia",
+    "alternatenames": "Achadh an Iuir,Achadh an Iúir,Verdzhinija,Virginia,Vurdzhinija,Верджиния,Върджиния",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961025,
+    "name": "Urlingford",
+    "alternatenames": "Ath na nUrlainn,Urlingford,Áth na nUrlainn",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961077,
+    "name": "Tullyallen",
+    "alternatenames": "Tulaigh Alainn,Tulaigh Álainn,Tullyallen",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961079,
+    "name": "Tullow",
+    "alternatenames": "An Tulach,Tallou,Tullow,Таллоу,ٹولئو,ტალოუ",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961086,
+    "name": "Tullamore",
+    "alternatenames": "Talamor,Talamoras,Tallamor,Tulach Mhor,Tulach Mhór,Tulamor,Tullamore,ta la mo er,taramoa,teolleomo-eo,thul la mxr,twlamwr,Таламор,Талламор,Тъламор,تولامور,ٹولامور,ทูลลามอร์,ტალამორი,タラモア,塔拉莫尔,털러모어",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961099,
+    "name": "Tuam",
+    "alternatenames": "Tuaim,Tuam,Tuum,chuamu,chumi,twam,Туам,Туъм,ٹیویم,ჩუმი,チュアム,퇌",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961107,
+    "name": "Trim",
+    "alternatenames": "Baile Atha Troim,Baile Átha Troim,Trim,Трим,ٹرم، کاؤنٹی میدھ,ტრიმი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961120,
+    "name": "Tra Mhor",
+    "alternatenames": "Tra Mhor,Tramore,Trá Mhór",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961123,
+    "name": "Tralee",
+    "alternatenames": "Tra Li,Traie Lee,Tralee,Trali,Trá Lí,te la li,teuleolli,torari,traly,Трали,Тралі,ترالی,ٹریلی,ტრალი,トラリー,特拉利,트럴리",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961129,
+    "name": "Tower",
+    "alternatenames": "Tower,Tower Village",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961143,
+    "name": "Toormakeady",
+    "alternatenames": "Toormakeady,Tuar Mhic Eadaigh,Tuar Mhic Éadaigh",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961182,
+    "name": "Tobercurry",
+    "alternatenames": "Tobar an Choire,Tobercurry,Tubbercurry",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961192,
+    "name": "Tipperary",
+    "alternatenames": "Tiobraid Arann,Tiobraid Árann,Tipperaria,Tipperary,Tipperehri,Tipurari,di po lei li,tipeoleli,Типперэри,Типърари,ٹپاریری,蒂珀雷里,티퍼레리",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961214,
+    "name": "Thurles",
+    "alternatenames": "Durlas,Durlas Eile,Dúrlas Éile,Thurles,Tjorls,Turles,se lei si,teolleseu,terlesi,Търлес,Тёрлс,თერლესი,瑟勒斯,털레스",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961224,
+    "name": "Thomastown",
+    "alternatenames": "Baile Mhic Andain,Baile Mhic Andáin,Thomastown,Tomastaun,Томастаун",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961231,
+    "name": "Termonfeckin",
+    "alternatenames": "Tearmann Feichin,Tearmann Feichín,Termonfeckin",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961235,
+    "name": "Terenure",
+    "alternatenames": "Roundtown,Terenure,Tir an Iuir,Tír an Iúir",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961237,
+    "name": "Templemore",
+    "alternatenames": "An Teampall Mor,An Teampall Mór,Templemore,Templmor,Tempulmor,Темплмор,Темпълмор",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961284,
+    "name": "Tallaght",
+    "alternatenames": "Talagtas,Talat,Talla,Tallaght,Tallakht,Tamhlacht,ta la,talla,tla,Талат,Талла,Таллахт,تلا,塔拉,탈라",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961297,
+    "name": "Swords",
+    "alternatenames": "Sord,Sord Cholmcille,Sords,Sordsas,Sordz,Suords,Swords,aswrdz,seuwojeu,si wo si,swwrds,Сордз,Сордс,Суордс,סוורדס,اسوردز,سورڈز، ڈبلن,斯沃司,스워즈",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961299,
+    "name": "Swinford",
+    "alternatenames": "Beal Atha na Muice,Béal Átha na Muice,Swineford,Swinford",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961305,
+    "name": "Sutton",
+    "alternatenames": "Cill Fhionntain,Sutton",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961349,
+    "name": "Stradbally",
+    "alternatenames": "An Sraidbhaile,An Sráidbhaile,Stradbally",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961366,
+    "name": "Stamullin",
+    "alternatenames": "Stamullen,Stamullin,Steach Maoilin,Steach Maoilín",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961423,
+    "name": "Sligo",
+    "alternatenames": "SXL,Shliggagh,Slaigo,Slajgo,Slajgou,Sligeach,Sligo,aslaygw,seullaigo,slyjw,suraigo,Слайго,Слайгоу,Слајго,اسلایگو,سليجو,スライゴ,슬라이고",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961450,
+    "name": "Slane",
+    "alternatenames": "Baile Shlaine,Baile Shláine,Slane,Slejn,Слейн",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961459,
+    "name": "Skibbereen",
+    "alternatenames": "An Sciobairin,An Sciobairín,Skibbereen,Skibberin,Скибберин",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961461,
+    "name": "Skerries",
+    "alternatenames": "Na Sceiri,Na Sceirí,Skerijs,Skerries,Skerris,Скерийс,Скеррис",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961470,
+    "name": "Sixmilebridge",
+    "alternatenames": "Droichead Abhann O gCearnaigh,Droichead Abhann Ui gCearnaigh,Droichead Abhann Uí gCearnaigh,Droíchead Abhann Ó gCearnaigh,Siksmajlbridzh,Sixmilebridge,Сиксмайлбридж",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961523,
+    "name": "Shankill",
+    "alternatenames": "Shankill",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961589,
+    "name": "Sandymount",
+    "alternatenames": "Dumhach Thra,Dumhach Thrá,Sandymount",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961607,
+    "name": "Sallins",
+    "alternatenames": "Na Sollain,Na Solláin,Sallins",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961636,
+    "name": "Saggart",
+    "alternatenames": "Saggart,Teach Sagard",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961651,
+    "name": "An Ros",
+    "alternatenames": "Ros Eo,Ros Eó,Rush",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961690,
+    "name": "Rosslare",
+    "alternatenames": "Ros Lair,Ros Láir,Rosslare",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961730,
+    "name": "Roscrea",
+    "alternatenames": "Ros Cre,Ros Cré,Roscrea,Roskrej,Роскрей",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961732,
+    "name": "Roscommon",
+    "alternatenames": "Ros Comain,Ros Comáin,Roscommon,Rosecommon,Roskommon,Roskomon,Roskomonas,Roskomun,loseukeomeon,luo si kang mang,Ροσκόμον,Роскоммон,Роскомон,Роскомън,როსკომონი,罗斯康芒,로스커먼",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961770,
+    "name": "Rochfortbridge",
+    "alternatenames": "Droichead Chaislean Loiste,Droichead Chaisleán Loiste,Rochfortbridge",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961816,
+    "name": "Ringsend",
+    "alternatenames": "An Rinn,Ringsend",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961872,
+    "name": "Ratoath",
+    "alternatenames": "Rath To,Ratoath,Ráth Tó",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961873,
+    "name": "Rathwire",
+    "alternatenames": "Rath Ghuaire,Rathwire,Ráth Ghuaire",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961884,
+    "name": "Rathnew",
+    "alternatenames": "Rath Naoi,Rathnew,Ráth Naoi",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961896,
+    "name": "Rathmines",
+    "alternatenames": "Rath Maonais,Rathmines,Ratmajns,Ráth Maonais,Ратмайнс",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961897,
+    "name": "Ramelton",
+    "alternatenames": "Ramelton,Rath Mealtain,Rathmelton,Ráth Mealtain",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961905,
+    "name": "Rathkeale",
+    "alternatenames": "Rath Caola,Rathkeale,Ráth Caola",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961911,
+    "name": "Rathfarnham",
+    "alternatenames": "Ratfarnem,Rath Fearnain,Rathfarnham,Ráth Fearnáin,laseupanhaem,ratfarnham,Ратфарнем,راتفارنهام,라스판햄",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961918,
+    "name": "Rathdrum",
+    "alternatenames": "Rath Droma,Rathdrum,Ráth Droma",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961920,
+    "name": "Rathdowney",
+    "alternatenames": "Rath Domhnaigh,Rathdowney,Ráth Domhnaigh",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961924,
+    "name": "Rathcormac",
+    "alternatenames": "Rath Chormaic,Rathcormac,Rathcormack,Ráth Chormaic",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961929,
+    "name": "Rathcoole",
+    "alternatenames": "Rath Cuil,Rathcoole,Ráth Cúil",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961938,
+    "name": "Rathangan",
+    "alternatenames": "Rath Iomghain,Rathangan,Ráth Iomgháin",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961944,
+    "name": "Raphoe",
+    "alternatenames": "Rafo,Rafou,Raphoe,Rath Bhoth,Ráth Bhoth,Рафо,Рафоу",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961960,
+    "name": "Raheny",
+    "alternatenames": "Rakheni,Rath Eanaigh,Ráth Eanaigh,Рахени,Рахені",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2961994,
+    "name": "Prosperous",
+    "alternatenames": "An Chorrchoill,Prosperous",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962010,
+    "name": "Portumna",
+    "alternatenames": "Port Omna,Portamna,Portumna,Портамна,პორტამნა",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962019,
+    "name": "Portmarnock",
+    "alternatenames": "Port Mearnog,Port Mearnóg,Portmarnock",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962025,
+    "name": "Portlaw",
+    "alternatenames": "Port Lach,Port Lách,Portlaw",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962026,
+    "name": "Portlaoise",
+    "alternatenames": "Maryboro',Maryborough,Port Laoighise,Port Laoise,Port Leix,Portlaoise",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962029,
+    "name": "Portarlington",
+    "alternatenames": "Cuil an tSudaire,Cúil an tSúdaire,Portarlington,Portarlingtun,Портарлингтон,Портарлингтън,پورٹارلینٹن، کاؤنٹی لیش",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962045,
+    "name": "Piltown",
+    "alternatenames": "Baile an Phoill,Pilltown,Piltown",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962054,
+    "name": "Daingean",
+    "alternatenames": "An Daingean,Daingean,Philipstown",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962066,
+    "name": "Passage West",
+    "alternatenames": "An Pasaiste,An Pasáiste,Pasidzh Uest,Passage,Passage West,Passidzh-Uehst,Пасидж Уест,Пассидж-Уэст,پیسج ویسٹ",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962144,
+    "name": "Oughterard",
+    "alternatenames": "Oughterard,Uachtar Ard",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962153,
+    "name": "Oranmore",
+    "alternatenames": "Oran Mor,Oranmore,Uaran Mor,Órán Mór,Úarán Mór",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962170,
+    "name": "Old Kilcullen",
+    "alternatenames": "Old Kilcullen",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962179,
+    "name": "Oldcastle",
+    "alternatenames": "An Seanchaislean,An Seanchaisleán,Olcastle,Oldcastle",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962222,
+    "name": "Newtown Trim",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962235,
+    "name": "Newtown Cunningham",
+    "alternatenames": "An Baile Nua,Newtown Cunningham,Newtowncunningham",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962252,
+    "name": "New Ross",
+    "alternatenames": "N'ju-Ross,New Ross,Nju Ros,Nueva Ross,Ros Mhic Thriuin,Ros Mhic Thriúin,Ross,nyw ras,Нью-Росс,Ню Рос,نیو راس",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962257,
+    "name": "Newport",
+    "alternatenames": "An Port Nua,Newport",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962262,
+    "name": "Newmarket on Fergus",
+    "alternatenames": "Cora Chaitlin,Cora Chaitlín,Newmarket on Fergus,Newmarket-On-Fergus",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962281,
+    "name": "Newcastle",
+    "alternatenames": "An Caislean Nua,An Caisleán Nua,Newcastle",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962283,
+    "name": "Newcastle West",
+    "alternatenames": "An Caislean Nua,An Caislean Nua Thiar,An Caisleán Nua,An Caisleán Nua Thiar,N'jukasl-Uehst,Newcastle,Newcastle West,Njukasul Uest,Ньюкасл-Уэст,Нюкасъл Уест,نیو کیسل ویسٹ",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962290,
+    "name": "Droichead Nua",
+    "alternatenames": "Droichead Nua,Droichead Nuadh,Newbridge",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962304,
+    "name": "Nenagh",
+    "alternatenames": "An tAonach,Aonach Urmhumhan,Nenagh,Nina,The Meeting,ni na,nina,nyna,Нина,Ніна,نینا,ნინა,尼纳,니나",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962308,
+    "name": "Navan",
+    "alternatenames": "An Uaimh,An-Uav',Navan,Navanas,Yn Ooive,na wen,naebeon,navani,navuan,nawyn,Ан-Уавь,Наван,נאבאן,ناوین,ნავანი,ナヴァン,納文,내번",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962334,
+    "name": "Naas",
+    "alternatenames": "An Nas,An Nás,Naas,Nas na Riogh,Neisas,Nejs,Nás na Ríogh,nei si,neiseu,neisi,nys,Нейс,Нејс,נאס,نئس,نیس,ნეისი,内斯,네이스",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962361,
+    "name": "An Muileann gCearr",
+    "alternatenames": "An Muileann gCearr,Mullingar",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962376,
+    "name": "Mullagh",
+    "alternatenames": "An Mullach,Mullagh",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962389,
+    "name": "Muff",
+    "alternatenames": "Magh,Muff",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962440,
+    "name": "Moycullen",
+    "alternatenames": "Maigh Cuilinn",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962450,
+    "name": "Moville",
+    "alternatenames": "Bun an Phobail,Moville",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962465,
+    "name": "Mountrath",
+    "alternatenames": "Maighean Ratha,Maighean Rátha,Mountrath",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962476,
+    "name": "Mountmellick",
+    "alternatenames": "Mointeach Milic,Mountmellick,Móinteach Mílic",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962522,
+    "name": "Moroe",
+    "alternatenames": "Maigh Rua,Moroe",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962539,
+    "name": "Moone",
+    "alternatenames": "Maoin,Moone",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962540,
+    "name": "Mooncoin",
+    "alternatenames": "Moin Choinn,Mooncoin,Móin Choinn",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962543,
+    "name": "Monkstown",
+    "alternatenames": "Baile na Manach",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962556,
+    "name": "Monasterevin",
+    "alternatenames": "Mainistir Eimhin,Mainistir Eimhín,Monasterevan,Monasterevin,Монастеревин",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962568,
+    "name": "Monaghan",
+    "alternatenames": "Monachanas,Monaghan,Monakhan,Muineachan,Muineachán,monahan,monahani,Монахан,მონაჰანი,モナハン",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962580,
+    "name": "Moate",
+    "alternatenames": "Moate",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962587,
+    "name": "Mitchelstown",
+    "alternatenames": "Baile Mhisteala,Baile Mhistéala,Michulstaun,Mitchelstaun,Mitchelstown,Митчелстаун,Мичълстаун",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962613,
+    "name": "Millstreet",
+    "alternatenames": "Millstreet,Milstrit,Sraid an Mhuilinn,Sráid an Mhuilinn,mirusutorito,Милстрит,ミルストリート",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962630,
+    "name": "Midleton",
+    "alternatenames": "Mainister na Corann,Mainistir na Corann,Middleton,Midleton,Midlton,Midultun,mi de lei dun,Мидлтон,Мидълтън,مڈلٹن,米德勒頓",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962638,
+    "name": "Mount Merrion",
+    "alternatenames": "Cnoc Mhuirfean,Merrion",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962668,
+    "name": "Maynooth",
+    "alternatenames": "Maigh Nuad,Manutia,Maynooth,Meinutas,Mejnut,mei nu si,meinusu,mnwth,myynwt,Мейнут,מיינות,منوث,مینوتھ,メイヌース,梅努斯",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962696,
+    "name": "Marino",
+    "alternatenames": "An Mairine,An Mairíne",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962706,
+    "name": "Manorhamilton",
+    "alternatenames": "Cluainin,Cluainín,Manorhamilton,Manorkhamilton,Манорхамилтон,მანორჰამილტონი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962714,
+    "name": "Mallow",
+    "alternatenames": "Maigh Eala,Mala,Mallou,Mallow,Malou,Malovas,ma luo,Маллоу,Малоу,مالوو، کاؤنٹی کورک,馬羅",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962725,
+    "name": "Malahide",
+    "alternatenames": "Malahaidas,Malahide,Malakhajd,Mullach Ide,Mullach Íde,ma la hai de,malahayd,Малахайд,مالاهاید,مالاہائڈ,馬拉海德",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962745,
+    "name": "Macroom",
+    "alternatenames": "Macroom,Maigh Chromtha,Makrum,mykrwm,Макрум,میکروم",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962769,
+    "name": "Lusk",
+    "alternatenames": "Lusca,Lusk",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962785,
+    "name": "Lucan",
+    "alternatenames": "Leamhcan,Leamhcán,Lucan",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962800,
+    "name": "Loughrea",
+    "alternatenames": "Baile Locha Riach,Lokhrej,Loughrea,lokhrei,Лохрей,لوخرے,ლოხრეი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962804,
+    "name": "Loughlinstown",
+    "alternatenames": "Loughlinstown",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962827,
+    "name": "Longwood",
+    "alternatenames": "Longwood,Maigh Dearmhai,Maigh Dearmhaí",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962840,
+    "name": "Longford",
+    "alternatenames": "An Longfort,Longford,Longfordas,lamgafarda,lang fu de,longpeodeu,longpordi,lwnjfwrd,rongufodo,Лонгфорд,لونجفورد,لونگفرڈ,लाँगफ़र्ड,ლონგფორდი,ロングフォード,朗福德,롱퍼드",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962864,
+    "name": "Listowel",
+    "alternatenames": "Lios Tuathail,Listouehl,Listouul,Listowel,li si tuo er,liseutowel,Листоуъл,Листоуэл,لیسٹول,利斯托尔,리스토웰",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962943,
+    "name": "Luimneach",
+    "alternatenames": "Limereick,Limerick,Limerick city,Limerik,Limerika,Limerikas,Luimneach,lymryq,rimurikku,Лимерик,לימריק,リムリック",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962945,
+    "name": "Leifear",
+    "alternatenames": "Leifear,Lifford",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962961,
+    "name": "Letterkenny",
+    "alternatenames": "LTR,Leitir Ceanainn,Leterkeni,Leterkenis,Letterkenni,Letterkenny,Leturkeni,Littyr Kennain,lai te ken ni,Летеркени,Леттеркенни,Летъркени,لیٹرکینی,萊特肯尼",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2962974,
+    "name": "Leixlip",
+    "alternatenames": "Leikslipas,Leim an Bhradain,Leixlip,Lejkslip,Lijkslip,Likslip,Léim an Bhradáin,lai ke si li pu,lykslyp,Лейкслип,Лийкслип,Ликслип,لیکسلیپ,萊克斯利普",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963007,
+    "name": "Laytown",
+    "alternatenames": "An Inse,Laytown",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963025,
+    "name": "Strandhill",
+    "alternatenames": "An Leathros,Larass,Strandhill",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963036,
+    "name": "Lanesborough",
+    "alternatenames": "Beal Atha Liag,Béal Átha Liag,Lanesborough,Lanesborough-Ballyleague",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963155,
+    "name": "Kinsale",
+    "alternatenames": "Cionn tSaile,Cionn tSáile,Kinsale,Kinseilis,Kinsejl,Kione Sailley,knsyyl,qynsyyl,Кинсейл,קינסייל,کنسیئل",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963158,
+    "name": "Kinnegad",
+    "alternatenames": "Cionn Atha Gad,Cionn Átha Gad,Kinnegad",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963162,
+    "name": "Kinlough",
+    "alternatenames": "Cionn Locha,Kinlough",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963169,
+    "name": "Kingscourt",
+    "alternatenames": "Dun An Ri,Dún An Ri,Kingscourt",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963184,
+    "name": "Kilworth",
+    "alternatenames": "Cill Uird,Kilworth",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963208,
+    "name": "Kiltamagh",
+    "alternatenames": "Coillte Mach,Kiltamagh,Kiltimagh",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963218,
+    "name": "Kilrush",
+    "alternatenames": "Cill Rois,Kilrash,Kilrush,Килраш",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963275,
+    "name": "Kilmallock",
+    "alternatenames": "Cill Mocheallog,Cill Mocheallóg,Kilmailock,Kilmallock",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963295,
+    "name": "Killybegs",
+    "alternatenames": "Kilibegs,Killibegs,Killybegs,Na Ceala Beaga,Na Cealla Beaga,Килибегс,Киллибегс",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963299,
+    "name": "Killumney",
+    "alternatenames": "Cill na hOmnai,Cill na hOmnaí,Killumney",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963301,
+    "name": "Killucan",
+    "alternatenames": "Cill Liucainne,Cill Liúcainne,Killucan,Killucan-Rathwire",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963311,
+    "name": "Killorglin",
+    "alternatenames": "Cill Orglan,Killorglin,Киллорглин",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963370,
+    "name": "Cill Airne",
+    "alternatenames": "Cill Airne,Killarney",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963376,
+    "name": "Killaloe",
+    "alternatenames": "Cill Dalua,Killalo,Killaloe,Киллало",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963398,
+    "name": "Kilkenny",
+    "alternatenames": "Canicopolis,Cill Chainnigh,KKY,Keeill Chennee,Kilkeni,Kilkenis,Kilkenni,Kilkenny,kilkeni,kirukeni,Килкени,Килкенни,キルケニー,킬케니",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963436,
+    "name": "Kildare",
+    "alternatenames": "Cill Dara,Keeill Darey,Kildehr,Kilderas,Kildeur,Килдеър,Килдэр,کلڈیئر",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963444,
+    "name": "Kilcullen",
+    "alternatenames": "Cill Chuillinn,Kilcullen,Kilkallen,Килкаллен",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963460,
+    "name": "Kilcoole",
+    "alternatenames": "Cill Chomhghaill,Kilcoole",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963472,
+    "name": "Kilcock",
+    "alternatenames": "Cill Choca,Kilcock,Kilkok,Kilkuk,klkwk,Килкок,Килкък,کلکوک",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963499,
+    "name": "Kilbeggan",
+    "alternatenames": "Cill Bheagain,Cill Bheagáin,Kilbeggan",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963522,
+    "name": "Kenmare",
+    "alternatenames": "An Neidin,An Neidín,Kenmare,Kenmehr,Kevmare,Neidin,Кенмэр",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963528,
+    "name": "Kells",
+    "alternatenames": "Ceanannas,Ceanannas Mor,Ceanannas Mór,Ceanannus Mor,Ceanannus Mór,Kells,Kels,Келлс,Келс,کیلز، کاؤنٹی میدھ",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963555,
+    "name": "Kanturk",
+    "alternatenames": "Ceann Toirc,Kanturk",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963565,
+    "name": "Johnstown",
+    "alternatenames": "Baile Eoin,Johnstown",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963658,
+    "name": "Inishcrone",
+    "alternatenames": "Inis Crabhann,Inishcrone,Inniscrone",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963722,
+    "name": "Howth",
+    "alternatenames": "Binn Eadair,Binn Éadair,Howth,Khout,hoseu,Хоут,호스",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963827,
+    "name": "Gweedore",
+    "alternatenames": "Gaoth Dobhair,Gweedore,Krokh'li,Крохьли",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963848,
+    "name": "Greystones",
+    "alternatenames": "Greistonsas,Grejstons,Grejstouns,Greystones,Na Clocha Liatha,ge lei si tong,geuleiseutonseu,Грейстонс,Грейстоунс,Грејстонс,گرےسٹونز,გრეისტოუნსი,格雷斯通,그레이스톤스",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963905,
+    "name": "Graiguenamanagh",
+    "alternatenames": "Graig na Manach,Graigue,Graiguenamanagh,Gráig na Manach",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963958,
+    "name": "Gort",
+    "alternatenames": "An Gort,Gort,Gort Inse Guaire,gwrt,Горт,גורט,გორტი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2963962,
+    "name": "Gorey",
+    "alternatenames": "Gorey,Gori,Guaire,gori,gwry,Гори,گؤری,გორი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964102,
+    "name": "Glasnevin",
+    "alternatenames": "Glas Naion,Glas Naíon,Glasnevin,Гласневин",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964114,
+    "name": "Glanmire",
+    "alternatenames": "Glanmire,Gleann Maghair",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964180,
+    "name": "Gaillimh",
+    "alternatenames": "GWY,Gaillimh,Galway,Galway - Gaillimh,Galway city,Goluehj,Goluej,Golveja,Golvejus,Golvėjus,ge er wei,goruuei,Голуей,Голуэй,ゴールウェイ,戈尔韦",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964233,
+    "name": "Foxford",
+    "alternatenames": "Beal Easa,Béal Easa,Foxford",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964303,
+    "name": "Finglas",
+    "alternatenames": "Finglas,Fionnghlas,Tinglas,fyngls,Финглас,فینگلس",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964310,
+    "name": "Fethard",
+    "alternatenames": "Fethard,Fiodh Ard",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964318,
+    "name": "Ferns",
+    "alternatenames": "Alder Trees,Fearna,Ferns",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964320,
+    "name": "Fermoy",
+    "alternatenames": "Fermoj,Fermoy,Furmoj,Mainistir Fhear Mai,Mainistir Fhear Maí,Mannishter er Maigh,famoi,Фермой,Фърмой,فرموئے,ファーモイ",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964322,
+    "name": "Ferbane",
+    "alternatenames": "An Fear Ban,An Féar Bán,Ferbane",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964400,
+    "name": "Ennistimon",
+    "alternatenames": "Ennistimon,Ennistymon,Inis Diomain,Inis Díomáin",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964401,
+    "name": "Enniskerry",
+    "alternatenames": "Ath na Sceire,Enniskerry,Áth na Sceire",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964403,
+    "name": "Enniscorthy",
+    "alternatenames": "Enniscorthy,Inis Corthaidh,Inis Córthaidh",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964405,
+    "name": "Ennis",
+    "alternatenames": "Ehnnis,Enis,Enisas,Ennis,Inis,Innys,anys,en ni si,eniseu,enisi,enisu,Енис,Енніс,Эннис,אניס,انیس,ენისი,エニス,恩尼斯,에니스",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964407,
+    "name": "Enfield",
+    "alternatenames": "An Bothar Bui,An Bóthar Buí,Enfield,Innfield",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964434,
+    "name": "Edgeworthstown",
+    "alternatenames": "Edgeworthstown,Meathas Troim,Meathas Truim,Meathus Truim,Mostrim",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964436,
+    "name": "Edenderry",
+    "alternatenames": "Eadan Doire,Eaden Doire,Edenderry,Idenderri,Idunderi,edenderi,Éadan Doire,Éaden Doire,Идендерри,Идъндери,ედენდერი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964472,
+    "name": "Dunshaughlin",
+    "alternatenames": "Dun Seachlainn,Dunshaughlin,Dún Seachlainn",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964492,
+    "name": "Dunmore East",
+    "alternatenames": "Dun Mor,Dunmore,Dunmore East,Dún Mór",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964496,
+    "name": "Dunmanway",
+    "alternatenames": "Danmanui,Dun Manmhai,Dunmanway,Dunmaonmhui,Dún Mánmhaí,Dúnmaonmhuí,Данмануи",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964503,
+    "name": "Dunlewy",
+    "alternatenames": "Dun Luiche,Dun Lukhe,Dunlewy,Dún Lúiche,Дун Лухе",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964504,
+    "name": "Dunleer",
+    "alternatenames": "Dun Leire,Dunleer,Dún Léire",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964506,
+    "name": "Dun Laoghaire",
+    "alternatenames": "Dan Lere,Dan Leri,Dan Lerė,Dan Liri,Dun Laoghaire,Dun Laoire,Dun-Lehare,Dunleary,Dunum Loigarii,Dún Laoghaire,Dún Laoire,Kingstown,danlyry,deng lai li,deonleleo,dn lyry,dunlere,Дан Лері,Дан Лири,Дун-Лэаре,דן לירי,دانلیری,ڈون لاری,ดูนเลเร,ダン・レアリー,邓莱里,던레러",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964524,
+    "name": "Dungloe",
+    "alternatenames": "An Clochan Liath,An Clochán Liath,Dungloe",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964528,
+    "name": "Dungarvan",
+    "alternatenames": "Dangarvan,Dun Garbhan,Dungarvan,Dún Garbhán,dangarvani,deng jia wen,deongabeon,Дангарван,Дънгарван,ڈنگارون,დანგარვანი,邓加文,던가번",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964532,
+    "name": "Dundrum",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964540,
+    "name": "Dundalk",
+    "alternatenames": "Dandalk,Dandolk,Dandolkas,Doon Jialgan,Dun Dealgan,Dundalk,Dundolk,Dún Dealgan,dandak,dandoku,deng duo ke,deondokeu,Дандалк,Дандолк,Дъндолк,دانداک,ڈونڈوک,დანდოლკი,ダンドーク,邓多克,던도크",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964547,
+    "name": "Dunboyne",
+    "alternatenames": "Danbojn,Dun Buinne,Dunbojn,Dunboyne,Dún Búinne,Данбойн,Дънбойн,ڈنبوئن",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964558,
+    "name": "Duleek",
+    "alternatenames": "Damhliag,Duleek",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964574,
+    "name": "Dublin",
+    "alternatenames": "Baile Atha Cliath,Baile Átha Cliath,Ciuda de Dublin,Ciudá de Dublín,DUB,Dablin,Diblin,Difelin,Divlyn,Doublino,Dublin,Dublin city,Dublina,Dublinas,Dublini,Dublino,Dublinu,Dublín,Dublîn,Dueblin,Dulenn,Dulyn,Dyflinn,Düblin,Eblana,dabalina,dablin,dablina,daburin,dbln,dblyn,deobeullin,dou bai lin,dublini,dwblyn,taplin,Δουβλίνο,Даблин,Дублин,Дублін,Дъблин,Դուբլին,דבלין,דובלין,دبلن,دوبلين,دوبلین,دۇبلىن,ڈبلن,ډبلن,ܕܒܠܢ,डब्लिन,दब्लिन,ডাবলিন,ਡਬਲਿਨ,டப்லின்,ಡಬ್ಲಿನ್,ഡബ്ലിൻ,ดับลิน,དུབ་ལིན།,ဒပ်ဗလင်မြို့,დუბლინი,ደብሊን,ダブリン,都柏林,더블린",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964642,
+    "name": "Dromiskin",
+    "alternatenames": "Droim Ineasclainn,Dromiskin",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964661,
+    "name": "Drogheda",
+    "alternatenames": "Droeda,Droehda,Drogeda,Droghad Aah,Drogheda,Drogheda - Droichead Atha,Drogheda - Droichead Átha,Droichead Atha,Droichead Átha,Droida,de luo he da,deuloida,doroheda,drahyda,Дрогеда,Дроида,Дроэда,دراهیدا,ڈراہیڈا,ドロヘダ,德羅赫達,드로이다",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964690,
+    "name": "Douglas",
+    "alternatenames": "Douglas,Dubhglas,Duglas,Dúbhglas,Dúglas",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964745,
+    "name": "Donnybrook",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964752,
+    "name": "Donegal",
+    "alternatenames": "CFN,Donegal,Dun na nGall,Dún na nGall",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964765,
+    "name": "Donabate",
+    "alternatenames": "Domhnach Bat,Donabate,Donabejt,Dounabejt,Донабейт,Доунабейт,ڈونابیٹ",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964767,
+    "name": "Dollymount",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964782,
+    "name": "Dingle",
+    "alternatenames": "An Daingean,Daingean Ui Chuis,Daingean Uí Chuis,Dingl,Dingle,Dinglis,Yn Dein,dinguru,dyngl,Дингл,دینگل,ディングル",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964817,
+    "name": "Derrybeg",
+    "alternatenames": "An Bun Beag-Doiri Beaga,An Bun Beag-Doirí Beaga,Derrybeg,Doiri Beaga,Doirí Beaga",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964822,
+    "name": "Derrinturn",
+    "alternatenames": "Derrinturn,Doire an tSoirn",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964892,
+    "name": "Dalkey",
+    "alternatenames": "Dalkey,Deilginis,Dolki,Долки",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964963,
+    "name": "Crumlin",
+    "alternatenames": "Cromghlinn,Crumlin",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964980,
+    "name": "Crossmolina",
+    "alternatenames": "Crois Mhaoiliona,Crois Mhaoilíona,Crossmolina",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964985,
+    "name": "Crosshaven",
+    "alternatenames": "Bun an Tabhairne,Bun an Tábhairne,Crosshaven,Crosshaven-Churchbay",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2964999,
+    "name": "Croom",
+    "alternatenames": "Cromadh,Croom",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965092,
+    "name": "Courtown",
+    "alternatenames": "Baile na Cuirte,Baile na Cúirte,Courtown,Courtown Harbour,Cuan Bhaile na Cuirte,Cuan Bhaile na Cúirte",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965140,
+    "name": "Cork",
+    "alternatenames": "Corc,Corcagia,Corcaigh,Cork,Cork - Corcaigh,Cork city,Corkee,Kork,Korka,Korkas,Korkig,ORK,ke ke,khxrk,kokeu,koku,korka,kwrk,qwrq,Κορκ,Корк,Կորկ,קורק,كورك,کورک,कॉर्क,คอร์ก,კორკი,コーク,科克,코크",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965158,
+    "name": "Cootehill",
+    "alternatenames": "Cootehill,Muinchille",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965226,
+    "name": "Convoy",
+    "alternatenames": "Conmhaigh,Convoy",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965248,
+    "name": "Collooney",
+    "alternatenames": "Collooney,Cuil Mhuine,Cúil Mhuine",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965260,
+    "name": "Cobh",
+    "alternatenames": "An Cobh,An Cóbh,Cobh,Kouv,Kov,Kovas,Queenstown,ke fu,kovu,kwf,Ков,Коув,كوف,کوہوہ,コーヴ,科芙",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965276,
+    "name": "Cloyne",
+    "alternatenames": "Cloyne,Cluain",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965353,
+    "name": "Cluain Meala",
+    "alternatenames": "Clonmel,Cluain Meala",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965367,
+    "name": "Clones",
+    "alternatenames": "Clones,Cluain Eois,Klons,Клонс",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965381,
+    "name": "Clondalkin",
+    "alternatenames": "Clondalkin,Cluain Dolcain,Cluain Dolcáin,Klondolkin,klandalkyn,Клондолкин,کلاندالکین,კლონდოლკინი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965402,
+    "name": "Clonakilty",
+    "alternatenames": "Cloich na Coillte,Clonakilty,Klonakilti,Klounakilti,klwnykyly,Клонакилти,Клоунакилти,کلونیکیلی",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965420,
+    "name": "Clogherhead",
+    "alternatenames": "Ceann Chlochair,Clogher,Clogherhead",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965449,
+    "name": "Clifden",
+    "alternatenames": "An Clochan,An Clochán,Clifden,Klifden,Клифден,კლიფდენი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965471,
+    "name": "Claremorris",
+    "alternatenames": "Clar Chlainne Mhuiris,Clar Clainne Mhuiris,Claremorris,Clár Chlainne Mhuiris,Clár Clainne Mhuiris,Klehrmorris,Kleurmoris,Клеърморис,Клэрморрис,კლერმორისი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965474,
+    "name": "Claregalway",
+    "alternatenames": "Baile Chlair,Baile Chláir,Claregalway",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965482,
+    "name": "Clara",
+    "alternatenames": "Clara,Cloirtheach,Clóirtheach,Klara,ke la la,klara,Клара,كلارا,克拉拉",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965484,
+    "name": "Clane",
+    "alternatenames": "Clane,Claonadh,Klejn,klyyn,Клейн,کلئین",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965509,
+    "name": "Cherryville",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965516,
+    "name": "Charleville",
+    "alternatenames": "An Rath,An Ráth,Charleville,Rath Luirc,Rathluirc,Ráth Luirc",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965518,
+    "name": "Charlestown",
+    "alternatenames": "Baile Chathail,Charlestown,NOC,Newtown-Dillon",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965525,
+    "name": "Chapelizod",
+    "alternatenames": "Chapelizod,Seipeal losoid",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965529,
+    "name": "Celbridge",
+    "alternatenames": "Celbridge,Cill Droichid,Selbridzas,Selbridzh,Selbridžas,sai er bu li qi,slbryj,Селбридж,سلبریج,塞爾布里奇",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965535,
+    "name": "Cavan",
+    "alternatenames": "An Cabhan,An Cabhán,Cavan,Kavan,Kavanas,Yn Cavan,ka wen,kaebeon,kyaban,kywan,Каван,کیوان,კავანი,キャバン,卡文,캐번",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965570,
+    "name": "Castlerea",
+    "alternatenames": "An Caislean Riabhach,An Caisleán Riabhach,Castlerea,Castlereagh",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965573,
+    "name": "Castlepollard",
+    "alternatenames": "Baile na gCros,Castelpollard,Castlepollard",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965590,
+    "name": "Castlemartyr",
+    "alternatenames": "Baile na Martra,Castlemartyr",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965599,
+    "name": "Castleknock",
+    "alternatenames": "Caislean Cnucha,Caisleán Cnucha,Kaslnok,kslnak,Каслнок,کسلناک",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965604,
+    "name": "Castleisland",
+    "alternatenames": "Castleisland,Oilean Ciarrai,Oileán Ciarraí",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965632,
+    "name": "Castledermot",
+    "alternatenames": "Castledermot,Castledermoti nagykeresztek,Diseart Diarmada,Díseart Diarmada,Kasldermat,Kasldermot,Каслдермат,Каслдермот",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965643,
+    "name": "Castlecomer",
+    "alternatenames": "Caislean an Chomair,Caisleán an Chomair,Castlecomer,Castlecomer-Donaguile,Kaslkomer,Каслкомер",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965645,
+    "name": "Castlebridge",
+    "alternatenames": "Castlebridge,Castlebridge-Blackwater,Droichead an Chaisleain,Droichead an Chaisleáin",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965649,
+    "name": "Castleblayney",
+    "alternatenames": "Baile na Lorgan,Castleblayney,Kaslblejni,Каслблейни",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965653,
+    "name": "Castlebellingham",
+    "alternatenames": "Baile an Ghearlanaigh,Baile an Ghearlánaigh,Castlebellingham,Castlebellingham-Kilsaran",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965654,
+    "name": "Castlebar",
+    "alternatenames": "Caislean an Bharraigh,Caisleán an Bharraigh,Castlebar,Kaslbar,Kaslbaras,Kasulbar,ka si er ba,kaeseulba,kasuruba,kslbar,kyslbar,Каслбар,Касълбар,Կասլբար,کسلبار,کیسلبار,კასლბარი,カスルバー,卡斯尔巴,캐슬바",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965664,
+    "name": "Cashel",
+    "alternatenames": "Caiseal,Cashel",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965694,
+    "name": "Carrigtwohill",
+    "alternatenames": "Carraig Thuathail,Carrigtohill,Carrigtwohill",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965715,
+    "name": "Carrigaline",
+    "alternatenames": "Carraig Ui Leighin,Carraig Uí Leighin,Carrigaline,Karigalajn,Karigalinas,Karrigalin,ka li ge lai en,karigarain,karygalayn,Каригалайн,Карригалин,کاریگالائن,کاریگالاین,カリガライン,卡里格萊恩",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965726,
+    "name": "Carrick-on-Suir",
+    "alternatenames": "Carraig na Siuire,Carraig na Siúire,Carrick-on-Suir,Karik on Shur,Karrik-on-Shur,kyrk-an-swyr,Карик он Шур,Каррик-он-Шур,کیرک-آن-سوئر,კერიკ-ონ-შური",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965727,
+    "name": "Carrick-on-Shannon",
+    "alternatenames": "Carrick on Shannon,Carrick-On-Shannon,Carrick-on-Shannon,Cora Droma Ruisc,Cora Droma Rúisc,Karik na Shenonu,Karik on Shanun,Karikas prie Sanono,Karikas prie Šanono,Karrik-na-Shannoni,Karrik-on-Shannon,kaelig-onsyaeneon,kyarikku=on=shanon,kyrk-an-shynn,xiang nong he pan ka li ke,Карик на Шенону,Карик он Шанън,Каррик-он-Шаннон,Каррік-на-Шанноні,کیرک-آن-شینن,კერიკ-ონ-შენონი,キャリック＝オン＝シャノン,香农河畔卡里克,캐릭온섀넌",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965733,
+    "name": "Carrickmacross",
+    "alternatenames": "Carraig Mhachaire Rois,Carrickmacross,Karikmakros,Karrikmakross,Magheross,kyrkmykras,Карикмакрос,Каррикмакросс,کیرکمیکراس",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965760,
+    "name": "Carnew",
+    "alternatenames": "Carn an Bhua,Carnew",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965761,
+    "name": "Carndonagh",
+    "alternatenames": "Cardonagh,Carn Domhnach,Carndonagh",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965768,
+    "name": "Carlow",
+    "alternatenames": "Carlow,Ceatharlach",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965772,
+    "name": "Carlingford",
+    "alternatenames": "Cairlinn,Carlingford,Karlingford,Карлингфорд",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965841,
+    "name": "Callan",
+    "alternatenames": "Callain,Callan",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965852,
+    "name": "Cahersiveen",
+    "alternatenames": "Cahersiveen,Cahersween,Cahirciveen,Cathair Saidhbhin,Cathair Saidhbhín",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965865,
+    "name": "Caherconlish",
+    "alternatenames": "Caherconlish,Cathair Chinn Lis",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965873,
+    "name": "Cahir",
+    "alternatenames": "An Chathair,Caher,Cahir,Cathair Dun Iascaigh,Cathair Dún Iascaigh,Kehr,Keur,an Chathair,Án Chathair,Кеър,Кэр",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965882,
+    "name": "Cabinteely",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965929,
+    "name": "Bundoran",
+    "alternatenames": "Bandoran,Bun Dobhrain,Bun Dobhráin,Bundoran,bandorani,Бандоран,Бъндоран,ბანდორანი",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2965932,
+    "name": "Bunclody",
+    "alternatenames": "Bun Cloidi,Bun Clóidi,Bunclody,Bunclody-Carrickduff,Newtonbarry,Newtownbarry",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966022,
+    "name": "Bray",
+    "alternatenames": "Bray,Bre,Brej,Brejus,Brey,Bri Chualann,Bré,Brėjus,beulei,brei,bry  ayrlnd,bu rui,burei,Брей,Бреј,Բրեյ,بری، ایرلند,ბრეი,ブレイ,布瑞,브레이",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966044,
+    "name": "Boyle",
+    "alternatenames": "Bojl,Boyle,Mainistir na Buille,Mainistir na Búille,boili,bwyl,Бойл,بويل,ბოილი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966101,
+    "name": "Blessington",
+    "alternatenames": "Baile Coimin,Baile Coimín,Blesingtun,Blessington,Блесингтън,Блессингтон",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966107,
+    "name": "Blarney",
+    "alternatenames": "An Bhlarna,Blarney",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966110,
+    "name": "Blanchardstown",
+    "alternatenames": "Baile Bhlainseir,Baile Bhlainséir,Blachardstown,Blanchardstaun,Blanchardstown,blanchrdstawn,Бланчардстаун,بلانچردستاون",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966130,
+    "name": "Blackrock",
+    "alternatenames": "Na Creagacha Dubha",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966131,
+    "name": "Blackrock",
+    "alternatenames": "An Charraig Dhubh,Blackrock,Blehkrok,Carraig Dubh,blkrak,Блэкрок,بلکراک",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966154,
+    "name": "Birr",
+    "alternatenames": "Biorra,Bir,Birr,Parsonstown,biri,Бир,Бирр,ბირი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966201,
+    "name": "Belturbet",
+    "alternatenames": "Beal Tairbirt,Beltjorbet,Belturbet,Beul Tairbeirt,Béal Tairbirt,Белтурбет,Белтёрбет,ბელტურბეტი",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966208,
+    "name": "Belmullet",
+    "alternatenames": "BLY,Beal An Mhuirthead,Beal an Mhuirthead,Belmuliet,Belmullet,Béal An Mhuirthead,Béal an Mhuirthead",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966342,
+    "name": "Bearna",
+    "alternatenames": "Barna,Bearna",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966356,
+    "name": "Bantry",
+    "alternatenames": "BYT,Bantri,Bantry,Beanntrai,Beanntraí,baenteuli,ban te li,Бантри,ბანტრი,班特里,밴트리",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966370,
+    "name": "Bandon",
+    "alternatenames": "Bandon,Bandun,Droichead na Bandan,Droichead na Bandon,bandoni,Бандон,Бандън,ბანდონი",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966371,
+    "name": "Banagher",
+    "alternatenames": "Banagher,Banakher,Beannchar,Банахер",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966375,
+    "name": "Baltinglass",
+    "alternatenames": "Baltinglass,Bealach Conglais",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966378,
+    "name": "Balrothery",
+    "alternatenames": "Balrothery",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966406,
+    "name": "Ballyshannon",
+    "alternatenames": "Balishanun,Ballishannon,Ballyshannon,Beal Atha Seanaidh,Béal Átha Seanaidh,balishenoni,Балишанън,Баллишаннон,Баллішаннон,ბალიშენონი",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966414,
+    "name": "Ballysadare",
+    "alternatenames": "Baile Easa Dara,Ballysadare",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966420,
+    "name": "Ballyragget",
+    "alternatenames": "Ballyragget,Beal Atha Ragad,Béal Átha Ragad",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966492,
+    "name": "Ballymote",
+    "alternatenames": "Baile an Mhota,Baile an Mhóta,Ballymote",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966515,
+    "name": "Ballymahon",
+    "alternatenames": "Baile Ui Mhathain,Baile Uí Mhatháin,Ballymahon",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966550,
+    "name": "Ballyjamesduff",
+    "alternatenames": "Baile Sheamais Dhuibh,Baile Shéamais Dhuibh,Ballyjamesduff",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966566,
+    "name": "Ballyhaunis",
+    "alternatenames": "Ballyhaunis,Beal Atha hAmhnais,Béal Átha hAmhnais",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966589,
+    "name": "Ballygar",
+    "alternatenames": "Ballygar,Beal Atha Ghartha,Béal Átha Ghártha",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966638,
+    "name": "Ballyconnell",
+    "alternatenames": "Ballikonnell,Ballyconnell,Beal Atha Conaill,Béal Átha Conaill,Балликоннелл",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966658,
+    "name": "Ballybunnion",
+    "alternatenames": "Baile an Bhuinneanaigh,Baile an Bhuinneánaigh,Ballybunion,Ballybunnion",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966668,
+    "name": "Ballybofey",
+    "alternatenames": "Balibofis,Baliboufi,Ballibofi,Ballybofey,Bealach Feich,Bealach Féich,Балибоуфи,Баллибофи,Баллібофі",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966670,
+    "name": "Ballyboden",
+    "alternatenames": "Ballyboden",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966675,
+    "name": "Ballybay",
+    "alternatenames": "Ballybay,Beal Atha Beithe,Beal Atha na Beithe,Béal Átha Beithe,Béal Átha na Beithe",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966690,
+    "name": "Ballivor",
+    "alternatenames": "Baile Iomhair,Baile Íomhair,Ballivor",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966715,
+    "name": "Ballinrobe",
+    "alternatenames": "Baile an Roba,Baile an Ròba,Baile an Róba,Ballinrob,Ballinrobe,balinrobi,Баллинроб,ბალინრობი",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966749,
+    "name": "Ballincollig",
+    "alternatenames": "Baile an Chollaigh,Ballincollig,Ballinkollig,ba lin ke li ge,balynkwlyg,Баллинколлиг,بالینکولیگ,巴林科利格",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966753,
+    "name": "Ballinasloe",
+    "alternatenames": "Balinaslou,Ballinaslo,Ballinasloe,Beal Atha na Sluaighe,Beeal Aah ny Sluigh,Béal Átha na Sluaighe,balinaslo,ballinaseullo,barinasuro,Балинаслоу,Баллинасло,ბალინასლო,バリナスロー,발리나슬로",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966778,
+    "name": "Ballina",
+    "alternatenames": "Balina,Ballina,Beal An Atha,Beal an Atha,Beeal yn Aah,Béal An Átha,Béal an Átha,ba li na,baellina,balina,balyna,Балина,Баллина,بالینا,ბალინა,巴利纳,밸리나",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966779,
+    "name": "Ballina",
+    "alternatenames": "Ballina,Beal an Atha,Béal an Átha",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966784,
+    "name": "Ballaghaderreen",
+    "alternatenames": "Ballaghaderreen,Bealach an Doirin,Bealach an Doirín",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966793,
+    "name": "Baldoyle",
+    "alternatenames": "Baile Duill,Baile Dúill,Baldoyle",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966794,
+    "name": "Balbriggan",
+    "alternatenames": "Baile Brigin,Baile Brigín,Balbrigan,Balbriganas,Balbriggan,ba er bu li gen,balbrigani,balbrygan,Балбриган,Балбригган,بالبریگان,ბალბრიგანი,巴爾布里根",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966796,
+    "name": "Bailieborough",
+    "alternatenames": "Baileborough,Bailieborough,Coill an Chollaigh",
+    "subcountry": "Ulster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966800,
+    "name": "Bagenalstown",
+    "alternatenames": "Bagenalstown,Moneybeg,Muine Bheag,Muinebeag",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966817,
+    "name": "Aughrim",
+    "alternatenames": "Aughrim,Eachroim",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966837,
+    "name": "Athy",
+    "alternatenames": "Adaj,Ataj,Athy,Baile Atha I,Baile Átha Í,atai,Адай,Атай,Атај,ათაი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966842,
+    "name": "Athgarvan",
+    "alternatenames": "Athgarvan",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966843,
+    "name": "Athenry",
+    "alternatenames": "Aah yn Ree,Adunraj,Atenraj,Athenry,Baile Atha an Ri,Baile Átha an Rí,adenlai,atenrai,Адънрай,Атенрай,اتن‌رای,ათენრაი,아덴라이",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966848,
+    "name": "Athboy",
+    "alternatenames": "Athboy,Baile Atha Bui,Baile Átha Buí",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966857,
+    "name": "Askeaton",
+    "alternatenames": "Askeaton,Eas Geitine,Eas Géitine",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966870,
+    "name": "Ashbourne",
+    "alternatenames": "Ashborn,Ashbourne,Cill Dheaglain,Cill Dhéagláin,Ашборн",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966883,
+    "name": "Arklow",
+    "alternatenames": "An tInbhear Mor,An tInbhear Mór,Arklou,Arklow,Inver Mooar,a ke luo,akeullo,arklw,Арклоу,آرکلو,არკლოუ,阿克洛,아클로",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966906,
+    "name": "Ardnacrusha",
+    "alternatenames": "Ard na Croise,Ardnacrusha,Castlebank",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2966925,
+    "name": "Ardee",
+    "alternatenames": "Ardee,Ardi,Baile Atha Fhirdhia,Baile Átha Fhirdhia,ardi,Арди,არდი",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2967061,
+    "name": "Aghada",
+    "alternatenames": "Aghada,Ath Fhada Iochtarach,Áth Fhada Íochtarach",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2967076,
+    "name": "Adare",
+    "alternatenames": "Adare,Ath Dara,Áth Dara",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2967092,
+    "name": "Abbeyleix",
+    "alternatenames": "Abbeyleix,Abbilejks,Abileiksas,Mainistir Laoise,Pasjolak Abilejks,a bi lai ke si,abylyks,Аббилейкс,Аббілейкс,Пасёлак Абілейкс,ابیلیکس,阿比莱克斯",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 2967095,
+    "name": "Abbeyfeale",
+    "alternatenames": "Abbeyfeale,Abbifil,Mainistir na Feile,Mainistir na Féile,a bi fei er,abyfyl,Аббифил,Аббіфіл,ابیفیل,阿比菲尔",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3226389,
+    "name": "Castletown",
+    "alternatenames": "Baile an Chaisleain,Baile an Chaisleáin,Ballycaslane,Castletown",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3230840,
+    "name": "Portraine",
+    "alternatenames": "Port Reachrann,Portraine,Portrane",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3302076,
+    "name": "Ballygerry",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3304313,
+    "name": "Ballinroad",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3305634,
+    "name": "Annacotty",
+    "alternatenames": "Annacotty,Ath an Choite,Áth an Choite",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3305640,
+    "name": "Castleconnell",
+    "alternatenames": "Caislean Ui Chonaill,Caisleáñ Ui Chonaill,Castleconnell",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3306439,
+    "name": "Nenagh Bridge",
+    "alternatenames": "Nenagh Bridge",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3310247,
+    "name": "Shannon",
+    "alternatenames": "An tSionna,SNN,Sanonas,Shannon,Shannon Town,Shanun,Shehnan,Shenon,Sionainn,syaeneon,Šanonas,Шаннон,Шанън,Шенон,Шэнан,شینن، کاؤنٹی کلیئر,섀넌",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3313472,
+    "name": "Athlone",
+    "alternatenames": "Athlone,Atlon,Atlonas,Atloun,Baile Atha Luain,Baile Átha Luain,Balley Aah Luain,asuron,atloni,Атлон,Атлоун,ათლონი,アスローン",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3314017,
+    "name": "Moate",
+    "alternatenames": "An Mota,An Móta,Moate",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3314724,
+    "name": "Kill",
+    "alternatenames": "An Chill,Kill",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315010,
+    "name": "Ashford",
+    "alternatenames": "Ashford,Ath na Fuinseoige",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315082,
+    "name": "Kilpedder",
+    "alternatenames": "Cill Pheadair,Kilpedder",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315130,
+    "name": "Valleymount",
+    "alternatenames": "Moin an Bhealaigh,Valleymount",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315162,
+    "name": "Kilmacanoge",
+    "alternatenames": "Cill Mocheanog,Cill Mocheanóg,Kilmacanoge,Kilmacanogue",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315200,
+    "name": "Eadestown",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315204,
+    "name": "Little Bray",
+    "alternatenames": "Little Bray",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315239,
+    "name": "Oughterard",
+    "alternatenames": "Oughterard",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315276,
+    "name": "Firhouse",
+    "alternatenames": "Firhouse,Teach na Giuise,Teach na Giúise",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315278,
+    "name": "Sandyford",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315280,
+    "name": "Foxrock",
+    "alternatenames": "Foxrock",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315282,
+    "name": "Sallynoggin",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315287,
+    "name": "Rathgar",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315304,
+    "name": "Artane",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315311,
+    "name": "Beaumont",
+    "alternatenames": "Beaumont",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315312,
+    "name": "Drumcondra",
+    "alternatenames": "Dramkondra,Droim Conrach,Драмкондра",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315315,
+    "name": "Ballymun",
+    "alternatenames": "Baile Munna",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315319,
+    "name": "Cabra",
+    "alternatenames": "An Chabrach,Cabra",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315322,
+    "name": "Walkinstown",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315332,
+    "name": "Hartstown",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315334,
+    "name": "Mulhurddart",
+    "alternatenames": "Mulhuddart,Mulhurddart",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315378,
+    "name": "Ballyfermot",
+    "alternatenames": "Baile Formaid,Ballifermot,Ballyfermot,Баллифермот",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315404,
+    "name": "Templeogue",
+    "alternatenames": "Teach Mealog,Teach Mealóg,Templeogue,Temploug,tmplwg,Темплоуг,تمپلوگ",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 3315430,
+    "name": "Oldbawn",
+    "alternatenames": "An Seanbhabhun,An Seanbhábhún,Oldbawn",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6619871,
+    "name": "Cherry Orchard",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6690994,
+    "name": "Rialto",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691002,
+    "name": "Milltown",
+    "alternatenames": "Baile an Mhuilinn",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691003,
+    "name": "Clonskeagh",
+    "alternatenames": "Clonskea,Cluain Sceach",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691006,
+    "name": "Booterstown",
+    "alternatenames": "Baile an Bhothair,Baile an Bhóthair",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691010,
+    "name": "Ballinteer",
+    "alternatenames": "Baile an tSaoir",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691017,
+    "name": "Greenhills",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691030,
+    "name": "Coolock",
+    "alternatenames": "An Chulog,An Chúlóg,Kulok,Кулок",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691032,
+    "name": "Bonnybrook",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691033,
+    "name": "Donaghmede",
+    "alternatenames": "Domhnach Mide",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691035,
+    "name": "Darndale",
+    "alternatenames": "Darndal,Darndál",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6691048,
+    "name": "Donnycarney",
+    "alternatenames": "Domhnach Cearna",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6693222,
+    "name": "Bayside",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6697759,
+    "name": "South Dublin",
+    "alternatenames": "Comte de Dublin Sud,Comté de Dublin Sud,Condado de Dublin Sur,Condado de Dublín Sur,Condado de South Dublin,Condau de Dublin Sur,Condáu de Dublín Sur,Contae Atha Cliath Theas,Contae Átha Cliath Theas,Contea di South Dublin,Divlyn Yiass,Dublin Poludniowy,Dublin Południowy,Dublin South,Dublin Sud,Dublín Sud,Hego Dublineko konderria,Jizni Dublin,Jižní Dublin,Juzhni Dablin,Juzhnyj Dublin,Juzni Dublin,Južni Dublin,Pietu Dublinas,Pietų Dublinas,Pivdennij Dublin,South Dublin,Swydd De Dulyn,nan dou bai lin jun,samkhret dublinis sagrapo,sauseudeobeullin ju,Јужни Даблин,Південний Дублін,Южный Дублин,جنوبی ڈبلن,სამხრეთ დუბლინის საგრაფო,南都柏林郡,사우스더블린 주",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 6857857,
+    "name": "Charlesland",
+    "alternatenames": "Charlesland",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7648535,
+    "name": "Moyross",
+    "alternatenames": "Moyross",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7838897,
+    "name": "Ballisodare",
+    "alternatenames": "Baile Easa Dara",
+    "subcountry": "Connaught"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7838899,
+    "name": "Ballylinan",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7838907,
+    "name": "Castletroy",
+    "alternatenames": "Caladh an Treoigh",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7838916,
+    "name": "Fairview",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7838921,
+    "name": "Knocklyon",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7838923,
+    "name": "Palmerstown",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7869995,
+    "name": "Jobstown",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7869996,
+    "name": "Killester",
+    "alternatenames": "Cill Easra",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7870938,
+    "name": "Confey",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7870969,
+    "name": "Kentstown",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7870988,
+    "name": "Kilquade",
+    "alternatenames": "Cill Chomhaid,Killcowade",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 7870989,
+    "name": "Newtownmountkennedy",
+    "alternatenames": "Baile an Chinneidigh,Baile an Chinnéidigh",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 8642910,
+    "name": "Balally",
+    "alternatenames": "Baile Amhlaoibh",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 8658946,
+    "name": "Kinsealy-Drinan",
+    "alternatenames": "",
+    "subcountry": "Leinster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 11612344,
+    "name": "Courtbrack",
+    "alternatenames": "",
+    "subcountry": "Munster"
+  },
+  {
+    "country": "IE",
+    "geonameid": 11612450,
+    "name": "Ballybofey-Stranorlar",
+    "alternatenames": "",
+    "subcountry": "Ulster"
+  }
+]

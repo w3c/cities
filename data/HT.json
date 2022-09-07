@@ -1,0 +1,716 @@
+[
+  {
+    "country": "HT",
+    "geonameid": 3716044,
+    "name": "Verrettes",
+    "alternatenames": "Les Verettes,Les Verrettes,Veret,Verrettes,Vèrèt",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716224,
+    "name": "Trou du Nord",
+    "alternatenames": "Le Trou,Trou,Trou di No,Trou di Nò,Trou du Nord",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716403,
+    "name": "Torbeck",
+    "alternatenames": "Tobek,Torbeck,Tòbèk",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716619,
+    "name": "Tiburon",
+    "alternatenames": "Tiburon",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716663,
+    "name": "Thomonde",
+    "alternatenames": "Thomonde,Tomond",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716667,
+    "name": "Thomazeau",
+    "alternatenames": "Thomazeau,Tomazo",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716669,
+    "name": "Thomassique",
+    "alternatenames": "Thomassique,Tomasik",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3716679,
+    "name": "Thiotte",
+    "alternatenames": "Cai-Tiot,Caï-Tiot,Thiote,Thiotte,Tiote,Tyot,Tyòt",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3717546,
+    "name": "Saint-Raphael",
+    "alternatenames": "Saint-Raphael,Saint-Raphaël,Sen Rafayel,Sen Rafayèl",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3717588,
+    "name": "Saint-Marc",
+    "alternatenames": "Saint-Marc,Sen-Mark,Сен-Марк",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3717596,
+    "name": "Saint-Louis du Sud",
+    "alternatenames": "Saint Louis,Saint-Louis du Sud,Sen Lwi di Sid",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3717600,
+    "name": "Saint-Louis du Nord",
+    "alternatenames": "Saint Louis,Saint-Louis du Nord,Sen Lwi di No,Sen Lwi di Nò",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3717916,
+    "name": "Roche-a-Bateau",
+    "alternatenames": "Roche a Bateaux,Roche-a-Bateau,Roche-à-Bateau,Wochabato,Wòchabato",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718199,
+    "name": "Ranquitte",
+    "alternatenames": "Rankit,Ranquite,Ranquitte",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718278,
+    "name": "Quartier Morin",
+    "alternatenames": "Katye Moren,Qartier-Morin,Quartier Morin,Ville de Quartier Morin",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718411,
+    "name": "Port-Margot",
+    "alternatenames": "Po Mago,Port Margot,Port-Margot,Pò Mago",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718420,
+    "name": "Port-de-Paix",
+    "alternatenames": "PAX,Podepe,Podpe,Por-de-Pe,Port Paix,Port-de-Paix,Porto-da-Paz,Pòdepè,Pòdpè,he ping gang,poleudeupe,poleudeupei,porudope,Пор-де-Пе,پورت دے پئے,ポールドペ,和平港,포르드페,포르드페이",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718426,
+    "name": "Port-au-Prince",
+    "alternatenames": "PAP,Port au Prince,Port o Prens,Port o Prensas,Port-au-Prince,Port-o-Prehns,Port-o-Prens,Port-o-Prins,Porto Principe,Porto Príncipe,Portoprensa,Portoprinco,Portus Principis,Potoprens,Puerto Principe,Puerto Príncipe,Pòtoprens,Ville de Port-au-Prince,bwrt aw brans,poleutopeulaengseu,porata-o-prainsa,port-o-pirins,porta-a-prinsa,porta-au-prinsa,porta-o-prinsa,porutopuransu,pwrtw prns,pwrtwprns,tai zi gang,Πορτ-ο-Πρενς,Порт о Пренс,Порт-о-Пренс,Порт-о-Прэнс,Պորտ-օ-Պրենս,פורט או פרינס,פורט-או-פרנס,بورت أو برانس,پورتو پرنس,پورتوپرنس,پورٹ او پرنس,पोर्ट-ऑ-प्रिंस,पोर्ट-औ-प्रिन्स,পোর্ট-অ-প্রিন্স,ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ,போர்ட்-ஓ-பிரின்ஸ்,പോർട്ട്-ഔ-പ്രിൻസ്,ปอร์โตแปรงซ์,པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།,პორტ-ო-პრენსი,ፖርቶፕሪንስ,ポルトープランス,太子港,포르토프랭스",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718431,
+    "name": "Port-a-Piment",
+    "alternatenames": "Port Piment,Port-a-Piment,Port-à-Piment",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718666,
+    "name": "Plaisance",
+    "alternatenames": "Plaisance,Plezans",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718707,
+    "name": "Plaine du Nord",
+    "alternatenames": "Plaine du Nord,Plen di No,Plèn di Nò",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718826,
+    "name": "Pilate",
+    "alternatenames": "Pilat,Pilate",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718834,
+    "name": "Pignon",
+    "alternatenames": "Dignon,Pignon,Piyon",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718924,
+    "name": "Phaeton",
+    "alternatenames": "Phaeton,Phaéton,Phaëton",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718938,
+    "name": "Petit Trou de Nippes",
+    "alternatenames": "Petit Trou",
+    "subcountry": "Nippes"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718962,
+    "name": "Tigwav",
+    "alternatenames": "Petit Goave,Petit Goâve,Petit-Goave,Petit-Goâve,Tigwav,Ville de Petit Goave,Ville de Petit Goâve",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3718975,
+    "name": "Petite Riviere de Nippes",
+    "alternatenames": "Ville de Petite Riviere,Ville de Petite Rivière",
+    "subcountry": "Nippes"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3719008,
+    "name": "Petite Anse",
+    "alternatenames": "Petite Anse",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3719028,
+    "name": "Petionville",
+    "alternatenames": "Petionville,Petyon-Vil,Pétionville,Ville de Petion-Ville,Ville de Pétion-Ville",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3719099,
+    "name": "Perches",
+    "alternatenames": "Pech,Perches,Pèch",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3719436,
+    "name": "Ouanaminthe",
+    "alternatenames": "Juana Mendez,Ouanaminthe,Quanamenthe,Wanament",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3720455,
+    "name": "Moron",
+    "alternatenames": "Bourg de Moron,Monwon,Moron,Ville de Moron",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3720667,
+    "name": "Montorganize",
+    "alternatenames": "Lassalle,Mont Organise,Mont Organisé,Mont-Organise,Mont-Organisé,Montorganize,Montòrganize",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3720765,
+    "name": "Mole Saint-Nicolas",
+    "alternatenames": "Le Mole,Le Mole Saint Nicolas,Le Môle,Le Môle Saint Nicolas,Mole Saint-Nicolas,Mole Taint-Nicolas,Môle Saint-Nicolas",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3720811,
+    "name": "Mirebalais",
+    "alternatenames": "Bourg Saint Louis,Mibale,Mibalè,Mirebalais",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3720824,
+    "name": "Miragoane",
+    "alternatenames": "",
+    "subcountry": "Nippes"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3720854,
+    "name": "Milot",
+    "alternatenames": "Milo,Milot",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3721280,
+    "name": "Marmelade",
+    "alternatenames": "Mamelad,Marmeiade,Marmelade",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3721313,
+    "name": "Marigot",
+    "alternatenames": "Marigo,Marigot",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3721711,
+    "name": "Mayisad",
+    "alternatenames": "Maissade,Mayisad,Maïssade",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722110,
+    "name": "Limonade",
+    "alternatenames": "Limonad,Limonade",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722124,
+    "name": "Lenbe",
+    "alternatenames": "Le Limbe,Lenbe,Limbe,Limbé,Ville de Limbe,Ville de Limbé,Лимбе",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722239,
+    "name": "Les Irois",
+    "alternatenames": "Irois,Les Irois",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722253,
+    "name": "Les Anglais",
+    "alternatenames": "Anglais,Les Anglais,Ville des Anglais",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722286,
+    "name": "Leogane",
+    "alternatenames": "Leogan,Leogane,Leyogan,Leyogàn,Léogâne,Ville de Leogane,Ville de Léogane,Yaguana,lai ao gan,reogan,Леоган,レオガン,萊奧甘",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722339,
+    "name": "Borgne",
+    "alternatenames": "Borgne,La Borgne,Le Borgne,Le Rorgne,Oboy,Obòy,Ville du Borgne",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3722579,
+    "name": "Lascahobas",
+    "alternatenames": "Las Cahobes,Las Caobas,Lascahobas,Laskawobas,Ville de Lascahobas",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3723440,
+    "name": "Kenscoff",
+    "alternatenames": "Kenscoff,Kenskof,Kenskoff,Kenskòf",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3723593,
+    "name": "Jeremie",
+    "alternatenames": "JEE,Jeremi,Jeremias,Jeremie,Jérémie,Zheremi,jelemi,jeremi,jyrymy,re lei mi,zrmy,Жереми,Жеремі,זרמי,جیریمی,ジェレミー,熱雷米,제레미",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3723618,
+    "name": "Jean-Rabel",
+    "alternatenames": "Jan Rabel,Jan Rabèl,Jean-Rabel,Ville de Jean Rabel",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3723779,
+    "name": "Jacmel",
+    "alternatenames": "JAK,Jacmel,Jakmel,Jakmèl,Yaquimo,Yáquimo,Zhakmel',Zhakmele,jakeumel,jakumeru,jkml,ya ke mei lei,zʼqml,Жакмеле,Жакмель,זאקמל,جکمل,ジャクメル,雅克梅勒,자크멜",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3723841,
+    "name": "Hinche",
+    "alternatenames": "Ehnsh,Ench,Ensh,Hincha,Hinche,aengsyu,an shen,anshu,Енш,Энш,اینشے,アンシュ,安什,앵슈",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3724145,
+    "name": "Gros Morne",
+    "alternatenames": "Gromon,Gromòn,Gros Morne",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3724233,
+    "name": "Gressier",
+    "alternatenames": "Gressier",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3724337,
+    "name": "Grangwav",
+    "alternatenames": "Grand Goave,Grand Goâve,Grand-Goave,Grand-Goâve,Grande Goave,Grangwav",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3724432,
+    "name": "Grande Saline",
+    "alternatenames": "Grand Saline,Grande Saline,Ville de Grande Saline",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3724439,
+    "name": "Grande Riviere du Nord",
+    "alternatenames": "Grand Riviere,Grande Riviere,Grande Riviere du Nord,Grande Rivière du Nord,Grann Rivye di No,Grann Rivyè di Nò,Sainte Rose,Ville de Grande Riviere du Nord,Ville de Grande Rivière du Nord",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3724696,
+    "name": "Gonaives",
+    "alternatenames": "Gonaiv,Gonaives,Gonayiv,Gonaïves,Les Gonaives,Les Gonaïves,Ville des Gonaives,Ville des Gonaïves,Гонаив",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725170,
+    "name": "Fort Liberte",
+    "alternatenames": "Folibete,Fort Liberte,Fort Liberté,Fort-Dauphin,Fòlibète,Ville de Fort Liberte,Ville de Fort Liberté",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725222,
+    "name": "Fonds Verrettes",
+    "alternatenames": "Fon Veret,Fon Vèrèt,Fond Verrettes,Fonds Verettes,Fonds Verrettes,La Mission",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725276,
+    "name": "Fond Parisien",
+    "alternatenames": "",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725364,
+    "name": "Fond des Blancs",
+    "alternatenames": "Fond des Blancs",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725416,
+    "name": "Fond Bassin Bleu",
+    "alternatenames": "Fond Bassin Bleu",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725519,
+    "name": "Ferrier",
+    "alternatenames": "Ferie,Ferié,Ferrier,Ferye,Fèrye",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3725663,
+    "name": "Ennery",
+    "alternatenames": "Ennery,Ennri",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3726263,
+    "name": "Dondon",
+    "alternatenames": "Dondon",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3726540,
+    "name": "Dessalines",
+    "alternatenames": "Desalin,Dessalines,Marchand",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3726674,
+    "name": "Desarmes",
+    "alternatenames": "Desarmes,Désarmes",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3726728,
+    "name": "Derac",
+    "alternatenames": "Derac,Dérac,Lagnon",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3726786,
+    "name": "Delmas 73",
+    "alternatenames": "",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727055,
+    "name": "Dame-Marie",
+    "alternatenames": "Dame-Marie,Ville de Dame Marie",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727135,
+    "name": "Croix-des-Bouquets",
+    "alternatenames": "Croix-des-Bouquets,Kwadebouke,Kwadèbouke",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727287,
+    "name": "Kotdefe",
+    "alternatenames": "Cote de Fer,Cotes de Fer,Cotes-de-Fer,Côtes de Fer,Côtes-de-Fer,Kotdefe,Kotdefè",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727297,
+    "name": "Koto",
+    "alternatenames": "Coteau,Coteaux,Koto,Les Coteaux,Les Côteaux",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727327,
+    "name": "Cornillon",
+    "alternatenames": "Cornillon,Grands Bois,Koniyon,Kòniyon",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727398,
+    "name": "Corail",
+    "alternatenames": "Corail,Koray",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727902,
+    "name": "Chardonniere",
+    "alternatenames": "Chardonniere,Chardonnieres,Chardonnière,Chardonnières,Ville de Chardonniere,Ville de Chardonnière",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727944,
+    "name": "Chantal",
+    "alternatenames": "Chantal",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3727984,
+    "name": "Chambellan",
+    "alternatenames": "Chambellan,Chanbelan,Chanbèlan",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728054,
+    "name": "Cerca la Source",
+    "alternatenames": "Cerca la Source,La Source,Seka Lasous,Sèka Lasous,Ville de Cerca la Source",
+    "subcountry": "Centre"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728093,
+    "name": "Cayes-Jacmel",
+    "alternatenames": "Cayes Jacmel,Cayes de Jacmel,Cayes-Jacmel,Kay Jakmel,Kay Jakmèl",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728097,
+    "name": "Les Cayes",
+    "alternatenames": "Aux Cayes,CYA,Cayes,Le Kajus,Le-Ke,Les Cayes,Los Cayos,Okay,Ville des Cayes,lai kai,leukaye,rekai,Ле-Ке,لے سائیس,レカイ,萊凱,르카예",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728122,
+    "name": "Cavaillon",
+    "alternatenames": "Cauaillon,Cavaillon,Cavailon,Kavayon",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728338,
+    "name": "Carrefour",
+    "alternatenames": "",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728386,
+    "name": "Carice",
+    "alternatenames": "Carice,Karis",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728428,
+    "name": "Caracol",
+    "alternatenames": "Caracol,Karakol,Karakòl",
+    "subcountry": "Nord-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728474,
+    "name": "Okap",
+    "alternatenames": "CAP,Cabo Haitiano,Cap Haitien,Cap-Francais,Cap-Français,Cap-Haitien,Cap-Haïtien,Cape Haitien,Cape Haytien,Guarico,Guárico,Haitia Kabo,Kap Ayisyen,Kap-Ait'en,Kap-Ait'ene,Kap-Aitien,Le Cap,Okap,Ville du Cap-Haitien,hai de jiao,kap-hayytyn,kapaishan,kapeuaisiaeng,Καπ-Αϊτιέν,Кап-Аитьен,Кап-Аитьене,Кап-Аїтьєн,کاپ-هائیتین,カパイシャン,海地角,카프아이시앵",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3728964,
+    "name": "Cabaret",
+    "alternatenames": "Cabaret,Duvalierville,Kabare,Kabarè,Prince",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3729548,
+    "name": "Bombardopolis",
+    "alternatenames": "Bombardopolis,Bonbadopolis,Ville de Bombardopolis",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3730363,
+    "name": "Belle-Anse",
+    "alternatenames": "Belans,Belle-Anse,Saltrou",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3730800,
+    "name": "Baraderes",
+    "alternatenames": "Baradaires,Barade,Baraderes,Baradè,Baradères",
+    "subcountry": "Nippes"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3730932,
+    "name": "Baie de Henne",
+    "alternatenames": "Baie de Haine,Baie de Henne,Be de En,Be de Èn,Henne,Henne Bay",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3730937,
+    "name": "Bahon",
+    "alternatenames": "Bahon,Bawon,Bohon",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731087,
+    "name": "Arcahaie",
+    "alternatenames": "",
+    "subcountry": "Nord-Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731095,
+    "name": "Aquin",
+    "alternatenames": "Aken,Aquin",
+    "subcountry": "Sud"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731105,
+    "name": "Anse Rouge",
+    "alternatenames": "Anse Rouge,Answouj,Ville de l'Anse Rouge,Ville de l’Anse Rouge",
+    "subcountry": "Artibonite"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731123,
+    "name": "Anse-a-Veau",
+    "alternatenames": "Ville de Anse a Veau,Ville de Anse à Veau",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731126,
+    "name": "Anse-a-Pitre",
+    "alternatenames": "Anse Pitres,Anse-a-Pitre,Anse-a-Pitres,Anse-à-Pitre,Anse-à-Pitres,Anses a Pitre,Anses à Pitre,Anses-a-Pitres,Anses-a-Pîtres",
+    "subcountry": "Sud-Est"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731132,
+    "name": "Anse a Galets",
+    "alternatenames": "Ansagale,Ansagalè,Anse Galets,Anse a Galet,Anse a Galets,Anse à Galet,Anse à Galets",
+    "subcountry": "Ouest"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731233,
+    "name": "Acul du Nord",
+    "alternatenames": "Acul du Nord,Akil di No,Akil di Nò",
+    "subcountry": "Nord"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3731257,
+    "name": "Les Abricots",
+    "alternatenames": "Abricot,Abricots,Abriko,Les Abricots,Ville de Apricots",
+    "subcountry": "GrandʼAnse"
+  },
+  {
+    "country": "HT",
+    "geonameid": 3740016,
+    "name": "Ti Port-de-Paix",
+    "alternatenames": "",
+    "subcountry": "Nord-Ouest"
+  }
+]

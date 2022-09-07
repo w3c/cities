@@ -1,0 +1,632 @@
+[
+  {
+    "country": "JM",
+    "geonameid": 3487963,
+    "name": "Yallahs",
+    "alternatenames": "Yallahs,Yallahs Bay,Yallahs Village",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488020,
+    "name": "Williamsfield",
+    "alternatenames": "Williamsfield",
+    "subcountry": "Manchester"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488133,
+    "name": "Wakefield",
+    "alternatenames": "Wakefield",
+    "subcountry": "Trelawny"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488180,
+    "name": "Ulster Spring",
+    "alternatenames": "Ulster Spring",
+    "subcountry": "Trelawny"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488217,
+    "name": "Trinity Ville",
+    "alternatenames": "Trinity Ville",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488380,
+    "name": "Stony Hill",
+    "alternatenames": "",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488465,
+    "name": "Spanish Town",
+    "alternatenames": "Hispanurbo,Saint Jago de la Vega,Spanis Taoun,Spanis Taunas,Spanish Town,Spanish-Taun,Spaniš Taunas,sbanysh tawn,seupaenisitaun,xi ban ya zhen,Σπάνις Τάουν,Спаниш-Таун,سبانيش تاون,سپینش ٹاؤن,スパニッシュ・タウン,西班牙鎮,스패니시타운",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488479,
+    "name": "Southfield",
+    "alternatenames": "Southfield",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488540,
+    "name": "Siloah",
+    "alternatenames": "Siloah,Village of Shiloah",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488597,
+    "name": "Seaforth",
+    "alternatenames": "Seaforth,Seaforth Village",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488613,
+    "name": "Savanna-la-Mar",
+    "alternatenames": "Sav,Sav-la-Mar,Savanna-la-Mar,Savannah la Mar",
+    "subcountry": "Westmoreland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488620,
+    "name": "Santa Cruz",
+    "alternatenames": "Santa Cruz",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488635,
+    "name": "Sandy Bay",
+    "alternatenames": "Sandy Bay,Sandy Bay Village",
+    "subcountry": "Hanover"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488713,
+    "name": "Saint Ann's Bay",
+    "alternatenames": "Saint Ann's Bay,Saint Ann’s Bay,Santa Gloria,St Ann's Bay",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488726,
+    "name": "Runaway Bay",
+    "alternatenames": "Runaway Bay,Runaway Bay Settlement,Runaway Bay Village,Runaway Village,Runnaway-Bay",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488777,
+    "name": "Rocky Point",
+    "alternatenames": "Rocky Point",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488780,
+    "name": "Rock Spring",
+    "alternatenames": "",
+    "subcountry": "Trelawny"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488809,
+    "name": "Riversdale",
+    "alternatenames": "Riversdale",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488834,
+    "name": "Richmond",
+    "alternatenames": "Richmond,Richmond Village",
+    "subcountry": "St. Mary"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488914,
+    "name": "Race Course",
+    "alternatenames": "Race Course",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488977,
+    "name": "Porus",
+    "alternatenames": "Porus",
+    "subcountry": "Manchester"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488980,
+    "name": "Port Royal",
+    "alternatenames": "Port Royal,Port-Rojal,bwrt rwyal,luo ya er gang,poteuloyeol,pwrt rwyal,Порт-Ройал,Порт-Роял,بورت رويال,پورت رویال,ポート・ロイヤル,罗亚尔港,포트로열",
+    "subcountry": "Kingston"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488981,
+    "name": "Portmore",
+    "alternatenames": "Portmore",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3488985,
+    "name": "Port Maria",
+    "alternatenames": "Port Maria",
+    "subcountry": "St. Mary"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489005,
+    "name": "Port Antonio",
+    "alternatenames": "POT,Port Antonio,Port-Antonio,Saint Francois,an dong ni ao gang,Πορτ Αντόνιο,Порт-Антонио,پورٹ انتونیو,安東尼奧港",
+    "subcountry": "Portland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489011,
+    "name": "Point Hill",
+    "alternatenames": "Point Hill",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489062,
+    "name": "Petersfield",
+    "alternatenames": "Petersfield",
+    "subcountry": "Westmoreland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489200,
+    "name": "Oracabessa",
+    "alternatenames": "Oracabessa",
+    "subcountry": "St. Mary"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489225,
+    "name": "Old Harbour Bay",
+    "alternatenames": "Old Harbour Bay",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489227,
+    "name": "Old Harbour",
+    "alternatenames": "Old Harbor,Old Harbour",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489239,
+    "name": "Ocho Rios",
+    "alternatenames": "Las Chorreras,OCJ,Ocho Rios,Ocho Ríos,Ocho-Rios,Otso Rios,ao qiao li ao si,awtshw ryws,ocho・riosu,Ότσο Ρίος,Очо-Риос,Очо-Ріос,أوتشو ريوس,オーチョ・リオス,奧喬里奧斯",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489297,
+    "name": "New Kingston",
+    "alternatenames": "",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489331,
+    "name": "Negril",
+    "alternatenames": "NEG,Negril,Negril Harbour,Negryl,neguriru,nei ge li er,Негрил,Негрыл,ネグリル,內格里爾",
+    "subcountry": "Westmoreland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489344,
+    "name": "Nain",
+    "alternatenames": "",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489440,
+    "name": "Morant Bay",
+    "alternatenames": "Morant,Morant Bay",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489445,
+    "name": "Moore Town",
+    "alternatenames": "Moore Town,More Town",
+    "subcountry": "Portland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489460,
+    "name": "Montego Bay",
+    "alternatenames": "Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bėjus,Montego-Bej,Montenko Bey,Monteqo-Bey,mamtego be,meng te ge bei,montegobei,mwntgwby,mwntyghw bay,mwntygw byy,Μοντέγκο Μπέυ,Монтего-Бей,מונטיגו ביי,مونتيغو باي,مونتگوبی,مونٹیگو بے,माँटेगो बे,モンテゴ・ベイ,蒙特哥貝,몬테고베이",
+    "subcountry": "St. James"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489464,
+    "name": "Moneague",
+    "alternatenames": "Moneague",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489467,
+    "name": "Mona Heights",
+    "alternatenames": "",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489475,
+    "name": "Mocho",
+    "alternatenames": "",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489523,
+    "name": "May Pen",
+    "alternatenames": "May Pen",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489531,
+    "name": "Mavis Bank",
+    "alternatenames": "Mari Bank,Mavis Bank",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489555,
+    "name": "Maroon Town",
+    "alternatenames": "Camperdown,Maroon Town",
+    "subcountry": "St. James"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489577,
+    "name": "Mandeville",
+    "alternatenames": "MVJ,Mandevil',Mandeville,Мандевиль",
+    "subcountry": "Manchester"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489582,
+    "name": "Manchioneal",
+    "alternatenames": "",
+    "subcountry": "Portland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489603,
+    "name": "Malvern",
+    "alternatenames": "",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489633,
+    "name": "Maggotty",
+    "alternatenames": "Maggotty",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489657,
+    "name": "Lucea",
+    "alternatenames": "Lucea",
+    "subcountry": "Hanover"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489714,
+    "name": "Lluidas Vale",
+    "alternatenames": "Lluidas Vale,Luidas Vale",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489758,
+    "name": "Lionel Town",
+    "alternatenames": "Lionel Town",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489760,
+    "name": "Linstead",
+    "alternatenames": "",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489829,
+    "name": "Lacovia",
+    "alternatenames": "Lacovia",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489854,
+    "name": "Kingston",
+    "alternatenames": "KIN,Kin'nkston,Kingston,Kingstono,jing si dui,kingseuteon,kingusuton,kyngstwn,Κίνγκστον,Кингстон,کینگستون,キングストン,京斯敦,킹스턴",
+    "subcountry": "Kingston"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489888,
+    "name": "Kellits",
+    "alternatenames": "Kellets,Kellits",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3489962,
+    "name": "Islington",
+    "alternatenames": "Islington",
+    "subcountry": "St. Mary"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490031,
+    "name": "Hope Bay",
+    "alternatenames": "Hope,Hope Bay",
+    "subcountry": "Portland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490106,
+    "name": "Hayes",
+    "alternatenames": "Hayes",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490165,
+    "name": "Half Way Tree",
+    "alternatenames": "Half Way Tree",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490293,
+    "name": "Gordon Town",
+    "alternatenames": "Gordon Town",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490318,
+    "name": "Golden Grove",
+    "alternatenames": "Golden Grove",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490368,
+    "name": "Gayle",
+    "alternatenames": "Gayle,Gayle Village",
+    "subcountry": "St. Mary"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490520,
+    "name": "Falmouth",
+    "alternatenames": "Falmouth",
+    "subcountry": "Trelawny"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490539,
+    "name": "Ewarton",
+    "alternatenames": "",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490616,
+    "name": "Easington",
+    "alternatenames": "Easington",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490633,
+    "name": "Duncans",
+    "alternatenames": "Duncans",
+    "subcountry": "Trelawny"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490716,
+    "name": "Discovery Bay",
+    "alternatenames": "Discovery Bay,Dry Harbor,Dry Harbour,Puerto Bueno",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490758,
+    "name": "Darliston",
+    "alternatenames": "Darlingston,Darliston",
+    "subcountry": "Westmoreland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490768,
+    "name": "Dalvey",
+    "alternatenames": "Dalvey,Dalvy",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490880,
+    "name": "Constant Spring",
+    "alternatenames": "Constant Spring",
+    "subcountry": "St. Andrew"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3490899,
+    "name": "Coleyville",
+    "alternatenames": "Coleyville",
+    "subcountry": "Manchester"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491007,
+    "name": "Chapelton",
+    "alternatenames": "Chapelton",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491055,
+    "name": "Cascade",
+    "alternatenames": "Cascade",
+    "subcountry": "Hanover"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491102,
+    "name": "Cambridge",
+    "alternatenames": "Cambridge,Cambridge Station",
+    "subcountry": "St. James"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491161,
+    "name": "Bull Savanna",
+    "alternatenames": "Bull Savanna",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491175,
+    "name": "Buff Bay",
+    "alternatenames": "Buff Bay",
+    "subcountry": "Portland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491293,
+    "name": "Bog Walk",
+    "alternatenames": "",
+    "subcountry": "Saint Catherine"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491327,
+    "name": "Bluefields",
+    "alternatenames": "Bluefields",
+    "subcountry": "Westmoreland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491355,
+    "name": "Black River",
+    "alternatenames": "",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491381,
+    "name": "Bethel Town",
+    "alternatenames": "Bethel Town",
+    "subcountry": "Westmoreland"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491448,
+    "name": "Bath",
+    "alternatenames": "Bath,The Bath",
+    "subcountry": "St. Thomas"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491487,
+    "name": "Bamboo",
+    "alternatenames": "Bamboo,Excellent Town",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491501,
+    "name": "Balaclava",
+    "alternatenames": "Balaclava",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491518,
+    "name": "Mt Peto",
+    "alternatenames": "Axe Adze,Axe and Adze,Mount Peto,Mt Peto",
+    "subcountry": "Hanover"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491556,
+    "name": "Annotto Bay",
+    "alternatenames": "Annatto Bay,Annotta Bay,Annotto Bay",
+    "subcountry": "St. Mary"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491570,
+    "name": "Anchovy",
+    "alternatenames": "Anchovy,Anchovy Station",
+    "subcountry": "St. James"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491586,
+    "name": "Alligator Pond",
+    "alternatenames": "Alligator Pond,Alligator Pond Bay,Alligator Pond Village",
+    "subcountry": "St. Elizabeth"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491593,
+    "name": "Alexandria",
+    "alternatenames": "Alexandria",
+    "subcountry": "St Ann"
+  },
+  {
+    "country": "JM",
+    "geonameid": 3491602,
+    "name": "Albert Town",
+    "alternatenames": "Albert Town",
+    "subcountry": "Trelawny"
+  },
+  {
+    "country": "JM",
+    "geonameid": 8062858,
+    "name": "Limit",
+    "alternatenames": "",
+    "subcountry": "Clarendon"
+  },
+  {
+    "country": "JM",
+    "geonameid": 9308152,
+    "name": "Quickstep",
+    "alternatenames": "",
+    "subcountry": "Trelawny"
+  }
+]

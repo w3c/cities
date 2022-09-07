@@ -1,0 +1,541 @@
+[
+  {
+    "country": "MD",
+    "geonameid": 617053,
+    "name": "Tiraspolul Nou",
+    "alternatenames": "Novotiraspol'skij,Novotiraspol'skiy,Novotiraspol’skiy,Slobodka,Tiraspolul Nou,Zakrepostnaya Slobodka,Новотираспольский",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617076,
+    "name": "Edinet",
+    "alternatenames": "Edincy,Edinec,Edinet,Edineţ,Edineț,Edinita,Edinita-Targ,Ediniti,Ediniţa,Ediniţa-Târg,Edintsy,Yedintsy-Tyrg,edinecheu,Единец,Единцы,에디네츠",
+    "subcountry": "Raionul Edineţ"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617081,
+    "name": "Iargara",
+    "alternatenames": "Iagara,Iargara,Jargara,Poselok Yargora,Posëlok Yargora,Yargara,Yargora,Яргара",
+    "subcountry": "Cantemir"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617096,
+    "name": "Vulcanesti",
+    "alternatenames": "Valkaneshty,Volkaneshty,Volkenesht',Volkenesht’,Volkoneshty,Vulcanesti,Vulcăneşti,Vulkaneshty,Vulkeneshti,Вулканешты",
+    "subcountry": "Găgăuzia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617118,
+    "name": "Visniovca",
+    "alternatenames": "Vishnevka,Vishnëvka,Visinesti,Visniovca,Vişineşti,Vişniovca,Вишневка",
+    "subcountry": "Cantemir"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617149,
+    "name": "Varnita",
+    "alternatenames": "Varnica,Varnitsa,Варница",
+    "subcountry": "Anenii Noi"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617164,
+    "name": "Vadul lui Voda",
+    "alternatenames": "Vadu-luy-Vode,Vadul lui Voda,Vadul lui Vodă,Vadul-Luj-Vodeh,Vadul-Luy-Vode,Vaduluy-Vody,Vady-Lui Voda,Vady-Luy-Voda,Вадул-Луй-Водэ",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617170,
+    "name": "Ustia",
+    "alternatenames": "Ust'e,Ust'ye,Ustia,Ustya,Ust’ye,Устье",
+    "subcountry": "Dubăsari"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617180,
+    "name": "Ungheni",
+    "alternatenames": "Ukgeni Tyrg,Ungen,Ungen',Ungen' Tyrg,Ungeni,Ungenis,Ungeny,Ungen’ Tyrg,Ungheni,Ungheni Targ,ungeni,wen ge nei,Унген,Унгени,Унгены,Унгень,אונגני,溫格內,운게니",
+    "subcountry": "Ungheni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617187,
+    "name": "Tvardita",
+    "alternatenames": "Tvardica,Tvardita,Tvarditsa,Tvardiţa,Tvardița,Твардица",
+    "subcountry": "Taraclia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617239,
+    "name": "Tiraspol",
+    "alternatenames": "Ciraspal',Tiraspol,Tiraspol',Tiraspole,Tiraspoli,Tiraspolis,Tiraspolo,Tiraspol’,Tiráspol,Tyraspol,di la si bo er,ti ras pxl,tilaseupol,tirasupori,tyrasbwl,tyraspwl,tyrspwl,Тираспол,Тирасполь,Тираспољ,Ціраспаль,טירספול,تيراسبول,تیراسپول,ตีรัสปอล,ტირასპოლი,ティラスポリ,蒂拉斯波尔,티라스폴",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617254,
+    "name": "Telenesti",
+    "alternatenames": "Telenesht'-Tyrg,Teleneshty,Telenesht’-Tyrg,Telenesti,Telenesti Targ,Teleneşti,Teleneşti Târg,Tseleneshti-Tyrg,Теленешты",
+    "subcountry": "Teleneşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617270,
+    "name": "Taraclia",
+    "alternatenames": "Taraclia,Taraklija,Tarakliya,Тараклия",
+    "subcountry": "Taraclia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617279,
+    "name": "Singera",
+    "alternatenames": "Sangera,Singera,Synzhera,Sângera,Sîngera,Сынжера",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617284,
+    "name": "Stefan Voda",
+    "alternatenames": "Shtefan-Vode,Shtefan-Vodeh,Stefan Voda,Suvorovo,Ştefan Vodă,Суворово,Штефан-Водэ",
+    "subcountry": "Ştefan-Vodă"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617302,
+    "name": "Straseni",
+    "alternatenames": "Straseni,Strasheny,Străşeni,Strășeni,Страшены",
+    "subcountry": "Strășeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617317,
+    "name": "Stauceni",
+    "alternatenames": "Stauceni,Stavcheny,Stăuceni,Ставчены",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617345,
+    "name": "Bilicenii Vechi",
+    "alternatenames": "Belichany,Biliceni,Bilicenii Vechi,Bilichen',Bilicheni,Bilichen’,Bliceni,Gilicheny,Starye Bilicheny,Staryye Bilicheny,Старые Биличены",
+    "subcountry": "Sîngerei"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617367,
+    "name": "Soroca",
+    "alternatenames": "Soroca,Soroka,Soroki,Soroky,sʼrʼqʻ‏‎,Сорока,Сороки,סאראקע‏‎",
+    "subcountry": "Raionul Soroca"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617372,
+    "name": "Soldanesti",
+    "alternatenames": "Chernenko,Sholdanesht',Sholdaneshti,Sholdaneshty,Sholdanesht’,Sholdenesht',Sholdenesht’,Soldanesti,Şoldăneşti,Шолданешты",
+    "subcountry": "Şoldăneşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617381,
+    "name": "Slobozia",
+    "alternatenames": "Moldavanskaya-Slobodzaya,Slabadzeja,Slabodzeja,Slabodzėja,Slobodzeja,Slobodzeya,Slobodzeya Moldavanskaya,Slobozia,si luo bo qi ya,Слабадзея,Слободзея,斯洛博齊亞",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617471,
+    "name": "Saharna",
+    "alternatenames": "Saharna,Sakharna,Sukharna,Сахарна",
+    "subcountry": "Rezina"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617482,
+    "name": "Riscani",
+    "alternatenames": "Rascani,Rascani Targ,Rashkan' Tyrg,Rashkani-Tyrg,Rashkan’ Tyrg,Riscani,Ryshkanovka,Ryshkany,Râşcani,Râşcani Târg,Rîşcani,Рышканы",
+    "subcountry": "Rîşcani"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617486,
+    "name": "Ribnita",
+    "alternatenames": "Rabnita,Ribnica,Ribnicja,Ribnita,Ribņica,Rybnica,Rybnitsa,Rybniza,Râbniţa,Râbnița,Rîbniţa,Rîbnița,rybnyzh,Рибниця,Рыбница,ריבניצה",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617502,
+    "name": "Rezina",
+    "alternatenames": "Rezina,Rezina Targ,Rezina Târg,Rezina-Tirg,Rezina-Tîrg,Резина",
+    "subcountry": "Rezina"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617541,
+    "name": "Dolna",
+    "alternatenames": "Dolna,Pushkino,Пушкино",
+    "subcountry": "Strășeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617578,
+    "name": "Poganesti",
+    "alternatenames": "Poganeshty,Poganesti,Pogăneşti,Поганешты",
+    "subcountry": "Hînceşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617602,
+    "name": "Pervomaisc",
+    "alternatenames": "Pervomaisc,Pervomajsk,Pervomaysk,Pervomayskoye,Первомайск",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617638,
+    "name": "Orhei",
+    "alternatenames": "Orgeev,Orgeyev,Orgiejow,Orgiejów,Orgiiv,Orhei,Orheiu,Orhejus,Orhėjus,Orkhej,Orkhey,ao er hai yi,oleuhei,orhei,Оргеев,Оргіїв,Орхей,Орхеј,אורחיי,اورہیئی,ორჰეი,奧爾海伊,오르헤이",
+    "subcountry": "Orhei"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617659,
+    "name": "Ocnita",
+    "alternatenames": "Ocnita,Ocniţa,Oknica,Oknitsa,Окница",
+    "subcountry": "Raionul Ocniţa"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617702,
+    "name": "Anenii Noi",
+    "alternatenames": "Aneni Nouy,Anenii Noi,Anenii Noui,Novo-Aneny,Novye Aneny,Novyye Aneny,Новые Анены",
+    "subcountry": "Anenii Noi"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617753,
+    "name": "Nisporeni",
+    "alternatenames": "Nisiporeni,Nisporeni,Nisporeny,Nisporyany,Ниспорены",
+    "subcountry": "Nisporeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617778,
+    "name": "Mindresti",
+    "alternatenames": "Mandresti,Mindresti,Myndresht',Myndreshti,Myndreshty,Myndresht’,Mândreşti,Mîndreşti,Мындрешты",
+    "subcountry": "Teleneşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617823,
+    "name": "Merenii Noi",
+    "alternatenames": "Meren' Gara,Merenii Noi,Mereny,Mereny Gara,Meren’ Gara,Novye Mereny,Novyye Mereny,Новые Мерены",
+    "subcountry": "Anenii Noi"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617830,
+    "name": "Maiac",
+    "alternatenames": "Maiac,Majak,Mayak,Маяк",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617837,
+    "name": "Marculesti",
+    "alternatenames": "Marculesti,Markulesht'-Kolon,Markuleshti-Kolon,Markuleshty,Markuleshty-Kolon,Markulesht’-Kolon,Mărculeşti,Маркулешты",
+    "subcountry": "Floreşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617904,
+    "name": "Leova",
+    "alternatenames": "Leova,Leovo,Levo,Леово",
+    "subcountry": "Leova"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617914,
+    "name": "Singerei",
+    "alternatenames": "Lazovsk,Sangerei,Senzherey,Singerei,Syndzherey,Synzhereja,Synzhereya,Synzheria,Sângerei,Sîngerei,Лазовск,Сынжерея",
+    "subcountry": "Sîngerei"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617965,
+    "name": "Cricova",
+    "alternatenames": "Cricova,Krikova,Krikovo,Криково",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617973,
+    "name": "Crasnoe",
+    "alternatenames": "Crasna,Crasnoe,Krasnoe,Krasnoye,Красное",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 617993,
+    "name": "Hincesti",
+    "alternatenames": "Ganchesty,Gynchesht',Gynchesht’,Hancesti,Hincesti,Hânceşti,Hâncești,Hînceşti,Hîncești,Khencheshti,Khynchesht',Khyncheshty,Khynchesht’,Kotovsk,Kotovskoye,Raionul Hincesti,Raionul Hîncești,Котовск,Хынчешты",
+    "subcountry": "Hînceşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618057,
+    "name": "Cocieri",
+    "alternatenames": "Cocieri,Kochiery,Kochiyery,Kucheyer,Kuchiyer,Kuchiyery,Кочиеры",
+    "subcountry": "Dubăsari"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618067,
+    "name": "Chitcani",
+    "alternatenames": "Kickany,Kitskan',Kitskani,Kitskany,Кицканы",
+    "subcountry": "Căuşeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618120,
+    "name": "Causeni",
+    "alternatenames": "Causani-Novi,Causanii-Noui,Causeni,Căuşani-Novi,Căuşanii-Noui,Căuşeni,Căușeni,Kaushani,Kaushani-Noui,Kaushany,Keusenis,Keušenis,Noui Causanii,Noui Căuşanii,Novo Kaushani,Novyye Kaushany,Novyye Keushani,kawshyny,ke wu xie ni,keousyeni,Каушани,Каушаны,کاؤشینی,克烏謝尼,커우셰니",
+    "subcountry": "Căuşeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618196,
+    "name": "Ialoveni",
+    "alternatenames": "Ialoveni,Jaloveny,Kutuzov,Ploreny,Ploveny,Yaloven',Yaloveny,Yaloven’,Yalovyany,Кутузов,Яловены",
+    "subcountry": "Ialoveni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618234,
+    "name": "Hryhoriopol",
+    "alternatenames": "Grigoriopol,Grigoriopol',Grigoriopolis,Grigoriopol’,Grigoriupol,Grygaryjopal',ge li ge li ao bo er,geuligoliopol,Григориополь,Григоріополь,Грыгарыёпаль,Գրիգորիուպոլ,格里戈里奧波爾,그리고리오폴",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618261,
+    "name": "Glodeni",
+    "alternatenames": "Gloden',Glodeni,Gloden’,Glodjany,Glodyany,Malyye Glodyany,Глодяны",
+    "subcountry": "Glodeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618275,
+    "name": "Ghindesti",
+    "alternatenames": "Ghindesti,Ghindeşti,Ghindești,Gindeshty,Gyndesht',Gyndesht’,Leninskij,Leninskiy,Гиндешты,Ленинский",
+    "subcountry": "Floreşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618329,
+    "name": "Floresti",
+    "alternatenames": "Floresht',Floreshti,Floreshty,Floresht’,Floresti,Floreşti,Флорешты",
+    "subcountry": "Floreşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618344,
+    "name": "Falesti",
+    "alternatenames": "Faleshti,Faleshty,Falesti,Fălești,Фалешти,Фалешты",
+    "subcountry": "Fălești"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618349,
+    "name": "Giurgiulesti",
+    "alternatenames": "Dzhurdzhulesht',Dzhurdzhuleshti,Dzhurdzhuleshty,Dzhurdzhulesht’,Dzhurzhuleshty,Giurgiulesti,Giurgiuleşti,Zhurzhuleshty,Джурджулешты",
+    "subcountry": "Cahul"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618365,
+    "name": "Dubasari",
+    "alternatenames": "Dubasari,Dubehsar',Dubosari,Dubossary,Dubăsari,dubeosali,Дубоссары,Дубэсарь,두버사리",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618370,
+    "name": "Drochia",
+    "alternatenames": "Drochia,Drokija,Drokiya,Drokiya Sat,Дрокия",
+    "subcountry": "Drochia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618382,
+    "name": "Donduseni",
+    "alternatenames": "Dondusani,Donduseni,Dondushen',Dondushen’,Donduşeni,Donduşăni,Dondyushany",
+    "subcountry": "Donduşeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618387,
+    "name": "Dnestrovsc",
+    "alternatenames": "Dnestrovsc,Dnestrovsk,Dnestrovskas,Dnistrovs'k,Dnjastrousk,de nie si te luo fu si ke,Днестровск,Днястроўск,Дністровськ,德涅斯特羅夫斯克",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618400,
+    "name": "Dancu",
+    "alternatenames": "Dan'ka,Dancu,Danku,Dan’ka,Данку",
+    "subcountry": "Hînceşti"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618403,
+    "name": "Criuleni",
+    "alternatenames": "Criuleni,Kriulen',Kriuleni,Kriulen’,Kriuljany,Kriulyany,Krivleny,Kryulyany,Криуляны",
+    "subcountry": "Criuleni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618404,
+    "name": "Congaz",
+    "alternatenames": "Congaz,Kangaz,Kongaz,Конгаз",
+    "subcountry": "Găgăuzia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618405,
+    "name": "Comrat",
+    "alternatenames": "Comrat,Kamrat,Komrad,Komrat,Komratas,ke mu la ci,khxm rat,komlateu,kwmrat,Κομράτ,Камрат,Комрат,کومرات,คอมรัต,კომრატი,科姆拉茨,콤라트",
+    "subcountry": "Găgăuzia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618406,
+    "name": "Cimislia",
+    "alternatenames": "Chimishlija,Chimishliya,Cimislia,Cimişlia,Чимишлия",
+    "subcountry": "Cimişlia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618426,
+    "name": "Chisinau",
+    "alternatenames": "Chisinau,Chişinău,Chișinău,KIV,Kischinew,Kiscinev,Kishinef,Kishinehu,Kishinev,Kishiniv,Kishinjov,Kishinëv,Kisinaou,Kisinev,Kisineva,Kisinevo,Kisiniovas,Kisinjev,Kisinov,Kisinyov,Kisyneu,Kiszyniow,Kiszyniów,Kiŝinevo,Kişinev,Kišiniovas,Kišinjev,Kišiněv,Kišiņeva,Kišiňov,cisina'u,cisinau,ji xi ne wu,kishinau,kisineou,kyshynaw,qysynb,qysynyʼww,qʻsʻnʻww,Κισινάου,Κισιναου,Кишинев,Кишинэу,Кишинёв,Кишињев,Кішынёў,Կիշինյով,קישינאו,קישינב,קישיניאוו,קעשענעוו,كيشيناو,चिशिनाउ,चिशिनौ,კიშინიოვი,ኪሺንው,キシナウ,基希讷乌,키시너우",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618450,
+    "name": "Ceadir-Lunga",
+    "alternatenames": "Ceadar-Lunga,Ceadir-Lunga,Ceadâr-Lunga,Ceadîr-Lunga,Chadyr-Lunga,Чадыр-Лунга",
+    "subcountry": "Găgăuzia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618452,
+    "name": "Cantemir",
+    "alternatenames": "Cantemir,Kantemir,Кантемир",
+    "subcountry": "Cantemir"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618453,
+    "name": "Camenca",
+    "alternatenames": "Camenca,Kamenka,Kamenka-Moldavskaya,Kamionka,Kamjanka,ka men ka,kamenka,kamynka,Каменка,Камянка,کامینکا,卡門卡,카멘카",
+    "subcountry": "Transnistria"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618454,
+    "name": "Calarasi",
+    "alternatenames": "Calarasi,Calarasi-Targ,Călărasi-Targ,Călăraşi,Kalarash,Kelerashi-Tyrg,Калараш",
+    "subcountry": "Călăraşi"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618456,
+    "name": "Cahul",
+    "alternatenames": "Cahul,Kagul,Kaguł,Kahul,Kahulis,Kakhul,ka hu er,kahul,qʼhwl,Кагул,Кахул,קאחול,کاہول,კაჰული,卡胡爾,카훌",
+    "subcountry": "Cahul"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618459,
+    "name": "Bucovat",
+    "alternatenames": "Bucovat,Bucovăţ,Bykovec,Bykovets,Быковец",
+    "subcountry": "Strășeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618491,
+    "name": "Bugeac",
+    "alternatenames": "Budzhak,Bugeac,Komrat,Комрат",
+    "subcountry": "Găgăuzia"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618510,
+    "name": "Briceni",
+    "alternatenames": "Briceni,Briceni-Targ,Briceni-Târg,Brichani,Brichany,Brichen',Brichen' Sat,Bricheni Sat,Brichen’ Sat,Bryczany,Бричани,Бричаны,Бричень",
+    "subcountry": "Briceni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618512,
+    "name": "Briceni",
+    "alternatenames": "Briceni,Brichany,Brichen',Brichen’,Бричаны",
+    "subcountry": "Donduşeni"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618577,
+    "name": "Bender",
+    "alternatenames": "Bendary,Bendehr,Bender,Bendera,Benderai,Benderi,Bendery,Bəndər,Tighina,Tigina,bendeleu,benderi,benderu,bin jie li,byndr,byndr  maldwwa,tygynh,Бендер,Бендери,Бендеры,Бендэр,Тигина,טיגינה,بيندر,بیندر، مالدووا,ბენდერი,ベンデル,賓傑里,벤데르",
+    "subcountry": "Bender Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618594,
+    "name": "Basarabeasca",
+    "alternatenames": "Basarabeasca,Basarabiaska,Besarabka,Bessarabka,Bessarabskaya,Bessarabskiy,Romaneshti,Romanesti,Romanovka,Romanovo,Romynesht',Romynesht’,Româneşti,ba sa la bei ya si ka,basalabeaseuka,basarabyaska,bysarabka,Бесарабка,Бессарабка,باسارابياسكا,بیسارابکا,ბასარაბეასკა,巴薩拉貝亞斯卡,바사라베아스카",
+    "subcountry": "Basarabeasca"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618605,
+    "name": "Balti",
+    "alternatenames": "BZY,Balti,Baltsy,Behlc',Bel'cy,Bel'tsy,Belcai,Belci,Beltsi,Bel’tsy,Bielce,Byelcy,Bălţi,Bălți,Municipalite de Balti,Municipalité de Bălţi,blzy,Белци,Бельцы,Бэлць,בלצי",
+    "subcountry": "Bălţi"
+  },
+  {
+    "country": "MD",
+    "geonameid": 618631,
+    "name": "Otaci",
+    "alternatenames": "Ataki,Otach-Tyrg,Otaci,Атаки",
+    "subcountry": "Raionul Ocniţa"
+  },
+  {
+    "country": "MD",
+    "geonameid": 824134,
+    "name": "Vatra",
+    "alternatenames": "Gara Ghidighici,Gidigich,Vatra,Ватра,Гидигич",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 824153,
+    "name": "Ciorescu",
+    "alternatenames": "Ciorescu,Krikova-Noue,Krikova-Noueh,Крикова-Ноуэ",
+    "subcountry": "Chișinău Municipality"
+  },
+  {
+    "country": "MD",
+    "geonameid": 830975,
+    "name": "Biruinta",
+    "alternatenames": "Biruinca,Biruinta,Biruintsa,Biruinţa,Бируинца",
+    "subcountry": "Sîngerei"
+  }
+]

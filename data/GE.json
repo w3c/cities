@@ -1,0 +1,884 @@
+[
+  {
+    "country": "GE",
+    "geonameid": 584502,
+    "name": "Abastumani",
+    "alternatenames": "Abastumani,abastumani,აბასთუმანი",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 610824,
+    "name": "Zugdidi",
+    "alternatenames": "Sugdidi,Zugdidi,Zugdidis,Zygdidi,zugdidi,zwgdydy,Зугдиди,זוגדידי,ზუგდიდი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 610849,
+    "name": "Zhinvali",
+    "alternatenames": "Zhinvali,Zhinvani,zhinvali,Жинвали,ჟინვალი",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 610864,
+    "name": "Zest'aponi",
+    "alternatenames": "Dshugeli,Dzhugeli,Kvirily,Namaneva,Sestafoni,Zest'aponi,Zestafoni,Zestap'oni,Zestaponi,Zest’aponi,Zetaponi,Zistafoni,zestaponi,Зестафони,ზესთაფონი,ზესტაფონი",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611093,
+    "name": "Zahesi",
+    "alternatenames": "Zages,Zahesi",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611219,
+    "name": "Vani",
+    "alternatenames": "Bzvani,Vani,vani,Вани,ვანი",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611230,
+    "name": "Vale",
+    "alternatenames": "Vale,vale,Вале,ვალე",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611274,
+    "name": "Urek'i",
+    "alternatenames": "Urek'i,Ureki,Urek’i,urekʼi,Уреки,ურეკი",
+    "subcountry": "Guria"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611373,
+    "name": "Ts'nori",
+    "alternatenames": "Cnori,Sakobosubani,Ts'nori,Tsnori,Tsnoristskali,Ts’nori,Цнори,წნორი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611398,
+    "name": "Tsqnet'i",
+    "alternatenames": "Ckhneti,Tskhneti,Tskneti,Tsqnet'i,Tsqnet’i,Цхнети",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611403,
+    "name": "Ts'khinvali",
+    "alternatenames": "Chreba,Ckhinval,Ckhinvali,Stalinir,Staliniri,Stavinir,Ts'khinvali,Tskhinval,Ts’khinvali,tskhinvali,Цхинвал,Цхинвали,ცხინვალი",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611492,
+    "name": "Ts'inandali",
+    "alternatenames": "Cinandali,Ts'inandali,Tsinandali,Tsinondali,Ts’inandali,tsʼinandali,Цинандали,წინანდალი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611512,
+    "name": "Tsikhisdziri",
+    "alternatenames": "Tsikhisdziri,Tskhirish,tsikhisdziri,ციხისძირი",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611548,
+    "name": "Ts'alk'a",
+    "alternatenames": "Barmaksiz,Barmaksus,Barmaksys,Calka,Calkae,Khram,Talka,Ts'alk'a,Tsalka,Ts’alk’a,Zalka,cha er ka,tsalka,Țalka,Τσάλκα,Цалкæ,Цалка,Ծալկա,تسالکا,წალკა,察爾卡",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611551,
+    "name": "Ts'alenjikha",
+    "alternatenames": "Calendzhikha,Ts'alenjikha,Tsalendzhikha,Tsalenjikha,Ts’alenjikha,Цаленджиха,წალენჯიხა",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611564,
+    "name": "Ts'aghveri",
+    "alternatenames": "Cagveri,Kurgan Tsagveri,Ts'aghveri,Tsaghveri,Tsagveri,Ts’aghveri,Цагвери,წაღვერი",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611566,
+    "name": "Tsageri",
+    "alternatenames": "Cageri,Ts'ageri,Tsageri,Ts’ageri,Zageri Gwesso,tsageri,Цагери,ცაგერი",
+    "subcountry": "Racha-Lechkhumi and Kvemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611583,
+    "name": "Tqvarch'eli",
+    "alternatenames": "Tkuarchal,Tkvarcheli,Tkvarchely,Tkwartscheli,Ткуарчал",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611584,
+    "name": "T'q'ibuli",
+    "alternatenames": "T'q'ibuli,Tkbuli,Tkibuli,Tkvibeli,Tkvibuli,Tkwibuli,Tqibuli,T’q’ibuli,Ткибули,ტყიბული",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611669,
+    "name": "Tianeti",
+    "alternatenames": "T'ianet'i,Tianeti,Tianety,Tioneti,Tionety,T’ianet’i,tianeti,Тианети,თიანეთი",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611674,
+    "name": "Tetri Ts'q'aro",
+    "alternatenames": "Agbulag,Agbulak,Agbulakh,Agbularh,Baly Kluch,Belyy-Klyuch,Kvishiani,T'et'ri Tsqaro,Tetri Ts'q'aro,Tetri Ts’q’aro,Tetri-Ckaro,Tetri-Tskaro,T’et’ri Tsqaro,kvishiani,Тетри-Цкаро,თეთრი წყარო,ქვიშიანი",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611682,
+    "name": "Terjola",
+    "alternatenames": "T'erjola,Terdzhola,Terjola,Terzhola,T’erjola,terjola,Тержола,თერჯოლა",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611694,
+    "name": "Telavi",
+    "alternatenames": "T'elavi,Telav,Telavi,Telavis,Telawi,Telev,Thelavi,telavi,Телави,თელავი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611717,
+    "name": "Tbilisi",
+    "alternatenames": "TBS,Tbilis,Tbilisi,Tbilisi - tbilisi,Tbilisi - თბილისი,Tbilisi osh,Tbilisis,Tbiliso,Tbilissi,Tbilisy,Tbiliszi,Tbilsi,Tblisi,Thbilisi,Tibilisi,Tiblisi,Tiblissi,Tiblíssi,Tibîlîsî,Tiflis,Tiphlida,Tpilisi,Triphelis,Ttuplis,Tíblisi,Tíflis,Tıflis,di bi li si,karti,tbilisi,tblys,tblysy,tbylysy,teubillisi,tfls,tflys,thbi li si,thbilisi,tipilici,tobirishi,Τιφλίδα,Тбилис,Тбилиси,Тбилиси ош,Тбилисӣ,Тбілісі,Ттуплис,Қарҭ,Թբիլիսի,טביליסי,تبليسي,تبلیس,تبلیسی,تبىلىسى,تفلیس,طفلس,ܛܒܝܠܝܣܝ,त्बिलिसी,थ्बिलीसी,তিবি‌লিসি,திபிலீசி,ทบิลิซิ,ཁྲེ་བྷི་ལི་སི།,თბილისი,ქართი,ትብሊሲ,トビリシ,第比利斯,트빌리시",
+    "subcountry": "T'bilisi"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611809,
+    "name": "Surami",
+    "alternatenames": "Ssuromi,Suram,Surami,surami,Сурами,სურამი",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611847,
+    "name": "Sokhumi",
+    "alternatenames": "Akva,Aҟəa,SUI,Sochumi,Sohum,Sohumi,Sokhumi,Soukhoumi,Ssuchum,Suchum,Suchumi,Suhhumi,Suhumi,Suhumo,Sujumi,Sukhum,Sukhumi,Suĥumo,sokhumi,su hu mi,sufumi,suhumi,swhwmy,Аҟәа,Сухум,Сухуми,סוחומי,სოხუმი,スフミ,苏呼米,수후미",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611902,
+    "name": "Sighnaghi",
+    "alternatenames": "Sighnaghi,Signachis,Signag,Signag',Signagi,Signakh,Signakhi,Sigunakh,Siğnaği,Ssignachi,sighnaghi,syghnaghy,syqnaqy,xi ge na ji,Сигнахи,Сигънах,Сиҕнаҕь,Сігнагі,Սիղնաղ,سیغناغی,سیقناقی,სიღნაღი,西格納吉",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611936,
+    "name": "Shuakhevi",
+    "alternatenames": "Shuakhevi,shuakhevi,Шуахеви,შუახევი",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611964,
+    "name": "Shorap'ani",
+    "alternatenames": "Schorapani,Schorpani,Sharadan',Sharadan’,Shorap'ani,Shorapan',Shorapani,Shorapan’,Shorap’ani,Shorpani,შორაპანი",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 611998,
+    "name": "Shemokmedi",
+    "alternatenames": "Semokmedi,Shemok'medi,Shemokmedi,Shimokmedi,shemokmedi,Шемокмеди,შემოქმედი",
+    "subcountry": "Guria"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612012,
+    "name": "Shaumiani",
+    "alternatenames": "Naghvarevi,Saulaveri,Schaumjani,Shaumiani,Shaumjani,Shaumyani,Shulaveri,Shulavery,shaumiani,Шаумяни,შაუმიანი",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612053,
+    "name": "Senak'i",
+    "alternatenames": "Achal Senaki,Akhalsenaki,Micha-Zchakaja,Mikha Tskhakaya,Novo-Senaki,Senak'i,Senaki,Senak’i,Tskhakaya,Tskhakuya,Сенаки,სენაკი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612092,
+    "name": "Sartich'ala",
+    "alternatenames": "Marienfeld,Sart'ichala,Sartashali,Sartich'ala,Sartichala,Sartich’ala,Sartitsalo,Sart’ichala,Сартичала,სართიჭალა",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612126,
+    "name": "Samtredia",
+    "alternatenames": "Samtredia,Ssamtredia,Самтредиа",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612230,
+    "name": "Sagarejo",
+    "alternatenames": "Sagaredzho,Sagarejo,sagarejo,Сагареджо,საგარეჯო",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612256,
+    "name": "Sach'khere",
+    "alternatenames": "Sach'khere,Sachkhere,Sachkheri,Sach’khere,Ssatschcheri,sachkhere,Сачхере,საჩხერე",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612287,
+    "name": "Rustavi",
+    "alternatenames": "Roustavi,Rust'avi,Rustavi,Rustavis,Rustawi,Rusthavi,Rust’avi,rustavi,rwstwwy,Рустави,רוסתווי,რუსთავი",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612338,
+    "name": "Q'vareli",
+    "alternatenames": "Kvareli,Kvarely,Q'vareli,Qvareli,Q’vareli,Кварели,ყვარელი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612366,
+    "name": "P'ot'i",
+    "alternatenames": "P'ot'i,Poti,P’ot’i,poti,Поти,ფოთი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612502,
+    "name": "Pasanauri",
+    "alternatenames": "P'asanauri,PASANAURI,Pasanaur,Pasanauri,Pasanuri,Passanauri,P’asanauri,pasanauri,ПАСАНАУРИ,ფასანაური",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612536,
+    "name": "Ozurgeti",
+    "alternatenames": "Azurgeci,Macharadse,Makharadze,Osurgeti,Ozoergeti,Ozourgueti,Ozourguéti,Ozournketi,Ozurget'i,Ozurgethi,Ozurgeti,Ozurgetis,Ozurgety,Ozurgueti,ao zu er gai di,azrgty,azwrgty,ojuleugeti,ozurgeti,ozurugeti,Οζουργκέτι,Азургеці,Озургети,Озургеті,Օզուրգեթ,אוזורגתי,ازرگتی,ازورگتی,ოზურგეთი,オズルゲティ,奧祖爾蓋蒂,오주르게티",
+    "subcountry": "Guria"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612558,
+    "name": "Orsant'ia",
+    "alternatenames": "Orsant'ia,Orsantia,Orsant’ia,Орсантиа,ორსანტია",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612592,
+    "name": "Oni",
+    "alternatenames": "On,Oni,ao ni,awny,awny  grjstan,awny  jarjya,oni,Он,Они,Оні,Օնի,אוני,اونی,اونی، جارجیا,اونی، گرجستان,ონი,奥尼",
+    "subcountry": "Racha-Lechkhumi and Kvemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612648,
+    "name": "Ochkhamuri",
+    "alternatenames": "Och'khamuri,Ochkamuri,Ochkhamuri,ochkhamuri,Очхамури,ოჩხამური",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612652,
+    "name": "Och'amch'ire",
+    "alternatenames": "Och'amch'ire,Ochamchira,Ochamchire,Ochemchiri,Ochemchiry,Ochemechiri,Och’amch’ire,Otschemtschiri,Очамчира,Очамчире,Очамчіре",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612660,
+    "name": "Akhali Atoni",
+    "alternatenames": "Akhali Atoni,Akhali-Afoni,New Athen,Novyy Afon,Nowyi Afton,Psereti,Psirtkha,Psirtskha,Pssyrzcha,Psyrtskha,akhali atoni,ახალი ათონი",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612691,
+    "name": "Ninotsminda",
+    "alternatenames": "Bogdanovka,Ninocminda,Ninotsminda,Ниноцминда,ეიეოწმინდა",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612890,
+    "name": "Mtskheta",
+    "alternatenames": "Ckheta,Mccheta,Mcheta,Mckheta,Mcĥeta,Miskheta,Msxeta,Mtheta,Mtscheta,Mtsheta,Mtshetha,Mtsketa,Mtskhera,Mtskheta,Mtskhetha,Mtzkhet,Mzcheta,Mțheta,meucheuheta,mhmyt almdynt wmthf mtskhyta,mtskheta,mtskhta,mu ci he ta,mutsuheta,mzhth,Μτσκέτα,Мцхета,Цхета,Մցխեթ,מצחתה,متسختا,محمية المدينة ومتحف متسخيتا,მცხეთა,ムツヘタ,姆茨赫塔,므츠헤타",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 612987,
+    "name": "Mest'ia",
+    "alternatenames": "Mest'ia,Mestia,Mestiya,Mestno,Mest’ia,Seti,Местиа,მესტია",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613060,
+    "name": "Mat'ani",
+    "alternatenames": "Mat'ani,Matani,Matani-Marelisi,Mat’ani,Матани,მატანი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613065,
+    "name": "Mart'vili",
+    "alternatenames": "Gegechkari,Gegechkori,Mart'vili,Martvili,Mart’vili,Мартвили,მარტვილი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613071,
+    "name": "Mart'q'opi",
+    "alternatenames": "Marktobi,Mart'q'opi,Martkopi,Martqop'i,Martqop’i,Mart’q’opi,Марткопи,მარტყოფი",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613074,
+    "name": "Marneuli",
+    "alternatenames": "Borchalo,Marneuli,Sarvan,Sarwan,marneuli,Марнеули,მარნეული",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613093,
+    "name": "Manglisi",
+    "alternatenames": "Manglis,Manglisi,manglisi,Манглиси,მანგლისი",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613125,
+    "name": "Makhinjauri",
+    "alternatenames": "Makhindzhauri,Makhinjauri,makhinjauri,Махинджаури,მახინჯაური",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613226,
+    "name": "Lent'ekhi",
+    "alternatenames": "Leksura,Lent'ekhi,Lentekhi,Lent’ekhi,lentʼekhi,Лентехи,ლენტეხი",
+    "subcountry": "Racha-Lechkhumi and Kvemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613311,
+    "name": "Lanchkhuti",
+    "alternatenames": "Lanchkhuti,lanchkhuti,Ланчхути,ლანჩხუთი",
+    "subcountry": "Guria"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613342,
+    "name": "Lagodekhi",
+    "alternatenames": "Lagodechis,Lagodekhi,lagodekhi,lgwdhy,Лагодехи,לגודחי,ლაგოდეხი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613559,
+    "name": "Kveda Chkhorots'q'u",
+    "alternatenames": "Kveda Chkhorots'q'u,Kveda Chkhorotsku,Kveda Chkhorots’q’u,ქვედა ჩხოროწყუ",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613607,
+    "name": "Kutaisi",
+    "alternatenames": "KUT,Khuthaisi,Koetaisi,Koutaissi,Koutaïssi,Kutais,Kutaisi,Kutaisk,Kutaiso,Kutaissi,Kutayis,Kutayıs,Kutaïsi,kutaishi,kutaisi,Кутаиси,Кутаїсі,כותאיסי,קוטאיסי,ქუთაისი,クタイシ,쿠타이시",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613623,
+    "name": "K'urdghelauri",
+    "alternatenames": "K'urdghelauri,Kurdgelauri,Kurdghelauri,K’urdghelauri,Курдгелаури,კურდღელაური",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613641,
+    "name": "K'ulashi",
+    "alternatenames": "K'ulashi,Kulashi,K’ulashi,kʼulashi,Кулаши,კულაში",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613742,
+    "name": "Kojori",
+    "alternatenames": "Kodzhor,Kodzhori,Kodzhory,Kojori,Коджори",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613762,
+    "name": "Kobuleti",
+    "alternatenames": "K'obulet'i,Khobulethi,Koboeleti,Kobulet,Kobuleti,Kobuletis,Kobulyety,K’obulet’i,kbwlty,ke bu lie ji,kobuleti,kobulleti,koburechi,kwbwlty,Кобулет,Кобулети,Кобулеті,Қобулеҭ,Քոբուլեթ,כובולתי,کبولتی,کوبولتی,ქობულეთი,コブレチ,科布列季,코불레티",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613870,
+    "name": "Khulo",
+    "alternatenames": "Chulo,Daba,Khulo,khulo,Хуло,ხულო",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613902,
+    "name": "Khoni",
+    "alternatenames": "Choni,Khoni,Koni,Tsulukidze,Zulukidse,khoni,Хони,ხონი",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613918,
+    "name": "Khobi",
+    "alternatenames": "Khobi,Khopi,khobi,Хоби,ხობი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613971,
+    "name": "Khelvachauri",
+    "alternatenames": "Khelvach'auri,Khelvachauri,khelvachauri,Хелвачаури,ხელვაჩაური",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 613988,
+    "name": "Khashuri",
+    "alternatenames": "Chaschuri,Chasjoeri,Chasjuri,Chasuri,Chasuris,Chaszuri,Chašuri,Chašuris,Hasuri,Haxuri,Hašuri,Hașuri,Jashuri,Khachouri,Khachuri,Khashur,Khashuri,Khasuri,Khašuri,Mikhailovo,Mikhaylovo,Stalinissi,Xasuri,ha shu li,khashuri,khashwry,Хашур,Хашури,Хашурі,Խաշուրի,חאשורי,خاشوری,ხაშური,哈舒里",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614080,
+    "name": "Keda",
+    "alternatenames": "K'eda,Keda,keda,Кеда,ქედა",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614087,
+    "name": "St'epants'minda",
+    "alternatenames": "Kasbek,Kazbeg,Kazbegi,Kazbek,Qazbegi,St'epants'minda,Step'antsminda,Stepancminda,Stepantsminda,Step’antsminda,St’epants’minda,qʼazbegi,Казбеги,Степанцминда,სტეფანწმინდა,ყაზბეგი",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614096,
+    "name": "K'atskhi",
+    "alternatenames": "K'atskhi,Kats'khi,Kats’khi,K’atskhi,კაცხი",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614104,
+    "name": "K'asp'i",
+    "alternatenames": "K'asp'i,Kasni,Kasp,Kaspi,Kaspis,Kuaspi,K’asp’i,ka si pi,kaspy,Касп,Каспи,Къаспи,Կասպի,کاسپی,კასპი,卡斯皮",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614133,
+    "name": "K'ardenakhi",
+    "alternatenames": "K'ardenakhi,Kardanakhi,Kardenakhy,K’ardenakhi,Карданахи,კარდენახი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614217,
+    "name": "Java",
+    "alternatenames": "Chvrivi,Dzhava,Java,java,Джава,ჯავა",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614351,
+    "name": "Gurjaani",
+    "alternatenames": "Gurdjaani,Gurdzhaani,Gurdzhani,Gurjaani,gurjaani,Гурджаани,გურჯაანი",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614379,
+    "name": "Gulrip'shi",
+    "alternatenames": "Gul'ripsh,Gulrifsh,Gulrip'shi,Gulrip’shi,Gul’ripsh,Kvemo-Gul'ripsh,Kvemo-Gul'ripshi,Kvemo-Gul’ripsh,Kvemo-Gul’ripshi,Nizhniy Gul'ripsh,Nizhniy Gul’ripsh,Nizhniye Gul'ripsh,Nizhniye Gul’ripsh,Гульрипш",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614409,
+    "name": "Gudauta",
+    "alternatenames": "Goedaoeta,Goudaouta,Gudaut'a,Gudauta,Gudautae,Gudauti,Gudauto,Gudauty,Qudauta,gu da wu ta,gudauta,gwdawta,Гудаутæ,Гудаута,Гудауто,Гәдоуҭа,Ґудаута,Գուդաութա,גודאותה,گوداوتا,გუდაუთა,グダウタ,古達烏塔",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614410,
+    "name": "Gudauri",
+    "alternatenames": "Goudaour,Gudaur,Gudauri,Gudouri,gudauri,Гудаури,გუდაური",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614455,
+    "name": "Gori",
+    "alternatenames": "Gori,Goris,ge li,goli,gori,gwry,Гори,גורי,گوری,გორი,ゴリ,哥里,고리",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614575,
+    "name": "Gardabani",
+    "alternatenames": "Gardaban,Gardabani,Karaya,Karayazi,Karayazy,Qaratəpə,Qardabani,gardabani,gardabany,grdabany,jia er da ba ni,Гардабани,Ґардабані,Գարդաբան,گاردابانی,گردابانی,გარდაბანი,加爾達巴尼",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614580,
+    "name": "Gantiadi",
+    "alternatenames": "Candrypsh,Gant'iadi,Gantiadi,Gantiandi,Pilenkova,Pilenkovo,Pilyenkovo,Seleniye Pilenkovo,Tsandryphsh,gantiadi,Гантианди,Цандрыпш,განთიადი",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614613,
+    "name": "Gali",
+    "alternatenames": "Gal,Gali,Galis,Qali,gali,galli,galy,gari,jia li,Гал,Гали,Գալի,גאלי,گالی,გალი,ガリ,加利,갈리",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614622,
+    "name": "Gagra",
+    "alternatenames": "Gagra,Gagrae,Gagre,Gagri,Gagry,Nkankra,Qaqra,gageula,gagra,gagura,ggrh,ghaghra,jia ge la,kak ra,Γκάγκρα,Гагрæ,Гагра,Гагре,Գագրա,גגרה,غاغرا,گاگرا,গাগ্‌রা,กากรา,გაგრა,ガグラ,加格拉,가그라",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614740,
+    "name": "Jvari",
+    "alternatenames": "Dzhvara,Dzhvari,Dzhvary,Dzhvarzeni,Jvari,jvari,Джвари,ჯვარი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614823,
+    "name": "Dzegvi",
+    "alternatenames": "Dzegvi,Dzgevi,dzegvi,Дзегви,ძეგვი",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614843,
+    "name": "Dusheti",
+    "alternatenames": "Duscheti,Dushet,Dushet'i,Dusheti,Dushet’i,dusheti,Душети,დუშეთი",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614863,
+    "name": "Dranda",
+    "alternatenames": "Dranda,Drandi,Drandy,Дранда",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614890,
+    "name": "Jvara",
+    "alternatenames": "Dmanisi,Dumanisi,Jvara,dumanisi,jvara,Дманиси,დუმანისი,ჯვარა",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614891,
+    "name": "Dmanisi",
+    "alternatenames": "Bashkichet,Bashkicheti,Bashkichety,Dmanisi,dmanisi,Дманиси,დმანისი",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614897,
+    "name": "Diok'nisi",
+    "alternatenames": "Diok'nisi,Dioknisi,Diok’nisi,დიოკნისი",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 614934,
+    "name": "Didi Lilo",
+    "alternatenames": "Didi Lilo,Didi-Lilo,Lilo,didi lilo,Диди-Лило,დიდი ლილო",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615005,
+    "name": "Dedoplists'q'aro",
+    "alternatenames": "Dedop'listsqaro,Dedophlistkaro,Dedoplis-Ckaro,Dedoplists'q'aro,Dedoplistskaro,Dedoplists’q’aro,Dedop’listsqaro,Kras-kolodtsy,Krasnyyekolodtsy,Tsarskie Kolodtsi,Tsarskie-Kolodtsy,Tseteli-Tskhara,Tsiteli-Tskaro,dedoplistsʼqʼaro,Дедоплис-Цкаро,დედოფლისწყარო",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615118,
+    "name": "Chokhat'auri",
+    "alternatenames": "Ch'okhatauri,Chakhatauri,Chokhat'auri,Chokhatauri,Chokhat’auri,Чохатаури,ჩოხატაური",
+    "subcountry": "Guria"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615140,
+    "name": "Chkhorots'q'u",
+    "alternatenames": "Ch'khorotsqu,Chkhoro-Tskhu,Chkhorocku,Chkhorots'q'u,Chkhorotsku,Chkhorotsq'u,Chkhorotsq’u,Chkhorots’q’u,Чхороцку,ჩხოროწყუ",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615190,
+    "name": "Ch'lou",
+    "alternatenames": "Ch'lou,Chilou,Chilov,Chlou,Ch’lou,Tchlou,chʼlou,Члоу,ჭლოუ",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615211,
+    "name": "Chiat'ura",
+    "alternatenames": "Chiat'ura,Chiatura,Chitura,Ciat'ura,Tschiatura,chʼiatura,Čiat’ura,Чиатура,ჭიათურა",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615297,
+    "name": "Chakvi",
+    "alternatenames": "Ch'ak'vi,Chakva,Chakvi,chakvi,Чаква,ჩაქვი",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615403,
+    "name": "Borjomi",
+    "alternatenames": "Borcomi,Bordjomi,Bordschomi,Bordshomi,Bordzjomi,Bordzomi,Bordżomi,Bordžomi,Borjam,Borjomi,Borjomi - borjomi,Borjomi - ბორჯომი,Borshom,Borzhom,Borzhomi,Borzom,Borzomis,Boržomis,bo er ruo mi,boleujomi,borjomi,borujomi,brjwmy,bwrgwmy,bwrjwmy,Боржом,Боржоми,Боржомі,Բորժոմ,בורגומי,برجومی,بورجومی,ბორჯომი,ボルジョミ,博爾若米,보르조미",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615419,
+    "name": "Bolnisi",
+    "alternatenames": "Bolnis,Bolnisi,Bolnisis,Bolnissi,Katharinenfeld,Luxemburg,Luxemburgi,Lyuksemburg,Lyuksemburg-Gruzinskiy,Lyuksemburgi,Lyuksemburi,Yekaterinofel'd,Yekaterinofel’d,bo er ni xi,bolnisi,bwlnyshy,bwlnysy,Болниси,Болнісі,Բոլնիս,בולניסי,بولنیسی,بولنیشی,ბოლნისი,博爾尼西",
+    "subcountry": "Kvemo Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615460,
+    "name": "Bich'vinta",
+    "alternatenames": "Bich'vinta,Bichvinta,Bich’vinta,Bitchvinta,Picunda,Pitsoenda,Pitsunda,Pitsundo,Pitsundskiy,Pitsvints,Pitunda,Pițunda,byzwwynth,Пицунда,ביצווינתה,ბიჭვინთა",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615532,
+    "name": "Batumi",
+    "alternatenames": "BUS,Bat'umi,Bathumi,Batoemi,Batomis,Batoum,Batoumi,Batum,Batumi,Batumis,Batumo,Batûm,ba tong,batoumi,batumi,batwmy,btwmy,Μπατούμι,Батуми,Батумі,Баҭым,Բաթում,בטומי,בתומי,باتومی,باطومي,बातुमी,ბათუმი,バトゥミ,巴统,바투미",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615583,
+    "name": "Bak'uriani",
+    "alternatenames": "Bak'uriani,Bakuiani,Bakuriani,Bak’uriani,bakʼuriani,Бакуриани,ბაკურიანი",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615611,
+    "name": "Bagdadi",
+    "alternatenames": "",
+    "subcountry": ""
+  },
+  {
+    "country": "GE",
+    "geonameid": 615660,
+    "name": "Asp'indza",
+    "alternatenames": "Asp'indza,Aspindza,Asp’indza,Аспиндза,ასპინძა",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615761,
+    "name": "Anaklia",
+    "alternatenames": "Anak'lia,Anaklia,Anaklija,Anakliya,Anakriya,Anak’lia,Fort Anakria,Анаклиа,ანაკლია",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615776,
+    "name": "Ambrolauri",
+    "alternatenames": "Ambralauri,Ambralaury,Ambrolaoeri,Ambrolaur,Ambrolauri,Ambrolauris,ambeulollauli,ambrolauri,ambrwlaywry,an bu luo lao li,Амбралауры,Амбролаур,Амбролаури,Амбролаурі,Ամբրոլաուր,אמברולאורי,آمبرولائوری,ამბროლაური,安布羅勞里,암브롤라우리",
+    "subcountry": "Racha-Lechkhumi and Kvemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615844,
+    "name": "Akhmet'a",
+    "alternatenames": "Akhmet'a,Akhmeta,Akhmeti,Akhmety,Akhmet’a,akhmetʼa,Ахмета,ახმეტა",
+    "subcountry": "Kakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615860,
+    "name": "Akhaltsikhe",
+    "alternatenames": "Achalciche,Achalcichė,Achaltsiche,Achalziche,Achalzych,Ahalcihe,Ahalciho,Ahaltihe,Ahalțihe,Ahhaltsihhe,Ahiska,Ahıska,Ajaltsije,Akhalcikhe,Akhalcykheh,Akhalts'ikhe,Akhaltsikh,Akhaltsikhe,Akhaltsikhé,Akhaltsykha,Akhaltsykhe,Aĥalciĥo,a ha er qi he,ahalchihe,aharutsuihe,akhalt sykh,akhaltsikhe,akhaltsykhh,Ахалцихе,Ахалцыхэ,Ахалціхе,Ախալցխա,אחלציחה,آخالت سیکه,آخالتسيخه,آخالتسیخه,آخالتسیخے,ახალციხე,アハルツィヘ,阿哈爾齊赫,아할치헤",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615893,
+    "name": "Akhalk'alak'i",
+    "alternatenames": "Achalkalaki,Akhalk'alak'i,Akhalkalak,Akhalkalaki,Arkhalkalaki,Ахалкалаки",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615912,
+    "name": "Stantsiya Novyy Afon",
+    "alternatenames": "Novyj Afon,Novyy Afon,Psirtskha,Psyrtskha,Stantsiya Akhali-Afoni,Новый Афон",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615914,
+    "name": "Akhalgori",
+    "alternatenames": "Akhalgori,Leningori,akhalgori,Ленингори,ახალგორი",
+    "subcountry": "Mtskheta-Mtianeti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615919,
+    "name": "Akhaldaba",
+    "alternatenames": "Akhaldaba,akhaldaba,Ахалдаба,ახალდაბა",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615921,
+    "name": "Akhaldaba",
+    "alternatenames": "Akhaldaba,akhaldaba,Ахалдаба,ახალდაბა",
+    "subcountry": "Achara"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615937,
+    "name": "Aghaiani",
+    "alternatenames": "Agaiani,Agayani,Aghaiani,Agiani,aghaiani,Агаиани,აღაიანი",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615943,
+    "name": "Agara",
+    "alternatenames": "Agara,agara,Агара,აგარა",
+    "subcountry": "Shida Kartli"
+  },
+  {
+    "country": "GE",
+    "geonameid": 615973,
+    "name": "Adigeni",
+    "alternatenames": "Adigeni,adigeni,Адигени,ადიგენი",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 616022,
+    "name": "Abasha",
+    "alternatenames": "Abacha,Abascha,Abasha,abasha,Абаша,აბაშა",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 798780,
+    "name": "Ingiri",
+    "alternatenames": "Ingiri,Inguri,ingiri,ინგირი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 799955,
+    "name": "P'rimorsk'oe",
+    "alternatenames": "Barnitsats,P'rimorsk'oe,Primorskoye,P’rimorsk’oe,პრიმორსკოე",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 824288,
+    "name": "Ts'q'alt'ubo",
+    "alternatenames": "Ckhaltubo,Ts'q'alt'ubo,Tskaltubo,Tskhaltubo,Tsqaltubo,Ts’q’alt’ubo,Цхалтубо,წყალტუბო",
+    "subcountry": "Imereti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 824385,
+    "name": "Naruja",
+    "alternatenames": "Naruja,Sovkhoz Narudzhskiy,naruja,ნარუჯა",
+    "subcountry": "Guria"
+  },
+  {
+    "country": "GE",
+    "geonameid": 824613,
+    "name": "Bak'urianis Andezit'i",
+    "alternatenames": "Bak'urianis Andezit'i,Bakurianis Andeziti,Bakurianskij Andezit,Bak’urianis Andezit’i,bakʼurianis andezitʼi,Бакурианский Андезит,ბაკურიანის ანდეზიტი",
+    "subcountry": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 865372,
+    "name": "Kelasuri",
+    "alternatenames": "Kelasuri,Келасури",
+    "subcountry": "Abkhazia"
+  },
+  {
+    "country": "GE",
+    "geonameid": 874068,
+    "name": "Narazeni",
+    "alternatenames": "narazeni,ნარაზენი",
+    "subcountry": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "GE",
+    "geonameid": 7667751,
+    "name": "Kharagauli",
+    "alternatenames": "",
+    "subcountry": "Imereti"
+  }
+]

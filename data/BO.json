@@ -1,0 +1,940 @@
+[
+  {
+    "country": "BO",
+    "geonameid": 3444091,
+    "name": "San Pedro",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3444105,
+    "name": "San Matias",
+    "alternatenames": "MQK,San Matias,San Matías",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3444176,
+    "name": "Robore",
+    "alternatenames": "El Rabore,Fortin Robore,Fortín Roboré,RBO,Robore,Roboré",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3444201,
+    "name": "Puerto Quijarro",
+    "alternatenames": "Puerto Quijarro",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3661530,
+    "name": "Nueva Manoa",
+    "alternatenames": "Nueva Manoa,Nuevo Manoa",
+    "subcountry": "Pando"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901147,
+    "name": "Yamparaez",
+    "alternatenames": "Yamparaes,Yamparaez,Yamparáez,yamprayz,یامپرایز",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901178,
+    "name": "Yacuiba",
+    "alternatenames": "BYC,Jakuiba,Yacuiba,Yacuíba,Якуиба",
+    "subcountry": "Tarija"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901301,
+    "name": "Warnes",
+    "alternatenames": "Warnes,varnesi,wa er nei si,ვარნესი,瓦爾內斯",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901435,
+    "name": "Vinto",
+    "alternatenames": "Vinto,Wintu,bin tuo,賓托",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901485,
+    "name": "Viloco",
+    "alternatenames": "Viloco",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901501,
+    "name": "Villazon",
+    "alternatenames": "Vil'jason,Viljasonas,Willasun,bi ya song,biryason,biyason,viliasoni,Вильясон,ვილიასონი,ビリャソン,比亞松,비야손",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901504,
+    "name": "Villa Yapacani",
+    "alternatenames": "Villa Yapacani,Villa Yapacaní",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901519,
+    "name": "Villa Serrano",
+    "alternatenames": "El Pescado,Pescado,Villa Serrano",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901547,
+    "name": "Villamontes",
+    "alternatenames": "VLM,Vil'ja-Montes,Villa Montes,Villamontes,bi ya meng te si,Вилья-Монтес,Вілья-Монтес,ვილიამონტესი,比亞蒙特斯",
+    "subcountry": "Tarija"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901582,
+    "name": "Villa Charcas",
+    "alternatenames": "",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901742,
+    "name": "Viacha",
+    "alternatenames": "Viaca,Viacha,Viača,Vijacha,Wiyacha,bi ya cha,biacha,viacha,Вијача,ვიაჩა,ビアチャ,比亞查,비아차",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901874,
+    "name": "Vallegrande",
+    "alternatenames": "Ciudad de Vallegrande,VAH,Vajegrande,Valjegrande,Valjegrandė,Vallegrande,ba ye ge lan de,valiegrande,Вайегранде,ვალიეგრანდე,巴耶格蘭德",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901903,
+    "name": "Uyuni",
+    "alternatenames": "UYU,Ujuni,Ujunis,Ujūnis,Uyuni,wu you ni,Уюни,Уюні,烏尤尼",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3901969,
+    "name": "Urubicha",
+    "alternatenames": "Uribicha,Urubicha,Urubichi,Urubichá,Uruvicho",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3902202,
+    "name": "Tupiza",
+    "alternatenames": "Tupisa,Tupiza,Turpiza,tu pi sa,ტუპისა,圖皮薩",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3902377,
+    "name": "Trinidad",
+    "alternatenames": "Ciudad Trinidad,Kimsantin llaqta,La Santisima Trinidad,TDD,Trinidad,Trinidadas,te li ni da,teulinidadeu,torinida,trynydd,Тринидад,Тринідад,טרינידד,ٹرینیڈاڈ، بولیویا,ტრინიდადი,トリニダ,特立尼达,트리니다드",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3902504,
+    "name": "Totoral",
+    "alternatenames": "Totora,Totoral",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3902523,
+    "name": "Totora",
+    "alternatenames": "Tutura,tuo tuo la,托托拉",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3902685,
+    "name": "Eucaliptus",
+    "alternatenames": "Eucaliptus",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3902949,
+    "name": "Tiquipaya",
+    "alternatenames": "Taquipaya,Tinquipaya,Tiquipaya",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3903046,
+    "name": "Tiahuanaco",
+    "alternatenames": "Civilizacao Tiahuanaco,Civilização Tiahuanaco,Tiahuanaco,Tiavanaku,Tiuanako,Tiwanaku,tiwanaku,Тиуанако,טיאהואנקו,ティワナク",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3903320,
+    "name": "Tarija",
+    "alternatenames": "Ciudad Tarija,TJA,Taricha,Tarija,Tarikha,Tarixa,ta li ha,taliha,tariha,tarykha,Тариха,Таріха,تاریخا,ტარიხა,タリハ,塔里哈,타리하",
+    "subcountry": "Tarija"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3903342,
+    "name": "Tarata",
+    "alternatenames": "Tarata",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3903391,
+    "name": "Tarabuco",
+    "alternatenames": "Tarabuco,Tarapuku,ta la bu ke,talabuko,tarabuko,タラブコ,塔拉布科,타라부코",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3903987,
+    "name": "Sucre",
+    "alternatenames": "Chuqichaka,Ciudad Sucre,Ijoloti Sukre,SRE,Sik,Soukre,Sucre,Sucre toertenelmi ovarosa,Sucre történelmi óvárosa,Sukre,Sukreh,Sukri,Sukro,Sukrė,Súkre,su ke lei,su ker,sukare,sukeule,sukre,sukure,swkrh,swkry,swqrh,Σούκρε,Иёлоти Сукре,Сукре,Сукрэ,Սուկրե,סוקרה,سوكري,سوکره,سکرے,سۇكرې,सुक्रे,ਸੂਕਰੇ,ซูเกร,སུ་ཁུ་རེ།,სუკრე,スクレ,苏克雷,蘇克雷,수크레",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904043,
+    "name": "Sorata",
+    "alternatenames": "Sorata,Surata,suo la ta,索拉塔",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904221,
+    "name": "Sipe Sipe",
+    "alternatenames": "Sipe Sipe",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904666,
+    "name": "Santiago del Torno",
+    "alternatenames": "El Torno,Santiago del Torno,Torno",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904729,
+    "name": "Santa Rosa del Sara",
+    "alternatenames": "Santa Rosa,Santa Rosa del Sara",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904793,
+    "name": "Santa Rosa",
+    "alternatenames": "SRB,Santa Rosa",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904809,
+    "name": "Santa Rita",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904906,
+    "name": "Santa Cruz de la Sierra",
+    "alternatenames": "Ciudad Santa Cruz,Ciudad de Santa Cruz de la Sierra,SRZ,Santa Cruz,Santa Cruz da Serra,Santa Cruz de la Sierra,Santa-Krus-de-la-Sierra,Santa-Kruzo,santakurusu,Санта-Крус-де-ла-Сиерра,سانتا کروز دلاسیه‌را,サンタクルス",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3904956,
+    "name": "Santa Barbara",
+    "alternatenames": "Santa Barbara,Santa Bárbara",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905007,
+    "name": "Santa Ana de Yacuma",
+    "alternatenames": "SBL,Santa Ana,Santa Ana de Yacuma",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905088,
+    "name": "San Ramon",
+    "alternatenames": "San Ramon,San Ramón",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905159,
+    "name": "San Pedro",
+    "alternatenames": "San Pedro,San Pedro de Tiquina",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905206,
+    "name": "San Pablo",
+    "alternatenames": "San Pablo,San Pablo de Tiquina,Tiguina,Tiquina",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905453,
+    "name": "San Julian",
+    "alternatenames": "San Julian",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905462,
+    "name": "San Juan del Surutu",
+    "alternatenames": "San Juan Surutu,San Juan del Surutu,San Juan del Surutú",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905658,
+    "name": "San Ignacio de Velasco",
+    "alternatenames": "SNG,San Ignacio,San Ignacio Velasco,San Ignacio de Loyola,San Ignacio de Velasco,San Ignasio de Velaskas,San Inasyu,sheng yi ge na xi ao,სან-იგნასიო-დე-ველასკო,聖伊格納西奧",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905775,
+    "name": "San Carlos",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3905951,
+    "name": "Samaipata",
+    "alternatenames": "Samaipata,Samaypata,sa mai pa ta,薩邁帕塔",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3906194,
+    "name": "Sacaba",
+    "alternatenames": "Sacaba,Sakaba,Sakawa,sa ka wa,Сакаба,ساکبہ,საკაბა,薩卡瓦",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3906209,
+    "name": "Rurrenabaque",
+    "alternatenames": "RBQ,Rurenabake,Rurenabakė,Rurre,lu lei na wa ke,רורנבאקה,魯雷納瓦克",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3906466,
+    "name": "Riberalta",
+    "alternatenames": "RIB,Riberal'ta,Riberalta,li wei la er ta,libelalta,riberaruta,Рибералта,Риберальта,რიბერალტა,リベラルタ,里韋拉爾塔,리베랄타",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3906478,
+    "name": "Reyes",
+    "alternatenames": "REY,Reyes",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3906765,
+    "name": "Quime",
+    "alternatenames": "Quime",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3906791,
+    "name": "Quillacollo",
+    "alternatenames": "Ciudad Quillacollo,Ciudad de quillacollo,Kiljakoljas,Killaqullu,Kviljakoljo,Quillacollo,ji ya ke yue,Квилјаколјо,კილიაკოლიო,基亞科約",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3907080,
+    "name": "Punata",
+    "alternatenames": "Ciudad Punata,Punata",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3907159,
+    "name": "Puesto de Pailas",
+    "alternatenames": "Paila,Puerto Paila,Puerto Pailas,Puesto de Pailas",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3907584,
+    "name": "Potosi",
+    "alternatenames": "Ciudad Potosi,POI,Potosi,Potosí,Putusi,bo tuo xi,bwtwsy,po to si,potoshi,potosi,pwtwsy,Ποτοσί,Потоси,Потосі,Պոտոսի,פוטוסי,بوتوسي,پوتوسی,पोतोसी,โปโตซี,პოტოსი,ポトシ,波托西,포토시",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3907646,
+    "name": "Portachuelo",
+    "alternatenames": "Portachuelo",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3907685,
+    "name": "Poopo",
+    "alternatenames": "",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3908263,
+    "name": "Paurito",
+    "alternatenames": "Paurito",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3908339,
+    "name": "Patacamaya",
+    "alternatenames": "Patacamaya,Patacmaya,Patakamaya,pa ta ka ma ya,帕塔卡馬亞",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3909010,
+    "name": "Pailon",
+    "alternatenames": "El Pailon,El Pailón,Pailon,Pailón,Puerto Ibanez,Puerto Ibañez,pai long,派隆",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3909038,
+    "name": "Padilla",
+    "alternatenames": "Padilla,pa di ya,帕迪亞",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3909234,
+    "name": "Oruro",
+    "alternatenames": "Ciudad Oruro,Gruro,ORU,Oruras,Oruro,Uru Uru,Ururu,ao lu luo,awrwrw,awrwrw  bwlywya,olulo,oruro,Оруро,Օրուրո,أورورو,اورورو، بولیویا,ორურო,オルロ,奥鲁罗,오루로",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3909360,
+    "name": "Okinawa Numero Uno",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910027,
+    "name": "Montero",
+    "alternatenames": "Monteras,Montero,Vibora,Víbora,meng te luo,montelo,montero,Монтеро,მონტერო,モンテロ,蒙特羅,몬테로",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910094,
+    "name": "Monteagudo",
+    "alternatenames": "MHW,Monteagudo,Sauces,Villa Monteagudo,Монтеагудо",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910291,
+    "name": "Mizque",
+    "alternatenames": "Ciudad Mizque,Ciudad de Mizqu,Ciudad de Mizque",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910343,
+    "name": "Mineros",
+    "alternatenames": "Mineros",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910539,
+    "name": "Mecapaca",
+    "alternatenames": "Mecapaca",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910758,
+    "name": "Mapiri",
+    "alternatenames": "Mapiri",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910901,
+    "name": "Mairana",
+    "alternatenames": "Mairana",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3910971,
+    "name": "Machacamarca",
+    "alternatenames": "Machacamarca,Machakamarka,Machaqa Marka",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3911120,
+    "name": "Los Negros",
+    "alternatenames": "Estancia Los Negros,Los Negros",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3911409,
+    "name": "Llallagua",
+    "alternatenames": "Llallagua,Llallawa,la la gua,拉拉瓜",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3911512,
+    "name": "Limoncito",
+    "alternatenames": "Limoncito",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3911925,
+    "name": "La Paz",
+    "alternatenames": "A Paz,Chukiyawu,Chuqi Yapu,Chuqiyapu,Ciudad La Paz,LPB,La Pas,La Pasas,La Paz,La-Pas,La-Pas shaary,La-Pazo,Lapasa,Nuestra Senora de La Paz,Nuestra Señora de La Paz,Pax,Soukre/La Paz,la ba si,la paja,la pajha,la pas,la pasa,la paz,labaz,lapaja,lapas,lapaseu,lapaz,rapasu,Λα Πας,Σούκρε/Λα Παζ,Ла Паз,Ла Пас,Ла-Пас,Ла-Пас шаары,Լա Պաս,לא פאז,לה פאס,لا پاز,لاباز,لاپاز,ला पाझ,ला पास,লা পাজ,ਲਾ ਪਾਸ,ଲାପାଜ,லா பாஸ்,ലാ പാസ്,ลาปาซ,ლა-პასი,ላፓዝ,ラパス,拉巴斯,라파스",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3912103,
+    "name": "Laja",
+    "alternatenames": "Laia,Laja",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3912119,
+    "name": "Lahuachaca",
+    "alternatenames": "Lahuachaca",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3912418,
+    "name": "La Belgica",
+    "alternatenames": "La Belgica,La Bélgica",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3913271,
+    "name": "Jorochito",
+    "alternatenames": "Jorochiba,Jorochita,Jorochito",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3913985,
+    "name": "Yumani",
+    "alternatenames": "Estancia Yumani,Isla del Sol",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3914084,
+    "name": "Irpa Irpa",
+    "alternatenames": "Irpa Irpa",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3914197,
+    "name": "Independencia",
+    "alternatenames": "Ayopaya,Independencia",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3914715,
+    "name": "Huatajata",
+    "alternatenames": "Huatajata",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3914763,
+    "name": "Huarina",
+    "alternatenames": "Huarina",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3914839,
+    "name": "Huanuni",
+    "alternatenames": "Huanuni,Villa Huanuni",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3915061,
+    "name": "Huachacalla",
+    "alternatenames": "Cosillahui,Guachacalla,Huachacalla,Uachakal'ja,Wachakalla,Wachaqalla,wa cha ka ya,Уачакалья,瓦查卡亞",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3915350,
+    "name": "Guayaramerin",
+    "alternatenames": "GYA,Guajara-Mirim,Guajaramerin,Guajaramerinas,Guayaramerin,Guayaramerín,Puerto Sucre,Wayaramirin,gua ya la mei lin,guaiaramerini,gwayalamelin,Гуаярамерин,გუაიარამერინი,瓜亞拉梅林,과야라메린",
+    "subcountry": "El Beni"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3915436,
+    "name": "Guanay",
+    "alternatenames": "Guanay,Huanay",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3917939,
+    "name": "Entre Rios",
+    "alternatenames": "Entre Rios,Entre Ríos,San Luis",
+    "subcountry": "Tarija"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3918611,
+    "name": "Curahuara de Carangas",
+    "alternatenames": "Curaguara de Carangas,Curahuara,Curahuara de Carangas",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3918937,
+    "name": "Cotoca",
+    "alternatenames": "Cotoca",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3918938,
+    "name": "Cotoca",
+    "alternatenames": "Cotoca,Qutuqa,ke tuo ka,კოტოკა,科托卡",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919085,
+    "name": "Coroico",
+    "alternatenames": "Corioco,Koroikas,Korojko,Quruyqu,Villa de Sagarnaga,Villa de Sagárnaga,ke luo yi ke,Коройко,科羅伊科",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919097,
+    "name": "Coripata",
+    "alternatenames": "Coripata",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919352,
+    "name": "Concepcion",
+    "alternatenames": "Concepcion,Concepción",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919703,
+    "name": "Comarapa",
+    "alternatenames": "Comarapa,Komarapa,Kumarapa,ke ma la pa,科馬拉帕",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919715,
+    "name": "Colquiri",
+    "alternatenames": "Colquiri",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919720,
+    "name": "Colquechaca",
+    "alternatenames": "Ciudad Colquechaca,Ciudad de Colquechaca,Colquechaca",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919813,
+    "name": "Colomi",
+    "alternatenames": "Colomi",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919884,
+    "name": "Colchani",
+    "alternatenames": "Colchani",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919886,
+    "name": "Colchani",
+    "alternatenames": "Calcheni,Colchani",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919902,
+    "name": "Colcapirhua",
+    "alternatenames": "Colcapirhua,Colcapirua",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919968,
+    "name": "Cochabamba",
+    "alternatenames": "CBB,Ciudad Cochabamba,Cochabamba,Kocabamb,Kocabamba,Kochabamba,Kočabamb,Kočabamba,Kuchawampa,Quchapampa,ke qia ban ba,ko cha bam ba,kochabamba,kochabanba,kwchabamba,kwtshabamba,qwzbmbh,Кочабамба,קוצבמבה,كوتشابامبا,کوچابامبا,โกชาบัมบา,ཀོ་ཅ་བང་ལྦ་,კოჩაბამბა,コチャバンバ,科恰班巴,코차밤바",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3919998,
+    "name": "Cobija",
+    "alternatenames": "CIJ,Cobija,Cobila,Cobya,Kobicha,Kobikha,Kuwiha,Kuwixa,Puerto Cobija,ke wei ha,kobiha,kwbykha,Кобиха,Кобіха,کوبیخا,კობიხა,コビハ,科維哈,코비하",
+    "subcountry": "Pando"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3920016,
+    "name": "Cliza",
+    "alternatenames": "Cliza",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3920244,
+    "name": "Chulumani",
+    "alternatenames": "",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3920736,
+    "name": "Chimore",
+    "alternatenames": "CCA,Chimore,Chimoré",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3921141,
+    "name": "Charagua",
+    "alternatenames": "Charagua",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3921355,
+    "name": "Challapata",
+    "alternatenames": "Challapata",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3922037,
+    "name": "Caranavi",
+    "alternatenames": "Caranavi,Karanavis,Qaranawi,Qarañawi,ka la na wei,卡拉納維",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3922125,
+    "name": "Capinota",
+    "alternatenames": "Capinota",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3922414,
+    "name": "Camiri",
+    "alternatenames": "CAM,Camiri,Kamiri,Refineria Camiri,ka mi li,Камири,კამირი,卡米里",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3922451,
+    "name": "Camargo",
+    "alternatenames": "Camargo,Cinti,ka ma ge,卡馬戈",
+    "subcountry": "Chuquisaca"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3922965,
+    "name": "Buena Vista",
+    "alternatenames": "Bella Vista,Buena Vista",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923015,
+    "name": "Boyuibe",
+    "alternatenames": "Boyuibe",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923145,
+    "name": "Betanzos",
+    "alternatenames": "",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923154,
+    "name": "Bermejo",
+    "alternatenames": "BJO,Bermejo,Panti llaqta,bei er mei huo,bermekho,ბერმეხო,貝爾梅霍",
+    "subcountry": "Tarija"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923284,
+    "name": "Batallas",
+    "alternatenames": "Batallas",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923570,
+    "name": "Atocha",
+    "alternatenames": "Atocha,Atucha,Municipio de Atocha",
+    "subcountry": "Potosí"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923644,
+    "name": "Ascension",
+    "alternatenames": "Anez,Ascencion,Ascención,Ascension,Ascensión,Asencion,Añez",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923770,
+    "name": "Arani",
+    "alternatenames": "Arani",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3923984,
+    "name": "Andamarca",
+    "alternatenames": "Andamarca",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3924105,
+    "name": "Amarete",
+    "alternatenames": "Amarete",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3924341,
+    "name": "Aiquile",
+    "alternatenames": "",
+    "subcountry": "Cochabamba"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3924569,
+    "name": "Achocalla",
+    "alternatenames": "Achocalla",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3924610,
+    "name": "Achacachi",
+    "alternatenames": "Acakacis,Achacachi,Ačakačis,Jachakachi,Villa Lealtad,a cha ka qi,akasachy,אטשאקאטשי,اکاساچی,阿查卡奇",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 3924668,
+    "name": "Abapo",
+    "alternatenames": "Abapo,Abapó,Mision Abapo,Misión Abapó,a ba bo,abapw,آباپو,阿巴波",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 8354631,
+    "name": "Cruz de Machacamarca",
+    "alternatenames": "",
+    "subcountry": "Oruro"
+  },
+  {
+    "country": "BO",
+    "geonameid": 9129422,
+    "name": "Ascencion de Guarayos",
+    "alternatenames": "ASC,Ascencion de Guarayos,Ascención de Guarayos",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 10340676,
+    "name": "Santa Fe",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 10340677,
+    "name": "San Julian",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 10340678,
+    "name": "Puearto Pailas",
+    "alternatenames": "",
+    "subcountry": "Santa Cruz"
+  },
+  {
+    "country": "BO",
+    "geonameid": 11467676,
+    "name": "San Borja",
+    "alternatenames": "SRJ,San Borja,sheng bo er ha,聖博爾哈",
+    "subcountry": "El Beni"
+  }
+]

@@ -1,0 +1,2025 @@
+[
+  {
+    "country": "KR",
+    "geonameid": 1832015,
+    "name": "Heunghae",
+    "alternatenames": "Funhai,Heung-hai,Heunghae,Hunghae,Hŭnghae,Kokai,Kōkai,Uich'ang,heunghae,Ŭich’ang,흥해",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832034,
+    "name": "Yuseong",
+    "alternatenames": "Jujo,Jujō,Yuseong,Yusong,Yusŏng,yuseong,유성",
+    "subcountry": "Daejeon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832215,
+    "name": "Yeonil",
+    "alternatenames": "Eijitsu,Enjitsu,Yeonil,Yonil,Yŏnil,yeon-il,연일",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832257,
+    "name": "Neietsu",
+    "alternatenames": "Neietsu,Yongwol,Yŏngwŏl,yeong-wol,영월",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832384,
+    "name": "Eisen",
+    "alternatenames": "Eisen,Eishu,Eishū,Yeongju,Yongju,Yŏngju,yeongju,yeongjusi,영주,영주시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832440,
+    "name": "Yonghwa",
+    "alternatenames": "Yonghwa,Yonghwa-ri,yonghwa,용화",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832501,
+    "name": "Yeonggwang",
+    "alternatenames": "Reiko,Yeonggwang,Yonggwang,Yŏnggwang,yeong-gwang,영광",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832566,
+    "name": "Yeongdong",
+    "alternatenames": "Eido,Eidō,Yeongdong,Yong-dong,Yŏng-dong,yeongdong,영동",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832578,
+    "name": "Yeongdeok",
+    "alternatenames": "Bontoku,Eitoku,Tongdok,Tŏngdŏk,Yeongdeok,Yondoku,Yongdok,Yŏngdŏk,yeongdeog,영덕",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832617,
+    "name": "Eisen",
+    "alternatenames": "Eisen,Yongch'on,Yŏngch’ŏn",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832642,
+    "name": "Yongan",
+    "alternatenames": "Ryuan,Ryūan,Yongan,yong-an,용안",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832678,
+    "name": "Iyang",
+    "alternatenames": "Iyang,Iyang-ni,Ren-do,Ren-dō,Yon-dong,Yŏn-dong,iyang,이양",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832699,
+    "name": "Yeoncheon",
+    "alternatenames": "Rensen,Yeoncheon,Yonch'on,Yŏnch’ŏn,yeoncheon,연천",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832743,
+    "name": "Yeoju",
+    "alternatenames": "Reishu,Reishū,Rishu,Rishū,Yeoju,Yeoju-si,Yoju,Yoju-si,Yŏju,Yŏju-si,li zhou shi,yeoju,yeojusi,驪州市,여주,여주시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832771,
+    "name": "Yesan",
+    "alternatenames": "Esan,Jesan,Reisan,Reizan,Yesan,Yosan,Yŏsan,yesan,yesangun,Есан,예산,예산군",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832798,
+    "name": "Yecheon",
+    "alternatenames": "Hosen,Reisen,Yech'on,Yecheon,Yech’ŏn,yecheon,예천",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832828,
+    "name": "Yangsan",
+    "alternatenames": "Jangsan,Jansan,Ryosan,Ryozan,Ryōsan,Ryōzan,Yangsan,liang shan shi,yangsan,yangsansi,Янсан,سانگ‌سان,یانگسان,梁山市,양산,양산시",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832830,
+    "name": "Yangp'yong",
+    "alternatenames": "Tohei,Yangp'yongumnae,Yangp'yŏngŭmnae,Yangpyeong,Yanp'yong,Yanp'yŏng,yangpyeong,yangpyeong-gun,양평,양평군",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832847,
+    "name": "Yangju",
+    "alternatenames": "Jandzhu,Yangju-gun,Yangju-si,yang zhou shi,yangju,yangjusi,yangjw,Янджу,یانگجو,楊州市,양주,양주시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1832909,
+    "name": "Yanggu",
+    "alternatenames": "Yanggu,yang-gu,yang-gugun,양구,양구군",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1833105,
+    "name": "Wonju",
+    "alternatenames": "Genshu,Genshū,Vondzhu,WJU,Wonju,Wonju-si,Wŏnju,wonjusi,Вонджу,원주시",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1833466,
+    "name": "Wanju",
+    "alternatenames": "wanju,wanju-gun,wanjugun,완주,완주군",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1833514,
+    "name": "Waegwan",
+    "alternatenames": "Chilgok,Oegwan,Waegwan,Waegwan-dong,Waegwan-ni,Waikan,Wakan,chungju,waegwan,왜관",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1833747,
+    "name": "Ulsan",
+    "alternatenames": "USN,Ul'san,Ulsan,Ulsan-si,Ulsano,Urusan,ulsan,ulsangwang-yeogsi,ulsansi,wei shan,wei shan guang yu shi,Ульсан,蔚山,蔚山広域市,울산,울산광역시,울산시",
+    "subcountry": "Ulsan"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1833788,
+    "name": "Uijeongbu-si",
+    "alternatenames": "Uijeongbu,Uijeongbu-si,uijeongbu,uijeongbusi,의정부,의정부시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1834203,
+    "name": "Dongnae",
+    "alternatenames": "Dongnae,Tokunei,Tongnae,Torai,Tōrai,donglae,동래",
+    "subcountry": "Busan"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1834369,
+    "name": "Dongbok",
+    "alternatenames": "Dofuku,Dongbok,Dongpok,Dōfuku,Tofuku,Toksang,Tongbok,dongbog,동복",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1834885,
+    "name": "Tangjin",
+    "alternatenames": "Tangjin,Toshin,Tosin,Tōshin,Tōsin,dangjin,dangjinsi,당진,당진시",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1834946,
+    "name": "Damyang",
+    "alternatenames": "Damyang,Tamyang,Tanyang,Tanyo,Tanyō,dam-yang,담양",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835096,
+    "name": "Taesal-li",
+    "alternatenames": "Taesal-li,Taesan,Taesan-ni,Taisan-ri,daesanli,대산리",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835235,
+    "name": "Daejeon",
+    "alternatenames": "Daejeon,Daejeon-si,Daejon,Daiden,Daigono,Daiĝono,QTW,Taejon,Taejŏn,Taiden,Tehdzhon,Tetyan,Thai-tyen,Thāi-tyen,Tētyan,da tian guang yu shi,daejeon,daejeongwang-yeogsi,daejeonsi,Тэджон,大田广域市,大田広域市,대전,대전광역시,대전시",
+    "subcountry": "Daejeon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835329,
+    "name": "Daegu",
+    "alternatenames": "Daegu,Daegu Kong-hek-chhi,Daegu Kóng-he̍k-chhī,Daegu-si,Daikyu,Daikyū,GJai Khau,Ntenkou,TAE,Taegu,Taikando,Taikandō,Taiku,Taikyu,Taikyū,Tegu,Teguo,Tehgu,Tägu,da qiu guang yu shi,daegu,daegugwang-yeogsi,daegusi,daigu,dayjw,degu,dyghw,tgw,Đại Khâu,Ντέγκου,Тегу,Тэгу,Тэгү,טגו,دائجو,ديغو,ڈیگو,दैगू,ദേഗു,แทกู,大邱广域市,大邱広域市,大邱廣域市,대구,대구광역시,대구시",
+    "subcountry": "Daegu"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835447,
+    "name": "Boryeong",
+    "alternatenames": "Boryeong,Daisen,Hannae-ri,Poryong,Poryŏng,Taech'on,Taech'on-ni,Taech’ŏn,Taech’ŏn-ni,Taisen,Taisen-ri,bolyeong,보령",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835515,
+    "name": "T'aebaek",
+    "alternatenames": "T'aebaek,Tkhehbehk,T’aebaek,taebaeg,Тхэбэк,태백",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835553,
+    "name": "Suwon",
+    "alternatenames": "SWU,Sououon,Suigen,Suvon,Suwon,Suwon-si,Suwŏn,shui yuan shi,suvona,suwon,suwonsi,suwxn,swwn,Σούουον,Сувон,سوون,सुवोन,ซูว็อน,水原市,수원,수원시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835648,
+    "name": "Suncheon",
+    "alternatenames": "Junten,SYS,Sunch'on,Suncheon,Sunchun,Sunch’ŏn,suncheon,순천",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835848,
+    "name": "Seoul",
+    "alternatenames": "Hanyang,SEL,Seoel,Seol,Seoul,Seoul-si,Seuel,Seul,Seula,Seulas,Seulo,Seulum,Seúl,Seül,Siul,Soeul,Sol,Soul,Sye-ul,Syou-ouen,Szoeul,Szöul,Séoul,Sêûl,Söul,Sŏul,Wang-ching,Wo-jo,Wō-jō,ciyol,han-yang,saul,seoul,seoulsi,seoulteugbyeolsi,seuli,shou er,shou er te bie shi,si'ula,siyola,sol,sola,souru,souru te bie shi,sywl,Σεούλ,Сеул,Соул,Сөүл,Սեուլ,סאול,סיאול,סעאל,سئول,سيول,سیول,سێئول,سېئول,सियोल,सोल,সিউল,சியோல்,ಸೌಲ್,സോൾ,โซล,སེ་ཨུལ།,ဆိုးလ်မြို့,სეული,ሶል,សេអ៊ូល,ソウル,ソウル特別市,首尔,首尔特别市,首爾,서울,서울시,서울특별시,한양",
+    "subcountry": "Seoul"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835895,
+    "name": "Seosan",
+    "alternatenames": "HMY,Seosan,Seosan City,Sosan,Suisan,Sŏsan,rui shan shi,seosan,seosansi,Сосан,瑞山市,서산,서산시",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1835967,
+    "name": "Jenzan",
+    "alternatenames": "Jenzan,Seonsan,Sonsan,Sŏnsan,seonsan,선산",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1836208,
+    "name": "Seonghwan",
+    "alternatenames": "Seikan-ri,Seonghwan,Songhwan,Songhwan-ni,Songwon,Sŏnghwan,Sŏnghwan-ni,seonghwan,성환",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1836553,
+    "name": "Sokcho",
+    "alternatenames": "Sogcho,Sokch'o,Sokch'o-ri,Sokchkho,Sokcho,Sokch’o,Sokch’o-ri,sogcho,Сокчхо,속초",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1836839,
+    "name": "Sintansin",
+    "alternatenames": "Shinnanri,Shintanshin,Shintanzhin,Sint'anjin,Sintansin,Sint’anjin,sintanjin,Шинтанжин,신탄진",
+    "subcountry": "Daejeon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1837327,
+    "name": "Simcheon",
+    "alternatenames": "Shinsen-ri,Simch'on,Simch'on-ni,Simcheon,Simch’ŏn,Simch’ŏn-ni,simcheon,심천",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1837706,
+    "name": "Sangju",
+    "alternatenames": "Ch'angju,Ch’angju,Sandzhu,Sang-dschu,Sangju,Shoshu,Shōshū,Syosyu,Syōsyū,sangju,Санджу,상주",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1837707,
+    "name": "Sangju",
+    "alternatenames": "Sangju,Sangju-ri,Sanju-ri,Shoshu-ri,Shōshū-ri,Syosuri,Syōsūri,sangju,상주",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1838069,
+    "name": "Santyoku",
+    "alternatenames": "Samch'ok,Samcheok,Samchkhok,Samch’ŏk,Samuchoku,Sanchoku,Sansho,Santyoku,samcheog,Самчхок,삼척",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1838469,
+    "name": "Pyeongchang",
+    "alternatenames": "District de Pyeongchang,Heisho,Heishō,P'yongch'ang,Pchjongcchang,Pchjongčchang,Phin-chhong-khiun,Phjonchana,Phjongcshang,Phjončhana,Phìn-chhông-khiùn,Pjoncango,Pjoncano apskritis,Pjongczang,Pjonĉango,Pjončano apskritis,Pkh'onchkhan,Pkhjonchkhan,Pyeongchang,Pyeongchang Coonty,Pyeongchang County,P’yŏngch’ang,bywnghtshangh,phy xng chang,ping chang,ping chang jun,piongchangi,pyeongchang-gun,shhrstan pywng‌chang,Пхьончхан,Пхёнчхан,Пёнчан-гүнь,פיונגצאנג,بيونغتشانغ,شهرستان پیونگ‌چانگ,پیونگچانگ کاؤنٹی,พย็องชัง,ფიონგჩანგი,平昌,平昌郡,평창군",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1838508,
+    "name": "Buyeo",
+    "alternatenames": "Buyeo,Fuyo,Pujo,Puyo,Puyŏ,buyeo,Пуйо,부여",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1838524,
+    "name": "Busan",
+    "alternatenames": "Bousan,Busan,Busan-si,Busán,Fousan,Fusan,Fuzan,PUS,Phu San,Phủ San,Pusan,Pusana,Pusano,Tsau-liang-hai,busan,busangwang-yeogsi,busansi,fu shan,fu shan guang yu shi,fu shan shi,pu san,Μπούσαν,Пусан,ปูซาน,釜山,釜山市,釜山广域市,釜山広域市,부산,부산광역시,부산시",
+    "subcountry": "Busan"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1838716,
+    "name": "Bucheon-si",
+    "alternatenames": "Bucheon,Bucheon-si,bucheon,bucheonsi,부천,부천시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1838722,
+    "name": "Puan",
+    "alternatenames": "Fuan,Puan",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839011,
+    "name": "Beolgyo",
+    "alternatenames": "Bakkyo-ri,Bakkyō-ri,Beolgyo,Beolgyo-ri,Polgyo,Pŏlgyo,beolgyo,벌교",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839071,
+    "name": "Pohang",
+    "alternatenames": "Geijitsu,Hoko,Hoko-do,Hokō-dō,KPO,P'ohang,P'ohang-dong,Pohang,P’ohang,P’ohang-dong,pohang,포항",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839110,
+    "name": "Beobwon",
+    "alternatenames": "Beobwon,Pobwon,Pobwon-dong,Pobwon-ni,Pŏbwŏn,Pŏbwŏn-dong,Pŏbwŏn-ni,beob-won,법원",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839168,
+    "name": "Biin",
+    "alternatenames": "Biin,Hijin,Hinen,Hinin,Pii-in,Piin,biin,비인",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839652,
+    "name": "Osan",
+    "alternatenames": "OSN,Osan,Osan-ni,Usan',Usan-ri,Vu-san-su,Vû-sân-sṳ,awsan,osan,osansi,wu shan shi,xo san,Осан,Усань,اوسان,โอซัน,烏山市,오산,오산시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839726,
+    "name": "Asan",
+    "alternatenames": "Asan,Asan',Asan-si,Aszan,Nga-san-su,Ngà-sân-sṳ,Onyang,Onyo,Onyō,acan,asan,asansi,xa san,ya shan shi,Асан,Асань,آسان,அசன்,อาซัน,牙山市,아산,아산시",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1839873,
+    "name": "Okcheon",
+    "alternatenames": "Kumgu-ri,Okcheon,ogcheon,ogcheongun,옥천,옥천군",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840179,
+    "name": "Kosong",
+    "alternatenames": "Kosong,goseong,goseong-gun,고성,고성군",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840211,
+    "name": "Nonsan",
+    "alternatenames": "Lun-san-su,Lun-sân-sṳ,Nonsan,Nun'san',Ronsan,Ronzan,lun shan shi,nnsan,nonsansi,nwnsan,Нонсан,Нуньсань,ننسان,نونسان,論山市,논산시",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840379,
+    "name": "Nangen",
+    "alternatenames": "Mangen,Namvon,Namweon,Namwon,Namwun,Namwŏn,Namwŭn,Nangen,Намвон",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840536,
+    "name": "Naju",
+    "alternatenames": "Nadzhu,Nadzu,Nadžu,Naju,Rashu,Rashū,luo zhou shi,naju,najusi,najw,Наджу,Нажү,ناجو,羅州市,나주,나주시",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840862,
+    "name": "Munsan",
+    "alternatenames": "Munsan,Munsan-ni,Мунсан",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840886,
+    "name": "Mungyeong",
+    "alternatenames": "Bunke-gun,Bunkei-gun,Bunkē-gun,Mun'gyong,Mun'gyong-gun,Mun'gyōng-gun,Mun'gyŏng,Mungjon,Mungjong,Mungyeong gun,Munkyong-Mining Region,mungyeong,mungyeongsi,mwngywang,wen qing shi,Мунгён,مونگیوانگ,聞慶市,문경,문경시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840887,
+    "name": "Mungyeong",
+    "alternatenames": "Bunkei,Mun'gyong,Mungyeong,Mun’gyŏng,mungyeong,문경",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1840982,
+    "name": "Muan",
+    "alternatenames": "MWX,Muan,Muan-gun,Muap",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841066,
+    "name": "Mokpo",
+    "alternatenames": "Mogpkho,Mogpo,Mok-pho,Mokp'o,Mokpo,Mokp’o,Mokuho,Moppo,mogpo,Могпхо,목포",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841149,
+    "name": "Miryang",
+    "alternatenames": "Milbeol,Milyang,Mirjan,Mirjang,Miryang,Mitsuyo,Mitsuyō,mi yang shi,mil-yangsi,mryang,myryang,Мирян,مریانگ,میریانگ,密陽市,밀양시",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841246,
+    "name": "Masan",
+    "alternatenames": "Masan,Masan-ni,masan,마산",
+    "subcountry": "Gwangju"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841598,
+    "name": "Gyeongsan-si",
+    "alternatenames": "Gyeongsan,Gyeongsan-si,Kyongsan-si,Kyŏngsan-si,gyeongsan,gyeongsansi,qing shan shi,慶山市,경산,경산시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841603,
+    "name": "Gyeongju",
+    "alternatenames": "Gyeongju,Gyeongju-si,Keishu,Keishū,Keisyu,Keisyū,Kjondzhu,Kjong-dschu,Kjöng-dschu,Kyeng-chu,Kyeng-ju,Kyong-choo,Kyongju,Kyonju,Kyŏngju,gyeongjusi,qing zhou,qing zhou shi,Кёнджу,慶州,慶州市,경주시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841775,
+    "name": "Kwangyang",
+    "alternatenames": "Gwang-yang,Koyo,Kuwagyan,Kwangyang,Kōyō",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841810,
+    "name": "Gwangju",
+    "alternatenames": "Gwangju,Gwangju-si,Kong-chu-su,Kvandzhu,Kwangdzu,Kwangdžu,Kwangju,Kóng-chû-sṳ,guang zhou,guang zhou shi,gwang jw  gyywngy,gwangju,gwangjusi,gwangjw  gywnggy,kh wang cu,Кванджу,گوانگ جو، گیئونگی,گوانگجو، گیونگگی,ควังจู,კვანჯუ,広州市,廣州,廣州市,광주,광주시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841811,
+    "name": "Gwangju",
+    "alternatenames": "Gouanjou,Gwangju,Gwangju Kong-hek-chhi,Gwangju Kóng-he̍k-chhī,Gwangju-si,KWJ,Koshu,Kosyu,Kuandzhu,Kuangju,Kuangjuo,Kvandzhu,Kvandzu,Kvandžu,Kvangdzsu,Kvangdzu,Kvanju,Kvanzhe,Kvaңdzhu,Kwang-choo,Kwang-dschu,Kwangdzu,Kwangdžu,Kwangju,Kōshū,Kōsyū,Kŭangĵuo,Quansua,ghwanghjw,guang zhou,guang zhou guang yu shi,guang zhou shi,gvangaju,gwang jw,gwangju,gwangjugwang-yeogsi,gwangjusi,gwangjw,kh wang cu,Квангџу,Кванджу,Кванже,Кваңджу,Куанджу,Куанжү,קוואנגגו,غوانغجو,گوانگ جو,گوانگجو,ग्वांगजू,ควังจู,光州,光州市,光州广域市,光州広域市,光州廣域市,광주,광주광역시,광주시",
+    "subcountry": "Gwangju"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841888,
+    "name": "Gwanchon",
+    "alternatenames": "Gwanchon,Kwan-ch'on,Kwan-ch’on,gwanchon,관촌",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841962,
+    "name": "Guryongpo",
+    "alternatenames": "Guryongpo,Kuryongp'o,Kuryongp’o,Kuryuho-ri,Kuyongp'o,Kuyongp’o,Kyuryuho-ri,Kyūryūho-ri,Kūryūho-ri,gulyongpo,구룡포",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841976,
+    "name": "Kurye",
+    "alternatenames": "Kurye,Kyurei,Kyūrei,gulye,gulyegun,구례,구례군",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1841988,
+    "name": "Guri-si",
+    "alternatenames": "Guri,Guri-si,guli,gulisi,구리,구리시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842016,
+    "name": "Kunwi",
+    "alternatenames": "Guni,Kunwi,gun-wi,gun-wigun,군위,군위군",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842025,
+    "name": "Gunsan",
+    "alternatenames": "Gunsan,Gunzan,KUV,Kunsan,Kunsanpo,Kunzan,gunsansi,qun shan shi,Кунсан,群山市,군산시",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842030,
+    "name": "Gunpo",
+    "alternatenames": "Gunpo,Gunpo-si,Kunp'o,Kunp’o,Tang-ni,gunpo,군포",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842153,
+    "name": "Kinzan",
+    "alternatenames": "Kinsan,Kinzan,Kumsan,Kumzan,Kŭmsan,Kŭmzan,geumsan,금산",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842225,
+    "name": "Gumi",
+    "alternatenames": "Gumi,Gumi-si,Kibi,Kumi,Kwimi,QKM,gui wei shi,gumi,gumisi,Куми,亀尾市,龜尾市,龟尾市,구미,구미시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842485,
+    "name": "Goyang-si",
+    "alternatenames": "Goyang,Goyang-si,Kojango,QYK,goyang,goyangsi,고양,고양시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842518,
+    "name": "Goseong",
+    "alternatenames": "Goseong,Kojo,Kojō,Koson,Kosong,Kosŏng,Kozyo,Kozyō,goseong,Косон,고성",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842616,
+    "name": "Gongju",
+    "alternatenames": "Gongju,Kochu,Kondzhu,Kong Tjou,Kong-dschu,Kongju,Koshu,Kosyu,Kōshū,Kōsyū,gong zhou,gong zhou shi,gongju,gongjusi,Конджу,公州,公州市,공주,공주시",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842754,
+    "name": "Kyosai",
+    "alternatenames": "Koje,Kyosai,Kŏje",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842800,
+    "name": "Koesan",
+    "alternatenames": "Goesan,Kaesong,Kaisan,Kaizan,Koesan,Kwaesan,Kwaizan,goesan,goesangun,괴산,괴산군",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842859,
+    "name": "Koch'ang",
+    "alternatenames": "Kosho,Kōshō,gochang,gochang-gun,고창,고창군",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842939,
+    "name": "Kimje",
+    "alternatenames": "Kimje,Kintei,Kum,Kumje,Kŭmje",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842943,
+    "name": "Kimhae",
+    "alternatenames": "Gimhae,Gimhae-si,Kimhae,Kimkheh,Kinkai,Kumhae,Kŭmhae,gimhaesi,Кимхэ,김해시",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842944,
+    "name": "Gimcheon",
+    "alternatenames": "Gimcheon,Gimcheon-si,Kimcchon,Kimch'on-si,Kimch'ŏn-si,Kimchkhon,Kimčchon,Kumch'on-si,Kŭmch'ŏn-si,gim cheonsi,gimcheon,gimcheonsi,gmchywn,gymchywn,jin quan shi,Кимчхон,گمچیون,گیمچئون,金泉市,김 천시,김천,김천시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1842966,
+    "name": "Gijang",
+    "alternatenames": "Gijang,Kichang,Kicho,Kichō,Kijang,gijang,기장",
+    "subcountry": "Busan"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843082,
+    "name": "Gapyeong",
+    "alternatenames": "District de Gapyeong,Gapyeong County,Gapyeong-gun,Kahei-gun,Kap'yong-gun,Kap'yŏng-gun,Kapkhjon,gapyeong,gapyeong-gun,jia ping jun,Капхён,加平郡,가평,가평군",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843137,
+    "name": "Gangneung",
+    "alternatenames": "Gangneung,Gangreung,KAG,Kaguun,Kang-neung,Kangnung,Kangnŭng,Kannyn,Koryo,Kōryō,gangleung,gangleungsi,jiang ling shi,Каннын,江陵市,강릉,강릉시",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843163,
+    "name": "Ganghwa-gun",
+    "alternatenames": "Ganghwa-gun,ganghwagun,강화군",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843210,
+    "name": "Gampo",
+    "alternatenames": "Gampo,Kamp'o,Kamp'o-ri,Kamp’o,Kamp’o-ri,Kanho-ri,Kanpori,gampo,감포",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843491,
+    "name": "Iksan",
+    "alternatenames": "Iksan,Iri,Riri,aksan,ayksan,igsansi,iksani,yi shan shi,Іксан,Иксан,اکسان,ایکسان,იქსანი,益山市,익산시",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843564,
+    "name": "Incheon",
+    "alternatenames": "Chemulpo,Incchon,Inch'on,Inch'ŏn,Incheon,Incheon-si,Inchkhon,Inchkhun,Inchon,Inchona,Inconas,Incono,Incshon,Intson,Inĉono,Inčchon,Inčhona,Inčonas,JCN,Nhan Xuyen,Nhân Xuyên,anchn,antshwn,aynchywn,incevona,incheon,incheongwang-yeogsi,incheonsi,inkiyon,ren chuan guang yu shi,xin chxn,İncheon,Ίντσον,Інчхон,Инчон,Инчхон,Инчхън,אינצ'ון,إنتشون,انچن,اینچئون,इंचेवॉन,இங்கியோன்,อินช็อน,仁川广域市,仁川広域市,仁川廣域市,인천,인천광역시,인천시",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843585,
+    "name": "Imsil",
+    "alternatenames": "Imsil,Ninjitsu,imsil,imsilgun,임실,임실군",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843702,
+    "name": "Icheon-si",
+    "alternatenames": "Icheon,Icheon-si,icheon,icheonsi,이천,이천시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843731,
+    "name": "Hyeonpung",
+    "alternatenames": "Gempu,Gempū,Genfu,Genfū,Genpu,Geupuu,Hyeonpung,Hyongp'ung,Hyonp'ung,Hyŏngp’ung,Hyŏnp’ung,Pudong,hyeonpung,현풍",
+    "subcountry": "Daegu"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843841,
+    "name": "Hwasun",
+    "alternatenames": "Hwansun,Hwason,Hwasun,Khvasun,Wajun,hwasun,Хвасун,화순",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1843847,
+    "name": "Hwaseong-si",
+    "alternatenames": "Hwaseong,Hwaseong-si,hwaseong,hwaseongsi,화성,화성시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844045,
+    "name": "Hwacheon",
+    "alternatenames": "Huachon,Hwach'on,Hwach'ŏn,Hwacheon,Hwach’ŏn,Kasen,hwacheon,hwacheongun,화천,화천군",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844174,
+    "name": "Hongseong",
+    "alternatenames": "CaminodeFloresta,Hongseong,Hongsong,Hongsung,Hongsŏng,Kojo,Kōjō,hongseong,홍성",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844191,
+    "name": "Hongch'on",
+    "alternatenames": "Hongch'on,Hongch’ŏn,Kosen,Kōsen,hongcheon,hongcheongun,홍천,홍천군",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844308,
+    "name": "Hayang",
+    "alternatenames": "Hayang,Kayo,Kayō",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844509,
+    "name": "Hancheolli",
+    "alternatenames": "Hanch'ol-li,Hanch'on,Hanch'on-ni,Hancheolli,Hanch’on,Hanch’ŏl-li,Hanch’ŏn-ni,hancheon,hancheonli,한천,한천리",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844751,
+    "name": "Haenam",
+    "alternatenames": "Haenam,Kainan,haenam,해남",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1844888,
+    "name": "Chupungnyeong",
+    "alternatenames": "Ch'up'ungnyong,Ch'up'ungnyong-ni,Ch'up'ungyong-ni,Chupungnyeong,Ch’up’ungnyŏng,Ch’up’ungnyŏng-ni,Ch’up’ungyŏng-ni,Shufurei-ri,Shufuzan,Shūfūrei-ri,chupunglyeong,추풍령",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845033,
+    "name": "Chungju",
+    "alternatenames": "Cchungdzu,Ch'ungju,Chhung,Chkhundzhu,Chung-chu-su,Chungju,Chushu,Chûng-chû-sṳ,Chūshū,Ch’ungju,Cungcu,Cungdzu,JWO,Tsch-hung,Tyusyu,Tyūsyū,chungju,chungjusi,chwngjw,cunju,tshnghjw,zhong zhou shi,Çungcu,Čchungdžu,Čungdžu,Чхунджу,Чүнжү,تشنغجو,چونگجو,சுங்ஜூ,忠州市,충주,충주시",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845136,
+    "name": "Chuncheon",
+    "alternatenames": "Cchuncchon,Ch'unch'on,Ch'unch'ŏn,Chhun-chhen,Chhun-chhon-su,Chhûn-chhôn-sṳ,Chkhunchkhon,Chuncheon,Chүn'chon',Ch’unch’ŏn,Cunceon,Cuncon,Cunconas,QUN,Shunsen,Shusen,Syunsen,Tsch-hun-tsch-hon,Tsch-hun-tsch-hŏn,chanchywn,chun chuan,chun chuan shi,chuncheon,chuncheonsi,chwnchywn,tshntshwn,Çunçeon,Ĉunĉon,Čchunčchon,Čunčonas,Чхунчхон,Чүньчонь,تشنتشون,چانچئون,چونچیون,春川,春川市,춘천,춘천시",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845142,
+    "name": "Jumunjin",
+    "alternatenames": "Chubunshin,Chumonjin,Chumonshin,Chumunjin,Chūbunshin,Chūmonjin,Chūmonshin,Jumunjin,jumunjin,주문진",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845388,
+    "name": "Cheorwon",
+    "alternatenames": "Ch'orwon,Cheolwan,Cheorwon,Ch’ŏrwŏn,Tetsugen,Tetugen,Tsch-hol-won,Tsch-hŏl-wŏn,cheol-won,철원",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845457,
+    "name": "Jeonju",
+    "alternatenames": "CHN,Chenju,Chondzhu,Chongju,Chonju,Chunju,Chŏngju,Chŏnju,Condzu,Dzondzu,Džondžu,Jenchu,Jeonju,Tjyen-tjyou,Tschon-dschu,Tschön-dschu,Tsiuentcheou,Tyondyu,Tyondyū,jeonju,jeonjusi,jonju,jwnjw,jywnjw,quan zhou,quan zhou shi,Čondžu,Чонджу,Чоньжү,جئونجو,جونجو,जॉन्जू,全州,全州市,전주,전주시",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845492,
+    "name": "Cheongyang",
+    "alternatenames": "Ch'ongyang,Cheongyang,Ch’ŏngyang,Seiyo,Seiyō,cheong-yang,청양",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845519,
+    "name": "Cheongsong gun",
+    "alternatenames": "Ch'ongsong-gun,Ch'ŏngsong-gun,Cheongsong gun,Seisho,Seisho-gun,Seishō,Seishō-gun,cheongsong,cheongsong-eub,cheongsong-gun,청송,청송군,청송읍",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845538,
+    "name": "Cheongsan",
+    "alternatenames": "Ch'ongsan,Cheongsan,Ch’ŏngsan,Seizan,cheongsan,청산",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845547,
+    "name": "Cheongpyeong",
+    "alternatenames": "Ch'ongp'yong,Ch'ongp'yongch'on,Cheongpyeong,Ch’ŏngp’yŏng,Ch’ŏngp’yŏngch’ŏn,Karohyon,Karohyŏn,Karugae,Karuge,Kuch'ongp'yongnae,Kuch’ŏngp’yŏngnae,Seiheisen,cheongpyeong,청평",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845556,
+    "name": "Jeongok",
+    "alternatenames": "Chon'gok,Chon'gong-ni,Chŏn’gok,Chŏn’gong-ni,Jeongok,jeongog,전곡",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845604,
+    "name": "Cheongju-si",
+    "alternatenames": "CJJ,Cheongju,Cheongju-si,cheongju,cheongjusi,청주,청주시",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1845759,
+    "name": "Cheonan",
+    "alternatenames": "Cchonan,Ch'onan,Ch'ŏnan,Cheonan,Chkhonan,Chonan',Ch’ŏnan,Tenan,Thien-on-su,Thiên-ôn-sṳ,Thyen-an,Thyen-ān,cheon-an,cheon-ansi,chywnan,tian an shi,tshwnan,Čchonan,Чонань,Чхонан,تشونان,چئونان,چیونان,天安市,천안,천안시",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846052,
+    "name": "Chinju",
+    "alternatenames": "Chindzhu,Chinju,HIN,Jinju,Shinshu,Shinshū,Sinsyu,Sinsyū,Tschin-dschu,jin zhou,jin zhou shi,jinjusi,Чинджу,晋州,晋州市,진주시",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846062,
+    "name": "Jinjam",
+    "alternatenames": "Chin'nyong,Chinjam,Chinshin,Chin’nyŏng,Jinjam,jinjam,진잠",
+    "subcountry": "Daejeon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846095,
+    "name": "Chinch'on",
+    "alternatenames": "Chinchon,Chinsen,Jincheon,jincheon,jincheongun,진천,진천군",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846114,
+    "name": "Jinan-gun",
+    "alternatenames": "Jinan-gun,jin-angun,진안군",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846223,
+    "name": "Jido",
+    "alternatenames": "Chido,Chito,Chitō,Jido,jido,지도",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846266,
+    "name": "Jeju City",
+    "alternatenames": "CJU,Chedzhu,Cheju,Chu-sung,Chyei Chyu,Czedzu,Czedżu,Jeju,Jeju City,Kota Jeju,Saishu,Saishū,Saisyu,Saisyu Yu,Saisyū,Saisyū Yū,Tsche-dschu,Tse-tsiu,Tsitcheou,Tzetzou,chjw,jeju,jejusi,ji zhou,ji zhou shi,jyjw,Τζέτζου,Чеджу,جيجو,چجو,済州市,濟州,濟州市,제주,제주시",
+    "subcountry": "Jeju-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846326,
+    "name": "Changwon",
+    "alternatenames": "Cangvonas,Cangvono,Cchangwon,Ch'angwon,Ch'angwŏn,Changuon,Changwon,Chanvon,Chkhanvon,Ch’angwŏn,Cshangvon,Sangwon,Shogen,Shōgen,chang yuan,chang yuan shi,chang-wonsi,changwn,changwwn,tshanghwwn,zngwwn,Ĉangvono,Čangvonas,Čchangwon,Чанвон,Чангуон,Чханвон,צנגוון,تشانغوون,چانگون,چانگوون,چانگ‌وون,昌原,昌原市,창원시",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846355,
+    "name": "Changsu",
+    "alternatenames": "Changsu,Changsu-ri,Chosui-ri,Chōsui-ri,jangsu,jangsugun,장수,장수군",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846371,
+    "name": "Jangseong",
+    "alternatenames": "Changsong,Changsŏng,Chojo,Chongsong,Chōjō,Chŏngsong,Jangseong,jangseong,장성",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846419,
+    "name": "Changpyeong",
+    "alternatenames": "Ch'angp'yong,Ch'angp'yong-ni,Changpyeong,Ch’angp’yŏng,Ch’angp’yŏng-ni,Shohei,Shōhei,changpyeong,창평",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846544,
+    "name": "Jangheung",
+    "alternatenames": "Changhung,Changhŭng,Choko,Chōkō,Jangheung,Shoko,jangheung,장흥",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846713,
+    "name": "Jangan",
+    "alternatenames": "Changal-li,Changan,Jangan,jang-an,장안",
+    "subcountry": "Busan"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846898,
+    "name": "Anyang-si",
+    "alternatenames": "Anyang,Anyang-si,an-yang,an-yangsi,안양,안양시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846912,
+    "name": "Anseong",
+    "alternatenames": "Anjo,Anjŏ,Anseong,Anson,Ansong,Ansŏng,an cheng shi,anseong,anseongsi,Ансон,安城市,안성,안성시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846918,
+    "name": "Ansan-si",
+    "alternatenames": "Ansan,Ansan-si,an shan,an shan shi,ansan,ansansi,安山,安山市,안산,안산시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1846986,
+    "name": "Andong",
+    "alternatenames": "An'dun,Andang,Andon,Andong,Andongas,Anto,Antō,an dong shi,andong,andongsi,andoni,andwng,xan dng,Андон,Аньдун,آندونگ,انڈونگ,อันดง,ანდონი,安东市,安東市,안동,안동시",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1847050,
+    "name": "Gaigeturi",
+    "alternatenames": "Aewol,Aewol-li,Aewŏl,Aewŏl-li,Gaigetsu,Gaigetsu-ri,Gaigeturi",
+    "subcountry": "Jeju-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1882056,
+    "name": "Sinhyeon",
+    "alternatenames": "Sinhyeon,Sinhyon,Sinhyŏn",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1882176,
+    "name": "Iwon",
+    "alternatenames": "Iwol-li,Iwon,Iwŏl-li,Iwŏn,iwon,이원",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1884138,
+    "name": "Yeosu",
+    "alternatenames": "Josu,RSU,Yeosu,Yoch'on,Yosu,Yŏch’ŏn,Yŏsu,iosu,li shui shi,yeosu,yeosusi,ywsw,yywsw,Ёсү,Йосу,یئوسو,یوسو,იოსუ,麗水市,여수,여수시",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1884178,
+    "name": "Gwangyang",
+    "alternatenames": "Gwangyang,Kwangyang,Tonggwangyang,gwang-yang,광양",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1884478,
+    "name": "Illo",
+    "alternatenames": "Illo,illo,일로",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1885540,
+    "name": "Baeksu",
+    "alternatenames": "Baeksu,Paeksu,baegsu,백수",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1885545,
+    "name": "Hongnong",
+    "alternatenames": "Hongnong,hongnong,홍농",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1886428,
+    "name": "Hamyeol",
+    "alternatenames": "Hamyeol,Hamyol,Hamyŏl,ham-yeol,함열",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1886598,
+    "name": "Yonmu",
+    "alternatenames": "",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1892823,
+    "name": "Tonghae",
+    "alternatenames": "Tonghae",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1893099,
+    "name": "Cheongha",
+    "alternatenames": "Ch'ongha,Cheongha,Ch’ŏngha,cheongha,청하",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1893857,
+    "name": "Ocheon",
+    "alternatenames": "Och'on,Ocheon,Och’ŏn,ocheon,오천",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1894035,
+    "name": "Ilgwang",
+    "alternatenames": "Ilgwang,ilgwang,일광",
+    "subcountry": "Busan"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1896953,
+    "name": "Pubal",
+    "alternatenames": "Pubal",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1897000,
+    "name": "Seongnam-si",
+    "alternatenames": "Seongnam,Seongnam-si,seongnam,seongnamsi,성남,성남시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1897007,
+    "name": "Hanam",
+    "alternatenames": "Hanam,Hanam-si,hanam,hanamsi,하남,하남시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1897118,
+    "name": "Hwado",
+    "alternatenames": "Hwado",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1897122,
+    "name": "Namyangju",
+    "alternatenames": "Nam-yong-chu-su,Namjandzhu,Namujandzhu,Namujanzhү khot,Namyangju,Namyangju-si,Nàm-yòng-chû-sṳ,nam-yangju,nam-yangjusi,namyangjw,nan yang zhou shi,Намъянджу,Намъянжү хот,Намянджу,نامیانگجو,南楊州市,남양주,남양주시",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1912205,
+    "name": "Ungsang",
+    "alternatenames": "Ungsang",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1912209,
+    "name": "Wabu",
+    "alternatenames": "Wabu,wabu,와부",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1925936,
+    "name": "Naeso",
+    "alternatenames": "",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1925943,
+    "name": "Hwawon",
+    "alternatenames": "",
+    "subcountry": "Daegu"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1948005,
+    "name": "Gwangmyeong",
+    "alternatenames": "Gwangmyeong,Kwangmyong,Kwangmyŏng,gwangmyeong,광명",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 1951567,
+    "name": "Paju",
+    "alternatenames": "P'aju,Paju,P’aju,paju,파주",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6395804,
+    "name": "Sinan",
+    "alternatenames": "sin-an,sin-angun,신안,신안군",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6621166,
+    "name": "Seogwipo",
+    "alternatenames": "JSP,Seogwipo,Sogvipkho,Согвипхо",
+    "subcountry": "Jeju-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6800487,
+    "name": "Yongsan-dong",
+    "alternatenames": "Yongsan-dong,yongsandong,용산동",
+    "subcountry": "Seoul"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6876502,
+    "name": "Seongsu",
+    "alternatenames": "Seongsu,Songsu,Sŏngsu,seongsu,성수",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6876645,
+    "name": "Sanseo",
+    "alternatenames": "Sanseo,Sanso,Sansŏ,sanseo,산서",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6877134,
+    "name": "Sannae",
+    "alternatenames": "Sannae,sannae,산내",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6878442,
+    "name": "Singwang",
+    "alternatenames": "Sin'gwang,Singwang,Sin’gwang,singwang,신광",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6882923,
+    "name": "Sangwol",
+    "alternatenames": "Sangwol,Sangwŏl,sang-wol,상월",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6883029,
+    "name": "Cheongnam",
+    "alternatenames": "Ch'ongnam,Cheongnam,Ch’ŏngnam,cheongnam,청남",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884254,
+    "name": "Jangpyeong",
+    "alternatenames": "Changp'yong,Changp’yŏng,Jangpyeong,jangpyeong,장평",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884286,
+    "name": "Gyuam",
+    "alternatenames": "Gyuam,Kyuam,gyuam,규암",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884448,
+    "name": "Hoenam",
+    "alternatenames": "Hoenam,hoenam,회남",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884572,
+    "name": "Gunbuk",
+    "alternatenames": "Gunbuk,Kunbuk,gunbug,군북",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884596,
+    "name": "Gunseo",
+    "alternatenames": "Gunseo,Kunso,Kunsŏ,gunseo,군서",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884739,
+    "name": "Dongi",
+    "alternatenames": "Dongi,Tongi,dong-i,동이",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884820,
+    "name": "Annae",
+    "alternatenames": "Annae,annae,안내",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884833,
+    "name": "Annam",
+    "alternatenames": "Annam,annam,안남",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6884965,
+    "name": "Samseung",
+    "alternatenames": "Samseung,Samsung,Samsŭng,samseung,삼승",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6885018,
+    "name": "Cheongseong",
+    "alternatenames": "Ch'ongsong,Cheongseong,Ch’ŏngsŏng,cheongseong,청성",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6886013,
+    "name": "Gunbuk",
+    "alternatenames": "Gunbuk,Kunbuk,gunbug,군북",
+    "subcountry": "Chungcheongnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6886817,
+    "name": "Haksan",
+    "alternatenames": "Haksan,hagsan,학산",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6887055,
+    "name": "Seolcheon",
+    "alternatenames": "Seolcheon,Solch'on,Sŏlch’ŏn,seolcheon,설천",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6888788,
+    "name": "Songgangdong",
+    "alternatenames": "Songgangdong,Sungan,song-gangdong,Сунган,송강동",
+    "subcountry": "Daejeon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6891725,
+    "name": "Hwanggan",
+    "alternatenames": "Hwanggan,hwang-gan,황간",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6892280,
+    "name": "Yongsan",
+    "alternatenames": "Yongsan,yongsan,용산",
+    "subcountry": "North Chungcheong"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6892483,
+    "name": "Hwanam",
+    "alternatenames": "Hwanam,hwanam,화남",
+    "subcountry": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6896435,
+    "name": "Seosang",
+    "alternatenames": "Seosang,Sosang,Sŏsang,seosang,서상",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6896610,
+    "name": "Baekjeon",
+    "alternatenames": "Baekjeon,Paekchon,Paekchŏn,baegjeon,백전",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6896684,
+    "name": "Beonam",
+    "alternatenames": "Beonam,Ponam,Pŏnam,beon-am,번암",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6896737,
+    "name": "Byeonggok",
+    "alternatenames": "Byeonggok,Pyonggok,Pyŏnggok,byeong-gog,병곡",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6901737,
+    "name": "Daehap",
+    "alternatenames": "Daehap,Taehap,daehab,대합",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 6903078,
+    "name": "Changnyeong",
+    "alternatenames": "Ch'angnyong,Ch’angnyŏng,changnyeong,changnyeong-eub,changnyeong-gun,창녕,창녕군,창녕읍",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8573616,
+    "name": "Songhae",
+    "alternatenames": "Songhae,songhae,송해",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8576887,
+    "name": "Hajeom",
+    "alternatenames": "Hajeom,hajeom,하점",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8577030,
+    "name": "Yangsa",
+    "alternatenames": "Yangsa,yangsa,양사",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8577660,
+    "name": "Samsan",
+    "alternatenames": "Samsan,samsan,삼산",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8606441,
+    "name": "Seonwon",
+    "alternatenames": "Seonwon,seon-won,선원",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8606530,
+    "name": "Wolgot",
+    "alternatenames": "Wolgot,wolgoj,월곶",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8607799,
+    "name": "Haseong",
+    "alternatenames": "Haseong,haseong,하성",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8607823,
+    "name": "Tongjin",
+    "alternatenames": "Tongjin,tongsin,통신",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8608340,
+    "name": "Gyodong",
+    "alternatenames": "Gyodong,gyodong,교동",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8608410,
+    "name": "Gwangtan",
+    "alternatenames": "Gwangtan,gwangtan,광탄",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8610689,
+    "name": "Jangheung",
+    "alternatenames": "Jangheung,jangheung,장흥",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8624484,
+    "name": "Tanhyeon",
+    "alternatenames": "Tanhyeon,tanhyeon,탄현",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8693393,
+    "name": "Gwangjeok",
+    "alternatenames": "Gwangjeok,gwangjeog,광적",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8715276,
+    "name": "Su-dong",
+    "alternatenames": "Su-dong,sudong,수동",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8716259,
+    "name": "Sindong",
+    "alternatenames": "Sindong,sindong,신동",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8716274,
+    "name": "Dongnae",
+    "alternatenames": "Dongnae,dongnae,동내",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8718041,
+    "name": "Seoseok",
+    "alternatenames": "Seoseok,seoseog,서석",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8730237,
+    "name": "Jinjeop",
+    "alternatenames": "Jinjeop,jinjeob,진접",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 8734356,
+    "name": "Onam",
+    "alternatenames": "Onam,onam,오남",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 9806499,
+    "name": "Haean",
+    "alternatenames": "Haean,haean,해안",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 9808772,
+    "name": "Toseong",
+    "alternatenames": "Toseong,toseong,토성",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 9864040,
+    "name": "Sinseo",
+    "alternatenames": "Sinseo,sinseo,신서",
+    "subcountry": "Gyeonggi-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 9864088,
+    "name": "Gwanin",
+    "alternatenames": "Gwanin,gwan-in,관인",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 9887758,
+    "name": "Bangsan",
+    "alternatenames": "Bangsan,bangsan,방산",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 9887776,
+    "name": "Dongmyeon",
+    "alternatenames": "Dongmyeon,dongmyeon,동면",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11523293,
+    "name": "Sejong",
+    "alternatenames": "Sedzong,Sedżong,Sejong,Sejong Special Self-Governing City,Yeongi,se(ː).dʑon,se(ː).dʑoŋ,sejong,shi zong,世宗,세종",
+    "subcountry": "Sejong-si"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11549691,
+    "name": "Bupyeong",
+    "alternatenames": "",
+    "subcountry": "Incheon"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11674727,
+    "name": "Boseong",
+    "alternatenames": "Boseong,boseong,보성",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11695689,
+    "name": "Jeongeup",
+    "alternatenames": "Jeongeup-si,jeong-eubsi,jing yi shi,井邑市,정읍시",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11713370,
+    "name": "Hwayang",
+    "alternatenames": "Hwayang,hwayang,화양",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11717105,
+    "name": "Nammyeon",
+    "alternatenames": "Nammyeon,nammyeon,남면",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11717453,
+    "name": "Mijo",
+    "alternatenames": "Mijo,mijo,미조",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11718119,
+    "name": "Palgeum",
+    "alternatenames": "Palgeum,palgeum,팔금",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11722277,
+    "name": "Apae",
+    "alternatenames": "Apae,abhae,압해",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11725780,
+    "name": "Sinan",
+    "alternatenames": "Sinan,sin-an,신안",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11745481,
+    "name": "Bannam",
+    "alternatenames": "Bannam,bannam,반남",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11745487,
+    "name": "Dopo",
+    "alternatenames": "Dopo,dopo,도포",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11745713,
+    "name": "Deokjin",
+    "alternatenames": "Deokjin,deogjin,덕진",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11745720,
+    "name": "Seji",
+    "alternatenames": "Seji,seji,세지",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11745725,
+    "name": "Geumjeong",
+    "alternatenames": "Geumjeong,geumjeong,금정",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11745794,
+    "name": "Sijong",
+    "alternatenames": "Sijong,sijong,시종",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11762608,
+    "name": "Yeongam",
+    "alternatenames": "Yeongam,yeong-am,영암",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11816577,
+    "name": "Gangdong",
+    "alternatenames": "Gangdong,gangdong,강동",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11823111,
+    "name": "Haeryong",
+    "alternatenames": "Haeryong,haelyong,해룡",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11823166,
+    "name": "Byeollyang",
+    "alternatenames": "Byeollyang,byeollyang,별량",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11828625,
+    "name": "Gujeong",
+    "alternatenames": "Gujeong,Kujong,Kujong-ni,Kujŏng,Kujŏng-ni,gujeong,구정",
+    "subcountry": "Gangwon-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840410,
+    "name": "Yuchi",
+    "alternatenames": "Yuchi,yuchi,유치",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840573,
+    "name": "Cheongpung",
+    "alternatenames": "Cheongpung,cheongpung,청풍",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840652,
+    "name": "Mundeok",
+    "alternatenames": "Mundeok,mundeog,문덕",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840723,
+    "name": "Joseong",
+    "alternatenames": "Joseong,joseong,조성",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840754,
+    "name": "Oeseo",
+    "alternatenames": "Oeseo,oeseo,외서",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840770,
+    "name": "Yureo",
+    "alternatenames": "Yureo,yul-eo,율어",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840871,
+    "name": "Okgok",
+    "alternatenames": "Okgok,oggog,옥곡",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840943,
+    "name": "Jinwol",
+    "alternatenames": "Jinwol,jin-wol,진월",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11840951,
+    "name": "Geumseong",
+    "alternatenames": "Geumseong,geumseong,금성",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841016,
+    "name": "Jeongnyang",
+    "alternatenames": "Jeongnyang,jeoglyang,적량",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841102,
+    "name": "Jinsang",
+    "alternatenames": "Jinsang,jinsang,진상",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841150,
+    "name": "Bonggang",
+    "alternatenames": "Bonggang,bong-gang,봉강",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841312,
+    "name": "Ongnyong",
+    "alternatenames": "Ongnyong,oglyong,옥룡",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841433,
+    "name": "Sangsa",
+    "alternatenames": "Sangsa,sangsa,상사",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841768,
+    "name": "Seungju",
+    "alternatenames": "Seungju,seungju,승주",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11841889,
+    "name": "Juam",
+    "alternatenames": "Juam,juam,주암",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11842434,
+    "name": "Songgwang",
+    "alternatenames": "Songgwang,song-gwang,송광",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11842524,
+    "name": "Dongmyeon",
+    "alternatenames": "Dongmyeon,dongmyeon,동면",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11846303,
+    "name": "Nammyeon",
+    "alternatenames": "Nammyeon,nammyeon,남면",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11863501,
+    "name": "Nodong",
+    "alternatenames": "Nodong,nodong,노동",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11863505,
+    "name": "Miryeok",
+    "alternatenames": "Miryeok,milyeog,미력",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11863523,
+    "name": "Bongnae",
+    "alternatenames": "Bongnae,bognae,복내",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11863570,
+    "name": "Gyeombaek",
+    "alternatenames": "Gyeombaek,gyeombaeg,겸백",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11863735,
+    "name": "Hadong",
+    "alternatenames": "Hadong,hadong,하동",
+    "subcountry": "Gyeongsangnam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11864019,
+    "name": "Haeje",
+    "alternatenames": "Haeje,haeje,해제",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11867448,
+    "name": "Yeomsan",
+    "alternatenames": "Yeomsan,yeomsan,염산",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11867484,
+    "name": "Haebo",
+    "alternatenames": "Haebo,haebo,해보",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11867493,
+    "name": "Nasan",
+    "alternatenames": "Nasan,nasan,나산",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11867754,
+    "name": "Bulgap",
+    "alternatenames": "Bulgap,bulgab,불갑",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11877056,
+    "name": "Nagwol",
+    "alternatenames": "Nagwol,nag-wol,낙월",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11877380,
+    "name": "Imja",
+    "alternatenames": "Imja,imja,임자",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11888612,
+    "name": "Sangha",
+    "alternatenames": "Sangha,sangha,상하",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11888965,
+    "name": "Simwon",
+    "alternatenames": "Simwon,sim-won,심원",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11889006,
+    "name": "Haeri",
+    "alternatenames": "Haeri,haeli,해리",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11906796,
+    "name": "Gunnam",
+    "alternatenames": "Gunnam,gunnam,군남",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11906846,
+    "name": "Gunseo",
+    "alternatenames": "Gunseo,gunseo,군서",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11906873,
+    "name": "Beopseong",
+    "alternatenames": "Beopseong,beobseong,법성",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11906901,
+    "name": "Gongeum",
+    "alternatenames": "Gongeum,gong-eum,공음",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11907088,
+    "name": "Daesan",
+    "alternatenames": "Daesan,daesan,대산",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11907272,
+    "name": "Myoryang",
+    "alternatenames": "Myoryang,myolyang,묘량",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11907321,
+    "name": "Daema",
+    "alternatenames": "Daema,daema,대마",
+    "subcountry": "Jeollanam-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11910216,
+    "name": "Ssangchi",
+    "alternatenames": "Ssangchi,ssangchi,쌍치",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11910359,
+    "name": "Ingye",
+    "alternatenames": "Ingye,ingye,인계",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11910422,
+    "name": "Gurim",
+    "alternatenames": "Gurim,gulim,구림",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11910537,
+    "name": "Gangjin",
+    "alternatenames": "Gangjin,gangjin,강진",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 11910783,
+    "name": "Donggye",
+    "alternatenames": "Donggye,dong-gye,동계",
+    "subcountry": "Jeollabuk-do"
+  },
+  {
+    "country": "KR",
+    "geonameid": 12001311,
+    "name": "Chilbo",
+    "alternatenames": "Chilbo,chilbo,칠보",
+    "subcountry": "Jeollabuk-do"
+  }
+]

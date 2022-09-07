@@ -1,0 +1,590 @@
+[
+  {
+    "country": "SD",
+    "geonameid": 363417,
+    "name": "Dongola",
+    "alternatenames": "Ciutat de Dongola,DOG,Dangola,Dongola,Donkola,Donqola,Dunkula,Dunqula,Dunqulah,Dunqulā,Nton'nkola,dnqla,dnqlh,dong gu la,dong-golla,dongola,dongora,Ντόνγκολα,Дангола,Донгола,دنقلا,دنقله,डोंगोला,ドンゴラ,棟古拉,동골라",
+    "subcountry": "Northern State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 363533,
+    "name": "Zalingei",
+    "alternatenames": "ZLX,Zalingee,Zalingei,Zalinguei,Zalinjay,Zalinje,Zalinji,Zālinjī,zalnjy,zalnjy (mdynt),Залингее,زالنجي,زالنجي (مدينة)",
+    "subcountry": "Central Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364027,
+    "name": "Wagar",
+    "alternatenames": "Wagar,Wagga",
+    "subcountry": "Kassala"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364071,
+    "name": "Wad Rawah",
+    "alternatenames": "Hillet Sa`id,Hillet Sa‘id,Wad Rawa,Wad Rawah,Wad Rāwa,Wad Rāwah",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364103,
+    "name": "Wad Medani",
+    "alternatenames": "DNI,Medani,Wad Madani,Wad Medani,wd mdny,ود مدني",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364216,
+    "name": "Wad az Zaki",
+    "alternatenames": "Wad az Zaki,Wad az Zāki,Wad ez Zaki",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364706,
+    "name": "Umm Ruwaba",
+    "alternatenames": "Um Ruaba,Um Ruwwaba,Um Ruwwāba,Umm Ruwaba,Umm Ruwabah,Umm Ruwābah",
+    "subcountry": "North Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364933,
+    "name": "Umm Kaddadah",
+    "alternatenames": "Um Kaddada,Umm Kaddadah,Umm Kaddādah,Umm Keddada",
+    "subcountry": "Northern Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 364949,
+    "name": "Um Jar Al Gharbiyya",
+    "alternatenames": "Um Jar Al Gharbiyya,Umm Garr,Umm Jarr",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 365137,
+    "name": "Omdurman",
+    "alternatenames": "Omdoerman,Omdourman,Omdurman,Omdurmana,Omdurmanas,Omdurmán,Omdurmāna,Umm Durman,Umm Durmán,Umm Durmān,am drman,ama daramana,en tu man,omduleuman,omdurman,omdurmani,omudouruman,xxm de xr man,Омдурман,Омдурман қаласы,אומדורמאן,أم درمان,ام درمان,ਅਮ ਦਰਮਾਨ,ออมเดอร์มาน,ომდურმანი,オムドゥルマン,恩图曼,옴두르만",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 366323,
+    "name": "Tokar",
+    "alternatenames": "Taukar,Tawkar,Tokar,Tokār,twkr,Ţawkar,طوكر",
+    "subcountry": "Red Sea"
+  },
+  {
+    "country": "SD",
+    "geonameid": 366426,
+    "name": "Tandalti",
+    "alternatenames": "Tandalti,Tandaltī,Tendelti",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 366487,
+    "name": "Talodi",
+    "alternatenames": "Talawdi,Talawdī,Talodi",
+    "subcountry": "Southern Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 366847,
+    "name": "Singa",
+    "alternatenames": "Senga,Singa,Sinja,Sinjah,snjt,سنجة",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 367308,
+    "name": "Shendi",
+    "alternatenames": "Shandi,Shendi,Shindi,Shindî",
+    "subcountry": "River Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 367544,
+    "name": "Sawakin",
+    "alternatenames": "Savakine,Sawakin,Sawākin,Suakin,Савакине",
+    "subcountry": "Red Sea"
+  },
+  {
+    "country": "SD",
+    "geonameid": 367644,
+    "name": "Sinnar",
+    "alternatenames": "Sannar,Sannār,Sennaar,Sennar,Sennār,Sinnar",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 368277,
+    "name": "Rabak",
+    "alternatenames": "KST,Rabak,Rabaq,rbk,ربك",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 369004,
+    "name": "Nyala",
+    "alternatenames": "N'jala,Niala,Nijala,Niyala,Niyālā,Njala,Njalo,Nyala,Nyāla,UYL,ni ya la,nialla,nyala,nyalh,nyara,Ньяла,نيالا,نیاله,ニャラ,尼亚拉,니알라",
+    "subcountry": "Southern Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 370481,
+    "name": "Merowe",
+    "alternatenames": "MWE,Marawi,Marawī,Merawi,Merowe",
+    "subcountry": "Northern State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 370510,
+    "name": "Marabba",
+    "alternatenames": "Marabba",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 370838,
+    "name": "Maiurno",
+    "alternatenames": "Maiurno",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 371745,
+    "name": "Kutum",
+    "alternatenames": "Kutum",
+    "subcountry": "Northern Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 371760,
+    "name": "Kosti",
+    "alternatenames": "Costi,KST,Kosti,Kusti,Kūstī,rbk,Кусти,ربك",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 371827,
+    "name": "Kurmuk",
+    "alternatenames": "Kurmuk,Kurmul",
+    "subcountry": "Blue Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 371870,
+    "name": "Kuraymah",
+    "alternatenames": "Kareima,Karemah,Karima,Karêmah,Kuraymah",
+    "subcountry": "Northern State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 372386,
+    "name": "Kinana",
+    "alternatenames": "Kenana,Kinana,Kinanah,Kināna,Kinānah",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 372753,
+    "name": "Kassala",
+    "alternatenames": "Cassala,KSL,Kasala,Kassala,Kassale,Kassalā,Kaszala,Statul Kassala,ka sa la,kasalla,kassara,ksl,ksla,Кассала,Кассале,كسل,كسلا,کسلا,カッサラ,卡薩拉,카살라",
+    "subcountry": "Kassala"
+  },
+  {
+    "country": "SD",
+    "geonameid": 372801,
+    "name": "Karmah an Nuzul",
+    "alternatenames": "Karma An Nuzul,Karmah,Karmah an Nuzul,Kerma,Kerma en Nuzl,Kermah",
+    "subcountry": "Northern State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 373141,
+    "name": "Kadugli",
+    "alternatenames": "KDX,Kadugli,Kaduqli,Kāduqlī,kadqly,Кадугли,كادقلى,كادقلي",
+    "subcountry": "Southern Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 375046,
+    "name": "Gebeit",
+    "alternatenames": "Gebeit,Jabet,Jabēt",
+    "subcountry": "Red Sea"
+  },
+  {
+    "country": "SD",
+    "geonameid": 375192,
+    "name": "Jalqani",
+    "alternatenames": "Galgani,Jalqani",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 376332,
+    "name": "Doka",
+    "alternatenames": "Doka",
+    "subcountry": "Al Qaḑārif"
+  },
+  {
+    "country": "SD",
+    "geonameid": 376450,
+    "name": "Dilling",
+    "alternatenames": "Ad Dalanj,Dilling,Диллинг",
+    "subcountry": "Southern Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 377039,
+    "name": "Port Sudan",
+    "alternatenames": "Bur Sudan,Burt Sudan,Būr Sūdān,Būrt Sūdān,New Sawakin,New Sawâkin,PZU,Port Sodan,Port Sudan,Port Sudanas,Port Szudan,Port Szudán,Port-Soudan,Port-Sudan,Port-sudan,Porto Sudan,Porto Sudao,Porto Sudão,Puerto Sudan,Puerto Sudán,Pòrt Sodan,Shaikh Barghuth,Shaikh Barghūth,Shaykh Burghuth,Shaykh Burghūth,Sheikh Barghuth,Sheikh Barghūth,Sudanhavenurbo,bwr swdan,bwrtswdan,phxrt sudan,poteusudan,potosudan,su dan gang,Порт Судан,Порт-Судан,Պորտ Սուդան,פורט סודאן,بور سودان,بورتسودان,پورٹ سوڈان,พอร์ตซูดาน,ポートスーダン,苏丹港,포트수단",
+    "subcountry": "Red Sea"
+  },
+  {
+    "country": "SD",
+    "geonameid": 377045,
+    "name": "Burri Al Drayssah",
+    "alternatenames": "bry aldrayst,بري الدرايسة",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 377690,
+    "name": "Berber",
+    "alternatenames": "Barbar,Berber",
+    "subcountry": "River Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 377724,
+    "name": "Barah",
+    "alternatenames": "Bara,Barah,Bāra,Bārah",
+    "subcountry": "North Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378231,
+    "name": "Atbara",
+    "alternatenames": "ATB,Atbara,Atbarah,Atbare,Madent Atbara,`Atbarah,a te ba la,atobara,Атбара,Атбаре,عطبرة,عطبره,‘Aţbarah,アトバラ,阿特巴拉",
+    "subcountry": "River Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378271,
+    "name": "As Suki",
+    "alternatenames": "As Suki,As Sūkī,Es Suki",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378459,
+    "name": "Ar Ruseris",
+    "alternatenames": "Ar Roseris,Ar Rusayris,Ar Ruseris,Ar Ruşayriş,Er Roseires,Ruseres,Ruṣêreṣ",
+    "subcountry": "Blue Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378493,
+    "name": "Ar Rahad",
+    "alternatenames": "Ar Rahad,Er Rahad,Rahad",
+    "subcountry": "North Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378502,
+    "name": "Aroma",
+    "alternatenames": "Aroma",
+    "subcountry": "Kassala"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378543,
+    "name": "Argo",
+    "alternatenames": "Argo,Arqo",
+    "subcountry": "Northern State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 378699,
+    "name": "An Nuhud",
+    "alternatenames": "Al Nihood,An Nahud,An Nahūd,An Nuhud,An Nuhūd,Elnihood,En Nahud,En Nahūd,NUD,Nahad,alnhwd,النهود",
+    "subcountry": "West Kordofan State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379003,
+    "name": "El Obeid",
+    "alternatenames": "Al Obayyid,Al Ubayd,Al Ubayyid,Al Ubayyiḑ,Al-Ubayyid,Al-`Obed,Al-‘Obêd,EBD,El Obeid,El Ubeiyad,`Ubed,alaby,Ел Обеид,الأبي,‘Ubêd",
+    "subcountry": "North Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379014,
+    "name": "Al Qitena",
+    "alternatenames": "Al Qitena,Al Qiţena,Al Qutaynah,Al Quţaynah,El Geteina,El Qeteina",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379062,
+    "name": "Al Qadarif",
+    "alternatenames": "Al Qadarif,Al Qaḑārif,Al-Kadarif,Al-Qadarif,Al-Qaḑārif,El Gedaref,El-Gadarif,GSU,Gadaref,Gadarif,Gedaref,alqdarf,jia da li fu,Гедареф,אל-קדריף,القضارف,加达里夫",
+    "subcountry": "Al Qaḑārif"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379080,
+    "name": "Al Masallamiyya",
+    "alternatenames": "Al Masallamiyya,Al Musallamiyah,Al Musallamīyah,El Mesellemiya,Mesellemiya,Messelemiya",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379102,
+    "name": "Al Mijlad",
+    "alternatenames": "Al Mijlad,Al Mujlad,El Muglad,Muglad",
+    "subcountry": "West Kordofan State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379127,
+    "name": "El Matama",
+    "alternatenames": "Al Matamma,Al Matammah,El Matama,El Metemma,Matammah,Maṭammah,Metemma",
+    "subcountry": "River Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379149,
+    "name": "Al Manaqil",
+    "alternatenames": "Al Manaqil,Al Manāqil,El Managil,El Manaqil,El Manāqil,Manaqil",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379198,
+    "name": "Al Lagowa",
+    "alternatenames": "Al Lagawa,Al Lagowa,Al Lagāwa,El Lagowa",
+    "subcountry": "West Kordofan State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379252,
+    "name": "Khartoum",
+    "alternatenames": "Al Khartum,Al Kharţūm,Al Khurtum,Al Khurţūm,Cartum,Cartúm,Chartoum,Chartum,Chartumas,Chartúm,Hartum,Hartumo,Jartum,KRT,Kartum,Kartúm,Khartoem,Khartoum,Khartoun,Khartum,Khartun - alkhrtwm,Khartún - الخرطوم,aaalkhrtwm,haleutum,harutsumu,hrtwm,karttaum,ke tu mu,khartwm,khrtwm,Ĥartumo,Χαρτούμ,Картум,Хартум,חרטום,ااالخرطوم,خارطوم,خرطوم,கார்த்தௌம்,ཁར་ཏུམ,ካርቱም,ハルツーム,喀土穆,하르툼",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379261,
+    "name": "Al Kiremit al `Arakiyyin",
+    "alternatenames": "Al Kereimet,Al Kiremit al `Arakiyyin,Al Kiremit al ‘Arakiyyīn,El Kereimet,Kereimet",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379272,
+    "name": "Al Kawa",
+    "alternatenames": "Al Kawa,Al Kawah,El Kawa,Kawa",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379303,
+    "name": "Geneina",
+    "alternatenames": "Aj Jinena,Aj Jinēna,Al Geneina,Al Jeneina,Al Jinena,Al Jinēna,Al Junaynah,EGN,El Geneina,Geneina,aljnynt,الجنينة",
+    "subcountry": "Western Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379406,
+    "name": "Al Hilaliyya",
+    "alternatenames": "Al Hilaliyah,Al Hilaliyya,Al Hilāliyya,Al Hilālīyah,El Hilaliya,El Hilāliya,Hilaliya",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379416,
+    "name": "Al Hawatah",
+    "alternatenames": "Al Hawatah,Al Hawwata,Al Ḩawātah,El Hawata",
+    "subcountry": "Al Qaḑārif"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379427,
+    "name": "Al Hasaheisa",
+    "alternatenames": "Al Hasaheisa,Al Hasahisa,Al Ḩaşāḩīşa,El Hasaheisa,El Hasiheisa,Hasiheisa",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379535,
+    "name": "Al Fulah",
+    "alternatenames": "Al Fulah,Al Fūlah,Al-Fula,El Fula,Rigl el Fula,Rijl Al Fula",
+    "subcountry": "Southern Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379555,
+    "name": "El Fasher",
+    "alternatenames": "Al Fashir,Al Fāshir,Al-Faschir,Al-Fashir,ELF,Ehl'-Fashir,El Fasher,Tendelti,Эль-Фашир",
+    "subcountry": "Northern Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 379630,
+    "name": "El Bauga",
+    "alternatenames": "Al Bauga,El Bauga",
+    "subcountry": "River Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380129,
+    "name": "Ad Douiem",
+    "alternatenames": "Ad Diwem,Ad Douiem,Ad Duwaym,Ad Duwem,Ad Duwēm,Al Dewaym,Dewaim,Dueim,Ed Dueim,Ehd-Duehjm,aldwym,aldwym (mdynt),Эд-Дуэйм,الدويم (مدينة),الدویم",
+    "subcountry": "White Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380148,
+    "name": "El Daein",
+    "alternatenames": "ADV,Ad Du'ayn,Ed Daein,El Daein,aldʿyn,الضعين,الضعین",
+    "subcountry": "Eastern Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380151,
+    "name": "Ad Dindar",
+    "alternatenames": "Ad Dindar",
+    "subcountry": "Sinnār"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380173,
+    "name": "Ed Damer",
+    "alternatenames": "Ad Damar,Ad Damir,Ad Dāmir,Ad-Damir,Al-Damir,Ed Damer,El Damar,aldamr,الدامر",
+    "subcountry": "River Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380174,
+    "name": "Ad-Damazin",
+    "alternatenames": "Ad Damazin,Ad Damāzīn,Ad-Damazin,Damazin,Ed Damazin,RSS,aldmazyn,Ед Дамазин,الدمازين",
+    "subcountry": "Blue Nile"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380186,
+    "name": "Ad Dabbah",
+    "alternatenames": "Ad Dabba,Ad Dabbah,Al Dabbah,Dabbah,Debba,Debbat el Muaskar,Debbeh,EDB,Ed Debba",
+    "subcountry": "Northern State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380348,
+    "name": "Abu Zabad",
+    "alternatenames": "Abu Zabad,Abū Zabad",
+    "subcountry": "West Kordofan State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 380757,
+    "name": "Abu Jibeha",
+    "alternatenames": "Abu Gibeyah,Abu Gubeiha,Abu Jibeha,Abu Jubayhah,Abu-Gebeiha,Abū Jubayhah",
+    "subcountry": "Southern Kordofan"
+  },
+  {
+    "country": "SD",
+    "geonameid": 6992529,
+    "name": "Burri Al Shreef",
+    "alternatenames": "Burri Al Shreef,bry alshryf,بري الشريف",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 6992531,
+    "name": "Nasir Extension",
+    "alternatenames": "Nasir,amtdad nasr,nasr,امتداد ناصر,ناصر",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 6992533,
+    "name": "Al Manshiya",
+    "alternatenames": "Al Manshiya,almnshyt,المنشية",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 6992535,
+    "name": "Al Giref Gharb",
+    "alternatenames": "Al Giref Gharb",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 7026103,
+    "name": "Najaru qryt njrw",
+    "alternatenames": "Najaru",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 8504621,
+    "name": "Gereida",
+    "alternatenames": "",
+    "subcountry": "Southern Darfur"
+  },
+  {
+    "country": "SD",
+    "geonameid": 10242960,
+    "name": "Burri Al Lamab",
+    "alternatenames": "bry allamab,بري اللاماب",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 11003055,
+    "name": "El Fula",
+    "alternatenames": "Al Fulah,Al Fūlah,Al-Fula,El Fula,alfwlt,الفولة",
+    "subcountry": "West Kordofan State"
+  },
+  {
+    "country": "SD",
+    "geonameid": 11205130,
+    "name": "Burri Al Mahas",
+    "alternatenames": "bry almhs,بري المحس",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 12104575,
+    "name": "Nagaro",
+    "alternatenames": "",
+    "subcountry": "Al Jazīrah"
+  },
+  {
+    "country": "SD",
+    "geonameid": 12324108,
+    "name": "Riyadh",
+    "alternatenames": "alryad,الرياض",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 12324109,
+    "name": "Al Taif",
+    "alternatenames": "altayf,الطائف",
+    "subcountry": "Khartoum"
+  },
+  {
+    "country": "SD",
+    "geonameid": 12324110,
+    "name": "Garden City",
+    "alternatenames": "jardn syty,qardn syty,جاردن سيتي,قاردن سيتي",
+    "subcountry": "Khartoum"
+  }
+]

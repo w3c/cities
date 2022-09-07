@@ -1,0 +1,996 @@
+[
+  {
+    "country": "PY",
+    "geonameid": 3436547,
+    "name": "Yuty",
+    "alternatenames": "Yuty",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436585,
+    "name": "Ypacarai",
+    "alternatenames": "Ipacarai,Ypacarai,Ypacaray",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436595,
+    "name": "Yhu",
+    "alternatenames": "Ihu,Ihú,Yhu,Yhú",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436616,
+    "name": "Villa Ygatimi",
+    "alternatenames": "Igatimi,Igatimí,Terecany,Terecañy,Villa Ygatimi,Villa Ygatimí,Ygatimi,Ygatimí",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436617,
+    "name": "Fulgencio Yegros",
+    "alternatenames": "Fulgencio Yegros,Yegros",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436642,
+    "name": "Ybycui",
+    "alternatenames": "Ibycuy,Ybycui,Ybycul,Ybycuí",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436655,
+    "name": "Yataity del Norte",
+    "alternatenames": "Colonia Felipe Matiauda,Yataity del Norte",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436674,
+    "name": "Yaguaron",
+    "alternatenames": "Yaguaron,Yaguarón,Yaquaron",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436714,
+    "name": "Villarrica",
+    "alternatenames": "Vil'jarrika,Vil'jaryka,Viljarika,Villa Rica,Villarrica,Villarrica del Espiritu Santo,Villarrica del Espíritu Santo,Villarrika,bi ya li ka,biyalika,wyaryka,Вильяррика,Вільярріка,Вільярыка,ویاریکا,ویاریکا، پیراگوئے,ვილიარიკა,比亚里卡,비야리카",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436725,
+    "name": "Villa Hayes",
+    "alternatenames": "New Bordeaux,Nueva Burdeos,Remanzo,Villa Hayes,Villa Occidental",
+    "subcountry": "Presidente Hayes"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436727,
+    "name": "Villa Florida",
+    "alternatenames": "Florida,Villa Florida",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436728,
+    "name": "Villa Elisa",
+    "alternatenames": "Colonia Eliza,Villa Elisa",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436763,
+    "name": "Union",
+    "alternatenames": "Union,Unión",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436776,
+    "name": "Trinidad",
+    "alternatenames": "Trinidad",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436812,
+    "name": "Tobati",
+    "alternatenames": "Tobati,Tobaty,Tobatí",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436880,
+    "name": "Tacuati",
+    "alternatenames": "Tacuati,Tacuaty,Tacuatí",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436927,
+    "name": "Sapucai",
+    "alternatenames": "Sapucai,Sapucay,Sapucaí",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436943,
+    "name": "Santiago",
+    "alternatenames": "Santiago,Santiago De Las Misiones",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436959,
+    "name": "Santa Rosa",
+    "alternatenames": "Santa Rosa,Santa Rosa Misiones,Santa Rosa de Lima,Santa Rosa de la Misiones",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436968,
+    "name": "Santa Rita",
+    "alternatenames": "Santa Rita",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436977,
+    "name": "Santa Maria",
+    "alternatenames": "Santa Maria,Santa Maria de Fe,Santa María,Santa María de Fe",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3436987,
+    "name": "Santa Elena",
+    "alternatenames": "Santa Elena",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437021,
+    "name": "San Pedro de Ycuamandiyu",
+    "alternatenames": "San Pedro,San Pedro de Ycuamandiyu,San Pedro de Ycuamandiyú",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437022,
+    "name": "San Pedro del Parana",
+    "alternatenames": "San Pedro del Parana,San Pedro del Paraná",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437029,
+    "name": "San Patricio",
+    "alternatenames": "San Patricio",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437042,
+    "name": "San Miguel",
+    "alternatenames": "San Miguel",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437056,
+    "name": "San Lorenzo",
+    "alternatenames": "San Lorensas,San Lorenso,San Lorenzo,San Lorenzo del Campo Grande,San-Lorenso,san lwrynzw,san-lorenso,sheng luo lun suo,sn lwrnzw  paragwyh,Сан Лорензо,Сан-Лоренсо,سان لورينزو,سن لورنزو، پاراگوئه,სან-ლორენსო,聖洛倫索",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437059,
+    "name": "San Juan Nepomuceno",
+    "alternatenames": "San Juan Nepomuceno",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437062,
+    "name": "San Juan del Parana",
+    "alternatenames": "San Juan del Parana,San Juan del Paraná",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437063,
+    "name": "San Juan Bautista",
+    "alternatenames": "San Juan Bautista",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437074,
+    "name": "San Jose de los Arroyos",
+    "alternatenames": "San Jose,San Jose de los Arroyos,San José,San José de los Arroyos",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437086,
+    "name": "San Joaquin",
+    "alternatenames": "",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437088,
+    "name": "San Isidro de Curuguaty",
+    "alternatenames": "Curuguaty,San Isidro de Curuguaty,Villa Curuguaty",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437107,
+    "name": "San Cosme y Damian",
+    "alternatenames": "San Cosme,San Cosme y Damian,San Cosme y Damián",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437120,
+    "name": "San Bernardino",
+    "alternatenames": "San Bernardino",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437127,
+    "name": "San Antonio",
+    "alternatenames": "San Antonio",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437136,
+    "name": "San Alberto",
+    "alternatenames": "San Alberto",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437148,
+    "name": "Salto del Guaira",
+    "alternatenames": "Sal'to-del'-Guajra,Salto del Guaira,Salto del Guairá,Salto del Gvaira,Saltos de Guaira,Saltos de Guairá,sa er tuo de er gua,saltodelgwaila,saltw dyl gwayra,Сальто-дель-Гуайра,Сальто-дель-Ґуайра,سالتو دیل گوایرا,სალტო-დელ-გუაირა,薩爾托德爾瓜,살토델과이라",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437197,
+    "name": "Repatriacion",
+    "alternatenames": "Colonia Repatriacion,Colonia Repatriación,Repatriacion,Repatriación",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437215,
+    "name": "Quiindy",
+    "alternatenames": "Quiindy,Quyyndy",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437342,
+    "name": "Puerto Rosario",
+    "alternatenames": "Oculto,Puerto Rosario,Puerto Villa del Rosario",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437370,
+    "name": "Puerto Mayor Otano",
+    "alternatenames": "",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437444,
+    "name": "Presidente Franco",
+    "alternatenames": "Presidente Franco,Puerto Presidente Franco",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437495,
+    "name": "Piribebuy",
+    "alternatenames": "Piribebuy",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437499,
+    "name": "Pirayu",
+    "alternatenames": "Pirayu,Pirayú",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437514,
+    "name": "Pirapo",
+    "alternatenames": "Pirapo,Pirapó,Puerto Pirapo,Puerto Pirapó",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437526,
+    "name": "Pilar",
+    "alternatenames": "PIL,Pilar,Pilaras,Villa Pilar,bylar,pi la er,pillaleu,pylar,Пилар,Пілар,بيلار,پیلار,پیلار، پیراگوئے,პილარი,皮拉爾,필라르",
+    "subcountry": "Ñeembucú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437547,
+    "name": "Pedro Juan Caballero",
+    "alternatenames": "PJC,Pedro Chuan Kabaljeras,Pedro Huan Kabaljero,Pedro Juan Caballero,Pedro Khuan Kabalero,Pedro-Khuan-Kabal'ero,pdrw khwan kabalrw,pedeulohuankabayelo,pei de luo hu an ka wa lie luo,Педро Хуан Кабалеро,Педро-Хуан-Кабальеро,Педро-Хуан-Кабальєро,פדרו חואן קבאיירו,پدرو خوآن کابالرو,پیدرو خوان کابالیرو، پیراگوئے,პედრო-ხუან-კაბალიერო,ペドロ・フアン・カバリェロ市,佩德罗胡安卡瓦列罗,페드로후안카바예로",
+    "subcountry": "Amambay"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437600,
+    "name": "Paraguari",
+    "alternatenames": "Paraguari,Paraguarí,Paragvari,ba la gua li,palagwali,paragwary,Парагуари,Параґуарі,پاراگواری,პარაგუარი,巴拉瓜里,파라과리",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437637,
+    "name": "Obligado",
+    "alternatenames": "Colonia Doctor Pastor Obligado,Obligado",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437652,
+    "name": "Nueva Italia",
+    "alternatenames": "Colonia Nueva Italia,Nueva Italia",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437653,
+    "name": "Colonia Nueva Germania",
+    "alternatenames": "Colonia Nueva Germania,Nueva Germania",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437665,
+    "name": "Nemby",
+    "alternatenames": "Nemby,San Lorenzo de la Frontera",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437681,
+    "name": "Natalio",
+    "alternatenames": "Natalio,Teniente Primero Domingo Robledo",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437682,
+    "name": "Natalicio Talavera",
+    "alternatenames": "Colonia Natalicio Talavera,Natalicio Talavera,Natalico Talavera",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437689,
+    "name": "Naranjal",
+    "alternatenames": "Naranjal",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437696,
+    "name": "Nanawa",
+    "alternatenames": "Nanawa,Nanawua",
+    "subcountry": "Presidente Hayes"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437744,
+    "name": "Mbuyapey",
+    "alternatenames": "Mbuyapey",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437748,
+    "name": "Mbutuy",
+    "alternatenames": "Mbutuy,Mbutuý",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437763,
+    "name": "Mbocayaty",
+    "alternatenames": "Mbocayaty",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437815,
+    "name": "Los Cedrales",
+    "alternatenames": "Cedrales,Los Cedrales",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437842,
+    "name": "Limpio",
+    "alternatenames": "Limpio,Tapua",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437846,
+    "name": "Lima",
+    "alternatenames": "Lima",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437853,
+    "name": "La Paloma del Espiritu Santo",
+    "alternatenames": "La Paloma,La Paloma del Espiritu Santo,La Paloma del Espíritu Santo,Las Palomas",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437863,
+    "name": "Lambare",
+    "alternatenames": "Lambare,Lambaré,Lambarė,lambale,lambare,lambarh,lambary,lan ba lei,ranbare,Ламбаре,لامباره,لامباری,ლამბარე,ランバレ,蘭巴雷,람바레",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437868,
+    "name": "La Colmena",
+    "alternatenames": "Colonia La Colmena,La Colmena",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437898,
+    "name": "Jesus",
+    "alternatenames": "Jesus,Jesús",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437909,
+    "name": "Iturbe",
+    "alternatenames": "Iturbe",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437918,
+    "name": "Itaugua",
+    "alternatenames": "Itaugua,Itauguá,Itaugva,Ytaygua,aytaywgwa,yi tao gua,Итаугуа,ایتائوگوآ,იტაუგუა,伊陶瓜",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437920,
+    "name": "Itakyry",
+    "alternatenames": "Itakyry,Itaquyry,Ytaquyry",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437927,
+    "name": "Itape",
+    "alternatenames": "Itape,Itapé",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437935,
+    "name": "Itacurubi del Rosario",
+    "alternatenames": "Itacurabi,Itacurubi del Rosario,Itacurubí del Rosario",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437936,
+    "name": "Itacurubi de la Cordillera",
+    "alternatenames": "Itacurubi,Itacurubi de la Cordillera,Itacurubí de la Cordillera",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437954,
+    "name": "Ita",
+    "alternatenames": "Ita,Itá",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437962,
+    "name": "Isla Pucu",
+    "alternatenames": "Isla Pucu,Isla Pucú",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437982,
+    "name": "Independencia",
+    "alternatenames": "Colonia Independencia,Independencia",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3437997,
+    "name": "Hohenau",
+    "alternatenames": "Colonia Hohenau,Hohenau",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438034,
+    "name": "Guajayvi",
+    "alternatenames": "Guajayvi,Guayaibi,Guayaibí,Guayaybi",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438043,
+    "name": "Guarambare",
+    "alternatenames": "Guarambare,Guarambaré",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438064,
+    "name": "General Jose Eduvigis Diaz",
+    "alternatenames": "General Diaz,General Jose Eduvigis Diaz,General José Eduvigis Díaz,Jose Eduvigis Diaz,José Eduvigis Díaz",
+    "subcountry": "Ñeembucú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438066,
+    "name": "General Higinio Morinigo",
+    "alternatenames": "Colonia General Morinigo,Colonia General Morínigo,General Higinio Morinigo,General Higinio Morínigo,General Morinigo,General Morínigo",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438070,
+    "name": "General Elizardo Aquino",
+    "alternatenames": "Colonia General Acuino,Colonia General Elizardo Aquino,General Aquino,General Elizardo Aquino",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438076,
+    "name": "General Jose Maria Delgado",
+    "alternatenames": "Colonia General Delgado,General Delgado,General Jose Maria Delgado,General José María Delgado",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438080,
+    "name": "General Artigas",
+    "alternatenames": "Bobi,Bobi-Cango,Bobi-Cangó,Bobí,Cango,General Artigas",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438102,
+    "name": "Fuerte Olimpo",
+    "alternatenames": "Fuehrte-Olimpo,Fuerte Olimpas,Fuerte-Olimpo,OLK,Olimpo,ao lin bo bao,fwyrty awlympw,pueleute-ollimpo,Фуерте-Олімпо,Фуэрте-Олимпо,فویرتی اولیمپو,ფუერტე-ოლიმპო,奥林波堡,푸에르테올림포",
+    "subcountry": "Alto Paraguay"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438106,
+    "name": "Fram",
+    "alternatenames": "Fram",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438115,
+    "name": "Fernando de la Mora",
+    "alternatenames": "Fernando de la Mora,Fernando-de-la-Mor,fei er nan duo de la mo la,frnandw dla mwra,fyrnandw dy la mwra,pernando-de-la-mora,Фернандо де ла Мора,فرناندو دلا مورا,فيرناندو دي لا مورا,ფერნანდო-დე-ლა-მორა,費爾南多德拉莫拉",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438123,
+    "name": "Eusebio Ayala",
+    "alternatenames": "Barrero Grande,Eusebio Ayala",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438735,
+    "name": "Encarnacion",
+    "alternatenames": "ENO,Ehnkarnas'on,Encarnacao,Encarnacion,Encarnación,Encarnação,Enkarnas'jon,Enkarnasion,Enkarnasjonas,ankaransywn,en ka na xi weng,engkaleunasion,enkarunashion,xe ngkar na si xxng,Енкарнасион,Енкарнасьйон,Энкарнасьон,אנקרנסיון,انکارانسیون,انکارنسیون، پیراگوئے,เองการ์นาซีออง,ენკარნასიონი,エンカルナシオン,恩卡纳西翁,엥카르나시온",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438738,
+    "name": "Emboscada",
+    "alternatenames": "Emboscada",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438743,
+    "name": "Edelira",
+    "alternatenames": "Antidia de Matiauda,Edelira",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438753,
+    "name": "Doctor Juan Manuel Frutos",
+    "alternatenames": "Doctor Juan M. Frutos,Doctor Juan Manuel Frutos,Ex Pastoreo,Juan M. Fruto",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438754,
+    "name": "Doctor Juan Leon Mallorquin",
+    "alternatenames": "Caarendy,Colonia Doctor Juan Leon Mallorquin,Colonia Doctor Juan León Mallorquín,Colonia J.L. Mallorquin,Colonia J.L. Mallorquín,Doctor J. Leon Mallorquin,Doctor J. León Mallorquín,Doctor Juan Leon Mallorquin,Doctor Juan León Mallorquín,J. Leon Mallorquin",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438755,
+    "name": "Doctor Cecilio Baez",
+    "alternatenames": "Cecilio Baez,Cecilio Báez,Doctor Cecilio Baez,Doctor Cecilio Báez",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438816,
+    "name": "Corpus Christi",
+    "alternatenames": "Corpus Christi",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438819,
+    "name": "Coronel Oviedo",
+    "alternatenames": "Ajos,Coronel Oviedo,Koronel Ovjedas,Koronel Ovyedo,Koronel'-Ov'edo,ao wei duo shang xiao zhen,kolonel-obiedo,kwrwnl awwydw,kwrwnyl awwydw,Коронель-Овьедо,Коронель-Овьєдо,Կորոնել Օվյեդո,کورونل اوویدو,کورونیل اوویدو,კორონელ-ოვიედო,コロネル・オビエド,奥维多上校镇,코로넬오비에도",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438822,
+    "name": "Coronel Martinez",
+    "alternatenames": "Coronel Martinez,Coronel Martínez,Martinez",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438834,
+    "name": "Concepcion",
+    "alternatenames": "CIO,Conceicao,Conceição,Concepcion,Concepción,Konseps'on,Konsepsjonas,Villa Concepcion,Villa Concepción,Консепсьон",
+    "subcountry": "Concepción"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438872,
+    "name": "Yguazu",
+    "alternatenames": "Colonia Yguazu,Colonia Yguazú,Yguazu,Yguazú",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438977,
+    "name": "Minga Pora",
+    "alternatenames": "Colonia Minga Pora,Colonia Minga Porá,Minga Pora,Minga Porá",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438981,
+    "name": "Colonia Menno",
+    "alternatenames": "Colonia Menno",
+    "subcountry": "Boquerón"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438991,
+    "name": "Colonia Mauricio Jose Troche",
+    "alternatenames": "Colonia Cosme,Colonia Mauricio J. Troche,Colonia Mauricio Jose Troche,Colonia Mauricio José Troche,Cosme,Mauricio Jose Troche,Mauricio José Troche",
+    "subcountry": "Guairá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3438995,
+    "name": "Mariano Roque Alonso",
+    "alternatenames": "Colonia Mariano Roque Alonso,Colonia Roque Alonso,Mariano Roque Alonso",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439032,
+    "name": "Colonia General Alfredo Stroessner",
+    "alternatenames": "Colonia General Alfredo Stroessner",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439062,
+    "name": "Katuete",
+    "alternatenames": "Colonia Catuete,Katuete,Katueté",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439101,
+    "name": "Ciudad del Este",
+    "alternatenames": "AGT,Ciudad Presidente Stroessner,Ciudad del Este,Presidente Stroessner,Puerto Presidente Stroessner,S'judad-del'-Ehste,S'judad-del'-Este,Sijudad del Este,Siudad del Este,Siudad del Estė,Sjudad Del Este,Sjudad del Este,dong fang shi,siudadeudel-eseute,siw dad del xe s te,sywdad dl asth,Сиудад дел Есте,Сијудад дел Есте,Сьюдад-дель-Есте,Сьюдад-дель-Эсте,Сјудад дел Есте,סיודאד דעל עסטע,סיודד דל אסטה,سیوداد دل استه,سیوداد دیل استے,ซิวดัดเดลเอสเต,სიუდად-დელ-ესტე,シウダー・デル・エステ,東方市,시우다드델에스테",
+    "subcountry": "Alto Paraná"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439108,
+    "name": "Chore",
+    "alternatenames": "Chore",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439133,
+    "name": "Cerrito",
+    "alternatenames": "Cerrito",
+    "subcountry": "Ñeembucú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439156,
+    "name": "Carmen del Parana",
+    "alternatenames": "Carmen,Carmen del Parana,Carmen del Paraná",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439159,
+    "name": "Carlos Antonio Lopez",
+    "alternatenames": "Carlos Antonio Lopez,Carlos Antonio López,Colonia Carlos Antonio Lopez,Colonia Carlos Antonio López",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439163,
+    "name": "Carayao",
+    "alternatenames": "Carayao,Carayaó",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439167,
+    "name": "Carapegua",
+    "alternatenames": "Carapegua,Carapeguá",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439175,
+    "name": "Caraguatay",
+    "alternatenames": "Caraguatay",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439184,
+    "name": "Capitan Miranda",
+    "alternatenames": "Capitan Miranda,Capitán Miranda,Colonia Capitan Miranda,Colonia Capitán Miranda",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439189,
+    "name": "Capitan Bado",
+    "alternatenames": "Capitan Bado,Capitán Bado",
+    "subcountry": "Amambay"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439208,
+    "name": "Capiibary",
+    "alternatenames": "Capiibary,Capiíbary",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439214,
+    "name": "Capiata",
+    "alternatenames": "Capiata,Capiatá,Capista,Kapiata,Kapiatã,Kapijata,Kapjata,ka pi ya ta,kapiata,kapyata,Капијата,کاپیاتا,კაპიატა,カピアタ,卡皮亞塔,카피아타",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439297,
+    "name": "Caazapa",
+    "alternatenames": "Caazapa,Caazapá,Kaasapa,Kaazapa,ka sa pa,kasapa,Каазапа,کاساپا,კაასაპა,卡薩帕,카사파",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439304,
+    "name": "Caapucu",
+    "alternatenames": "Caapucu,Caapucú",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439317,
+    "name": "Caaguazu",
+    "alternatenames": "Caaguazu,Caaguazú",
+    "subcountry": "Caaguazú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439320,
+    "name": "Caacupe",
+    "alternatenames": "Caacupe,Caacupé,Kaakupe,ka ku pei,kakupe,kayakwph,Каакупе,کائاکوپه,کاکوپے,კააკუპე,卡庫佩,카쿠페",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439325,
+    "name": "Buena Vista",
+    "alternatenames": "Buena Vista",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439348,
+    "name": "Benjamin Aceval",
+    "alternatenames": "Benjamin Aceval,Benjamín Aceval,Colonia Aceval,Colonia Benjamin Aceval,Colonia Benjamín Aceval",
+    "subcountry": "Presidente Hayes"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439352,
+    "name": "Bella Vista",
+    "alternatenames": "Bella Vista,Bella Vista de Alto Parana,Bella Vista de Alto Paraná,Colonia Bella Vista",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439353,
+    "name": "Bella Vista",
+    "alternatenames": "Bella Vista,Bella Vista Norte",
+    "subcountry": "Amambay"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439355,
+    "name": "Belen",
+    "alternatenames": "Belen,Belén",
+    "subcountry": "Concepción"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439378,
+    "name": "Ayolas",
+    "alternatenames": "AYO,Ayolas,Juan de Ayolas",
+    "subcountry": "Misiones"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439386,
+    "name": "Atyra",
+    "alternatenames": "Atyra,Atyrá",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439389,
+    "name": "Asuncion",
+    "alternatenames": "ASU,Asounsion,Asounsyon,Asounsyòn,Asounthion,Assumptio,Assuncao,Assuncion,Assunção,Asuncion,Asunciono,Asunción,Asuns'jon,Asuns'on,Asunsaun,Asunsion,Asunsjon,Asunsjona,Asunsjonas,Asunson,Asunsyon,Asunsyun,Asúnsjón,Gunung Berapi Asuncion,La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,Nuestra Senora Santa Maria de la Asuncion,Nuestra Señora Santa María de la Asunción,Paraguay,acunciyon,asnshn,asunshion,asunsion,asunsioni,asunsiyona,asusi'ona,aswnsywn,xa sun si xxng,ya song sen,Ασουνθιόν,Ασουνσιόν,Асунсион,Асунсьйон,Асунсьон,Асунсьён,Ասունսյոն,אסונסיאן,אסונסיון,آسونسیون,أسونسيون,ئاسۇنسىئون,اسنشن,اسونسیون,आसुन्सियोन,ਅਸੂੰਸੀਓਨ,அசுன்சியோன்,ಅಸೂನ್‌ಸಿಯಾನ್,อะซุนซิออง,ཨ་སུན་སི་འན།,ასუნსიონი,አሱንሲዮን,アスンシオン,亞松森,아순시온",
+    "subcountry": "Asunción"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439395,
+    "name": "Arroyos y Esteros",
+    "alternatenames": "Arroyos y Esteros",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439402,
+    "name": "Tomas Romero Pereira",
+    "alternatenames": "Arquitecto Tomas Romero Pereira,Arquitecto Tomás Romero Pereira,Tomas Romero Pereira,Tomás Romero Pereira",
+    "subcountry": "Itapúa"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439403,
+    "name": "Aregua",
+    "alternatenames": "Aregua,Areguá",
+    "subcountry": "Central"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439423,
+    "name": "Antequera",
+    "alternatenames": "Antequera,Colonia Antequera,Puerto Antequera",
+    "subcountry": "San Pedro"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439439,
+    "name": "Altos",
+    "alternatenames": "Altos",
+    "subcountry": "Cordillera"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439482,
+    "name": "Acahay",
+    "alternatenames": "Acahai,Acahay,Acahaí",
+    "subcountry": "Paraguarí"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3439483,
+    "name": "Abai",
+    "alternatenames": "Abai,Abay,Abaí",
+    "subcountry": "Caazapá"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3480780,
+    "name": "Horqueta",
+    "alternatenames": "Horqueta",
+    "subcountry": "Concepción"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3867291,
+    "name": "Filadelfia",
+    "alternatenames": "Colonia Filadelfia,FLM,Filadelfia,Filadelfija,Filadelfio,Philadelphia",
+    "subcountry": "Boquerón"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3867411,
+    "name": "Colonia Neuland",
+    "alternatenames": "Colonia Neuland",
+    "subcountry": "Boquerón"
+  },
+  {
+    "country": "PY",
+    "geonameid": 3867427,
+    "name": "Capitan Pablo Lagerenza",
+    "alternatenames": "Capitan Pablo Lagerenza,Capitán Pablo Lagerenza,Fortin Ingavi,Fortín Ingavi,Ingavi,Lagerenza,Mayor Pablo Lagerenza,Mayor Paulo Lagerenza",
+    "subcountry": "Alto Paraguay"
+  },
+  {
+    "country": "PY",
+    "geonameid": 11205611,
+    "name": "Nueva Esperanza",
+    "alternatenames": "",
+    "subcountry": "Canindeyú"
+  },
+  {
+    "country": "PY",
+    "geonameid": 11524096,
+    "name": "Colonia San Lorenzo",
+    "alternatenames": "",
+    "subcountry": "Itapúa"
+  }
+]

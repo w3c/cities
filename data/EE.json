@@ -1,0 +1,772 @@
+[
+  {
+    "country": "EE",
+    "geonameid": 587440,
+    "name": "Vaendra",
+    "alternatenames": "Alt-Fennern,Fennern,Staryy Fennern',Staryy Fennern’,Vaendra,Vana Vendre,Vana-Vandra,Vana-Vendra,Vana-Vyandra,Vana-Vändra,Vandra,Vendra,Vjandra,Vyandra,Vändra,Vėndra,Вяндра",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587450,
+    "name": "Voru",
+    "alternatenames": "Verava,Veri,Verro,Veru,Viru,Voru,Voru vald,Vuru,Vyro osh,Vyru,Võru,Võru vald,Vıru,Werro,Woru,Wöru,beolu,viru,vuoru,wo lu,wwrw,Виру,Въру,Выро ош,Выру,Վիռու,וורו,وورو,ვირუ,ヴォル,沃魯,버루",
+    "subcountry": "Võrumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587517,
+    "name": "Vohma",
+    "alternatenames": "Myasto Vykhma,Vechma,Vehma,Vekhma,Vihma,Vikhma,Vohma,Vukhma,Vykhma,Võhma,Vıhma,Wochma,Wohma,Wöchma,Wöhma,vihma,wo he ma,wwhma,Вихма,Въхма,Выхма,Վիհմա,ووهما,ვიჰმა,沃赫馬",
+    "subcountry": "Viljandimaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587571,
+    "name": "Vinni",
+    "alternatenames": "Myza Vinni,Vinni,Vinni Asundus",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587577,
+    "name": "Viljandi",
+    "alternatenames": "Felin,Fellin,Vil'jandi,Vil'jandzi,Vil'yandi,Vilande,Vilandi,Viljandi,Viljandis,Vilyandi,Vil’yandi,Vylande,Vylandė,Vīlande,Wiljandi,billyandi,fylyandy,viliandi,vuiryandi,wei er yang di,wylyandy,Вильянди,Вилянди,Виљанди,Вільяндзі,Вільянді,Վիլյանդի,ויליאנדי,فيلياندي,ویلیاندی,ვილიანდი,ヴィリャンディ,維爾揚迪,빌랸디",
+    "subcountry": "Viljandimaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587620,
+    "name": "Viiratsi",
+    "alternatenames": "Myza Viratsi,Viiratsi",
+    "subcountry": "Viljandimaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587629,
+    "name": "Viimsi",
+    "alternatenames": "Myza Viymsi,Viimsi",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587739,
+    "name": "Vaerska",
+    "alternatenames": "Vaerska,Varska,Verhoulitsa,Verhulitsa,Verkhoust'ye,Verkhoust’ye,Verska,Vjarska,Värska,Werchoustinsk,Werchoustje,Вярска",
+    "subcountry": "Võrumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587826,
+    "name": "Vana-Antsla",
+    "alternatenames": "Vana-Antsla",
+    "subcountry": "Võrumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587876,
+    "name": "Valga",
+    "alternatenames": "Valga,Valga i Estland,Valga osh,Valk,Valka,Valqa,Walga,Walk,balga,valga,vuaruga,wa er jia,walga  astwny,walga  astwnya,wlgh,Валга,Валга ош,Валка,Վալգա,ולגה,والگا، استونی,والگا، استونیا,ვალგა,ヴァルガ,瓦爾加,발가",
+    "subcountry": "Valgamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587923,
+    "name": "Vaeike-Maarja",
+    "alternatenames": "Klein-Marien,Klein-Sankt-Marien,Kleyn Mariyen,Sankt-Marien,Vaeike-Maarja,Vaike-Maaja,Vaike-Maarja,Vjajke-Maar'ja,Väike-Maaja,Väike-Maarja,Вяйке-Маарья",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 587938,
+    "name": "Vaida",
+    "alternatenames": "Vaida,Vajda,Vayda,Вайда",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588002,
+    "name": "Uulu",
+    "alternatenames": "Udiu,Ulu,Uulu,Уулу",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588015,
+    "name": "Uuemoisa",
+    "alternatenames": "Myza Uemyyza,Uuemoisa,Uuemõisa",
+    "subcountry": "Lääne"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588092,
+    "name": "UElenurme",
+    "alternatenames": "Ilenurme,Julenurme,TAY,UElenurme,Ülenurme,Юленурме",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588153,
+    "name": "Tueri",
+    "alternatenames": "Thurgel,Tiri,Tiuris,Tiūris,Tjuri,Tjuri osh,Tueri,Turgel,Turi,Tyuri,Türi,di li,twry  astwny,Тюри,Тюри ош,Тјури,Тӱри,Տյուռի,توری، استونی,ტიური,蒂里",
+    "subcountry": "Järvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588157,
+    "name": "Turba",
+    "alternatenames": "Turba,Турба",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588204,
+    "name": "Torva",
+    "alternatenames": "Helmut,Khel'met,Khel’met,Terva,Tirva,Torrwa,Torva,Torwa,Turva,Tyrva,Tõrva,Törrwa,Törwa,Tırvа,te er wa,twrwa,Тирва,Търва,Тырва,Տիռվա,توروا,ტირვა,特爾瓦",
+    "subcountry": "Valgamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588264,
+    "name": "Toila",
+    "alternatenames": "Commune de Toila,Comuna Toila,Gmina Toila,Toila,Toila Parish,Toila kommune,Toila vald,Tojla,Toyla,dhstan twyla,Тойла,Տոիլա,دهستان تویلا,ტოილის მუნიციპალიტეტი",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588311,
+    "name": "Tehumardi",
+    "alternatenames": "Tehumardi,Tekhumardi",
+    "subcountry": "Saare"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588335,
+    "name": "Tartu",
+    "alternatenames": "Derpt,Dorpat,TAY,Tarbatum,Tartto,Tartu,Terbata,Tērbata,Yur'yev,Yurev,taleutu,tarutou,trtw,Тарту,טרטו,ტარტუ,タルトゥ,타르투",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588348,
+    "name": "Tapa",
+    "alternatenames": "Tap,Tapa,Tapa i Estland,Tape,Taps,Tаpа,ta pa,tapa,Тапа,Тапе,Տապա,تاپا,ტაპა,塔帕,타파",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588365,
+    "name": "Tamsalu",
+    "alternatenames": "Tamsal,Tamsalu,Тамсалу",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588409,
+    "name": "Tallinn",
+    "alternatenames": "Castrum Danorum,Kallinn,Kolyvan,Lindanaes,Lindanäs,Raeaeveli,Reval,Revel,Revel',Rääveli,TLL,Taillinn,Talin,Talinas,Talini,Talino,Talins,Tallidn,Tallin,Tallin osh,Tallina,Tallinn,Tallinna,Talín,Tàllin,ta lin,talin,talina,tallin,tallina,tallyn,talyn,tarin,thallin n,Ταλίν,Ταλιν,Ταλλίν,Талин,Таллин,Таллин ош,Таллинн,Таллінн,Талін,Տալլին,טאלין,تاللىن,تالين,تالین,تاڵین,ٹالن,तालिन,ताल्लिन,তাল্লিন,ਤਾਲਿਨ,தாலின்,ടാലിൻ,ทาลลินน์,ཏཱལ་་ལིན།,ტალინი,ታሊን,タリン,塔林,탈린",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588449,
+    "name": "Taebla",
+    "alternatenames": "Myza Taebla,Taebla,Taebla Asundus",
+    "subcountry": "Lääne"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588454,
+    "name": "Tabasalu",
+    "alternatenames": "Tabasalu,Tabasalyu",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588532,
+    "name": "Suure-Jaani",
+    "alternatenames": "Gros Iogannis,Gross-Sankt-Johannis,Sur-Yani,Sure Janis,Sure-Jani,Suure-Jaani,Suure-Yaani,Suure-Yani,Suurе-Yaаni,Sūre Janis,Sūre-Jāni,su wu lei ya ni,suure-iaani,swrh-yany,Сууре-Яани,Սուուռե-Յաանի,سوره-یانی,სუურე-იაანი,蘇烏雷亞尼",
+    "subcountry": "Viljandimaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588673,
+    "name": "Sindi",
+    "alternatenames": "Sindi,Sindis,Tsintengof,Zinten,Zintenhof,sindi,syndy,xin di,Синди,Сінді,Սինդի,سیندی,სინდი,辛迪",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588686,
+    "name": "Sillamaee",
+    "alternatenames": "Commune de Sillamaee,Commune de Sillamäe,Silamae,Silameje,Silamejė,Silamiaje,Silamiajė,Silamjaeh,Sillamae,Sillamaee,Sillamagi,Sillame,Sillamjae,Sillamyae,Sillamäe,Sillamē,Sillаmyae,Suvilad,shirramae,silamiae,sillamaee,sillamjae,sillamjaeh,sylamayh,xi la mai ai,Силламяе,Силламяэ,Сиљамае,Сіламяэ,Сілламяе,Սիլլամյաե,سیلامائه,სილამიაე,シッラマエ,錫拉邁埃,실라매에",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588774,
+    "name": "Sauga",
+    "alternatenames": "Myza Sauga,Sauga",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588780,
+    "name": "Saue",
+    "alternatenames": "Miza Saue,Myza Saue,Saue,Saue i Estland,Saueh,Saueh osh,Sauė,saue,sayw,shao ai,Миза Сауе,Сауе,Сауэ,Сауэ ош,Саўэ,Սաուե,سائو,საუე,紹埃",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588792,
+    "name": "Saerevere",
+    "alternatenames": "Myza Syarevere,Saerevere,Sarevere,Sarevere Asundus,Serrefer,Sjarevere,Särevere,Särevere Asundus,Сяревере",
+    "subcountry": "Järvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588831,
+    "name": "Saku",
+    "alternatenames": "Commune de Saku,Comuna Saku,Gmina Saku,Paroki Saku,Saku,Saku Pairish,Saku Parish,Saku kommune,Saku vald,dhstan sakw,saku shi,Саку,Սակու,دهستان ساکو,საკუს მუნიციპალიტეტი,サク市",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588922,
+    "name": "Rummu",
+    "alternatenames": "",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588936,
+    "name": "Ruhnu",
+    "alternatenames": "Ronu sala,Roņu sala,Ruhnu,Rukhnu,Runo,Runoe,Runö,Runø,Vostrau Rukhnu,rufunu dao,ruhnu,rwhnw,rwknw,Востраў Рухну,Рухну,Ռուհնու,רוכנו,روهنو,რუჰნუ,ルフヌ島",
+    "subcountry": "Saare"
+  },
+  {
+    "country": "EE",
+    "geonameid": 588944,
+    "name": "Rouge",
+    "alternatenames": "Rauge,Rouge,Ryuge,Rõuge,Рыуге",
+    "subcountry": "Võrumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589024,
+    "name": "Riisipere",
+    "alternatenames": "Riesenberg,Riisipere,Rijzipere,Risipere,Riyzipere,Rizipere,Rozenberg',Rozenberg’,Рийзипере",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589116,
+    "name": "Rapla",
+    "alternatenames": "Odenkam,Rapl,Rapla,Rapla-kyulya,Raplakula,Raplaküla,Rappel,la pu la,lapeulla,rpla,Рапла,Ռապլա,رپلا,რაპლა,拉普拉,라플라",
+    "subcountry": "Raplamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589117,
+    "name": "Raepina",
+    "alternatenames": "Raepina,Rapin,Rapina,Rapino,Rjapina,Ryapina,Räpina,Ряпина",
+    "subcountry": "Põlvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589165,
+    "name": "Rakvere",
+    "alternatenames": "Rakvere,Rakvere osh,Rakvere_vald,Rakvereh,Rakverė,Rakwere,Rаkvеrе,Vezenberg,Wesenberg,la ke wei lei,lakeubele,rakuvuere,rakwrh,Раквере,Раквере ош,Ракверэ,Ռակվեռե,راکوره,راکویرہ,რაკვერე,ラクヴェレ,拉克韋雷,라크베레",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589166,
+    "name": "Rakke",
+    "alternatenames": "Racke,Rake,Rakke,Ракке",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589223,
+    "name": "Raasiku",
+    "alternatenames": "Commune de Raasiku,Comuna Raasiku,Gmina Raasiku,Harju Jani,Harju Jãni,Harju-Jaani,Paroki Raasiku,Raasiku,Raasiku Pairish,Raasiku Parish,Raasiku kommun,Raasiku kommune,Raasiku vald,Raaziku,Rasik,Rasiku,Razik',Razik’,Sankt-Johannis,dhstan rasykw,Раазику,Раазіку,Ռաասիկու,دهستان راسیکو,რააზიკუს მუნიციპალიტეტი",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589307,
+    "name": "Puhja",
+    "alternatenames": "Kawelecht,Puhja,Pukhja,Pukh'ya,Pukhiya,Pukh’ya,Пухъя",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589336,
+    "name": "Pringi",
+    "alternatenames": "Pringi",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589375,
+    "name": "Polva",
+    "alternatenames": "Pel've,Pelva,Pel’ve,Pilva,Polva,Polva Alevik,Polwa,Polwe,Pulva,Pyl'va,Pylva,Pylva osh,Pyl’va,Põlva,Põlva Alevik,Pölwa,Pölwe,Pılvа,peolba,po er wa,pwlwa,pylbh,Пилва,Пълва,Пылва,Пылва ош,Պիլվա,פילבה,پولوا,პილვა,珀爾瓦,펄바",
+    "subcountry": "Põlvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589379,
+    "name": "Poltsamaa",
+    "alternatenames": "Ober-Palen,Oberpahlen,Ober”-Palen”,Peltsama,Peltsamā,Pilcama,Piltsamaa,Poltsamaa,Poltsamaa_vald,Pyltsama,Pyltsamaa,Põltsamaa,Põltsamaa_vald,Pıltsаmаа,po er cha ma,pwltsama,Пилтсамаа,Пилцама,Пылтсамаа,Պիլցամաա,پولتساما,პილტსამაა,珀爾察馬",
+    "subcountry": "Jõgevamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589578,
+    "name": "Paernu-Jaagupi",
+    "alternatenames": "Jaagupi,Jakobi,Paernu-Jaagupi,Paernu-Jakobi,Pjarnu-Jaagupi,Pärnu-Jaagupi,Pärnu-Jakobi,Sankt-Jakobi,Sankt-Jakoby,Svyatogo Iakova,Yakobi,Пярну-Яагупи",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589580,
+    "name": "Paernu",
+    "alternatenames": "EPU,Paernu,Paernu linn,Parnawa,Pernau,Pernava,Pernavia,Piarnu,Pjarnu,Pärnu,Pärnu linn,Pērnava,Пярну,პიარნუ",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589663,
+    "name": "Paldiski",
+    "alternatenames": "Baltiiskii Port,Baltijas Ports,Baltischport,Baltiski,Baltiysk Port,Baltiyskiy Port,Paldiski,Paldiski osh,Paldiskis,Paltiski,Port Baltic,Port Baltique,Pаldiski,Ragervik,Rogervik,Rogowik,Rågervik,pa er di si ji,paldiseuki,paldysky,parutisuki,Палдиски,Палдиски ош,Палдіскі,Պալդիսկի,پالدیسکی,പാൾഡിസ്കി,პალდისკი,パルティスキ,帕爾迪斯基,팔디스키",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589688,
+    "name": "Pajusti",
+    "alternatenames": "Pajusti,Payusti,Паюсти",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589703,
+    "name": "Paikuse",
+    "alternatenames": "Paikuse",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589709,
+    "name": "Paide",
+    "alternatenames": "Paide,Paide_vald,Paidė,Pajde,Pajde osh,Pajdeh,Payde,Pаydе,Veisenshtein,Veisenshteyn,Veysenshteyn,Weissenstein,baydh,pai de,paide,paydh,Паиде,Пайде,Пайде ош,Пайдэ,Պաիդե,פאידה,بايده,پایده,پایدے,პაიდე,パイデ,派德,파이데",
+    "subcountry": "Järvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589782,
+    "name": "Otepaeae",
+    "alternatenames": "Nustago,Odenpae,Odenpaeh,Odenpe,Odenpä,Odenpäh,Otepaeae,Otepaeae Alev,Otepe,Otepea,Otepja,Otepya,Otepyae,Otepää,Otepää Alev,Otepē,Otepė,ao tai pei,awtpa,Отепя,Отепја,Օտեպյաե,אוטפה,اوتپا,ოტეპია,奧泰佩",
+    "subcountry": "Valgamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589796,
+    "name": "Orissaare",
+    "alternatenames": "Orisaara,Orisaare,Orisar,Orisare,Orissaar,Orissare,Orrisar,Orrissaar,Orrissar",
+    "subcountry": "Saare"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589922,
+    "name": "Karksi-Nuia",
+    "alternatenames": "Karksi,Karksi-Nuaj,Karksi-Nuia,Karksi-Nuya,Karkus,Nuia,Nuiya,Nuya,Nuyya,Каркси,Каркси-Нуай",
+    "subcountry": "Viljandimaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 589933,
+    "name": "Noo",
+    "alternatenames": "Neo,Niggen',Niggen’,Noo,Nueggen,Nuggen,Nyo,Nõo,Nüggen,Ныо",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590030,
+    "name": "Narva-Joesuu",
+    "alternatenames": "Gungerburg,Hungerburg,Naroova-Joesuu,Naroova-Jõesuu,Narva Ioesu,Narva Jeesu,Narva Jeesū,Narva Joesu,Narva-Iyesu,Narva-Iyesuu,Narva-Jesu,Narva-Joesu,Narva-Joesuu,Narva-Jyehsuu,Narva-Jyesuu,Narva-Jõesuu,Narva-Jēsū,Narva-Yiesuu,Narva-Yodsu,Narva-Yyesu,Narva-Yyesuu,Narva-Yıesuu,Narwa Joesuu,Narwa Jõesuu,na er wa yue ai su,narva-iiesuu,narwa-jwysw,Нарва-Јоесу,Нарва-Йыесуу,Нарва-Йыэсуу,ناروا-جوئسو,ნარვა-იიესუუ,納爾瓦約埃蘇",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590031,
+    "name": "Narva",
+    "alternatenames": "Naarva,Narv,Narva,Narva osh,Narvae,Narve,Narwa,Nаrvа,na er wa,naleuba,nar wa,narfa,naruvua,narva,narwa,nrbh,Νάρβα,Наарва,Нарвæ,Нарва,Нарва ош,Нарве,Նառվա,נרבה,نارفا,ناروا,นาร์วา,ნარვა,ナルヴァ,纳尔瓦,나르바",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590067,
+    "name": "Mustvee",
+    "alternatenames": "Chernii,Chernoe,Chernyy,Mustve,Mustvee,Mustveeh,Mustwee,Tschorna,Муствеэ",
+    "subcountry": "Jõgevamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590322,
+    "name": "Maerjamaa",
+    "alternatenames": "Maerjamaa,Mar'yama,Marjamaa,Mar’yama,Mer'yama,Merjama,Merjamā,Mer’yama,Mjar'jamaa,Myar'yama,Myar'yamaa,Myar’yama,Myar’yamaa,Märjamaa,Мярьямаа",
+    "subcountry": "Raplamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590447,
+    "name": "Maardu",
+    "alternatenames": "Maardu,Mardu,Mārdu,ma er du,maardu,maleudu,mardw,marudou,Маарду,Марду,Մաառդու,ماردو,მაარდუ,マールドゥ,馬爾杜,마르두",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590468,
+    "name": "Luunja",
+    "alternatenames": "Lun'ya,Lun’ya,Luun'ja,Luunga Asundus,Luunja,Myza Lun'ya,Myza Lun’ya,Луунья",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590537,
+    "name": "Loo",
+    "alternatenames": "Loo",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590552,
+    "name": "Loksa",
+    "alternatenames": "Loksa,Loxa,Локса",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590616,
+    "name": "Linakuela",
+    "alternatenames": "Lina,Linakula,Linakyula,Linaküla",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590637,
+    "name": "Liiva",
+    "alternatenames": "Liiva,Liyva,Moon,Muhu",
+    "subcountry": "Saare"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590657,
+    "name": "Lihula",
+    "alternatenames": "Fortecja i miza Likhula,Gmina Lihula,Leal,Ligulya,Lihula,Lihula vald,Likhula,Likhula osh,li hu la,lihula,lyhwla,Лихула,Лихула ош,Фортеця і миза Ліхула,Լիհուլա,لیهولا,ლიჰულა,利胡拉",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590888,
+    "name": "Kuusalu",
+    "alternatenames": "Commune de Kuusalu,Comuna Kuusalu,Gmina Kuusalu,Kusal,Kusalu,Kuusalu,Kuusalu Pairish,Kuusalu Parish,Kuusalu kommun,Kuusalu kommune,Kuusalu vald,Kuzal',Kuzal’,Paroki Kuusalu,dhstan kwsalw,ku sa lu xiang,Куусалу,Կուուսալու,دهستان کوسالو,კუუსალუს მუნიციპალიტეტი,库萨卢乡",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590939,
+    "name": "Kuressaare",
+    "alternatenames": "Arensburg,Arensburga,Kingisepp,Kingissepa,Kingissepp,Kurehssaareh,Kuresaar,Kuresaare,Kuresaari,Kuresare,Kuresarė,Kuressaare,Kuressaare osh,Kuresāre,Kurеssааrе,URE,ku lei sa lei,kulesale,kuresare,kwrsarh,Куресааре,Куресаре,Курессааре,Курессааре ош,Курэссаарэ,Կուռեսաառե,קורסארה,کورساره,کورہ سارہ,კურესაარე,クレサーレ,库雷萨雷,쿠레사레",
+    "subcountry": "Saare"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590945,
+    "name": "Kurepalu",
+    "alternatenames": "Kurepalu",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590975,
+    "name": "Kunda",
+    "alternatenames": "Kounda,Kund,Kunda,Kunda i Estland,Kundahafen,Kundа,Port-Kunda,kun da,kwnda  astwny,Кунда,Կունդա,کوندا، استونی,კუნდა,昆達",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 590977,
+    "name": "Kunda",
+    "alternatenames": "Kunda,Kunda Asundus,Myza Kunda,Кунда",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591076,
+    "name": "Kose",
+    "alternatenames": "Kose,Koze",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591078,
+    "name": "Kose",
+    "alternatenames": "Kosch,Kose,Kosh",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591086,
+    "name": "Korvekuela",
+    "alternatenames": "Korvekuela,Korvekula,Kyrvekjula,Kõrveküla,Кырвекюла",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591260,
+    "name": "Kohtla-Jaerve",
+    "alternatenames": "Jarve,Kochtel,Kohtla Jerve,Kohtla Jervė,Kohtla-Jaerve,Kohtla-Jaervi,Kohtla-Jarve,Kohtla-Jerve,Kohtla-Järve,Kohtla-Järvi,Kohtla-Yarve,Kohtla-Yerve,Kokhtla,Kokhtla-Jarve,Kokhtla-Jarveh,Kokhtla-Yarve,Kotayarvi,Turpsal,Tyurpsal',Tyurpsal’,Türpsal,ke he te la-ye er wei,kofutora=yaruvue,koheuteullayaeleube,kwtla-yarwh,kʼohtʼla-iarve,Кохтла-Јарве,Кохтла-Ярве,Кохтла-Ярвэ,Կոհտլա-Յեռվե,کوتلا-یاروه,კოჰტლა-იარვე,コフトラ＝ヤルヴェ,科赫特拉-耶爾韋,코흐틀라얘르베",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591264,
+    "name": "Kohtla-Nomme",
+    "alternatenames": "Kohtla,Kohtla Asundus,Kohtla-Nomme,Kohtla-Nõmme,Myza Kokhtla",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591265,
+    "name": "Kohila",
+    "alternatenames": "Kohila,Koil,Kokhil',Kokhila,Kokhil’,Koyl',Koyl’,Кохила",
+    "subcountry": "Raplamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591276,
+    "name": "Koeru",
+    "alternatenames": "Keras,Koehru,Koeru,Koyero,Koyeru,Kėras,Maria Magdaliny,Marien-Magdalenen,Myza Koyeru,Sankt-Marien-Magdalenen,Коэру",
+    "subcountry": "Järvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591313,
+    "name": "Kivioli",
+    "alternatenames": "Kivieli,Kivielis,Kiviili,Kivioli,Kiviyli,Kiviõli,Kiviıli,ji wei e li,kibiolli,kivuiori,kywywly,Кивиоли,Кивиыли,Կիվիիլի,کیویولی,კივიილი,キヴィオリ,基維厄利,키비올리",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591381,
+    "name": "Kilingi-Nomme",
+    "alternatenames": "Kilingi-Nemme,Kilingi-Nomme,Kilingi-Nymme,Kilingi-Nõmme,Kilingi-nymme,Killingi-Nymme,Kurkund,Nemme,Nomme,Nõmme,Saara,Saarde,Tegnits,Килинги-нымме",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591403,
+    "name": "Kiili",
+    "alternatenames": "Kiili,Kili,Venekula,Venekyula,Veneküla",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591472,
+    "name": "Keila",
+    "alternatenames": "Kegel,Keil,Keila,Kejla,Keyla,Kеilа,kai yi la,keilla,keira,kyla  astwny,Кеила,Кейла,Կեիլա,کیلا، استونی,კეილა,ケイラ,凱伊拉,케일라",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591475,
+    "name": "Kehtna",
+    "alternatenames": "Kehtna,Kehtna Asundus,Kekhna,Kekhtna,Кехтна",
+    "subcountry": "Raplamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591476,
+    "name": "Kehra",
+    "alternatenames": "Kedder,Kehra,Kekhra,Kekra,kai he la,khra,Кехра,Կեհռա,کهرا,კეჰრა,凱赫拉",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591632,
+    "name": "Kaerdla",
+    "alternatenames": "KDL,Kaerdla,Kaerrdal,Kardla,Kartla,Kerdla,Kerdlya,Kerhl,Kertel,Kjardla,Kjardla osh,Kjardlae,Kyardla,Kärdla,Kärrdal,Kärtla,Myasto Kyardla,kaeleudeulla,kai er de la,kardla,karudora,qrdlh,Кардла,Кярдлæ,Кярдла,Кярдла ош,Կեռդլա,קרדלה,کاردلا,კიარდლა,カルドラ,凱爾德拉,캐르들라",
+    "subcountry": "Hiiumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591672,
+    "name": "Kanepi",
+    "alternatenames": "Kanapaa,Kanape,Kanapää,Kanepi,Kannapah,Kannapäh,Канепи",
+    "subcountry": "Põlvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591783,
+    "name": "Kadrina",
+    "alternatenames": "Kadrina,Katharinen,Katrinen',Katrinen’,Sankt-Katharinen,Кадрина",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591876,
+    "name": "Jueri",
+    "alternatenames": "Jueri,Juri,Jüri,Yuri,Юри",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591893,
+    "name": "Johvi",
+    "alternatenames": "Ievve,Iohvi,Iyeve,Iyevve,Iykhvi,Jechvi,Jehvi,Jehvis,Jeve,Jewe,Jikhvi,Johvi,Johwi,Johyl,Jukhvi,Jykhvi,Jõhvi,Jöhwi,Levve,Yihvi,Yokhvi,Yykhvi,Yıhvi,iihvi,yeoheubi,yue he wei,yufuvui,ywwy,Јихви,Йихві,Йъхви,Йыхви,Йыхві,Յիհվի,یووی,یوہوی,იიჰვი,ユフヴィ,約赫維,여흐비",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591902,
+    "name": "Jogeva",
+    "alternatenames": "Iyegeva,Iygeva,Jegeva,Jigeva,Jogeva,Jugeva,Jygeva,Jygeva osh,Jõgeva,Laisholm,Laysgol'm,Laysgol’m,Yigeva,Yogeva,Yygeva,Yıgeva,iigeva,yeogeba,yogevua,yue ge wa,ywgawa,ywgwa,yygbh,Јигева,Йигева,Йъгева,Йыгева,Йыгева ош,Յիգևա,ייגבה,یوگاوا,یوگوا,იიგევა,ヨゲヴァ,約格瓦,여게바",
+    "subcountry": "Jõgevamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591965,
+    "name": "Jaervakandi",
+    "alternatenames": "Jaervakandi,Jarvakandi,Jarvakandi Klaasivabrik,Jarvakandi Tehasid,Jarwakandi Klaasi Wabrik,Järvakandi,Järvakandi Klaasivabrik,Järvakandi Tehasid,Järwakandi Klaasi Wabrik,Stekol'nyy Zavod Yarvakandi,Stekol’nyy Zavod Yarvakandi,Ярваканди",
+    "subcountry": "Raplamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 591968,
+    "name": "Jaerva-Jaani",
+    "alternatenames": "J. Jaani,Jaani,Jaerva-Jaani,Jarva-Jaani,Jarvi-Jaani,Jerve Jani,Jerve Jāni,Järva-Jaani,Järvi-Jaani,Sankt-Johannis,Svyatogo Ioanna,Yarva-Yani,Yyarva-Yani,Ярва-Яани",
+    "subcountry": "Järvamaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592062,
+    "name": "Iisaku",
+    "alternatenames": "Commune de Iisaku,Comuna Iisaku,Gmina Iisaku,Iisaku,Iisaku Parish,Iisaku kommune,Iisaku vald,Ijzaku,Isaak,Isak',Isaku,Isak’,Iyzaku,Izak,dhstan aysakw,Ійзаку,Ийзаку,Իիսակու,دهستان ایساکو,იისაკუს მუნიციპალიტეტი",
+    "subcountry": "Ida-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592091,
+    "name": "Hullo",
+    "alternatenames": "Hullo,Khullo",
+    "subcountry": "Lääne"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592200,
+    "name": "Haljala",
+    "alternatenames": "Haljala,Haljall,Khal'jala,Khal'yal',Khal'yala,Khal’yala,Khal’yal’,Хальяла",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592225,
+    "name": "Haapsalu",
+    "alternatenames": "Gaapsalu,Gapsal',Gapsal’,Haapsalu,Haapsula,Hapsal,Hapsalia,Hapsalu,Hāpsalu,Hааpsаlu,Khaapsalu,Khaapsalu osh,Khaapsalyu,Khapsalu,ha pu sha lu,haapsalu,habsallu,hapsalw,hapusaru,Хаапсалу,Хаапсалу ош,Хапсалу,Հաապսալու,هاپسالو,ჰააფსალუ,ハープサル,哈普沙盧,합살루",
+    "subcountry": "Lääne"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592233,
+    "name": "Haabneeme",
+    "alternatenames": "Haabneeme,Khaabneehme,Khaabneeme,Хаабнеэме",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592279,
+    "name": "Elva",
+    "alternatenames": "Ehlva,Ehlva osh,Elv,Elva,Elva i Estland,Elwa,ai er wa,alwa  astwny,elba,elva,Елва,Элва,Элва ош,Էլվա,الوا، استونی,ელვა,埃尔瓦,엘바",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592351,
+    "name": "Audru",
+    "alternatenames": "Audru,Аудру",
+    "subcountry": "Pärnumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592379,
+    "name": "Aseri",
+    "alternatenames": "Asari,Aseri,Aseri Mois,Aseri Mõis,Aseri-Talukula,Aseri-Taluküla,Asseren,Asserien,Asserin,Azeri,Azern,Азерн",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592396,
+    "name": "Arukuela",
+    "alternatenames": "Aru 21,Arukila,Arukiula,Arukjula,Arukula,Arukula Aedlinn,Arukyula,Aruküla,Aruküla Aedlinn,Арукила,Арукюла,Առուկյուլա",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592459,
+    "name": "Antsla",
+    "alternatenames": "Antsen',Antsen’,Antsla,Antzen,Anzen,Gauka,Hauka,Антсла",
+    "subcountry": "Võrumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592557,
+    "name": "Alatskivi",
+    "alternatenames": "Alatskivi",
+    "subcountry": "Tartu"
+  },
+  {
+    "country": "EE",
+    "geonameid": 592626,
+    "name": "Abja-Paluoja",
+    "alternatenames": "Ab'ja-Paluoja,Ab'ja-Paluoja osh,Ab'ya,Ab'ya-Paluoya,Abbia,Abia,Abja Paluoja,Abja-Paluoja,Abya-Paluoya,Ab’ya,Ab’ya-Paluoya,Paluoja,Paluoya,a bi ya pa lu ao ya,abya-palwaya,Абья-Палуоя,Абья-Палуоя ош,Абя-Палуоя,Աբյա-Պալուոյա,آبیا-پالوایا,აბია-პალუოია,阿比亞帕盧奧亞",
+    "subcountry": "Viljandimaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 793250,
+    "name": "Vaiatu",
+    "alternatenames": "Vaiatu",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 793457,
+    "name": "Someru",
+    "alternatenames": "Someru,Sõmeru",
+    "subcountry": "Lääne-Virumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 794963,
+    "name": "Harku",
+    "alternatenames": "Harku",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 794964,
+    "name": "Laagri",
+    "alternatenames": "",
+    "subcountry": "Harjumaa"
+  },
+  {
+    "country": "EE",
+    "geonameid": 8181718,
+    "name": "Viimsi",
+    "alternatenames": "",
+    "subcountry": "Harjumaa"
+  }
+]

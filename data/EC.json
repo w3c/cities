@@ -1,0 +1,863 @@
+[
+  {
+    "country": "EC",
+    "geonameid": 3649914,
+    "name": "Zaruma",
+    "alternatenames": "Zaruma",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3649959,
+    "name": "Zamora",
+    "alternatenames": "Zamora",
+    "subcountry": "Zamora-Chinchipe"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650053,
+    "name": "Yantzaza",
+    "alternatenames": "Yantzaza",
+    "subcountry": "Zamora-Chinchipe"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650121,
+    "name": "Yaguachi Nuevo",
+    "alternatenames": "Yaguachi,Yaguachi Nuevo",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650186,
+    "name": "Vinces",
+    "alternatenames": "Vinces,Vinsesas",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650267,
+    "name": "Ventanas",
+    "alternatenames": "Ventanas",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650273,
+    "name": "Velasco Ibarra",
+    "alternatenames": "El Empalme,Empalme,Velasco Ibarra",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650312,
+    "name": "Valdez",
+    "alternatenames": "Limones,Valdes,Valdez,Valdés",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650472,
+    "name": "Tulcan",
+    "alternatenames": "TUA,Tul'kan,Tulcan,Tulchan,Tulcán,Tulkan,Tulkanas,tourukan,tu er kan,tulkan,twlkan,Тулькан,تولکان,トゥルカン,圖爾坎,툴칸",
+    "subcountry": "Carchi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650554,
+    "name": "Tosagua",
+    "alternatenames": "Tosagua",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650721,
+    "name": "Tena",
+    "alternatenames": "Napo,San Juan de Tena,TNW,Tena,Tina,te na,tena,tyna,تینا,تینا، ایکواڈور,特納,테나",
+    "subcountry": "Napo"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650855,
+    "name": "Taisha",
+    "alternatenames": "TSC,Taisha",
+    "subcountry": "Morona-Santiago"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650956,
+    "name": "Sucua",
+    "alternatenames": "SUQ,Sucua,Sucúa",
+    "subcountry": "Morona-Santiago"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3650960,
+    "name": "Sucre",
+    "alternatenames": "Sucre",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651251,
+    "name": "Saquisili",
+    "alternatenames": "Saquisili,Saquisilí",
+    "subcountry": "Cotopaxi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651282,
+    "name": "San Vicente",
+    "alternatenames": "San Vicente",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651297,
+    "name": "Santo Domingo de los Colorados",
+    "alternatenames": "Santo Domingo,Santo Domingo de los Colorados,Santo-Domingo-de-los-Kolorados,Санто-Доминго-де-лос-Колорадос",
+    "subcountry": "Santo Domingo de los Tsáchilas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651356,
+    "name": "Santa Rosa",
+    "alternatenames": "ETR,Santa Rosa",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651411,
+    "name": "Santa Lucia",
+    "alternatenames": "Santa Lucia,Santa Lucía",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651438,
+    "name": "Santa Elena",
+    "alternatenames": "Santa Elena,santa alna,santa aylyna,santa-ellena,sheng ai lun na,Санта Елена,سانتا إيلينا,سانتا النا,سانتا الینا، ایکواڈور,سانتا ایلینا,聖埃倫娜,산타엘레나",
+    "subcountry": "Santa Elena"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651457,
+    "name": "Santa Clara",
+    "alternatenames": "",
+    "subcountry": "Pastaza"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651495,
+    "name": "Santa Ana",
+    "alternatenames": "Santa Ana",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651613,
+    "name": "San Miguel de Salcedo",
+    "alternatenames": "Salcedo,San Miguel,San Miguel de Salcedo",
+    "subcountry": "Cotopaxi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651639,
+    "name": "San Miguel",
+    "alternatenames": "San Miguel,San Miguel de Chimbo",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651694,
+    "name": "San Lorenzo de Esmeraldas",
+    "alternatenames": "Puerto San Lorenzo,San Lorenzo,San Lorenzo de Esmeraldas",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651857,
+    "name": "Sangolqui",
+    "alternatenames": "Sangolkis,Sangolqui,sang ge er ji,桑戈爾基",
+    "subcountry": "Pichincha"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3651868,
+    "name": "San Gabriel",
+    "alternatenames": "Montufar,Montúfar,San Gabriel",
+    "subcountry": "Carchi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652065,
+    "name": "Samborondon",
+    "alternatenames": "Samborondon,Samborondón,Samrondon,Samrondón,Zamborondon,Zamborondón",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652100,
+    "name": "Salinas",
+    "alternatenames": "SNC,Salinas,Salinasas,sa li na si,sallinaseu,Салинас,Салінас,薩利納斯,살리나스",
+    "subcountry": "Santa Elena"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652257,
+    "name": "Rosa Zarate",
+    "alternatenames": "Quininde,Quinindé,Rosa Zarate",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652315,
+    "name": "Rocafuerte",
+    "alternatenames": "Rocafuerte",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652350,
+    "name": "Riobamba",
+    "alternatenames": "Riobamba,Rispampa,li ao ban ba,liobamba,ri xoba m ba,riobamba,rywbamba,rywbmbh,Риобамба,Ріобамба,ריובמבה,ريوبامبا,ریؤبامبا,ریوبامبا,รีโอบัมบา,რიობამბა,里奧班巴,리오밤바",
+    "subcountry": "Chimborazo"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652462,
+    "name": "Quito",
+    "alternatenames": "Kita,Kitas,Kito,Kitu,Kuito,Quito,Quitu,Quitum,San Francisco de Quito,UIO,ji duo,ki to,kito,kitto,kvirrea,kvito,kwytw,kytw,qytw,Κίτο,Кито,Кіта,Кіто,Կիտո,קיטא,קיטו,كىتو,كيتو,کوئتو,کیتو,کیٹو,क्वितो,क्वीटो,ਕੀਤੋ,கித்தோ,ക്വിറ്റോ,กีโต,ཁེ་ཐོ།,კიტო,ኪቶ,キト,基多,키토",
+    "subcountry": "Pichincha"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652567,
+    "name": "Quevedo",
+    "alternatenames": "Kevedas,Kevedo,Quevedo,ke wei duo,Кеведо,კევედო,克韋多",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652573,
+    "name": "Quero",
+    "alternatenames": "",
+    "subcountry": "Tungurahua"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652584,
+    "name": "Puyo",
+    "alternatenames": "El Puyo,Pujas,Pujo,Puyo,Puyu llaqta,pu yue,puyo,pwyw,Пуйо,Пуё,پویو,پویو، ایکواڈور,普約,푸요",
+    "subcountry": "Pastaza"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652684,
+    "name": "Pujili",
+    "alternatenames": "Pajili,Pujili,Pujilí",
+    "subcountry": "Cotopaxi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652694,
+    "name": "Puerto Villamil",
+    "alternatenames": "Puerto Villamil,Villamil",
+    "subcountry": "Galápagos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652743,
+    "name": "Puerto Francisco de Orellana",
+    "alternatenames": "Coca,Francisco de Orellana,La Coca,OCC,Puerto Francisco de Orellana",
+    "subcountry": "Orellana"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652757,
+    "name": "Puerto Bolivar",
+    "alternatenames": "Ponto Bolivar,Puerto Bolivar,Puerto Bolívar,Пуерто Боливар",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652758,
+    "name": "Puerto Baquerizo Moreno",
+    "alternatenames": "Baquerizo Moreno,Puehrto-Bakeriso-Moreno,Puerto Bakeriso Morenas,Puerto Baquerizo,Puerto Baquerizo Moreno,Puerto Chico,Puerto-Bakeriso-Moreno,ba ke li suo mo lei nuo gang,bwyrtw bkwyryzw mwrynw,pueleutobakelisomoleno,pwrtw bakwryzw mwrynw,pwyrtw bakwyrysw mwrynw,pyurto baikverizo moreno,Пуерто-Бакерісо-Морено,Пуэрто-Бакерисо-Морено,פוארטו בקריסו מורנו,بويرتو بكويريزو مورينو,پورتو باکوریزو مورینو,پویرتو باکویریسو مورینو,प्यूर्टो बैक्वेरीज़ो मोरेनो,プエルト・バケリソ・モレノ,巴克里索莫雷諾港,푸에르토바케리소모레노",
+    "subcountry": "Galápagos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652764,
+    "name": "Puerto Ayora",
+    "alternatenames": "Puerto Ayora",
+    "subcountry": "Galápagos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652941,
+    "name": "Portoviejo",
+    "alternatenames": "PVO,Partauekha,Portov'ekho,Portoviejo,Portovjechas,bo tuo wei ye huo,poleutobieho,pwrtw wyyjw,pwrtwbykhw,Партаўеха,Портовьехо,پورتو ویئجو,پورتوبیخو,პორტოვიეხო,波托維耶霍,포르토비에호",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3652943,
+    "name": "Portovelo",
+    "alternatenames": "Portobelo,Portovelo,Portoviejo",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653015,
+    "name": "Playas",
+    "alternatenames": "General Villamil,Playas,Villamil",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653130,
+    "name": "Pinas",
+    "alternatenames": "Pinas,Piñas",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653146,
+    "name": "Pimampiro",
+    "alternatenames": "Pimampiro,Pimanpiro",
+    "subcountry": "Imbabura"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653159,
+    "name": "Pillaro",
+    "alternatenames": "Pillaro,Píllaro",
+    "subcountry": "Tungurahua"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653287,
+    "name": "Pelileo",
+    "alternatenames": "Pelileo",
+    "subcountry": "Tungurahua"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653295,
+    "name": "Pedro Carbo",
+    "alternatenames": "Pedro Carbo",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653307,
+    "name": "Pedernales",
+    "alternatenames": "Pedernales",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653403,
+    "name": "Pasaje",
+    "alternatenames": "Pasaje",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653523,
+    "name": "Palora",
+    "alternatenames": "Metzera,Palora",
+    "subcountry": "Morona-Santiago"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653581,
+    "name": "Palestina",
+    "alternatenames": "Hacienda Palestina,Palestina",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653587,
+    "name": "Palenque",
+    "alternatenames": "Palenque",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653609,
+    "name": "Pajan",
+    "alternatenames": "Pajan,Paján",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653693,
+    "name": "Otavalo",
+    "alternatenames": "Otavalas,Otavalo,Otovalo,Utawalu,ao ta wa luo,awtabalw,Отавало,اوتابالو,奧塔瓦洛",
+    "subcountry": "Imbabura"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653771,
+    "name": "Nulti",
+    "alternatenames": "Nulti",
+    "subcountry": "Azuay"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653873,
+    "name": "Naranjito",
+    "alternatenames": "Naranjito",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653882,
+    "name": "Naranjal",
+    "alternatenames": "Naranjal",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3653967,
+    "name": "Muisne",
+    "alternatenames": "Muisne",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654055,
+    "name": "Montecristi",
+    "alternatenames": "Montecristi",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654063,
+    "name": "Montalvo",
+    "alternatenames": "",
+    "subcountry": "Pastaza"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654064,
+    "name": "Montalvo",
+    "alternatenames": "Montalvo",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654215,
+    "name": "Milagro",
+    "alternatenames": "Milagras,Milagro,San Francisco de Milagro,mi la ge luo,milagro,მილაგრო,米拉格羅",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654410,
+    "name": "Manta",
+    "alternatenames": "MEC,Manta,Manta Ecuador,Puerto de Manta,man ta,manta,Манта,მანტა,曼塔,만타",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654533,
+    "name": "Machala",
+    "alternatenames": "MCH,Macala,Machala,Maĉala,Mačala,ma cha la,machala,machalla,machara,matshala,mchala,Мачала,מצאלה,ماتشالا,ماچالا,مچالا,მაჩალა,マチャラ,馬查拉,마찰라",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654536,
+    "name": "Machachi",
+    "alternatenames": "Ciudad de Machachi,Machache,Machachi",
+    "subcountry": "Pichincha"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654541,
+    "name": "Macas",
+    "alternatenames": "Macas,XMS",
+    "subcountry": "Morona-Santiago"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654545,
+    "name": "Macara",
+    "alternatenames": "MRR,Macara,Macará",
+    "subcountry": "Loja"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654650,
+    "name": "Lomas de Sargentillo",
+    "alternatenames": "Lomas de Sargentillo",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654667,
+    "name": "Loja",
+    "alternatenames": "LOH,Locha,Loha,Loja,Lokha,loha,lokha,luo ha,lwja,Лоха,لوجا,لوخا، ایکواڈور,ლოხა,洛哈,로하",
+    "subcountry": "Loja"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654724,
+    "name": "Llacao",
+    "alternatenames": "Llacao",
+    "subcountry": "Azuay"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654842,
+    "name": "La Union",
+    "alternatenames": "La Union,La Unión",
+    "subcountry": "Azuay"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654853,
+    "name": "La Troncal",
+    "alternatenames": "La Troncal",
+    "subcountry": "Cañar"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3654870,
+    "name": "Latacunga",
+    "alternatenames": "LTX,Latacunga,Latakunga,Latakunka,la ta kun jia,latakung-ga,latakwnga,latakwnga  akwadwr,Латакунга,لاتاکونگا,لاتاکونگا، اکوادور,拉塔昆加,라타쿵가",
+    "subcountry": "Cotopaxi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655117,
+    "name": "La Mana",
+    "alternatenames": "La Mana,La Maná",
+    "subcountry": "Cotopaxi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655131,
+    "name": "La Libertad",
+    "alternatenames": "La Libertad",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655185,
+    "name": "Nueva Loja",
+    "alternatenames": "Lago Agrio,Musuq Loja,Nuehva-Lokha,Nueva Locha,Nueva Loja,Nueva-Lokha,nuebaloha,nwywa lwja,nwywa lwkha,xin luo ha,Нуева-Лоха,Нуэва-Лоха,نوئوا لوجا,نویوا لوخا,ヌエバ・ロハ,新洛哈,누에바로하",
+    "subcountry": "Sucumbios"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655385,
+    "name": "Junin",
+    "alternatenames": "Junin,Junín",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655446,
+    "name": "Jipijapa",
+    "alternatenames": "JIP,Jipijapa",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655673,
+    "name": "Ibarra",
+    "alternatenames": "Ibarra,Ибарра",
+    "subcountry": "Imbabura"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3655720,
+    "name": "Huaquillas",
+    "alternatenames": "Huaquillas",
+    "subcountry": "El Oro"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3657509,
+    "name": "Guayaquil",
+    "alternatenames": "GYE,Gouagiakil,Guaiaquil,Guaiaquilum,Guajakil,Guajakil',Guayaquil,Gvajakil,Gvajakila,Gvajakilis,Gvajakilo,Santiago de Guayaquil,Wayakil,ghwayakyl,gu'a'i'akila,gua ya ji er,guayakiru,gvayakila,gwayakil,gwayakl,gwayakwyl,gwayakywl,kwa yaki l,Γουαγιακίλ,Гвајакил,Гуаякил,Гуаякиль,Гуаякіль,Ґуаякіль,גואיאקיל,غواياكيل,گوآیاکوئل,گوایاکل,گوایاکیول,ग्वायाकिल,ਗੁਆਇਆਕੀਲ,กวายากิล,გუაიაკილი,グアヤキル,瓜亞基爾,과야킬",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3657571,
+    "name": "Guaranda",
+    "alternatenames": "Guaranda,Waranta,gua lan da,gwalanda,gwaranda,Гуаранда,Ґуаранда,گواراندا,瓜蘭達,과란다",
+    "subcountry": "Bolívar"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3657594,
+    "name": "Guano",
+    "alternatenames": "Guano",
+    "subcountry": "Chimborazo"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3657661,
+    "name": "Gualaquiza",
+    "alternatenames": "Gualaquiza,Gualiquiza,Santiago",
+    "subcountry": "Morona-Santiago"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3657670,
+    "name": "Gualaceo",
+    "alternatenames": "El Jardin del Azuay,Gualaceo",
+    "subcountry": "Azuay"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3657990,
+    "name": "Esmeraldas",
+    "alternatenames": "ESM,Esmeraldas,Volcan Chimborazo,Volcán Chimborazo",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658053,
+    "name": "El Triunfo",
+    "alternatenames": "Boca de los Sapos,El Triunfo",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658192,
+    "name": "Eloy Alfaro",
+    "alternatenames": "Alfaro,Duran,Durán,Eloy Alfaro",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658379,
+    "name": "El Angel",
+    "alternatenames": "El Angel,El Ángel,Espejo",
+    "subcountry": "Carchi"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658666,
+    "name": "Cuenca",
+    "alternatenames": "CUE,Cuenca,Kuehnka,Kuehnka shaary,Kuehnkae,Kuenka,Santa Ana de los cuatro rios de Cuenca,Santa Ana de los cuatro ríos de Cuenca,Tumipampa,ke wng ka,kuengka,kuenka,kun ka,kwanka,kwynka,Куенка,Куэнкæ,Куэнка,Куэнка шаары,Կուենկա,קואנקה,کوئنکا,کوئنکا، ایکواڈور,کوانکا,เกวงกา,კუენკა,クエンカ,昆卡,쿠엥카",
+    "subcountry": "Azuay"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658701,
+    "name": "Cube",
+    "alternatenames": "",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658781,
+    "name": "Cotacachi",
+    "alternatenames": "Cotacachi",
+    "subcountry": "Imbabura"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658822,
+    "name": "Coronel Marcelino Mariduena",
+    "alternatenames": "Coronel Marcelino Mariduena,Coronel Marcelino Maridueña,Coronel Mariduena,Coronel Maridueña,Mariduena,Maridueña",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3658948,
+    "name": "Colimes",
+    "alternatenames": "Colimes",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659139,
+    "name": "Chone",
+    "alternatenames": "Chone,Chuni,Cone,Čonė",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659544,
+    "name": "Celica",
+    "alternatenames": "Celica",
+    "subcountry": "Loja"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659578,
+    "name": "Cayambe",
+    "alternatenames": "Cayambe,Kajambe,Каямбе",
+    "subcountry": "Pichincha"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659592,
+    "name": "Catarama",
+    "alternatenames": "Catarama,Urdaneta",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659599,
+    "name": "Catamayo",
+    "alternatenames": "Catamayo,La Toma",
+    "subcountry": "Loja"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659602,
+    "name": "Catacocha",
+    "alternatenames": "Catacocha",
+    "subcountry": "Loja"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659711,
+    "name": "Cariamanga",
+    "alternatenames": "Calvas,Cariamanga",
+    "subcountry": "Loja"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659852,
+    "name": "Canar",
+    "alternatenames": "Canar,Cañar",
+    "subcountry": "Cañar"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3659926,
+    "name": "Calceta",
+    "alternatenames": "Bolivar,Bolívar,Calceta",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660134,
+    "name": "Pampanal de Bolivar",
+    "alternatenames": "Bolivar,Bolívar,Pampanal de Bolivar,Pampanal de Bolívar",
+    "subcountry": "Esmeraldas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660152,
+    "name": "Boca Suno",
+    "alternatenames": "Boca Suno,Suno",
+    "subcountry": "Orellana"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660346,
+    "name": "Banos",
+    "alternatenames": "Banos,Baños",
+    "subcountry": "Tungurahua"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660361,
+    "name": "Balzar",
+    "alternatenames": "Balzar",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660387,
+    "name": "Balao",
+    "alternatenames": "Balao,Baláo",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660401,
+    "name": "Bahia de Caraquez",
+    "alternatenames": "BHA,Bahia,Bahia de Caraques,Bahia de Caraquez,Bahia de Caráques,Bahija de Karakesas,Bahía,Bahía de Caráquez,Caracas,Sucre,ka la ke si gang,卡拉克斯港",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660418,
+    "name": "Babahoyo",
+    "alternatenames": "Babahojas,Babahoya,Babahoyo,ba ba ao yue,babaoyo,babawyw,باباویو,باباہویو,巴巴奧約,바바오요",
+    "subcountry": "Los Ríos"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660434,
+    "name": "Azogues",
+    "alternatenames": "Asogesas,Asuwi,Azogues,Azoguez,a suo ge si,asogeseu,aswgws,azwgwys,آسوگوس,ازوگوئس,阿索格斯,아소게스",
+    "subcountry": "Cañar"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660478,
+    "name": "Atuntaqui",
+    "alternatenames": "Atuntaqui",
+    "subcountry": "Imbabura"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660573,
+    "name": "Archidona",
+    "alternatenames": "Archidona",
+    "subcountry": "Napo"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660689,
+    "name": "Ambato",
+    "alternatenames": "ATF,Ambata,Ambatas,Ambato,Ampatu llaqta,San Juan de Ambato,ambato,ambatw,ambatw  akwadwr,an ba tuo,anbato,Амбата,Амбато,Ամբատո,آمباتو، اکوادور,أمباتو,امباتو,امباتو، ایکواڈور,ამბატო,アンバート,安巴托,암바토",
+    "subcountry": "Tungurahua"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660773,
+    "name": "Alfredo Baquerizo Moreno",
+    "alternatenames": "Alfredo Baquerizo Moreno,Jujan,Juján",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3660798,
+    "name": "Alausi",
+    "alternatenames": "Alausi,Alausí",
+    "subcountry": "Chimborazo"
+  },
+  {
+    "country": "EC",
+    "geonameid": 3827889,
+    "name": "Gonzalo Pizarro",
+    "alternatenames": "",
+    "subcountry": "Sucumbios"
+  },
+  {
+    "country": "EC",
+    "geonameid": 9255326,
+    "name": "Wilfrido Loor Moreira",
+    "alternatenames": "",
+    "subcountry": "Manabí"
+  },
+  {
+    "country": "EC",
+    "geonameid": 12238029,
+    "name": "Tres Postes",
+    "alternatenames": "",
+    "subcountry": "Guayas"
+  },
+  {
+    "country": "EC",
+    "geonameid": 12238293,
+    "name": "Oyambarillo",
+    "alternatenames": "",
+    "subcountry": "Pichincha"
+  }
+]

@@ -1,0 +1,1241 @@
+[
+  {
+    "country": "AZ",
+    "geonameid": 146858,
+    "name": "Sharur City",
+    "alternatenames": "Il'ichevsk,Ilich,Il’ichëvsk,Norashen,Sarur,Sharur City,Şərur",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 146862,
+    "name": "Geytepe",
+    "alternatenames": "Geytepe,Goeytəpə,Goytapa,Göytəpə,Prishib,Prishibinske,Prishibinskoe,Prishibinskoye,Prisib,Prişib",
+    "subcountry": "Jalilabad"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 146901,
+    "name": "Zangilan",
+    "alternatenames": "Icari,Ikari,Kovsakan,Zangelan,Zangilak,Zangilan,Zəngilan,İçəri,Կովսական",
+    "subcountry": "Zǝngilan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 146958,
+    "name": "Yayci",
+    "alternatenames": "Yaji-ye Azarbayjan,Yayci,Yaycı,Yaydzhi,Yaydzhy,Yājī-ye Āz̄arbāyjān,yajy adhrbayjan,یاجی آذربایجان",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 146961,
+    "name": "Yardimli",
+    "alternatenames": "Iardymly,Jardymly,Yardimli,Yardymly,Yardımlı,Ярдымлы",
+    "subcountry": "Yardımlı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 146969,
+    "name": "Novyy Karanlug",
+    "alternatenames": "Martouni,Martuni,Novyy Karanlug,Xocavand,Xocavənd,Մարտունի",
+    "subcountry": "Khojavend"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 146970,
+    "name": "Xankandi",
+    "alternatenames": "Chankaendi,Chankändi,Hankendi,Khankendi,Khankendy,Stepanakert,Xankǝndi,Xankəndi,khankandy,khankndy,ʼzryt,Степанакерт,Ханкенди́,אזרית,خانكندي,خانکَندی",
+    "subcountry": "Xankǝndi"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147059,
+    "name": "Ahmadbayli",
+    "alternatenames": "Ahmadbayli,Tel'mankend,Telmankand,Telmankənd,Tel’mankend,Əhmədbəyli",
+    "subcountry": "Saatlı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147105,
+    "name": "Susa",
+    "alternatenames": "Shoushi,Shusha,Shushe,Shushi,Susa,Suse,Susi,Szusza,shwshy,swsh,Şuşa,Шуша,Շուշե,Շուշի,שושה,شوشی",
+    "subcountry": "Shusha"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147271,
+    "name": "Salyan",
+    "alternatenames": "Sal'jan,Sal'yany,Salian,Salyan,Sal’yany,Ssaljany,Сальян",
+    "subcountry": "Salyan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147278,
+    "name": "Sahbuz",
+    "alternatenames": "Chay-Shakhbuz,Sahbuz,Shahbuz,Shakhbuz,Şahbuz,Шахбуз",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147282,
+    "name": "Sedarak",
+    "alternatenames": "Sadarak,Sedarak,Sederek,Sədərək",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147283,
+    "name": "Sumbatan-diza",
+    "alternatenames": "Sabirkand,Sabirkend,Sabirkənd,Sumbatan-diza",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147288,
+    "name": "Saatli",
+    "alternatenames": "Saatli,Saatly,Saatlı,Saotly,Саатлы",
+    "subcountry": "Saatlı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147305,
+    "name": "Qubadli",
+    "alternatenames": "Ghubat'ly,Ghubat’ly,Koubatly,Kubadli,Kubadlı,Kubatli,Kubatlu,Kubatly,Qubadli,Qubadly,Qubadlı,Sanasar,ku ba te lei,qbadly,qwbadly,Кубадли,Кубатлы,Ղուբաթլը,Սանասար,Քաշունիք,قبادلی,قوبادلی,庫巴特雷",
+    "subcountry": "Qubadlı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147307,
+    "name": "Qaracala",
+    "alternatenames": "Karachala,Karachalinskaya,Qaracala,Qaraçala",
+    "subcountry": "Salyan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147364,
+    "name": "Orjonikidze",
+    "alternatenames": "Orconikidze,Ordzhonikidze,Orjonikidze",
+    "subcountry": "Beyləqan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147368,
+    "name": "Ordubad",
+    "alternatenames": "Ordoubad,Ordoubat,Orduar,Ordubad,Ordubadas,Ordubat,ao er du ba de,ardwbad,awrdwbad,Ордубад,Որդուար,اردوباد,اوردوباد,奧爾杜巴德",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147425,
+    "name": "Neftcala",
+    "alternatenames": "Neftcala,Neftechala,Neftçala,Nephte Chala,Poselok Tresta,Нефтечала",
+    "subcountry": "Neftçala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147429,
+    "name": "Nakhchivan",
+    "alternatenames": "NAJ,Nachitschewan,Nakhchivan,Nakhchyvan,Nakhicevan,Nakhichevan',Nakhichevan’,Nakhichivan,Nakhitchevan,Nakhitsjevan,Nakhjavan,Naxcivan,Naxcivan Səhəri,Naxçıvan,Naxçıvan Şəhəri,Нахичевань",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147504,
+    "name": "Mincivan",
+    "alternatenames": "Mijnavan,Mincivan,Mindshewan,Mindzhevan',Mindzhevan’,Mindzhivan,Миндживан,Միջնավան",
+    "subcountry": "Zǝngilan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147552,
+    "name": "Masally",
+    "alternatenames": "Masali,Masalli,Masally,Masallı,Masalı,Massaly",
+    "subcountry": "Masally"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147611,
+    "name": "Lerik",
+    "alternatenames": "Lerik,lryk,لريك",
+    "subcountry": "Lerik"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147622,
+    "name": "Lankaran",
+    "alternatenames": "LLK,Lankaran,Lencoran,Lenkoran,Lenkoran',Ljankjaran,Länkäran,Lǝnkǝran,Lənkəran,Ленкорань,Лянкяран",
+    "subcountry": "Lənkəran"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147625,
+    "name": "Lacin",
+    "alternatenames": "Abdallyar,Abdalyar,Berdzor,Berjor,Datschin,Lachin,Lachyan,Lachyn,Lacin,Lačin,Lichin,lachn,lachyn,Бердзор,Лачин,Բերձոր,لاچن,لاچین",
+    "subcountry": "Laçın"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147637,
+    "name": "Qivraq",
+    "alternatenames": "Kivrag,Kivrakh,Kyvrak,Kyvrakh,Qivraq,Qıvraq",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147695,
+    "name": "Qirmizi Bazar",
+    "alternatenames": "Karmir Shouka,Karmir Shuka,Karmir Suka,Krasnyj Bazar,Krasnyy Bazar,Qirmizi Bazar,Qırmızı Bazar,Красный Базар,Կարմիր Շուկա",
+    "subcountry": "Khojavend"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147727,
+    "name": "Kizhaba",
+    "alternatenames": "Kijaba,Kijoba,Kijäba,Kijəba,Kijəbə,Kizhaba",
+    "subcountry": "Astara"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147774,
+    "name": "Xocali",
+    "alternatenames": "Ay-Khodzhaly,Daerah Khojali,Distrito ng Khojali,Hocali Rayonu,Hocalı Rayonu,Hogali,Ivanyan,Khodgalou,Khodjaly,Khodzali,Khodzalinski rejon,Khodzhalinskaja,Khodzhalinskaya,Khodzhalinskij rajon,Khodzhalv,Khodzhaly,Khojali,Khojali Rayon,Khojaly,Khojaly District,Khozhali,Khozhalinskaya,Rayon Khojali,Rejon Xocali,Rejon Xocalı,Xocali,Xocali rayonu,Xocalin piirikunta,Xocalı,Xocalı rayonu,Xocalın piirikunta,hojalleu gu,huo gu lei qu,shhrstan khwjaly,Ĥoĝali,Ходжалин кӀошт,Ходжалинская,Ходжалинский район,Ходжалы,Хоџали,Хоџалински рејон,Իվանյան,Խոջալը,חוגאלי,شهرستان خوجالی,ضلع خوجالی,霍賈雷區,호잘르 구",
+    "subcountry": "Xocalı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147784,
+    "name": "Xilli",
+    "alternatenames": "Khilly,Xilli,Xıllı,Yukhary-Khylly",
+    "subcountry": "Neftçala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147949,
+    "name": "Qalaqayin",
+    "alternatenames": "Kalagain,Kalagayny,Qalagayin,Qalağayın",
+    "subcountry": "Sabirabad"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 147982,
+    "name": "Imishli",
+    "alternatenames": "Emishti,Imishli,Imishly,Imisli,İmişli,Имишли",
+    "subcountry": "İmişli"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148003,
+    "name": "Horadiz",
+    "alternatenames": "Geradiz,Goradiz,Gorodiz,Horadiz,Горадиз",
+    "subcountry": "Füzuli"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148088,
+    "name": "Haftoni",
+    "alternatenames": "Gaftoni,Haftoni,Havtoni,Гафтони",
+    "subcountry": "Lənkəran"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148105,
+    "name": "Hadrut",
+    "alternatenames": "Gadrut,Hadroet,Hadrout,Hadrowt,Hadrut,Hadrut',Hadrut’,hadrwt,Гадрут,Հադրութ,هادروت,ہادروت",
+    "subcountry": "Khojavend"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148106,
+    "name": "Fizuli",
+    "alternatenames": "FZL,Fizuli,Fuzuli,Füzuli,Karjagino,Karyagino,Sardar,Физули,Ֆիզուլի",
+    "subcountry": "Füzuli"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148141,
+    "name": "Jebrail",
+    "alternatenames": "Cabrayil,Cəbrayıl,Djebrail,Dzhebrail,Jabrail,Jabrayyl,Jebraiele,Jebrail,Jebrayil,Jrakan,Jäbrayyl,Mekhakavan,Mexakavan,Ձրական,Մեխակավան,Ջաբրաիլ",
+    "subcountry": "Jabrayil"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148177,
+    "name": "Dunyamalilar",
+    "alternatenames": "Dun'yamalylar,Dunyamalilar,Dunyamallar,Dun’yamalylar,Dünyamallar,Dünyamalılar",
+    "subcountry": "Beyləqan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148225,
+    "name": "Deste",
+    "alternatenames": "Dasta,Deste,Dəstə",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148251,
+    "name": "Culfa",
+    "alternatenames": "Culfa,Dzhul'fa,Dzhul’fa,Jolfa,Jolfa-ye Nakhjavan,Jolfā,Jolfā-ye Nakhjavān,Jugha,Julfa,jlfay nkhjwan,Джульфа,جلفای نخجوان",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148290,
+    "name": "Jalilabad",
+    "alternatenames": "Astrahanka,Astrakhan-Bazar,Astrakhanka,Astrakhanovka,Cəlilabad,Dzhalil'abad,Dzhalilabad,Jalilabad,Jälilabad,Джалильабад",
+    "subcountry": "Jalilabad"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148291,
+    "name": "Cahri",
+    "alternatenames": "Cahri,Cəhri,Dzhagri,Dzhagry,Dzhakhri,Jahri",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148323,
+    "name": "Boradigah",
+    "alternatenames": "Baradigyakh,Boradigah,Boradigyakh,Boradygia,Boradygiya,Boradygyakh,Vardygya",
+    "subcountry": "Masally"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148340,
+    "name": "Pushkino",
+    "alternatenames": "Bilasuvar,Biləsuvar,Pushkin,Pushkino,Puskin,Puşkin",
+    "subcountry": "Bilǝsuvar"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148354,
+    "name": "Beylagan",
+    "alternatenames": "Beylagan,Beylaqan,Beyləqan,Jdanov,Zhdanov,Zhdanovsk",
+    "subcountry": "Beyləqan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148375,
+    "name": "Severo-Vostotchnyi Bank",
+    "alternatenames": "Bank,Banka,Bankov,Bankə,Imeni Kirova,Rybokombinat Imeni Kirova,Severo-Vostochnyy Bank,Severo-Vostotchnyi Bank",
+    "subcountry": "Neftçala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148413,
+    "name": "Tazakend",
+    "alternatenames": "Babak,Babek,Babekskiy,Babək,Tazakand,Tazakend,Təzəkənd",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148445,
+    "name": "Astara",
+    "alternatenames": "Astara,Azerbaydzhanskaya Astara,a si ta la,aseutala,astara,Астара,Աստարա,آستارا,ასტარა,阿斯塔拉,아스타라",
+    "subcountry": "Astara"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148450,
+    "name": "Askyaran",
+    "alternatenames": "Asgaran,Askeran,Askyaran,Berdayagi,Berdaygi,Əsgəran,Аскеран,Ասկերան,Բերդայգի",
+    "subcountry": "Xocalı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148565,
+    "name": "Sirvan",
+    "alternatenames": "Ali Bairamly,Ali Bayramli,Ali-Bairamli,Ali-Bajramly,Ali-Bayramli,Ali-Bayramly,Aly-Bayramly,Arab Shakhverdi,Arab-Shakhberdy,Arab-Shakhverdy,Shirvan,Sirvan,Zubovka,Şirvan,Əli Bayramlı,Али-Байрамлы,Ширван",
+    "subcountry": "Shirvan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 148619,
+    "name": "Agdam",
+    "alternatenames": "Ag'dam,Agdam,Agdamas,Aghdam,Agʻdam,Akn,Akna,Ankntam,Ağdam,a ge da mu,ageudam,aghdam,aghdami,aq dam,Άγκνταμ,Агдам,Ակն,Ակնա,Աղդամ,آغدام,آق دام,აღდამი,阿格達姆,아그담",
+    "subcountry": "Ağdam"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 393443,
+    "name": "Sovetabad",
+    "alternatenames": "Gasanabad,Hasanabad,Həsənabad,Iyirmi Alti Baki Komissari,Sovetabad,İyirmi Altı Bakı Komissarı,Гасанабад",
+    "subcountry": "Neftçala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 393927,
+    "name": "Avsar",
+    "alternatenames": "Avsar,Avşar,Uzeirkend,Uzejirkand,Uzeyirkand,Üzejirkənd,Üzeyirkənd",
+    "subcountry": "Ağcabǝdi"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 393942,
+    "name": "Birinci Asiqli",
+    "alternatenames": "Ashykhly Pervoye,Birinci Asiqli,Birinci Aşıqlı",
+    "subcountry": "Beyləqan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 393954,
+    "name": "Yuxari Aran",
+    "alternatenames": "Yuxari Aran,Yuxarı Aran",
+    "subcountry": "Beyləqan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 394086,
+    "name": "Calxanqala",
+    "alternatenames": "Calxanqala,Çalxanqala",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 394089,
+    "name": "Oglanqala",
+    "alternatenames": "Oglanqala,Oğlanqala",
+    "subcountry": "Nakhichevan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584562,
+    "name": "Zyrya",
+    "alternatenames": "Zira,Zirja,Zirya,Zirǝ,Zirə,Zyrya,Зиря",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584586,
+    "name": "Zardob",
+    "alternatenames": "Zardab,Zardob,Zǝrdab,Zərdab,Зардаб,Зардоб",
+    "subcountry": "Zərdab"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584596,
+    "name": "Zaqatala",
+    "alternatenames": "Sakataly,ZTU,Zagatala,Zakatali,Zakatalsk,Zakataly,Zaqatala,Загатала,Закаталы",
+    "subcountry": "Zaqatala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584614,
+    "name": "Zabrat",
+    "alternatenames": "Sabrat,Zabrat,Забрат",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584649,
+    "name": "Yevlakh",
+    "alternatenames": "Avlakh,Evlakh,Jewlach,YLV,Yevlakh,Yevlax,Евлах",
+    "subcountry": "Yevlax City"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584704,
+    "name": "Yaniqli",
+    "alternatenames": "Vezirly,Yaniqli,Yanykhly,Yanıqlı",
+    "subcountry": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584715,
+    "name": "Xudat",
+    "alternatenames": "Khudaf,Khudat,Xudat,Худат",
+    "subcountry": "Xaçmaz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584716,
+    "name": "Goygol",
+    "alternatenames": "Elenendorf,Gjojgjol',Goeygoel,Goygol,Göygöl,Helenendorf,Khanlar,Kol-Yelendorf,Xanlar,Yelenendorf,Гёйгёль,Ханлар",
+    "subcountry": "Goygol Rayon"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584717,
+    "name": "Xacmaz",
+    "alternatenames": "Chatschmas,Hacimaz,Hacmaz,Haçmaz,Kegna Khachmas,Kekhna-Khachmaz,Khachmas,Khachmaz,Khuachmaz,Këgna Khachmas,Xacmaz,Xaçmaz,ha qi ma si,khachmaz,khashmaz,Хачмаз,Хачмас,Хъачмаз,Խաչմազ,خاشماز,خاچماز,哈奇馬斯",
+    "subcountry": "Xaçmaz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584724,
+    "name": "Verkhniy Dashkesan",
+    "alternatenames": "Verin-Karagat,Verkh.Dashkesan,Verkhniy Dashkesan,Yuxari Daskasan,Yuxarı Daşkǝsǝn,Yuxarı Daşkəsən,Верх.Дашкесан",
+    "subcountry": "Daşkǝsǝn"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584747,
+    "name": "Vank",
+    "alternatenames": "Gandzasar,Vangli,Vank,Vankli,Vanklu,Vanqli,Vänqli,Vəngli,Vənkli,Ванклу,Վանք",
+    "subcountry": "Kalbajar"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584791,
+    "name": "Ujar",
+    "alternatenames": "Ucar,Udshary,Udzhar,Udzhara,Udzhary,Ujar,Уджары",
+    "subcountry": "Ucar"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584792,
+    "name": "Turkan",
+    "alternatenames": "Tjurkjan,Tuerkan,Turkan,Turkyany,Tyurkend,Tyurkyan,Tyurkyany,Türkan,Тюркян",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584821,
+    "name": "Tovuz",
+    "alternatenames": "Tauz,Tavus,Tovuz,Тауз",
+    "subcountry": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584871,
+    "name": "Terter",
+    "alternatenames": "Mir Bashir,Mir Basir,Mirbashir,Mirbasir,Mirbäshir,Mirbəşir,T'art'arr,Tartar,Terter,Tǝrtǝr,Tərtər,Tʻartʻar,T’art’arr,Тертер,Թարթառ,Միր Բաշիր",
+    "subcountry": "Tǝrtǝr"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584923,
+    "name": "Sumqayit",
+    "alternatenames": "Sumgait,Sumgjajet,Sumqayit,Sumqayyt,Sumqayıt,Сумгаит,סומגאיט",
+    "subcountry": "Sumqayit"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584954,
+    "name": "Kyzyl-Burun",
+    "alternatenames": "Kisil-burun,Kyzyl-Burun,Siazan',Siazan’,Siyazan,Siyǝzǝn,Siyəzən,Сиазань",
+    "subcountry": "Siyǝzǝn"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 584991,
+    "name": "Suraabad",
+    "alternatenames": "Mikhailabad,Shuraabad,Sovetabad,Soviet Abad,Suraabad,Şuraabad,Шураабад",
+    "subcountry": "Xızı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585103,
+    "name": "Qaracuxur",
+    "alternatenames": "Garachukhur,Imeni Kaganovicha,Kaganovich,Kaganovicha,Karachekhur,Karachukhur,Poselok Imeni Kaganovicha,Posëlok Imeni Kaganovicha,Qaracuxur,Qaraçuxur,Serebovski,Serebrovskiy,Гарачухур",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585145,
+    "name": "Saray",
+    "alternatenames": "Sarai,Saraj,Saray,Сарай",
+    "subcountry": "Abşeron"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585146,
+    "name": "Sanqacal",
+    "alternatenames": "San'achali,Sangacal,Sangacha,Sangachal,Sangachaly,Sangachly,Sangaçal,Sanqacal,Sanqaçal,Sansachaly,San’achali,Sänqäçal,Sǝngǝçal,Səngəçal,Сангачалы",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585150,
+    "name": "Samur",
+    "alternatenames": "Samur,Самур",
+    "subcountry": "Qusar"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585152,
+    "name": "Shamkhor",
+    "alternatenames": "Anino,Annenfel'd,Annenfel’d,Annino,Samkir,Samxor,Shamkhor,Shamkir,shmkyr,Şamxor,Şǝmkir,Şəmkir,Шамки́р,Шамкир,شمكير",
+    "subcountry": "Şǝmkir"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585156,
+    "name": "Shamakhi",
+    "alternatenames": "Samaxi,Schemacha,Shamakhy,Shemakha,Şamaxı,Шемаха",
+    "subcountry": "Şamaxı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585160,
+    "name": "Saloglu",
+    "alternatenames": "Kukheti,Kukhety,Saloghly,Saloglu,Salogly,Saloğlu",
+    "subcountry": "Ağstafa"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585170,
+    "name": "Sheki",
+    "alternatenames": "Nucha,Nukha,Nuxa,Saki,Shaki,Sheki,Shäki,Şǝki,Şəki,Шеки",
+    "subcountry": "Shaki City"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585177,
+    "name": "Samux",
+    "alternatenames": "Nabiagali,Nǝbiağalı,Nəbiağalı,Sabarkend,Sabir,Sabira,Safarabad,Safaraliev,Safaraliyav,Safaraliyeb,Safaraliyev,Samux,Səfərəliyəv,Сафаралиев",
+    "subcountry": "Samux"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585184,
+    "name": "Sabuncu",
+    "alternatenames": "Sabunchi,Sabunchy,Sabuncu,Sabunçu,Сабунчи",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585187,
+    "name": "Sabirabad",
+    "alternatenames": "Petropavlovka,Petropavlovskoye,Sabirabad,Sabirabadas,Ssabirabad,sa bi la ba de,sbyr abad,Сабирабад,Սաբիրաբադ,سبیر آباد,薩比拉巴德",
+    "subcountry": "Sabirabad"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585220,
+    "name": "Qusar",
+    "alternatenames": "Kusary,Qusar,Кусары",
+    "subcountry": "Qusar"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585221,
+    "name": "Quba",
+    "alternatenames": "Guba,Kuba,Kuuba,Kuuval,Kuwa,Quba,ku ba,mdynt qwba,qwba,qwbh,Губа,Куба,Къуба,Къувал,Ґуба,Կուբա,קובה,قوبا,مدينة قوبا,庫巴",
+    "subcountry": "Quba"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585223,
+    "name": "Qobustan",
+    "alternatenames": "Duvannaya,Duvanni,Duvanny,Duvannyy,Duvannı,Duyannaya,Gobustan,Qobustan,Гобустан",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585225,
+    "name": "Haciqabul",
+    "alternatenames": "Adshikabul,Adzha-Kabul,Adzhikabul,Aja Kabul,Haciqabul,Hacıqabul,Kasi-Mahomed,Kazi Mahomed,Kazi-Magomed,Kazi-Magomet,Qazimammad,Qazımǝmmǝd,Qazıməmməd,Кази-Магомед",
+    "subcountry": "Hacıqabul"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585226,
+    "name": "Qazax",
+    "alternatenames": "Agkeynak,Agkëynak,Gazakh,Kasach,Kasachisee,Kazachas,Kazah,Kazakh,Qazakh,Qazax,ha sa ke,qazakh,Газах,Казах,Կողթ,قازاخ,哈薩克",
+    "subcountry": "Qazax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585227,
+    "name": "Qax",
+    "alternatenames": "Kakhi,Qakh,Qax,Кахи",
+    "subcountry": "Qax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585228,
+    "name": "Qasim Ismayilov",
+    "alternatenames": "Alabashly,Kasum-Ismailov,Kasum-Izmaylov,Kasym-Ismailov,Qasim Ismayilov,Qasım İsmayılov",
+    "subcountry": "Şǝmkir"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585231,
+    "name": "Qutqashen",
+    "alternatenames": "Gabala,Kutkashen,Kutkashin,Qabala,Qutqashen,Qəbələ,Габала",
+    "subcountry": "Qǝbǝlǝ"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585236,
+    "name": "Puta",
+    "alternatenames": "Puta,Staraya Puta,Пута",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585333,
+    "name": "Oguz",
+    "alternatenames": "Bartashen,Oguz,Oğuz,Vartasen,Vartashen,Vartashin,Vartaşen,Огуз",
+    "subcountry": "Oğuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585346,
+    "name": "Novosaratovka",
+    "alternatenames": "Novaya Saratovka,Novosaratovka",
+    "subcountry": "Gǝdǝbǝy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585379,
+    "name": "Haci Zeynalabdin",
+    "alternatenames": "Haci Zeynalabdin,Hacı Zeynalabdin,Nasoslu,Nasosnaya,Nasosnyy,Nassosny",
+    "subcountry": "Sumqayit"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585388,
+    "name": "Nardaran",
+    "alternatenames": "Nardaran",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585400,
+    "name": "Naftalan",
+    "alternatenames": "Naftalan,Нафталан",
+    "subcountry": "Naftalan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585514,
+    "name": "Mingelchaur",
+    "alternatenames": "Mengechaur,Min'nkatsebir,Mingacevir,Mingachevir,Mingaecevir,Mingechaur,Mingechaurges,Mingeczaur,Mingelchaur,Mingächevir,Mingäçevir,Mingǝçevir,Mingəçevir,ming gai qia wu er,mynghashwyr,Μινγκατσεβίρ,Мингечаур,مينغاشوير,明盖恰乌尔",
+    "subcountry": "Mingǝcevir"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585557,
+    "name": "Mastaga",
+    "alternatenames": "Mashtaga,Mashtaghy,Mashtagi,Mastaga,Maştağa,Маштага",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585568,
+    "name": "Mardakan",
+    "alternatenames": "Mardakan,Mardakjan,Mardakyan,Mardakyany,Mǝrdǝkan,Mərdəkan,Мардакян",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585570,
+    "name": "Qobustan",
+    "alternatenames": "Gobustan,Maraza,Marazi,Marazy,Mǝrǝzǝ,Mərəzə,Qobustan,Мараза",
+    "subcountry": "Qobustan"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585583,
+    "name": "Mamrux",
+    "alternatenames": "Mamrukh,Mamrux",
+    "subcountry": "Zaqatala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585630,
+    "name": "Lokbatan",
+    "alternatenames": "Loekbatan,Lokbatan,Lökbatan,Локбатан",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585666,
+    "name": "Qizilhacili",
+    "alternatenames": "Kyzylgadzhily,Kyzylgadzhyly,Qizilhacili,Qızılhacılı,Кызылгаджилы,Кызылгаджылы",
+    "subcountry": "Goranboy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585763,
+    "name": "Kyurdarmir",
+    "alternatenames": "Kiordamir,Kjurdamir,Kurdamir,Kyurdamir,Kyurdarmir,Kürdǝmir,Kürdəmir,Кюрдамир",
+    "subcountry": "Kürdǝmir"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585838,
+    "name": "Qobu",
+    "alternatenames": "Kobi,Kobu,Qobu,Кобу",
+    "subcountry": "Abşeron"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585892,
+    "name": "Kilyazi",
+    "alternatenames": "Gilazi,Giləzi,Kiljasi,Kiljazi,Kilyazi,Килязи",
+    "subcountry": "Xızı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585909,
+    "name": "Xizi",
+    "alternatenames": "Khizy,Khyzy,Xizi,Xızı,Хызы",
+    "subcountry": "Xızı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585915,
+    "name": "Khirdalan",
+    "alternatenames": "Khurdalan,Khyrdalan,Xirdalan,Хырдалан",
+    "subcountry": "Abşeron"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 585940,
+    "name": "Khojasan",
+    "alternatenames": "Gadzhi-Gasan,Khodzhagasan,Khodzhasan,Khodzhi-Gasan,Khojasan,Xocasan,Xocəsən,Ходжасан",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586031,
+    "name": "Korgoz",
+    "alternatenames": "Kar'yery,Kar’yery,Kergez,Korgoez,Korgoz,Korgöz,Kërgëz,Кергез",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586135,
+    "name": "Qarayeri",
+    "alternatenames": "Cirdaxan,Cırdaxan,Dzhirdakhan,Karaeri,Karayeri,Qarayeri,Караери",
+    "subcountry": "Samux"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586162,
+    "name": "Qaramanli",
+    "alternatenames": "Karamanli,Karamanly,Pederly,Qaramanli,Qaramanlı,Караманлы",
+    "subcountry": "Yevlax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586179,
+    "name": "Qaraxanli",
+    "alternatenames": "Karakhanly,Qaraxanli,Qaraxanlı",
+    "subcountry": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586255,
+    "name": "Qandax",
+    "alternatenames": "Kandak,Kandakh,Qandax",
+    "subcountry": "Zaqatala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586265,
+    "name": "Vurgun",
+    "alternatenames": "Gryunfel'd,Gryunfel’d,Kalininkand,Kalininkend,Kalininkänd,Kalininkənd,Vurgun,Vurğun,Вургун,Калининкенд",
+    "subcountry": "Ağstafa"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586268,
+    "name": "Kerbakhiar",
+    "alternatenames": "K'arvacharr,Kalbacar,Kalbajar,Kel'badzhar,Kelbadshar,Kel’badzhar,Kerbakhiar,Kälbäjär,Kǝlbǝcǝr,Kəlbəcər,Kʻarvacar,Kʻelbajar,K’arvacharr,Кельбаджар,Քարվաճառ,Քելբաջար",
+    "subcountry": "Kalbajar"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586289,
+    "name": "Qala",
+    "alternatenames": "Kala,Kala-Machtagi,Qala,Кала",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586294,
+    "name": "Qax Ingiloy",
+    "alternatenames": "Kakh Ingilo,Kakh-Bash-Ingiloy,Kakhingiloy,Qax Ingiloy,Qax İngiloy",
+    "subcountry": "Qax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586295,
+    "name": "Qaxbas",
+    "alternatenames": "Kakhbash,Qaxbas,Qaxbaş",
+    "subcountry": "Qax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586318,
+    "name": "Ismayilli",
+    "alternatenames": "Ismailly,Ismaily,Ismanlli,Ismayilli,Ismayylly,Ismoylly,Jsmailly,İsmayıllı,Исмаиллы",
+    "subcountry": "İsmayıllı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586340,
+    "name": "Yeni Suraxani",
+    "alternatenames": "Imeni Kirova,Kirov Adina,Kirov Adına,Kirova,Poselok Imeni Kirova,Posëlok Imeni Kirova,Rasulzada,Rəsulzadə,Yeni Suraxani,Yeni Suraxanı,Yeni-Surakhany",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586368,
+    "name": "Gyuzdek",
+    "alternatenames": "Gezdek,Gjuzdek,Guzdak,Gyuzdek,Güzdǝk,Güzdək,Гюздек",
+    "subcountry": "Abşeron"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586427,
+    "name": "Goycay",
+    "alternatenames": "Gekchai,Geokchai,Geokchaj,Geokchay,Geoktschai,Goeycay,Goycay,Goychay,Göychay,Göyçay,Геокчай",
+    "subcountry": "Göyçay"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586429,
+    "name": "Hovsan",
+    "alternatenames": "Gousan,Gousany,Goussan,Govsan,Hoevsan,Hovsan,Hövsan,Говсан",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586430,
+    "name": "Goranboy",
+    "alternatenames": "Geran'boy,Geranboj,Geran’boy,Goranboy,Kasum-Ismailov,Kasum-Ismailovo,Kasum-Izmaylovo,Qasim Ismayilov,Qasym Ismayylov,Qasım Ismayılov,Геранбой",
+    "subcountry": "Goranboy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586447,
+    "name": "Gilgilcay",
+    "alternatenames": "Gil'gil'chaj,Gil'gil'chay,Gilgilcay,Gilgilçay,Gil’gil’chay,Гильгильчай",
+    "subcountry": "Siyǝzǝn"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586523,
+    "name": "Ganja",
+    "alternatenames": "Elisavetpol,Elizavetpol',Elizavetpol’,GNJ,Gaencae,Gaendz,Gaendzjae,Ganca,Gandja,Gandza,Gandzha,Gandzhe,Gandża,Gandža,Ganga,Ganja,Ganjak,Ganĝa,Ganҷa,Gence,Gendzakh,Gendze,Gendže,Gendžė,Gjandzha,Gjanzha,Gyandzha,Gäncä,Gändzjä,Gändž,Gǝncǝ,Gəncə,Kirovabad,Kirowabad,Nkantza,Yelizavetpol',Yelizavetpol’,ganja,gngh,gnjh,gyanja,jnja,knjh,zhan gu,Γκαντζά,Ганджа,Гандза,Ганџа,Ганҷа,Гянджа,Гянжа,Гәнжә,Елизаветполь,Գանձակ,גנגה,جنجا,كنجه,گانجا شہر,گنجه,گنجہ,განჯა,ギャンジャ,占贾,간자",
+    "subcountry": "Gǝncǝ"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586573,
+    "name": "Kyadabek",
+    "alternatenames": "Gadabay,Gǝdǝbǝy,Gədəbəy,Kedabek,Kedabeko,Kedalek,Kyadabek,Кедабек",
+    "subcountry": "Gǝdǝbǝy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586586,
+    "name": "Faldarli",
+    "alternatenames": "Faldar,Faldarli,Faldarly,Faldarlı",
+    "subcountry": "Zaqatala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586631,
+    "name": "Corat",
+    "alternatenames": "Corat,Dzhorat,Джорат",
+    "subcountry": "Sumqayit"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586652,
+    "name": "Ceyranbatan",
+    "alternatenames": "Ceyranbatan,Dzhejranbatan,Dzheyranbatan,Джейранбатан",
+    "subcountry": "Abşeron"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586692,
+    "name": "Dzagam",
+    "alternatenames": "Dzagam,Dzegam,Dzegan,Guseynbeili,Guseynbeyli,Pzegam,Star Agozam,Zayam,Zǝyǝm,Zəyəm,Дзегам",
+    "subcountry": "Şǝmkir"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586717,
+    "name": "Dondar Quscu",
+    "alternatenames": "Dondar Quscu,Dondar Quşçu,Dondar-Kushchu",
+    "subcountry": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586736,
+    "name": "Digah",
+    "alternatenames": "Digah,Digjakh,Digyakh,Dygya,Дигях",
+    "subcountry": "Abşeron"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586763,
+    "name": "Divichibazar",
+    "alternatenames": "Davachi,Davaci,Divachi,Divichi,Divichibazar,Dävächi,Dǝvǝçi,Dəvəçi,Sabran,Shabran,Дивичи",
+    "subcountry": "Shabran"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586765,
+    "name": "Yukhary-Dashkesan",
+    "alternatenames": "Dashkasan,Dashkesan,Dashkezan,Dashkäsän,Daskasan,Daşkǝsǝn,Daşkəsən,Verkhniy Dashkesan,Yukhary-Dashkesan,Дашкесан",
+    "subcountry": "Daşkǝsǝn"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586792,
+    "name": "Dolyar",
+    "alternatenames": "Dalilar,Dallar,Dalljar,Dallyar,Dolyar,Dǝlilǝr,Dəlilər,Dəllər,Далляр",
+    "subcountry": "Şǝmkir"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586832,
+    "name": "Cobansignaq",
+    "alternatenames": "Chobansygnakh,Cobansignaq,Çobansığnaq",
+    "subcountry": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586845,
+    "name": "Cinarli",
+    "alternatenames": "Chinarly,Cinarli,Lenin,Çinarlı,Ленин",
+    "subcountry": "Qax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586880,
+    "name": "Catax",
+    "alternatenames": "Catax,Chatakh,Çatax",
+    "subcountry": "Tovuz"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586925,
+    "name": "Buzovna",
+    "alternatenames": "Busovny,Busowny,Buzouvna,Buzovna,Buzovny,Бузовна",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586967,
+    "name": "Binagadi",
+    "alternatenames": "Binagadi,Binagady,Binaghad,Binaqadi,Binǝqǝdi,Binəqədi,Bonogady,Бинагади",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586968,
+    "name": "Biny Selo",
+    "alternatenames": "Bina,Bina Staraya,Biny Selo,Binǝ,Binə,Бина",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 586971,
+    "name": "Bilajer",
+    "alternatenames": "Bil'gjakh,Bil'gya,Bil'gyakh,Bil'gykh,Bilajer,Bilgah,Bilgǝh,Bilgəh,Bil’gya,Bil’gyakh,Bil’gykh,Бильгях",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587033,
+    "name": "Basqal",
+    "alternatenames": "Azizbekovo,Baskal,Baskhal,Basqal,Баскал",
+    "subcountry": "İsmayıllı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587045,
+    "name": "Bas Goynuk",
+    "alternatenames": "Bas Goeynuek,Bas Goynuk,Bas Koynuk,Bash Gejnjuk,Bash Geynyuk,Bash Gëynyuk,Baş Göynük,Baş Köynük,Баш Гейнюк",
+    "subcountry": "Shaki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587057,
+    "name": "Barda",
+    "alternatenames": "Bard,Barda,Bardaa,Barde khot,Barnta,Berde,Berdė,Bärdä,Bǝrdǝ,Bərdə,Partav,ba er da,barda,brdh,Μπαρντά,Барда,Барде хот,Պարտավ,بردع,برده,ბარდა,巴爾達",
+    "subcountry": "Barda"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587070,
+    "name": "Belokany",
+    "alternatenames": "Balakan,Balakon,Balakǝn,Balakən,Belokan,Belokani,Belokany,Белоканы",
+    "subcountry": "Balakǝn"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587071,
+    "name": "Balakhani",
+    "alternatenames": "Balaban,Balachany,Baladzary,Balakhani,Balakhany,Balaxani,Balaxanı,Балаханы",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587078,
+    "name": "Bilajari",
+    "alternatenames": "Baku-Baladshary,Baladjary,Baladzhary,Bilacari,Biləcəri,Баладжары",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587084,
+    "name": "Baku",
+    "alternatenames": "BAK,Bacu,Bacú,Baki,Bako,Bakoe,Bakou,Baku,Bakue,Bakuo,Bakuu,Baky,Bakó,Bakú,Bakû,Bakü,Bakı,Baqu,Boku,Mpakou,ba ku,bakku,bako,baku,bakw,bakww,pakku,Μπακού,Баку,Бакы,Баҡы,Боку,Բաքու,באקו,باكو,باکو,باکوو,बाकु,बाकू,বাকু,பாக்கு,ബക്കു,บากู,པཱ་ཁི།,ბაქო,ባኩ,バクー,巴库,바쿠",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587204,
+    "name": "Ariqiran",
+    "alternatenames": "Anygyran,Ariqiran,Arygyran,Arıqıran",
+    "subcountry": "Gǝdǝbǝy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587205,
+    "name": "Ariqdam",
+    "alternatenames": "Ariqdam,Arygdam,Arykhdam,Arıqdam",
+    "subcountry": "Gǝdǝbǝy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587207,
+    "name": "Pirallahi",
+    "alternatenames": "Artem-Ostrov,Artyom,Artëm-Ostrov,Imeni Dvadtsati Shesti,Imeni Artema,Imeni ”Dvadtsati Shesti”,Pirallahi,Pirallahı,Poselok Imeni Dvadtsati Shesti,Posëlok Imeni Dvadtsati Shesti,Артем-Остров",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587261,
+    "name": "Amirdzhan",
+    "alternatenames": "Amirabdzhan,Amiradzhan,Amiradzhany,Amircan,Amirdzhan,Əmircan",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587272,
+    "name": "Altiagac",
+    "alternatenames": "Altiagac,Altiagach,Altiagak,Alty-Agatsch,Altyagach,Altıağac,Alyagach,Алтиагак,Алтыагач",
+    "subcountry": "Xızı"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587319,
+    "name": "Aliabad",
+    "alternatenames": "Aliabad,Əliabad,Алиабад",
+    "subcountry": "Zaqatala"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587361,
+    "name": "Aghsu",
+    "alternatenames": "Aghsu,Agsu,Akhsu,Aksu,Ağsu,Ахсу",
+    "subcountry": "Ağsu"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587362,
+    "name": "Aghstafa",
+    "alternatenames": "Agstafa,Akstafa,Akstafal,Ağstafa,Агстафа,Акстафа",
+    "subcountry": "Ağstafa"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587378,
+    "name": "Agdas",
+    "alternatenames": "Ag'dash,Agdas,Agdasas,Agdasch,Agdash,Agdašas,Aghdash,Agʻdash,Akdash,Ağdaş,a ge da shen,aghdashi,aq dash,Агдаш,Քաղբերդ,آغ‌داش,آق داش,აღდაში,阿格達什",
+    "subcountry": "Ağdaş"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587379,
+    "name": "Martakert",
+    "alternatenames": "Agdara,Agdere,Aghdara,Ağdǝrǝ,Ağdərə,Mardakert,Martakert,Агдере,Мардакерт,Мартакерт,Մարտակերտ,آغ‌دره",
+    "subcountry": "Tǝrtǝr"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 587384,
+    "name": "Agdzhabedy",
+    "alternatenames": "Agcabadi,Agdzhabedi,Agdzhabedy,Aghjabadi,Aghjabädi,Ağcabǝdi,Ağcabədi,Агджабеди",
+    "subcountry": "Ağcabǝdi"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 615469,
+    "name": "Boyuk Qaramurad",
+    "alternatenames": "Beyuk-Karamurad,Boyuk Qaramurad,Bëyuk-Karamurad,Böyük Qaramurad",
+    "subcountry": "Gǝdǝbǝy"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 807231,
+    "name": "Mughan",
+    "alternatenames": "Mugan,Mugan',Muğan,Мугань",
+    "subcountry": "Hacıqabul"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 823981,
+    "name": "Qabaqcol",
+    "alternatenames": "Qabaqcol,Qabaqçöl",
+    "subcountry": "Balakǝn"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 824003,
+    "name": "Bakixanov",
+    "alternatenames": "Bakikhanov,Bakikhanova,Bakixanov,Bakıxanov,Бакиханова",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 824026,
+    "name": "Qirmizi Samux",
+    "alternatenames": "Krasnyy Samukh,Qirmizi Samux,Qırmızı Samux",
+    "subcountry": "Samux"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 824037,
+    "name": "Hacihuseynli",
+    "alternatenames": "Hacihuseynli,Hacıhüseynli",
+    "subcountry": "Quba"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 824050,
+    "name": "Aran",
+    "alternatenames": "28-oe Aprelja,28-ое Апреля,Aran,Аран",
+    "subcountry": "Yevlax"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 824615,
+    "name": "Samuxlu",
+    "alternatenames": "Leninabad,Samuxlu",
+    "subcountry": "Barda"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 863732,
+    "name": "Ramana",
+    "alternatenames": "Ramana,Рамана",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 863761,
+    "name": "Badamdar",
+    "alternatenames": "Badamdar",
+    "subcountry": "Baki"
+  },
+  {
+    "country": "AZ",
+    "geonameid": 8326746,
+    "name": "Heydarabad",
+    "alternatenames": "Heydarabad,Heydərabad",
+    "subcountry": "Nakhichevan"
+  }
+]

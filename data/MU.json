@@ -1,0 +1,688 @@
+[
+  {
+    "country": "MU",
+    "geonameid": 933933,
+    "name": "Verdun",
+    "alternatenames": "Verdun,Verdun Station",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933945,
+    "name": "Vacoas",
+    "alternatenames": "Phoenix,Vacoa,Vacoas,Vacoas-Phoenix",
+    "subcountry": "Plaines Wilhems"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933959,
+    "name": "Triolet",
+    "alternatenames": "Triolet,Триолет",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933970,
+    "name": "The Vale",
+    "alternatenames": "Lyman Estate,The Vale",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933974,
+    "name": "Terre Rouge",
+    "alternatenames": "Terre Rouge",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933982,
+    "name": "Tamarin",
+    "alternatenames": "",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933988,
+    "name": "Surinam",
+    "alternatenames": "Surinam",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 933995,
+    "name": "Souillac",
+    "alternatenames": "Port Souillac,Soullac",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934013,
+    "name": "Sebastopol",
+    "alternatenames": "",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934032,
+    "name": "Saint Pierre",
+    "alternatenames": "Saint Pierre,Saint Pierre Village",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934043,
+    "name": "Saint Julien",
+    "alternatenames": "Julien,Saint Julien,Saint Julien Village",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934047,
+    "name": "Saint Hubert",
+    "alternatenames": "Saint Hubert",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934056,
+    "name": "Saint Aubin",
+    "alternatenames": "Saint Aubin,Sent-Oben,Union Saint Aubin,Сент-Обен",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934058,
+    "name": "Morcellement Saint Andre",
+    "alternatenames": "Morcellemont Saint Andre,Morcellemont Saint André,Saint-Andre,Saint-André",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934072,
+    "name": "Rose Belle",
+    "alternatenames": "Roz-Bel',Роз-Бель",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934076,
+    "name": "Roche Terre",
+    "alternatenames": "Roche Terre",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934085,
+    "name": "Roches Noire",
+    "alternatenames": "Roche Noire,Roche Noires,Roches Noire,Roches Noires",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934089,
+    "name": "Grande Riviere Noire",
+    "alternatenames": "Black River,Grand Riviere Noire,Grand Rivière Noire,Grande Riviere Noire,Grande Rivière Noire,Riviere Noire,Rivière Noire",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934091,
+    "name": "Riviere du Rempart",
+    "alternatenames": "",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934095,
+    "name": "Riviere des Anguilles",
+    "alternatenames": "River des Anguilles,River-dez-Angij,Riviere des Anguilles,Rivière des Anguilles,Ривер-дез-Ангий",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934126,
+    "name": "Queen Victoria",
+    "alternatenames": "Queen Victoria",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934127,
+    "name": "Quatre Soeurs",
+    "alternatenames": "La Coterie,Quatre Soeurs,Quatre Soeurs Br.",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934131,
+    "name": "Quatre Bornes",
+    "alternatenames": "Quatre Bornes",
+    "subcountry": "Plaines Wilhems"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934133,
+    "name": "Quartier Militaire",
+    "alternatenames": "Quartier Militaire",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934138,
+    "name": "Providence",
+    "alternatenames": "Providence",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934149,
+    "name": "Poste de Flacq",
+    "alternatenames": "Post of Flacq,Poste de Flacq",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934154,
+    "name": "Port Louis",
+    "alternatenames": "Bort Lois,Po-Loui,Por Loui,Por-Loui,Port Lois,Port Louis,Port Louis Town,Port Lui,Port Luis,Port Luisas,Port Luiz,Port-Louis,Port-Lui,Port-Luiso,Port-lui,Portlui,Portluī,Portus Ludovici,Puerto Louis,Pò-Loui,bwr lwys,lu yi gang,phxrt hluys,porata lu'i,port luyis,porta lu'i,porta lu'isa,poteulu-iseu,potoruisu,pwr lwʼy,Πορ Λουί,Πορ-Λουί,Порт Луи,Порт Луис,Порт-Луи,Порт-Луі,Порт-Луї,Պորտ Լուի,פור לואי,بور لويس,پورت‌لوئیس,پورٹ لوئس,پورٹ لوئی,پۆرت لویس,पोर्ट लुई,पोर्ट लुईस,পোর্ট লুইস,ਪੋਰਟ ਲੂਈ,ପୋର୍ଟ ଲୁଇସ,போர்ட் லூயிஸ்,പോർട്ട് ലൂയിസ്,พอร์ตหลุยส์,ལོ་ཡི་སི་གྲུ་ཁ།,პორტ-ლუი,ፖርት ሉዊስ,ポートルイス,路易港,포트루이스",
+    "subcountry": "Port Louis"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934169,
+    "name": "Plaine Magnien",
+    "alternatenames": "Plaine Magnien,Plaines Magnien",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934170,
+    "name": "Plaine des Papayes",
+    "alternatenames": "Plaine des Papayes,Plaines des Papayes",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934184,
+    "name": "Petit Raffray",
+    "alternatenames": "",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934195,
+    "name": "Petite Riviere",
+    "alternatenames": "Ptit-Riv'er,Птит-Ривьер",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934198,
+    "name": "Petite Case Noyale",
+    "alternatenames": "Petite Case Noyale",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934213,
+    "name": "Pamplemousses",
+    "alternatenames": "Pamplemousses,Pamplemousses Village",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934219,
+    "name": "Pailles",
+    "alternatenames": "Pailles,Pailles Village,mauvilac",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934225,
+    "name": "Olivia",
+    "alternatenames": "Oliva,Olivia",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934229,
+    "name": "Nouvelle France",
+    "alternatenames": "Nouvelle France",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934232,
+    "name": "Notre Dame",
+    "alternatenames": "Notre Dame,Notre Dame Station",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934240,
+    "name": "New Grove",
+    "alternatenames": "New Grove,New Grove Station",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934255,
+    "name": "Piton",
+    "alternatenames": "Mont Piton,Piton",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934262,
+    "name": "Montagne Blanche",
+    "alternatenames": "Blanche Mont,Mont Blanche,Montagne Blanche",
+    "subcountry": ""
+  },
+  {
+    "country": "MU",
+    "geonameid": 934277,
+    "name": "Moka",
+    "alternatenames": "Moka,Moka Village",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934282,
+    "name": "Midlands",
+    "alternatenames": "",
+    "subcountry": "Plaines Wilhems"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934288,
+    "name": "Melrose",
+    "alternatenames": "Melrose",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934322,
+    "name": "Mahebourg",
+    "alternatenames": "Mahebourg,Mahébourg",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934333,
+    "name": "Long Mountain",
+    "alternatenames": "Long Mountain,Mont Longue",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934390,
+    "name": "Lalmatie",
+    "alternatenames": "Lalmatie",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934400,
+    "name": "Dagotiere",
+    "alternatenames": "Dagotiere,Dagotière,La Dagotiere,La Dagotière",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934459,
+    "name": "Grand Sable",
+    "alternatenames": "Grand Sable",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934475,
+    "name": "Grande Riviere Sud Est",
+    "alternatenames": "Grand River,Grand River South East,Grande Reviere Sud Est,Grande Riviere Sud Est,Grande Rivière Sud Est",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934479,
+    "name": "Grand Gaube",
+    "alternatenames": "Grand Gaube,Grande Gaube",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934482,
+    "name": "Grand Baie",
+    "alternatenames": "Grand Baie,Grande Baie",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934485,
+    "name": "Grand Bois",
+    "alternatenames": "Gran-Bua,Grand Bois,Гран-Буа",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934488,
+    "name": "Goodlands",
+    "alternatenames": "Goodlands",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934513,
+    "name": "Fond du Sac",
+    "alternatenames": "Fond du Sac",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934517,
+    "name": "Flic en Flac",
+    "alternatenames": "Flic en Flac,Flic-en-Flacq",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934533,
+    "name": "Esperance Trebuchet",
+    "alternatenames": "Esperance,Esperance Trebuchet,Espérance,Espérance Trébuchet",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934570,
+    "name": "Curepipe",
+    "alternatenames": "Curepipe,K'jurpajp,Kiurpipas,Kjurpajp,Kjurpip,ju er pi pu,kulepipe,kur pip,kwrybyb,kyurupippu,Кьюрпайп,Кюрпип,Кјурпајп,كوريبيب,کیورپیپہ,กูร์ปีป,キュールピップ,居爾皮普,쿠레피페",
+    "subcountry": "Plaines Wilhems"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934573,
+    "name": "Creve Coeur",
+    "alternatenames": "Creve Coeur,Crève Coeur",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934599,
+    "name": "Clemencia",
+    "alternatenames": "Clemencia,Clémencia",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934614,
+    "name": "Chemin Grenier",
+    "alternatenames": "Chemin Grenier,Shmen-Gren'e,Шмен-Гренье",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934624,
+    "name": "Chamouny",
+    "alternatenames": "Chamouny",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934631,
+    "name": "Centre de Flacq",
+    "alternatenames": "Centre of Flacq,Flacq",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934644,
+    "name": "Cascavelle",
+    "alternatenames": "Cascavelle",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934649,
+    "name": "Cap Malheureux",
+    "alternatenames": "Cap Malheureux",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934656,
+    "name": "Camp Thorel",
+    "alternatenames": "Camp Thorel,Camp Thoret",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934660,
+    "name": "Camp Diable",
+    "alternatenames": "Camp Diable",
+    "subcountry": "Savanne"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934661,
+    "name": "Camp de Masque",
+    "alternatenames": "Camp de Masque,Camp de Masque Station",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934677,
+    "name": "Brisee Verdiere",
+    "alternatenames": "Brisee Verdiere,Brisée Verdière",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934693,
+    "name": "Bon Accueil",
+    "alternatenames": "Bon Accueil",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934705,
+    "name": "Bois des Amourettes",
+    "alternatenames": "Bois des Amourettes",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934750,
+    "name": "Bel Air Riviere Seche",
+    "alternatenames": "Bel Air Riviere Seche,Bel Air Rivière Sèche",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934753,
+    "name": "Beau Vallon",
+    "alternatenames": "Beau Vallon,Beau-Vallon",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934765,
+    "name": "Beau Bassin-Rose Hill",
+    "alternatenames": "Beau Bassin,Beau Bassin-Rose Hill,Villes sœurs",
+    "subcountry": "Plaines Wilhems"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934778,
+    "name": "Bambous",
+    "alternatenames": "Bambous",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 934812,
+    "name": "Albion",
+    "alternatenames": "",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106584,
+    "name": "Laventure",
+    "alternatenames": "Laventure",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106589,
+    "name": "Cluny",
+    "alternatenames": "Cluny",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106596,
+    "name": "Cottage",
+    "alternatenames": "Cottage",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106614,
+    "name": "Pointe aux Piments",
+    "alternatenames": "",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106621,
+    "name": "Congomah",
+    "alternatenames": "Congomah",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106630,
+    "name": "Amaury",
+    "alternatenames": "Amaury",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106631,
+    "name": "Plaines des Roches",
+    "alternatenames": "Plaines des Roches",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106638,
+    "name": "Mare La Chaux",
+    "alternatenames": "Mare La Chaux",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106643,
+    "name": "Quatre Cocos",
+    "alternatenames": "Quatre Cocos",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106645,
+    "name": "Camp Ithier",
+    "alternatenames": "Camp Ithier",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106660,
+    "name": "Ecroignard",
+    "alternatenames": "Ecroignard",
+    "subcountry": "Flacq"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106677,
+    "name": "Bambous Virieux",
+    "alternatenames": "Bambous Virieux",
+    "subcountry": "Grand Port"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106748,
+    "name": "Ebene",
+    "alternatenames": "Ebene City,Ebene CyberCity",
+    "subcountry": "Plaines Wilhems"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106763,
+    "name": "Gros Cailloux",
+    "alternatenames": "Gros Cailloux",
+    "subcountry": "Black River"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106771,
+    "name": "Mapou",
+    "alternatenames": "Mapou",
+    "subcountry": "Rivière du Rempart"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106788,
+    "name": "Dubreuil",
+    "alternatenames": "",
+    "subcountry": "Moka"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106809,
+    "name": "Le Hochet",
+    "alternatenames": "Le Hochet",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106811,
+    "name": "Calebasses",
+    "alternatenames": "Calebasses",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1106813,
+    "name": "Arsenal",
+    "alternatenames": "Arsenal",
+    "subcountry": "Pamplemousses"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1545752,
+    "name": "Port Mathurin",
+    "alternatenames": "Port Mathurin",
+    "subcountry": "Rodrigues"
+  },
+  {
+    "country": "MU",
+    "geonameid": 1547471,
+    "name": "Baie aux Huitres",
+    "alternatenames": "Baie aux Huitres,Baie aux Huîtres,Oyster Bay",
+    "subcountry": "Rodrigues"
+  },
+  {
+    "country": "MU",
+    "geonameid": 8199111,
+    "name": "Cargados Carajos",
+    "alternatenames": "Saint Brandon",
+    "subcountry": "Cargados Carajos"
+  },
+  {
+    "country": "MU",
+    "geonameid": 12022106,
+    "name": "Vingt Cinq",
+    "alternatenames": "",
+    "subcountry": "Agalega Islands"
+  }
+]

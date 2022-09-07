@@ -1,0 +1,58 @@
+[
+  {
+    "country": "TV",
+    "geonameid": 2110302,
+    "name": "Toga Village",
+    "alternatenames": "Tonga",
+    "subcountry": "Nanumanga"
+  },
+  {
+    "country": "TV",
+    "geonameid": 2110322,
+    "name": "Tanrake Village",
+    "alternatenames": "Tanrake,Tapotali",
+    "subcountry": "Nui"
+  },
+  {
+    "country": "TV",
+    "geonameid": 2110377,
+    "name": "Kulia Village",
+    "alternatenames": "",
+    "subcountry": "Niutao"
+  },
+  {
+    "country": "TV",
+    "geonameid": 2110394,
+    "name": "Funafuti",
+    "alternatenames": "FUN,Fongafale,Fongafale (atolon de Funafuti),Fongafale (atolón de Funafuti),Funafuti,Phounaphouti,punaputi,Φουναφούτι,푸나푸티",
+    "subcountry": "Funafuti"
+  },
+  {
+    "country": "TV",
+    "geonameid": 2110415,
+    "name": "Asau Village",
+    "alternatenames": "",
+    "subcountry": "Vaitupu"
+  },
+  {
+    "country": "TV",
+    "geonameid": 7602373,
+    "name": "Savave Village",
+    "alternatenames": "",
+    "subcountry": "Nukufetau"
+  },
+  {
+    "country": "TV",
+    "geonameid": 7602506,
+    "name": "Alapi Village",
+    "alternatenames": "",
+    "subcountry": "Funafuti"
+  },
+  {
+    "country": "TV",
+    "geonameid": 7602508,
+    "name": "Fakaifou Village",
+    "alternatenames": "",
+    "subcountry": "Funafuti"
+  }
+]

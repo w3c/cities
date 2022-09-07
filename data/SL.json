@@ -1,0 +1,590 @@
+[
+  {
+    "country": "SL",
+    "geonameid": 2402689,
+    "name": "Zimmi",
+    "alternatenames": "Zimi,Zimmi",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2402715,
+    "name": "Yonibana",
+    "alternatenames": "Yonibana",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2402816,
+    "name": "Yengema",
+    "alternatenames": "WYE,Yengema",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403056,
+    "name": "Wima",
+    "alternatenames": "Wima",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403094,
+    "name": "Waterloo",
+    "alternatenames": "Waterloo",
+    "subcountry": "Western Area"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403303,
+    "name": "Tongole",
+    "alternatenames": "Tongole",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403322,
+    "name": "Tombu",
+    "alternatenames": "Tombu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403324,
+    "name": "Tombodu",
+    "alternatenames": "Fobu,Tombodu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403407,
+    "name": "Tintafor",
+    "alternatenames": "Tintafor,Tintfor",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403513,
+    "name": "Tefeya",
+    "alternatenames": "Tefea,Tefee,Tefeya",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403698,
+    "name": "Sumbuya",
+    "alternatenames": "Sumbuya",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403828,
+    "name": "Simbakoro",
+    "alternatenames": "Simbakoro",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2403896,
+    "name": "Serabu",
+    "alternatenames": "Serabu",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404036,
+    "name": "Seidu",
+    "alternatenames": "Seidu",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404041,
+    "name": "Segbwema",
+    "alternatenames": "Segbwema",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404067,
+    "name": "Sawkta",
+    "alternatenames": "Sawkta",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404254,
+    "name": "Rotifunk",
+    "alternatenames": "Rotifunk",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404303,
+    "name": "Rokupr",
+    "alternatenames": "Rokupr",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404423,
+    "name": "Potoru",
+    "alternatenames": "Potoru",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404433,
+    "name": "Port Loko",
+    "alternatenames": "Port Loka,Port Lokko,Port Loko,Port-Loko,Порт-Локо",
+    "subcountry": "North West"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404472,
+    "name": "Koyima",
+    "alternatenames": "Koyima,Peyima",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404607,
+    "name": "Pepel",
+    "alternatenames": "Pepel",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404614,
+    "name": "Pendembu",
+    "alternatenames": "Pendembu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404663,
+    "name": "Panguma",
+    "alternatenames": "Panguma",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2404876,
+    "name": "Giehun",
+    "alternatenames": "Giehun,Ngiehun",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405013,
+    "name": "Moyamba",
+    "alternatenames": "Moyamba",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405038,
+    "name": "Motema",
+    "alternatenames": "Motema",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405274,
+    "name": "Mogbwemo",
+    "alternatenames": "Mogbembo,Mogbwemo",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405347,
+    "name": "Mobai",
+    "alternatenames": "Mobai",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405701,
+    "name": "Masoyila",
+    "alternatenames": "Masoyila",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405729,
+    "name": "Masingbi",
+    "alternatenames": "Masingbi",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405841,
+    "name": "Masaka",
+    "alternatenames": "Masaka",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2405952,
+    "name": "Manowa",
+    "alternatenames": "Manowa",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406067,
+    "name": "Mange",
+    "alternatenames": "Mange",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406142,
+    "name": "Mamboma",
+    "alternatenames": "Mamboma",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406145,
+    "name": "Mambolo",
+    "alternatenames": "Mambola,Mambolo",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406407,
+    "name": "Makeni",
+    "alternatenames": "Makeni,Makenis,ma ka ni,makeni,makyny,Μακένι,Макени,ماکینی,マケニ,馬卡尼,마케니",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406473,
+    "name": "Makali",
+    "alternatenames": "Makali",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406576,
+    "name": "Magburaka",
+    "alternatenames": "Magburaka,Magburuka",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406916,
+    "name": "Lunsar",
+    "alternatenames": "Lansar,Lunsar,Lunsare,Лунсаре",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2406963,
+    "name": "Loma",
+    "alternatenames": "Loma",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407089,
+    "name": "Largo",
+    "alternatenames": "Lago,Largo",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407262,
+    "name": "Kukuna",
+    "alternatenames": "Kakuna,Kukuna",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407428,
+    "name": "Koribundu",
+    "alternatenames": "Koribundu",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407656,
+    "name": "Koidu",
+    "alternatenames": "Koidu,Koidu Town,Koldu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407790,
+    "name": "Kenema",
+    "alternatenames": "KEN,Kenema,Keneme,kai nei ma,kenema,kynyma,Κενέμα,Кенема,Кенеме,کینیما,ケネマ,凯内马,케네마",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407829,
+    "name": "Kayima",
+    "alternatenames": "Kayima",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2407899,
+    "name": "Kassiri",
+    "alternatenames": "Karsarai,Kasiri,Kassiri",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408088,
+    "name": "Kambia",
+    "alternatenames": "Kambia,Kambia Town",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408154,
+    "name": "Kamakwie",
+    "alternatenames": "Kamakwie,Makwi,Makwie",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408250,
+    "name": "Kailahun",
+    "alternatenames": "Kailahun",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408329,
+    "name": "Kabala",
+    "alternatenames": "KBA,Kabala,Kaballa",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408399,
+    "name": "Jojoima",
+    "alternatenames": "Joioima,Jojoima",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408582,
+    "name": "Hastings",
+    "alternatenames": "Hastings",
+    "subcountry": "Western Area"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408585,
+    "name": "Hangha",
+    "alternatenames": "Hangha",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408683,
+    "name": "Gorahun",
+    "alternatenames": "Gorahun",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2408845,
+    "name": "Giehun",
+    "alternatenames": "Giehun",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409019,
+    "name": "Gberia Fotombu",
+    "alternatenames": "Gberia Fotombu",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409214,
+    "name": "Gandorhun",
+    "alternatenames": "Gandohun,Gandorhun",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409215,
+    "name": "Gandorhun",
+    "alternatenames": "Gandorhun",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409306,
+    "name": "Freetown",
+    "alternatenames": "FNA,Freetown,Frijtaun,Fritaun,Fritauna,Fritaunas,Fritauno,Fritaŭno,Fritonn,Frytaun,Frītauna,Phritaoun,Saint George,Urbs Libera,farita'una,fri thawn,frita'una,frytawn,frytwn,fu li dun,furitaun,peulitaun,phrita'una,phritaun,piritavun,zi you shi,Φρίταουν,Фрийтаун,Фритаун,Фрытаўн,Фрітаун,Ֆրիթաուն,פריטאון,فريتاون,فريتون,فری ٹاؤن,فریتاون,فری‌تاون,फ़्रीटाउन,फ्रीटाउन,ਫ਼ਰੀਟਾਊਨ,பிரீடவுன்,ಫ್ರೀಟೌನ್,ฟรีทาวน์,ཕིརི་ཊའུན།,ფრიტაუნი,ፍሪታውን,フリータウン,弗里敦,自由市,프리타운",
+    "subcountry": "Western Area"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409382,
+    "name": "Foindu",
+    "alternatenames": "Foindu",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409663,
+    "name": "Daru",
+    "alternatenames": "Daru",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409751,
+    "name": "Buedu",
+    "alternatenames": "Buedu,Bwedu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409783,
+    "name": "Bunumbu",
+    "alternatenames": "Bunumbu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409823,
+    "name": "Bumpe",
+    "alternatenames": "Bumpe",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409829,
+    "name": "Bumbuna",
+    "alternatenames": "Bumbuna",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409914,
+    "name": "Bonthe",
+    "alternatenames": "BTE,Bonth,Bonthe",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2409970,
+    "name": "Bomi",
+    "alternatenames": "Bomi",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410040,
+    "name": "Boajibu",
+    "alternatenames": "Boajibu",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410048,
+    "name": "Bo",
+    "alternatenames": "Bo,KBS,bo,bo cheng,bw,bw  syralywn,Μπο,Бо,בו,بو، سیرالیون,ボー,博城,보",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410065,
+    "name": "Blama",
+    "alternatenames": "Blama",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410090,
+    "name": "Binkolo",
+    "alternatenames": "Binkolo",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410093,
+    "name": "Bindi",
+    "alternatenames": "Bindi",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410312,
+    "name": "Barma",
+    "alternatenames": "Barma",
+    "subcountry": "Eastern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410380,
+    "name": "Baoma",
+    "alternatenames": "Baoma",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410623,
+    "name": "Palima",
+    "alternatenames": "Baiima,Palima",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410624,
+    "name": "Baiima",
+    "alternatenames": "Baiima",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2410708,
+    "name": "Alikalia",
+    "alternatenames": "Alikalia",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2566569,
+    "name": "Konakridee",
+    "alternatenames": "Konakridee",
+    "subcountry": "Northern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2570857,
+    "name": "Gbewebu",
+    "alternatenames": "Gbewebu",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 2571039,
+    "name": "Pujehun",
+    "alternatenames": "Pujehun",
+    "subcountry": "Southern Province"
+  },
+  {
+    "country": "SL",
+    "geonameid": 9191693,
+    "name": "Goderich",
+    "alternatenames": "",
+    "subcountry": "Western Area"
+  },
+  {
+    "country": "SL",
+    "geonameid": 10627326,
+    "name": "Kent",
+    "alternatenames": "",
+    "subcountry": "Western Area"
+  }
+]

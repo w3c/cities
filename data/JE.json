@@ -1,0 +1,23 @@
+[
+  {
+    "country": "JE",
+    "geonameid": 3042089,
+    "name": "Saint John",
+    "alternatenames": "Saint Jean,Saint John,Saint John's,Saint John's Church,Saint John’s,Saint John’s Church,St. John,St. John's Church,St. John’s Church",
+    "subcountry": "St John"
+  },
+  {
+    "country": "JE",
+    "geonameid": 3042091,
+    "name": "Saint Helier",
+    "alternatenames": "JER,Saint Helier,Saint-Helier,Saint-Hélier,Sankt' Heliero,Sent-Khel'er,St Helier,St. Helier,seinteuhellieo,Сент-Хельер,세인트헬리어",
+    "subcountry": "St Helier"
+  },
+  {
+    "country": "JE",
+    "geonameid": 10942508,
+    "name": "Le Hocq",
+    "alternatenames": "",
+    "subcountry": "St Clement"
+  }
+]

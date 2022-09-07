@@ -1,0 +1,3089 @@
+[
+  {
+    "country": "IR",
+    "geonameid": 9904,
+    "name": "Taleqan",
+    "alternatenames": "Shahrak,Shahrak-e Taleqan,Shahrak-e Ţāleqān,Taleqan,Tāleqān,shhrk,shhrk talqan,taliqan,talqan,Ţāleqān,تالِقان,شهرك,شهرک طالقان,طالقان",
+    "subcountry": "Alborz Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 10570,
+    "name": "Alvand",
+    "alternatenames": "Alborz,Alvand,albrz,alwnd,البرز,الوند",
+    "subcountry": "Qazvīn"
+  },
+  {
+    "country": "IR",
+    "geonameid": 14256,
+    "name": "Azadshahr",
+    "alternatenames": "Azad Shahr,Azadshahr,azadshhr,Āzādshahr,آزادشهر",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 15269,
+    "name": "Nir",
+    "alternatenames": "Nir,Nīr,Shahrestan-e Nir,Shahrestān-e Nīr,nyr,shhrstan nyr,شهرستان نير,نير",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 22451,
+    "name": "Qarah Aghaj",
+    "alternatenames": "Qarah Aghaj,Qarah Āghāj,Qareh Aghaj,Qareh Āghāj,qrh aghaj,قره آغاج",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 23290,
+    "name": "Bostanabad",
+    "alternatenames": "Bostanabad,Bostānābād,bstan abad,بستان آباد",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 23814,
+    "name": "Kahriz",
+    "alternatenames": "Kahriz,Kahrīz,khryz,کهریز",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 24851,
+    "name": "Nurabad",
+    "alternatenames": "Nurabad,Nūrābād,nwr abad,Нурабад,نور آباد",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 25883,
+    "name": "Javanrud",
+    "alternatenames": "Javanrud,Javānrūd,Juanru,Jūānrū,Qal`a Juanrud,Qal`eh Juanrud,Qal`eh-ye Javanrud,Qal‘a Jūanrūd,Qal‘eh Jūānrūd,Qal‘eh-ye Javānrūd,jwanrwd,جوانرود",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 31020,
+    "name": "Bozghan",
+    "alternatenames": "Barghan,Barghān,Bozghan,Bozghān,Firuzeh,Fīrūzeh,bzghan,fyrwzh,بزغان,فيروزه",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 31265,
+    "name": "Kalat-e Naderi",
+    "alternatenames": "Kalat,Kalat-e Naderi,Kalāt,Kalāt-e Nāderī,klat,klat nadry,کلات,کلات نادری",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 32723,
+    "name": "Istgah-e Rah Ahan-e Garmsar",
+    "alternatenames": "Istgah-e Garmsar,Istgah-e Rah Ahan Garmsar,Istgah-e Rah Ahan-e Garmsar,aystgah grmsar,aystgah rahahn garmsar,ystgahi garmsar,ystgahi rah ahan garmsar,ystgahi rahahani garmsar,Īstgāh-e Garmsār,Īstgāh-e Rāh Āhan Garmsār,Īstgāh-e Rāh Āhan-e Garmsār,ايستگاه راهاهن گَرمسار,ايستگاه گرمسار,يستگاهِ راه آهَن گَرمسار,يستگاهِ راهاهَنِ گَرمسار,يستگاهِ گَرمسار",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 32767,
+    "name": "Qarchak",
+    "alternatenames": "Qarchak,qrchk,قرچك",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 32904,
+    "name": "Shahrak-e Emam Hasan",
+    "alternatenames": "Shahrak-e Emam Hasan,Shahrak-e Emam Hasan-e Mojtaba,Shahrak-e Emām Ḩasan,Shahrak-e Emām Ḩasan-e Mojtabá,shhrk amam hsn,shhrk amam hsn mjtby,شهرک امام حسن,شهرک امام حسن مجتبی",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 32909,
+    "name": "Shahre Jadide Andisheh",
+    "alternatenames": "Shahrak-e Andisheh,Shahrak-e Andīsheh,shhr jdyd andyshh,شهر جدید اندیشه",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 37767,
+    "name": "Omidcheh",
+    "alternatenames": "Omidcheh,Omīdcheh,aumydchih,اُميدچِه",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 39874,
+    "name": "Aq Qayeh",
+    "alternatenames": "Aq Qayeh,aq qayih,Āq Qāyeh,آق قايِه",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 40047,
+    "name": "Gomishan",
+    "alternatenames": "Gish Dafeh,Gomesh Tappeh,Gomish Tappeh,Gomish Tappeh Jik,Gomishan,Gomīsh Tappeh,Gomīsh Tappeh Jīk,Gomīshān,Gumish Tepe,Gumshan,Gumshān,Gīsh Dafeh,gmysh tph,gmyshan,گميش تپه,گميشان",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 41151,
+    "name": "Pa'in-e Bazar-e Rudbar",
+    "alternatenames": "Pa'in-e Bazar-e Rudbar,Pā’īn-e Bāzār-e Rūdbār,Rudbar,Rudbar-e Kuhpayeh-ye Pa'in,Rūdbār,Rūdbār-e Kūhpāyeh-ye Pā’īn,payyn bazar rwdbar,rwdbar,rwdbar kwhpayh payyn,رودبار,رودبار کوهپایه پائین,پائین بازار رودبار",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 41210,
+    "name": "Khorramdarreh",
+    "alternatenames": "Khorramdareh,Khorramdarreh,Khurramdarreh,Khurramdarrekh,khrmdrh,خرمدره",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 41428,
+    "name": "Padegan-e Manjil",
+    "alternatenames": "Ordugah-e Nezami Manjil,Ordūgāh-e Nez̧āmī Manjīl,Padegan-e Manjil,Pādegān-e Manjīl,padgan mnjyl,پادگان منجیل",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 44439,
+    "name": "Kavar",
+    "alternatenames": "Kaval,Kavar,Kavār,kwar,کوار",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 66093,
+    "name": "Yasuj",
+    "alternatenames": "Jasudz,Jasudzh,Jasudż,Jasudž,Jásúdž,YES,Yasooj,Yasuc,Yasudsch,Yasuj,Yasûc,Yesuj,Yesūj,Yāsūj,ya su ji,yasuj,yasuja,yasujeu,yasuju,yaswj,yiswj,yswj,Ёсӯҷ,Ясудж,Յասուջ,ياسوج,يَسُّج,يِسوج,یاسوج,یسوج,यासूज,ヤースージュ,亞蘇季,야수즈",
+    "subcountry": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  {
+    "country": "IR",
+    "geonameid": 110831,
+    "name": "Azadshahr",
+    "alternatenames": "Azadshahr,Shah Pasand,Shāh Pasand,azad shhr,shah psnd,Āzādshahr,آزاد شهر,شاه پسند",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 111058,
+    "name": "Ziabar (Gaskar)",
+    "alternatenames": "Gaskar,Zeyabar,Zeyābar,Zia' Bar,Ziabar,Ziabera,Ziya' Bar,Zīyā’ Bar,dyabr,ضیابر,Ẕīābar,Ẕīā’ Bar",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 111246,
+    "name": "Zarrinabad",
+    "alternatenames": "Zarinabad,Zarrinabad,Zarrīnābād,zryn abad,زرین آباد",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 111421,
+    "name": "Zarand",
+    "alternatenames": "Zarand,zrnd,زرند",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 111453,
+    "name": "Zanjan",
+    "alternatenames": "JWN,Zanjan,Zanjān,Zendzhan,Zenjan,Zenjān,znjan,Зенджан,زنجان",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 111822,
+    "name": "Yazd",
+    "alternatenames": "AZD,Dakbayan sa Yazd,Giaznt,Jasd,Jazd,Jazdo,Jezd,Jezdas,Yasd,Yazd,Yezd,Yəzd,iezdi,ya ci de,yajeudeu,yazda,yazudo,yzd,Γιαζντ,Јазд,Йезд,Язд,Յազդ,יזד,يزد,یزد,यज़्द,იეზდი,ヤズド,亚兹德,야즈드",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112025,
+    "name": "Vasian",
+    "alternatenames": "Cham Bagh-e Veysian,Cham Bāgh-e Veysīān,Vaisiyan,Vaisyan,Vasian,Vasīān,Veseyan,Veseyān,Veysian,Veysiyan,Veysīyān,Veysīān,Voisiyan,cham baghi wisyan,wasyan,wisian,wisyan,وَسيان,وِسِيان,وِيسيان,وِيسيّان,چَم باغِ وِيسيان",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112121,
+    "name": "Varazqan",
+    "alternatenames": "Varazqan,Varazqān,Varezqan,Varezqān,Varzagan,Varzaghan Dezmar,Varzagān,Varzaqan,Varzaqān,Verazgan,Verazqan,Verazqān,warzagan,warzaghan dizmar,wirazgan,wrzqan,ورزقان,وَرزَغَن دِزمَر,وَرزَگان,وِرَزگَن",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112214,
+    "name": "Varamin",
+    "alternatenames": "Esfandabad,Esfandābād,Varamin,Varāmīn,Veramin,Verāmin,varamin,wramyn,Варамин,ورامين",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112422,
+    "name": "Tuyserkan",
+    "alternatenames": "Tooyserkan,Tuisarkan,Tuysarkan,Tuyserkan,Tūysarkān,Tūyserkān,Tūīsarkān,tuysirkan,twysrkan,تویسرکان,تُّيسِركَن",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112616,
+    "name": "Torqabeh",
+    "alternatenames": "Targhobeh,Toroqbeh,Torqabeh,Torqebeh,trqbh,Ţoroqbeh,Ţorqabeh,طرقبه",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112646,
+    "name": "Torbat-e Heydariyeh",
+    "alternatenames": "Torbat-e Heydariyeh,Torbat-e Ḩeydarīyeh,Torbat-e-Heydari,Turbat-i-Haidari,Turbet-i-Haidari,trbt hydryh,تربت حیدریه",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112656,
+    "name": "Tonekabon",
+    "alternatenames": "Shahsavar,Shahsavār,Shahsawar,Shahsawār,Tonekabon,Tonekābon,tnkabn,Тонекабон,تنکابن",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 112931,
+    "name": "Tehran",
+    "alternatenames": "THR,Taekhran,Tahran,Techerane,Teera,Teerao,Teerã,Teerão,Tegeran,Teheran,Teherana,Teheranas,Teherano,Teherán,Teherāna,Tehran,Tehrano,Tekheran,Téhéran,de hei lan,teharan,teharana,tehelan,teheran,tehran,teirani,thran,thrn,thrwn,tihiran,tihran,Τεχεράνη,Тæхран,Тегеран,Техеран,Теҳрон,Թեհրան,טהראן,טהרן,تهران,تهرون,تِهران,تِهِرَن,تہران,طهران,ܛܗܪܐܢ,तेहरान,তেহরান,தெஹ்ரான்,เตหะราน,ཏེ་ཧི་རན​།,თეირანი,ቴህራን,テヘラン,德黑兰,德黑蘭,테헤란",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113343,
+    "name": "Hashtpar",
+    "alternatenames": "Gashpar,Hashtpar,Hashtpar-e Tavalesh,Hashtpar-e Tavālesh,Otak Saray,Otaq Sarai,Otaq Saray,Otāq Sarai,Oţāq Sarāy,Talesh,Tālesh,hshtpr,hshtpr twalsh,هشتپر,هشتپر توالش",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113363,
+    "name": "Taleb abad",
+    "alternatenames": "Taleb Abad,talb abad,طالب آباد",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113491,
+    "name": "Takestan",
+    "alternatenames": "Seyadahan,Seyādahan,Siadehan,Siahdehan,Siakh-Degen,Siakhdekhan,Sīahdehān,Sīādehan,Takestan,Takistan,Tākestān,Tākistān,takstan,تاكستان",
+    "subcountry": "Qazvīn"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113508,
+    "name": "Takab",
+    "alternatenames": "Takab,Takan Tepe,Takāb,tkab,تکاب",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113514,
+    "name": "Tajrish",
+    "alternatenames": "Tajrish,Tajrīsh,tjrysh,تجريش",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113556,
+    "name": "Shahr-e Herat",
+    "alternatenames": "Burd Harat,Burd Herat,Būrd Harāt,Būrd Herāt,Harat Khowreh,Harāt Khowreh,Herat,Herat-i-Khurreh,Herāt,Herāt-i-Khurreh,Shahr-e Herat,Shahr-e Herāt,Tajabad,Tajabad-e Harat,Tājābād,Tājābād-e Harāt,hrat,shhr hrat,شهر هرات,هرات",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113632,
+    "name": "Taft",
+    "alternatenames": "Taft,tft,Тафт,تفت",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113636,
+    "name": "Tafresh",
+    "alternatenames": "Tafresh,tfrsh,Тафреш,تفرش",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113646,
+    "name": "Tabriz",
+    "alternatenames": "TBZ,Tabrez,Tabris,Tabriz,Tabrizo,Tabríz,Tabrīz,Taebris,Taebriz,Tampriz,Tauris,Tebriz,Tebriza,Tebrizas,Tebrīza,Tehbryz,Tewrez,Tewrêz,Toewriz,Täbris,Täbriz,Töwriz,Təbriz,da bu li shi,ta bris,tabareza,tabariza,tabeulijeu,tabris,taburizu,tavrizi,tbryz,Ταμπρίζ,Табрез,Табриз,Тебриз,Тэбрыз,Тәбриз,Թավրիզ,טאבריז,תבריז,تبريز,تبریز,تەورێز,तबरेज़,ਤਬਰੀਜ਼,ടാബ്രിസ്,ตาบริซ,ཊ་བི་རི་ཛ།,თავრიზი,タブリーズ,大不里士,타브리즈",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113659,
+    "name": "Tabas",
+    "alternatenames": "Golshan,Gulshan,TCX,Tabas,Tabas Gilaki,Tebes,Təbəs,ta ba si,tbs,Ţabas,Табас,Тебес,شہرستان طبس,طبس,塔巴斯",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113723,
+    "name": "Surian",
+    "alternatenames": "Sureyan,Surian,Suriyan,Sūreyān,Sūrīyān,Sūrīān,swryan,سوریان",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113760,
+    "name": "Surak",
+    "alternatenames": "Surak,Sūrak,swrk,سورک",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113797,
+    "name": "Nur",
+    "alternatenames": "Nur,Nūr,Suldeh,Sulehdeh,Sūldeh,Sūlehdeh,nwr,swldih,swlihdih,سولدِه,سولِهدِه,نور",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113860,
+    "name": "Sowme`eh Sara",
+    "alternatenames": "Somee Sara,Sowma`eh Sara,Sowme`eh Sara,Sume`eh Sara,Sumehsara,Sumesera,Şowma‘eh Sarā,Şowme‘eh Sarā,Şūme‘eh Sarā,صومعه سرا",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 113952,
+    "name": "Sorkheh",
+    "alternatenames": "Sorkheh,Surkheh,srkhh,سرخه",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114049,
+    "name": "Sonqor",
+    "alternatenames": "Sanghur,Sanghūr,Sonqor,Sunqur,Sūnqūr,snqr,سنقر",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114105,
+    "name": "Soltanabad",
+    "alternatenames": "Kashmar,Soltanabad,Solţānābād,Sultanabad,Sultānābād,Turshiz,sltan abad,سلطان آباد",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114259,
+    "name": "Sirjan",
+    "alternatenames": "SYJ,Sa'idabad,Sa‘īdābād,Sircan,Sirdschan,Sirdzan,Sirdzhan,Sirdżan,Sirdžan,Sirjan,Sīrjān,sirajana,syrjan,xi er zhan,Серҷон,Сирджан,سيرجان,سیرجان,सीरजान,錫爾詹",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114489,
+    "name": "Siahkal",
+    "alternatenames": "Seyah Kal,Seyāh Kal,Siah Kal,Siahkal,Siahkal Mahalleh,Siyah Kal,Sīyāh Kal,Sīāh Kal,Sīāhkal,Sīāhkal Maḩalleh,syahkl,سیاهکل",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114584,
+    "name": "Shushtar",
+    "alternatenames": "Shooshtar,Shushtar,Shushtehr,Shustar,Shūshtar,Shūstar,shwshtr,Шуштэр,شوشتر",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114593,
+    "name": "Shush",
+    "alternatenames": "Shoosh,Shush,Shūsh,Susa,Suse,Susy,Suza,Suzo,Suzy,Súsy,Sūsa,shwsh,susa,Сузы,شوش,スーサ",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 114930,
+    "name": "Shirvan",
+    "alternatenames": "Shirvan,Shīrvān,shyrwan,شیروان",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 115019,
+    "name": "Shiraz",
+    "alternatenames": "Chimaz,Chiraz,SYZ,Schiras,Sheroz,Shiraz,Shyraz,Shīrāz,Siraz,Siraza,Sirazas,Sirazo,Siráz,Sjiraz,Sziraz,Xiraz,chi ras,she la zi,shirazi,shirazu,shyraz,silajeu,Ŝirazo,Şiraz,Şîraz,Širaz,Širazas,Šíráz,Šīrāz,Šīrāza,Σιράζ,Шероз,Шираз,Шыраз,Շիրազ,שיראז,شيراز,شیراز,ชีราซ,შირაზი,シーラーズ,設拉子,시라즈",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 115388,
+    "name": "Sharifabad",
+    "alternatenames": "Sharifabad,Sharīfābād,sharyf abad,shryf abad,شريف آباد,شَريف آباد",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 115607,
+    "name": "Shalamzar",
+    "alternatenames": "Shalamzar,Shalamzār,shlmzar,شلمزار",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 115770,
+    "name": "Shahr-e Kord",
+    "alternatenames": "CQD,QHK,Shahr Kord,Shahr Kurd,Shahr-e Kord,Shahrekord,Shakhre-Kord,shhr krd,Шахре-Корд,شهر كرد",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 115781,
+    "name": "Shahr-e Babak",
+    "alternatenames": "Shahr Babak,Shahr Bābak,Shahr-e Babak,Shahr-e Bābak,Shahr-i-Babak,Shahr-i-Bābak,shhr babk,شهر بابک",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116076,
+    "name": "Shaft",
+    "alternatenames": "Bazar Shaft,Bāzār Shaft,Shaft,shft,شفت",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116102,
+    "name": "Shadegan",
+    "alternatenames": "Fallabiyeh,Fallahiyeh,Fallehiyeh,Fallābīyeh,Fallāḩīyeh,Shadegan,Shadeganskie,Shadgan,Shādegān,Shādgān,shadgan,Шадеганские,شادگان",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116126,
+    "name": "Shabestar",
+    "alternatenames": "Chabiastar,Shabestar,Shabiastar,Shabistar,shbstr,Шабестар,شبستر",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116326,
+    "name": "Seyah Cheshmeh",
+    "alternatenames": "Kara Aineh,Qareh Eyni,Qareh Eynī,Seyah Cheshmeh,Siah Chashmeh,Siah Cheshmeh,Siyah Cheshmeh,Siāh Chashmeh,Sīyah Cheshmeh,Sīāh Cheshmeh,qarih ainy,syah chishmih,syh chshmh,سياه چِشمِه,سيه چشمه,قَرِه اِينی",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116402,
+    "name": "Semnan",
+    "alternatenames": "SNX,Semnan,Semnān,smnan,Семнан,سمنان",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116406,
+    "name": "Semirom",
+    "alternatenames": "Samirum,Semirom,Semīrom,Simrom,Sīmrom,smyrm,سمیرم",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116626,
+    "name": "sedeyen-e Yek",
+    "alternatenames": "Sedeyyen-e Bala,Sedeyyen-e Bālā,Sedeyyen-e Yek,Sedin-e Yek,Sedīn-e Yek,Seyyedin-e Bala,Seyyedin-e Yek,Seyyedīn-e Bālā,Seyyedīn-e Yek,S̄edīn-e Yek,Tadayyon-e Yek,sdyn yk,tdyn yk,thdyn yk,تدین یک,ثدین یک,سدین یک",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116667,
+    "name": "Saveh",
+    "alternatenames": "Sava,Saveh,Sāveh,sawh,Сава,ساوه",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116725,
+    "name": "Sarvestan",
+    "alternatenames": "Sarvestan,Sarvestān,Sarvistan,Sarvistān,srwstan,سروستان",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116739,
+    "name": "Sarvabad",
+    "alternatenames": "Sarrabad,Sarrābād,Sarvabad,Sarvābād,Saulawa,Saulāwa,Sulaveh,Sūlāveh,srw abad,سرو آباد",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 116996,
+    "name": "Sari",
+    "alternatenames": "SRY,Sari,Sari i Iran,Saris,Sariyo,Sarí,Sarî,Shahr-i-Tajan,Shari-i-Tajan,Sori,Szari,Szári,Sárí,Sārī,sa li shi,sali,sari,sary,sary  ayran,Σάρι,Сари,Сарі,Сорӣ,Սարի,سارى,ساري,ساری,ساری، ایران,सारी,სარი,サーリー,薩里市,사리",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117111,
+    "name": "Sardasht",
+    "alternatenames": "Sardasht,srdsht,سردشت",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117116,
+    "name": "Sardasht",
+    "alternatenames": "Sardasht,Sardasht-e Bashakerd,Sardasht-e Bashākerd,srdsht,srdsht bshakrd,سردشت,سردشت بشاکرد",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117204,
+    "name": "Sarbisheh",
+    "alternatenames": "Sar-bice,Sarbisheh,Sarbīsheh,srbyshh,سربیشه",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117232,
+    "name": "Sarayan",
+    "alternatenames": "Sara'ian,Sarayan,Sarāyān,Sarā’īān,Siryan,Sīryān,srayan,سرایان",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117304,
+    "name": "Sarableh",
+    "alternatenames": "Sarableh,Sarābleh,srablh,سرابله",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117345,
+    "name": "Sarab-e Dureh",
+    "alternatenames": "Sarab Darreh,Sarab Doreh,Sarab Dowrah,Sarab Dowreh,Sarab-e Do Rah,Sarab-e Dowreh,Sarab-e Dureh,Sarabdowreh,Sarāb Darreh,Sarāb Doreh,Sarāb Dowrah,Sarāb Dowreh,Sarāb-e Do Rah,Sarāb-e Dowreh,Sarāb-e Dūreh,Sarābdowreh,srab dwrh,سراب دوره",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117368,
+    "name": "Sarab",
+    "alternatenames": "Sarab,Sarāb,srab,سراب",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117392,
+    "name": "Saqqez",
+    "alternatenames": "Saggiz,Saggız,Saghez,Saghghez,Sakez,Sakezo,Sakiz,Sakkiz,Sakīz,Saqez,Saqqez,Saqqez (2),Saqqiz,Saqqız,Sekkez,Seqiz,sa gai zi,saghiz,sakkeja,sakyz,saqiz,sqz,sqz (1),sqz (2),Саққиз,Секкез,سقز,سقّز (1),سقّز (٢),سَغِز,سَقِّز,سَكيز,سەقز,सक्केज,薩蓋茲",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117574,
+    "name": "Sanandaj",
+    "alternatenames": "SDG,Sanandadsch,Sanandadz,Sanandadż,Sanandadž,Sanandago,Sanandaj,Sanandaĝo,Sanandij,Senendec,Senendedzas,Senendedzh,Senendedžas,Senendehdzh,Senna,Senneh,Sinandij,Sine,Sinneh,Sənəndəc,sa nan da ji,sanandaja,sanandaji,sina,sinih,snndj,Санандаџ,Санандаҷ,Сенендедж,Сенендэдж,Сәнәндәҗ,Սանանդաջ,سنندج,سنە,سِنَّ,سِنِّه,सनंदज,सनंदाज,萨南达季,사난다지",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117656,
+    "name": "Salmas",
+    "alternatenames": "Dilmagan,Dilman,Dīlmagān,Dīlman,Salmas,Salmās,Shahpoor,Shahpur,Shapur,Shāhpūr,slmas,Салмас,سلماس",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117698,
+    "name": "Soleh Bon",
+    "alternatenames": "Soleh Bon,slh bn,سله بن",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117773,
+    "name": "Ramsar",
+    "alternatenames": "RZR,Ramsar,Ransar,Rāmsar,Rānsar,Sakht Sar,ramsr,ramusaru,رامسر,ラームサル",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117793,
+    "name": "Shahin Dezh",
+    "alternatenames": "Sa'in Dezh,Sa'in Qal`eh,Sahin Dazh,Sain Kaleh,Shahin Dezh,Shāhīn Dezh,Sāīn Kaleh,shahyn dzh,Şā’īn Dezh,Şā’īn Qal‘eh,شاهین دژ",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 117835,
+    "name": "Sahneh",
+    "alternatenames": "Sahna,Sahneh,Sehneh,shnh,Şaḩneh,صحنه",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118063,
+    "name": "Sabzevar",
+    "alternatenames": "AFZ,Sabzawar,Sabzawār,Sabzevar,Sabzevār,Sabzewar,Sabzivor,Sebzevar,Səbzivar,sa bo ze wa er,sab si war,sabzevara,sbzwar,Сабзевар,Сабзивор,Себзевар,سبزوار,सब्ज़ेवार,ซับซีวาร์,薩卜澤瓦爾",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118123,
+    "name": "Sa`adat Shahr",
+    "alternatenames": "Sa'adat Abad,Sa`adat Shahr,Sa`adatabad,Sa‘ādat Shahr,Sa‘ādatābād,Sa’ādat Ābād,سعادت شهر",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118191,
+    "name": "Rudsar",
+    "alternatenames": "Rud-i-Sar,Rudsar,Rūd-i-Sar,Rūdsar,rwdsr,رودسر",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118323,
+    "name": "Narmashir",
+    "alternatenames": "Narmashir,Narmāshīr,Rostamabad,Rostamābād,nrmashyr,rstm abad,رستم آباد,نرماشير",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118328,
+    "name": "Roshtkhvar",
+    "alternatenames": "Rash Khar,Rashkhvan,Rashkhvān,Rashtkhvar,Rashtkhvār,Roshkhvar,Roshkhvār,Roshtehkhvar,Roshtehkhvār,Roshtkhar,Roshtkhvar,Roshtkhvār,Roshtkhār,Rushkar,Rūshkār,rshtkhwar,رشتخوار",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118367,
+    "name": "Robat Karim",
+    "alternatenames": "Robat Karim,Robāţ Karīm,Shahriar,Shahryar,Shahryār,rbat krym,رباط كريم",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118532,
+    "name": "Rezvanshahr",
+    "alternatenames": "Razvand,Rezvandeh,Rezvanshahr,Rezvāndeh,Rezvānshahr,Reẕvāndeh,Reẕvānshahr,Rizvand,Rizwand,rdwandh,rdwanshhr,رضوانده,رضوانشهر",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118681,
+    "name": "Razan",
+    "alternatenames": "Razan,rzn,رزن",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118704,
+    "name": "Ravar",
+    "alternatenames": "Ravar,Rāvar,rawr,راور",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118705,
+    "name": "Ravansar",
+    "alternatenames": "Ravansar,Ravānsar,Rawansir,Rawānsīr,rwansr,روانسر",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118743,
+    "name": "Rasht",
+    "alternatenames": "RAS,Raixt,Rascht,Rasht,Rasjt,Rast,Rasto,Raszt,Raŝto,Rašt,Reshh,Resht,Rest,Restas,Reşt,Reštas,Rəşt,la shen te,lasyuteu,rashuto,rasta,reshti,rsht,Рашт,Решт,Рещ,Рәшт,Ռեշտ,ראשת,رشت,ڕەشت,रश्त,แรชต์,რეშთი,ラシュト,拉什特,라슈트",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118805,
+    "name": "Ramshir",
+    "alternatenames": "Khalafabad,Khalafābād,Khalas Abad,Ram Shahr,Ramshir,Rāmshīr,khlf abad,ramshyr,خلف آباد,رامشیر",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118824,
+    "name": "Ramian",
+    "alternatenames": "Rameyan,Ramian,Ramiyan,Rāmeyān,Rāmīyān,Rāmīān,ramyan,راميان",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118826,
+    "name": "Ramhormoz",
+    "alternatenames": "Ram Hormuz,Ramhormoz,Ramuz,Rām Hormuz,Rāmhormoz,Rāmuz,ramhrmz,رامهرمز",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 118994,
+    "name": "Rafsanjan",
+    "alternatenames": "Bahramabad,Bahrāmābād,RJN,Rafsandzhane,Rafsanjan,Rafsanjān,Rafsinjan,Rafsinjān,rfsnjan,Рафсанджане,رفسنجان",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119010,
+    "name": "Rabor",
+    "alternatenames": "Raber,Rabor,Rabur,Rahbur,Rābor,Rābur,Rāhbur,rabr,رابر",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119115,
+    "name": "Quchan",
+    "alternatenames": "Gochan,Quchan,Qūchān,qwchan,قوچان",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119161,
+    "name": "Qorveh",
+    "alternatenames": "Qorveh,Qurve,Qurveh,qrwh,قروه",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119208,
+    "name": "Qom",
+    "alternatenames": "Dakbayan sa Qom,Ghom,Homo,Kom,Kum,Kum shaary,Kumas,QUM,Qom,Qum,Qûm,gomu,koma,ku mu,kum,kuvom,qm,qwm,Ĥomo,Ком,Кум,Кум шаары,Қум,קום,قم,قوم,कोम,குவோம்,ゴム,库姆,쿰",
+    "subcountry": "Qom"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119247,
+    "name": "Qohurd-e `Olya",
+    "alternatenames": "Ghohorde Olya,Ghohordé Olya,Khokhurd Bala,Khokhūrd Bāla,Qohord,Qohord-e Bala,Qohord-e Bālā,Qohord-e `Olya,Qohord-e ‘Olyā,Qohurd-e `Olya,Qohūrd-e ‘Olyā,qhrd bala,قهرد بالا,قهورد علیا",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119264,
+    "name": "Qir",
+    "alternatenames": "Qir,Qir va Karzin,Qīr,Qīr va Kārzīn,qyr,qyr w karzyn,قیر,قیر و کارزین",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119374,
+    "name": "Qeshm",
+    "alternatenames": "Bandar-e Qeshm,Gheshm,Keshm,Qeshm,Qishm,qshm,Кешм,قشم",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119505,
+    "name": "Qazvin",
+    "alternatenames": "Dakbayan sa Qazvin,GZW,Gazvin,Kazvin,Kazvinas,Kazvín,Kazwin,Kuazvin,Qazvin,Qazvín,Qazvīn,Qazwen,Qazwên,Qəzvin,gazuvuin,jia ci wen,kajeubin,kazvina,kxs win,qzwyn,Казвин,Казвін,Къазвин,Қазвин,Ղազվին,قزوين,قزوین,قەزوین,कज़्वीन,กอซวีน,ყაზვინი,ガズヴィーン,加兹温,카즈빈",
+    "subcountry": "Qazvīn"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119586,
+    "name": "Qasr-e Shirin",
+    "alternatenames": "Ghasr-i-shirin,Ghasr-shirin,Ghasr-shīrīn,Ghasr-ī-shīrīn,Qasr-e Shirin,Qasr-i-Shirin,Qasr-ī-Shīrīn,Qaşr-e Shīrīn,qsr shyryn,قصر شيرين",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119714,
+    "name": "Qarnabad",
+    "alternatenames": "Qarnabad,Qarnābād,qrn abad,قرن آباد",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 119730,
+    "name": "Qarah Zia' od Din",
+    "alternatenames": "Ghareh Ziya' Oddin,Ghareh Ziya’ Oddin,Qara Zia ud Din,Qara Zīa ud Dīn,Qarah Zia' od Din,Qarah Ẕīā’ od Dīn,Qaraziadin,Qareh Zeya ed Din,Qareh Zeyā ed Dīn,Qareh Zia' od Din,Qareh Ziya 'Eddin,Qareh Zīyā ’Eddīn,Qareh Ẕīā’ od Dīn,قره ضیاء الدین",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120292,
+    "name": "Shahr-e Qods",
+    "alternatenames": "Karaj,Qal`eh Hasan,Qal`eh-ye Hasan Khan,Qal‘eh Hasan,Qal‘eh-ye Ḩasan Khān,Qods,Shahr-e Qods,Shahrak-e Qods,karaj,qds,shhr qds,shhrk qds,شهر قدس,شهرك قدس,قدس,قلعه حسن خان,قَلعِه هَسَن,كَرَج",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120323,
+    "name": "Qal`eh Ganj",
+    "alternatenames": "Ghal`eh Ganj,Ghal‘eh Ganj,Kalat-i-Ganj,Kalateh-ye Ganj,Kalāt-i-Ganj,Kalāteh-ye Ganj,Mohammadabad,Moḩammadābād,Qal`eh Ganj,Qal`eh-ye Ganj,Qal‘eh Ganj,Qal‘eh-ye Ganj,قلعه گنج",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120351,
+    "name": "Rudan",
+    "alternatenames": "Bala Shahr,Bala Shahr-e Deh Barez,Bālā Shahr,Bālā Shahr-e Deh Bārez,Deh Barez,Deh Bariz,Deh Bārez,Deh Bāriz,Deh Dariz,Deh Dāriz,Dehbarez,Dehbārez,Qal`eh-ye Deh Barez,Qal`eh-ye Deh-e Barez,Qal‘eh-ye Deh Bārez,Qal‘eh-ye Deh-e Bārez,Rudan,Rugan,Rūdān,Rūgan,bala shahr,bala shahri dih bariz,dhbarz,rwdan,rwgan,بالا شَهر,بالا شَهرِ دِه بارِز,دهبارز,رودان,روگَن,قَلعِۀ دِهِ بارِز",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120499,
+    "name": "Qal`eh-ye Khvajeh",
+    "alternatenames": "Qal'eh Khajeh,Qal`eh Khvajeh,Qal`eh-ye Khvajeh,Qal`eh-ye Khvajeh Bala,Qal‘eh Khvājeh,Qal‘eh-ye Khvājeh,Qal‘eh-ye Khvājeh Bālā,Qal’eh Khājeh,qlʿh khwajh,قلعه خواجه,قلعه خواجه بالا",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120539,
+    "name": "Arakvaz-e Malekshahi",
+    "alternatenames": "Arakvaz,Arakvaz-e Malekshahi,Arakvāz,Arakvāz-e Malekshāhī,Arkavazi,Arkavāzī,Arkvaz,Arkvāz,Arkwaz,Arkwāz,Qal`eh Darreh,Qal‘eh Darreh,arkwaz,arkwaz mlkshahy,ارکواز,ارکواز ملکشاهی,قَلعِه دَرِّه",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120678,
+    "name": "Farrokh Shahr",
+    "alternatenames": "Farrokh Shahr,Qahferokh,Qahofrokh,Qatarokh,Qehfarukh,frkh shhr,qahfirukh,qahufrukh,qatarukh,فرّخ شهر,قَتَرُخ,قَهفِرُخ,قَهُفرُخ",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120694,
+    "name": "Qa'en",
+    "alternatenames": "Qa'en,Qain,Qayen,Qaīn,Qāyen,Qā’en,Shahr-e Qayen,Shahr-e Qāyen,qayn,قائن,قاین",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120931,
+    "name": "Sarpol-e Zahab",
+    "alternatenames": "Pol-e Zahab,Pol-e Zohab,Pol-e Z̄ahāb,Pol-e Z̄ohāb,Sar-e Pol-e Zahab,Sar-e Pol-e Z̄ahāb,Sar-i-Pul Zuhab,Sar-ī-Pūl Zūhāb,Sari-Pul,Sarpol,Sarpol-e Zahab,Sarpol-e Z̄ahāb,Sarī-Pūl,sr pl dhhab,سر پل ذهاب",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120936,
+    "name": "Pol-e Sefid",
+    "alternatenames": "Pol Sefid,Pol-e Sefid,Pol-e Sefīd,pl sfyd,پل سفيد",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120949,
+    "name": "Poldokhtar",
+    "alternatenames": "Pol Dokhtar,Pol-e Dokhtar,Poldokhtar,Pul-i-Dukhtar,pl dkhtr,pldkhtr,پل دختر,پلدختر",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120954,
+    "name": "Poldasht",
+    "alternatenames": "Araplar,Pol Dasht,Pol'desht,Pol-e Dasht,Poldasht,Pol’desht,Pul Dasht,aaraplar,pldsht,اَرَپلَر,پلدشت",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 120972,
+    "name": "Pishva",
+    "alternatenames": "Pichva,Pishva,Pishyan,Pīchvā,Pīshvā,Pīshyān,pychwa,pyshwa,pyshyan,پيشوا,پيشيان,پيچوا",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121110,
+    "name": "Piranshahr",
+    "alternatenames": "KHA,Khaneh,Khāneh,Okrug Peronsahr,Okrug Peronšahr,Piran Shahr,Piransaher,Piransahr,Piransar,Piransara,Piranschahr,Piransehr,Piranshahr,Piranshekhr,Piransherkh,Piransjahr,Piranszahr,Piranxahr,Piranşehr,Piranşəhr,Piranšaher,Piranšahr,Piranšāra,Pîranşar,Pīrān Shahr,Pīrānshahr,byranshhr,pi lan sha he er,piranshafuru,pyranshar,pyranshhr,Пероншаҳр,Пираншехр,Піраншерх,بیرانشهر,پیرانشار,پیرانشهر,پیرانشھر,پیرانشہر,ピーラーンシャフル,皮兰沙赫尔",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121240,
+    "name": "Paveh",
+    "alternatenames": "Paveh,Pawah,Paweh,Pāveh,Pāweh,pawh,پاوه",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121380,
+    "name": "Parsabad",
+    "alternatenames": "Farsabad,Fārsābād,PFQ,Parsabad,Pārsābād,fars abad,pars abad,Парсабад,فارس آباد,پارس آباد",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121781,
+    "name": "Osku",
+    "alternatenames": "Osku,Oskū,Uzku,Yuzki,askw,اسکو",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121795,
+    "name": "Oshnaviyeh",
+    "alternatenames": "Ashnooyeh,Oshnaviyeh,Oshnavīyeh,Oshnovie,Oshnovieh,Oshnoviyeh,Oshnovīeh,Oshnovīyeh,Oshnuje,Ushnu,Ushnuiyeh,Ushnū,Ushnūīyeh,ashnwyh,Ошновіє,Ошнуйе,اشنويه",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121801,
+    "name": "Orumiyeh",
+    "alternatenames": "OMH,Orumiyeh,Orūmīyeh,Ourmia,Reza'iyeh,Rezaeyeh,Rezaiyye,Rezâiyye,Rezā’īyeh,Rizaiyeh,Rizāiyeh,Urmia,Urmija,Urmiya,Urmiye,Urmía,Urumija,Urumiyeh,Urūmiyeh,arwmyh,arwmyt,shhrstan arwmyh,Úrmia,Ûrmiye,Урмия,Урумия,אורמיה,أرومية,ارومیه,ارومیّه,شهرستان ارومیه,ܐܘܪܡܝܐ",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121861,
+    "name": "Omidiyeh",
+    "alternatenames": "Omidiyeh,Omidiyeh Sherkat-e Naft,Omīdīyeh,Omīdīyeh Sherkat-e Naft,Sherkat-e Naft,amydyh,amydyh shrkt nft,امیدیه,امیدیه شرکت نفت",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121925,
+    "name": "Nurabad",
+    "alternatenames": "Nurabad,Nūrābād,nwr abad,نور آباد",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 121959,
+    "name": "Nowshahr",
+    "alternatenames": "Bandar-e Now Shahr,NSH,Nau Shahr,Nowshahr,nwshhr,نوشهر",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122111,
+    "name": "Nosratabad",
+    "alternatenames": "Nasratabad Sipi,Nasratābād Sipi,Nosratabad,Nosratabad-e Bala,Nosratabad-e Pa'in,Noşratābād,Noşratābād-e Bālā,Noşratābād-e Pā’īn",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122285,
+    "name": "Neyshabur",
+    "alternatenames": "Nejsaburo,Nejŝaburo,Neyshabur,Neyshābūr,Nichapur,Nisabur,Nischapur,Nishabur,Nishapur,Nishopur,Nişabur,Nīshābūr,Nīshāpūr,nishapu,nysabwr,nyshabwr,nyshapwr,Нишапур,Нишопур,نيسابور,نیشابور,نیشاپور,ニシャプー",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122289,
+    "name": "Neyriz",
+    "alternatenames": "Neyriz,Neyrīz,Niriz,Nīrīz,nyryz,نیریز",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122375,
+    "name": "Neqab",
+    "alternatenames": "Neqab,Neqāb,nqab,نقاب",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122397,
+    "name": "Neka",
+    "alternatenames": "Naranj Bagh,Neka,Neka',Nekā,Nekā’,Nika,Nāranj Bāgh,Nīkā,naranj bagh,nka,nyka,Нека,نارَنج باغ,نكا,نكاء,نيكا",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122438,
+    "name": "Nazarabad",
+    "alternatenames": "Nazarabad,Nazarabad-e Bozorg,Naz̧arābād,Naz̧arābād-e Bozorg,nazarabadi buzurg,nzr abad,نظر آباد,نَظَرابادِ بُزُرگ",
+    "subcountry": "Alborz Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122491,
+    "name": "Natanz",
+    "alternatenames": "Natanz,Naţanz,ntnz,نطنز",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122560,
+    "name": "Nashtarud",
+    "alternatenames": "Nashta Rud,Nashtarood,Nashtarud,Nashtā Rūd,Nashtārūd,Neshta Rud,Neshtā Rūd,nshtarwd,نشتارود",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122698,
+    "name": "Naqadeh",
+    "alternatenames": "Nagadeh,Naghadeh,Naghdeh,Nakhuda,Naqadeh,Nākhuda,nqdh,نقده",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122721,
+    "name": "Namin",
+    "alternatenames": "Namin,Namīn,nmyn,نمين",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122869,
+    "name": "Na'in",
+    "alternatenames": "Na'in,Naeyn,Nāeyn,Nā’īn,nayyn,نائین",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 122915,
+    "name": "Nahavand",
+    "alternatenames": "Nachavant,Nagavande,Nahavand,Nahāvand,Nehavend,Nehāvend,Nihavand,Nīhāvand,nhawnd,nihavuando,Ναχαβάντ,Нагаванде,نهاوند,ニハーヴァンド",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 123295,
+    "name": "Maraveh Tappeh",
+    "alternatenames": "Maraveh,Maraveh Tappeh,Maravehtepe,Marveh Tappeh,Marāveh,Marāveh Tappeh,Moraveh Tappeh,Morāveh Tappeh,mrawh tph,مراوه تپه",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 123389,
+    "name": "Mollasani",
+    "alternatenames": "Molla Sany,Mollasani,Mollā Sāny,Mollās̄ānī,Mulla Sani,Mulla Sāni,Ramin,Rāmīn,mla thany,ramyn,رامین,ملا ثانی",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 123485,
+    "name": "Mohr",
+    "alternatenames": "Mehr,Mohr,Mohur,Mohur-i- Saiyidan,Mohur-i- Saiyidān,Mur,Mūr,mhr,muhr,shhrstan muhr,شهرستان مُهر,مهر,مُهر",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 123674,
+    "name": "Mohammadabad",
+    "alternatenames": "Mohammadabad,Mohammadabad-e Rigan,Moḩammadābād,Moḩammadābād-e Rīgān,Muhammadabad,Muhammadābād,mhmd abad,محمد آباد",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 123927,
+    "name": "Minudasht",
+    "alternatenames": "Minudasht,Mīnūdasht,mynwdsht,مينودشت",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 123941,
+    "name": "Minab",
+    "alternatenames": "Minab,Mīnāb,mynab,Минаб,ميناب",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124082,
+    "name": "Mianeh",
+    "alternatenames": "Meyaneh,Meyāneh,Miane,Mianeh,Miyaneh,Mīyaneh,Mīāneh,myanh,میانه",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124085,
+    "name": "Miandoab",
+    "alternatenames": "Meyandoab,Meyāndoāb,Miandoab,Miandow Ab,Miandowab,Mianduab,Miyandoab,Miyanduab,Miyāndūāb,Mīyāndoāb,Mīāndow Āb,Mīāndowāb,Mīāndoāb,Mīāndūāb,myandwab,Миандоаб,میاندوآب",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124193,
+    "name": "Meybod",
+    "alternatenames": "Maibud,Meybod,mybd,ميبد",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124210,
+    "name": "Meshgin Shahr",
+    "alternatenames": "Kheyav,Kheyāv,Khiav,Khiov,Khiyav,Khiyov,Khīyāv,Khīāv,Meshgin Shahr,Meshgīn Shahr,Meshkin Shahr,Meshkīn Shahr,Mishgin,mshgyn shhr,مشگين شهر",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124274,
+    "name": "Mahriz",
+    "alternatenames": "Mahriz,Mahrīz,Mehriz,Mehrīz,mhryz,mihryz,مهريز,مِهريز",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124291,
+    "name": "Mehran",
+    "alternatenames": "Mansurabad,Mansūrābād,Mehran,Mehrān,manswr abad,mhran,مهران,مَنسور آباد",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124620,
+    "name": "Masjed Soleyman",
+    "alternatenames": "Masjed Soleiman,Masjed Soleyman,Masjed Soleymān,Masjed-e Soleyman,Masjed-e Soleymān,Masjid-i-Sulaiman,msjd slyman,مسجد سلیمان",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124622,
+    "name": "Masiri",
+    "alternatenames": "Masiri,Masīrī,Maşīrī,msyry,مصیری",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124647,
+    "name": "Bardsir",
+    "alternatenames": "Bardesir,Bardesīr,Bardsir,Bardsīr,Deh-e Now-e Mashiz,Deh-e Now-e Mashīz,Mashiz,Mashīz,Mshiz,Qal`eh-ye Mashiz,Qal‘eh-ye Mashīz,brdsyr,بردسیر",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124665,
+    "name": "Mashhad",
+    "alternatenames": "MHD,Masant,Masat,Maschhad,Mashad,Mashado,Mashhad,Mashkhad,Masyhad,Maxhad,Maŝhado,Maşat,Mašhad,Mașhad,Meixad,Meshed,Mesheda,Meshedas,Meshkhed,MeshkhӀed,Meszhed,Mexed,Meşhed,Mešheda,Mešhedas,Məshəd,Məşhəd,ma shen ha de,mach had,macukat,masahada,mashuhado,masyuhadeu,meshhedi,mshd,mshhd,Μασάντ,Машхад,Машҳад,Мешхед,МешхӀед,Мешһед,Мәшһәд,Մաշհադ,משהד,مشهد,مشہد,مەشھەد,मशहद,মাশহাদ,ਮਸ਼ਹਦ,மசுகாத்,മശ്‌ഹദ്,มัชฮัด,მეშჰედი,マシュハド,馬什哈德,마슈하드",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124721,
+    "name": "Marvdasht",
+    "alternatenames": "Marvdasht,Mervdesht,mrwdsht,Мервдешт,مرودشت",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124778,
+    "name": "Marivan",
+    "alternatenames": "Dezh Shahpur,Dezh Shapoor,Dezh Shāhpūr,Marivan,Marīvān,Qal`eh-ye Marivan,Qal‘eh-ye Marīvān,dizh shahpwr,mrywan,دِژ شاهپور,قَلعِۀ مَريوان,مریوان",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124862,
+    "name": "Marand",
+    "alternatenames": "Marand,Morand,mrnd,Маранд,مرند",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124877,
+    "name": "Maragheh",
+    "alternatenames": "ACP,Maragheh,Maraghen,Marāgheh,Marāghen,mraghh,مراغه",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124914,
+    "name": "Manujan",
+    "alternatenames": "Jarian,Jārīān,Manujan,Manūjān,Posht Qalat,Posht Qalāt,Qal`eh-ye Manujan,Qal‘eh-ye Manūjān,jaryan,mnwjan,جاریان,منوجان",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 124967,
+    "name": "Manjil",
+    "alternatenames": "Manjil,Manjīl,Menjil,Menjīl,mnjyl,منجیل",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125112,
+    "name": "Malekan",
+    "alternatenames": "Malek Kandi,Malek Kandī,Malekan,Malekān,Malik Kandi,Malikkand,malik kandy,mlkan,ملکان,مَلِك كَندی",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125185,
+    "name": "Malayer",
+    "alternatenames": "Daulatabad,Daūlatābād,Dowlatabad,Dowlatābād,Malayer,Malāyer,mlayr,ملایر",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125188,
+    "name": "Malard",
+    "alternatenames": "Malar,Malard,Malār,Malārd,Melard,Melārd,malar,mlard,ملارد,مَلار",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125205,
+    "name": "Maku",
+    "alternatenames": "IMQ,Maku,Mākū,ma ku,makw,makۆ,Маку,Մակու,ماكو,ماکو,ماکۆ,馬庫",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125290,
+    "name": "Mahneshan",
+    "alternatenames": "Mah Neshan,Mahneshan,Māh Neshān,Māhneshān,mah nshan,mahnshan,ماه نشان,ماهنشان",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125328,
+    "name": "Mahmudabad",
+    "alternatenames": "Mahmudabad,Maḩmūdābād,mhmwd abad,محمود آباد",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125438,
+    "name": "Mahallat",
+    "alternatenames": "Mahallat,Mahallat Bala,Mahallat-e Bala,Mahallāt Bāla,Maḩallāt,Maḩallāt-e Bālā,mhlat,محلات",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125446,
+    "name": "Mahabad",
+    "alternatenames": "Mahabad,Mahābād,Makhabad,Mehabad,Mehābād,Saujbulagh,Sāūjbulāgh,mah abad,mhabad,mih abad,Махабад,مهاباد,مَه آباد,مِه آباد",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125609,
+    "name": "Lordegan",
+    "alternatenames": "Lord Jan,Lordagan,Lordagān,Lordajan,Lordajān,Lordakan,Lordakān,Lordegan,Lordegān,Lordgan,Lordgān,Lurdagan,Lurdagān,lrdgan,lurd jan,لردگان,لُرد جَن",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125688,
+    "name": "Likak",
+    "alternatenames": "Lak Lak,Lakak,Likak,Likak-e Bahmani,Lirkak,Līkak,Līkak-e Bahmanī,Līrkak,Qal`eh-i-Likak,Qal`eh-ye Likak,Qal‘eh-i-Likak,Qal‘eh-ye Līkak,Seh Laklak,lykk,lykk bhmny,ليکک,لیکک بهمنی",
+    "subcountry": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125877,
+    "name": "Shahr-e Qadim-e Lar",
+    "alternatenames": "LRR,Lar,Larestan,Lār,Shahr-e Qadim-e Lar,Shahr-e Qadīm-e Lār,lar,shhr qdym lar,شهر قدیم لار,لار",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125897,
+    "name": "Langarud",
+    "alternatenames": "Langarood,Langarud,Langarūd,Langerud,Langerūd,Shahr-e Langarud,Shahr-e Langarūd,lngrwd,لنگرود",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125926,
+    "name": "Lamerd",
+    "alternatenames": "LFM,Lamard,Lamerd,Lāmard,Lāmerd,lamrd,لامرد",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 125938,
+    "name": "Lali",
+    "alternatenames": "Dasht-e Lali,Dasht-e Lati,Dasht-e Lālī,Lali,Lali Pelayen,Lālī,Lālī Pelāyen,dsht laly,laly,دشت لالی,لالی",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126015,
+    "name": "Lahijan",
+    "alternatenames": "Lahijan,Lāhījān,lahyjan,لاهیجان",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126409,
+    "name": "Kuhdasht",
+    "alternatenames": "Kuh-i-Dasht,Kuhdasht,Kūh-ī-Dasht,Kūhdasht,kwhdsht,کوهدشت",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126411,
+    "name": "Kuhbanan",
+    "alternatenames": "Koobanan,Kuh Banan,Kuh Baneh,Kuhbanan,Kuhbonan,Kūh Baneh,Kūh Banān,Kūhbanān,Kūhbonān,kwhbnan,کوهبنان",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126572,
+    "name": "Kord Kuy",
+    "alternatenames": "Kord Ku,Kord Kuy,Kord Kū,Kord Kūy,Kurd Kui,Kurd Kūi,krd kwy,krdkwy,kurd kw,كردكوی,كُرد كو,کرد کوی",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126715,
+    "name": "Komijan",
+    "alternatenames": "Khumajan,Khūmajān,Komazan,Komejan,Komejān,Komeyjan,Komeyjān,Komijan,Komizan,Komāzān,Komījān,Komīzān,Kumizan,Kūmīzān,kmyjan,كميجان",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126914,
+    "name": "Kish",
+    "alternatenames": "Kish,Kīsh,kysh,Киш,كيش",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 126972,
+    "name": "Khowy",
+    "alternatenames": "KHY,Khoi,Khowy,Khoy,Khvoy,khwy,خوی",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127014,
+    "name": "Khowrmuj",
+    "alternatenames": "Khormoj,Khormuj,Khormūj,Khowr Muj,Khowr Mūj,Khowrmuj,Khowrmūj,Khurmoj,Khurmudj,Khurmuj,Khūrmūj,khwrmwj,خورموج",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127029,
+    "name": "Khur",
+    "alternatenames": "Khowr,Khur,Khvor,Khūr,khwr,خور",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127033,
+    "name": "Khvansar",
+    "alternatenames": "Khansar,Khavansar,Khonsar,Khunsar,Khvansar,Khvonsar,Khvonsār,Khvānsār,Khūnsār,Shahr-e Khvonsar,Shahr-e Khvonsār,khwansar,خوانسار",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127319,
+    "name": "Khorramshahr",
+    "alternatenames": "Al-Muhammarah,Choremsehras,Choremšehras,Chorramsahr,Chorramschahr,Chorramszahr,Chorramšahr,Horamsaher,Horamšaher,Huerremsehr,Hürremşehr,Jorramchar,Khoramshahr,Khorram Shahr Abadan,Khorram Shahr Ābādān,Khorramchahre,Khorramshahr,Khorramxahr,Khorremshekhr,Khunin Shahr,Khurramshahr,Khūnīn Shahr,Koramshar,Koramsjar,Mohammerah,Muhammerah,Xürrəmşəhr,almhmrt,bndr khrmshhr,horramushafuru,huo la mu sha he er,khrmshhr,khurramasahara,Корамшар,Хорремшехр,Хуррамшаҳр,المحمرة,بندر خرمشهر,خرمشهر,خرمشھر,खुर्रमशहर,ホッラムシャフル,霍拉姆沙赫尔",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127349,
+    "name": "Khorramabad",
+    "alternatenames": "KHD,Khorramabad,Khorramābād,Khur Ramabad,Khur Ramābād,Khurramobod,khrm abad,Хуррамобод,خرم آباد",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127382,
+    "name": "Khonj",
+    "alternatenames": "Khonj,Khunj,Khunji,khnj,خنج",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127389,
+    "name": "Khondab",
+    "alternatenames": "Khandab,Khondab,Khondāb,Khāndāb,khandab,khndab,خانداب,خنداب",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127403,
+    "name": "Khomeyn",
+    "alternatenames": "Khomein,Khomeyn,Khomeīn,Khowmeyn,Khumain,Khūmaīn,khmyn,خمين",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127409,
+    "name": "Khomarlu",
+    "alternatenames": "Khomarlu,Khomārlū,khmarlw,خمارلو",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127613,
+    "name": "Kherameh",
+    "alternatenames": "Karameh,Kharameh,Kharāmeh,Kherameh,Kherāmeh,khramh,خرامه",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 127992,
+    "name": "Bandar-e Khamir",
+    "alternatenames": "Bandar-e Khamir,Bandar-e Khamīr,Khamir,Khamīr,Xamir,bandari khamyr,bndr khmyr,bndrkhmyr,khamyr,بندر خمير,بندرخمير,بَندَرِ خَمير,خَمير",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128008,
+    "name": "Khalkhal",
+    "alternatenames": "Harau,Harowabad,Herau,Herauabad,Heroabad,Herow,Herowabad,Herowābād,Heroābād,Hirabad,Hirābād,Khalkhal,Khalkhāl,hrw abad,khlkhal,خلخال,هرو آباد",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128025,
+    "name": "Khalilabad",
+    "alternatenames": "Khalilabad,Khalīlābād,khlyl abad,خلیل آباد",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128226,
+    "name": "Kermanshah",
+    "alternatenames": "Bahtaran,Bakhtaran,Bākhtarān,KSH,Kermansah,Kermansaho,Kermanschah,Kermanshah,Kermanshahan,Kermanshakh,Kermanŝaho,Kermânsâh,Kermānschāh,Kermānshāh,Kermānshāhān,Kirmansah,Kirmanşah,Kirmasan,Kirmaşan,Province de Kermanshah,Provincia de Kermanshah,Provinco Kermansah,Provinco Kermanŝah,Província de Kermanshah,Qahremanshahr,Qahremānshahr,astan krmanshah,ke er man sha he,kerumansha,krmanshah,Керманшах,Кирмоншоҳ,Устони Кирмоншоҳ,استان کرمانشاه,كرمانشاه,کرمانشاه,ケルマーンシャー,克尔曼沙赫",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128234,
+    "name": "Kerman",
+    "alternatenames": "Carmana,Dakbayan sa Kerman,Dakbayan sa Kermān,KER,Kerman,Kermanas,Kermano,Kermon,Kermán,Kermān,Kirman,Kirmon,karmana,ke er man,keleuman,kermani,keruman,krman,Керман,Кирмон,Կերման,כרמאן,كرمان,کرمان,कर्मान,ქერმანი,ケルマーン,克尔曼,케르만",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128252,
+    "name": "Kerend-e Gharb",
+    "alternatenames": "Karand,Karind,Karīnd,Kerend,Kerend-e Gharb,krnd ghrb,کرند غرب",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128321,
+    "name": "Kazerun",
+    "alternatenames": "Kasrun,Kazarun,Kazeroun,Kazerun,Kazeruna,Kāzarūn,Kāzerūn,kazrwn,Казеруна,كازرون",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128447,
+    "name": "Kashmar",
+    "alternatenames": "Kashmar,Khashmar,Kāshmar,Soultanabad,Torshiz,Torshīz,Turshiz,Turshīz,kashmr,کاشمر",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128747,
+    "name": "Karaj",
+    "alternatenames": "Heredi,Karadj,Karadje,Karadsch,Karadz,Karadzs,Karadż,Karadž,Karago,Karaj,Karatz,Karaĝo,Karej,Kerec,Keredi,Keredzas,Keredzh,Keredžas,Kerezh,Kərəc,Leredi,PYK,QKC,Qasabeh-e Karaj,Qaşabeh-e Karaj,ka la ji,kairaija,kalaji,karaj,karaji,kha rac,krj,kyaraji,qasabihi karaj,Καράτζ,Карай,Караџ,Караҷ,Кередж,Кереж,כאראג,قَصَبِهِ كَرَج,كرج,کرج,کەرەج,कैरैज,கராஜ்,คาราจ,ქარაჯი,キャラジ,卡拉季,카라지",
+    "subcountry": "Alborz Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128831,
+    "name": "Kangavar",
+    "alternatenames": "Kangavar,Kangāvar,kngawr,کنگاور",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128847,
+    "name": "Kangan",
+    "alternatenames": "Bandar-e Kangan,Bandar-e Kangān,KNR,Kangan,Kangun,Kangān,bndri kngan,kngan,بندرِ كنگان,كنگان",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 128905,
+    "name": "Kamyaran",
+    "alternatenames": "Kamyaran,Kāmyārān,kamyaran,کامیاران",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 129201,
+    "name": "Kaleybar",
+    "alternatenames": "Kaleybar,Kalibar,Kalipar,Kalībar,Keleibar,Keleivar,klybr,کليبر",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 129512,
+    "name": "Kalaleh",
+    "alternatenames": "KLM,Kalalah,Kalaleh,Kalālah,Kalāleh,klalh,كلاله",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 129610,
+    "name": "Kujuvar",
+    "alternatenames": "kwjwwar,کوجووار",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 129904,
+    "name": "Kabudarahang",
+    "alternatenames": "Kaboodrahang,Kabud Rahang,Kabudarahang,Kabutarahang,Kabūd Rāhang,Kabūdarāhang,Kabūtarāhang,kbwdr ahng,کبودر آهنگ",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 129929,
+    "name": "Eyvan",
+    "alternatenames": "Aiwan,Aīwān,Bagh-e Shah,Bagh-i-Shah,Bāgh-e Shāh,Bāgh-ī-Shāh,Eyvan,Eyvan-e Gharb,Eyvān,Eyvān-e Gharb,Juy Zar,Jūy Zar,aywan,aywan ghrb,baghi shah,jwy zar,ايوان,ایوان غرب,باغِ شاه,جوی زَر",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 129933,
+    "name": "Juybar",
+    "alternatenames": "Baghlu,Bāghlū,Juybar,Jūybār,jwybar,جويبار",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130091,
+    "name": "Joghtay",
+    "alternatenames": "Jaghatai,Jaghatāi,Joghatay,Joghatāy,Joghtay,Joghtāy,jghtay,جغتای",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130216,
+    "name": "Khark",
+    "alternatenames": "Jazireh Khark,Jazireh-ye Khark,Jazīreh-ye Khārk,Khark,Khārk,khark,Харк,جَزيرِۀ خارك,خارك",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130245,
+    "name": "Javanrud",
+    "alternatenames": "Juanru,Jūānrū,Qal`a Juanrud,Qal`a Jūanrūd,Qal`eh Juanrud,Qal`eh Jūānrūd,Qal`eh-ye Javanrud,Qal`eh-ye Javānrūd",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130276,
+    "name": "Jask",
+    "alternatenames": "JSK,Jask,Jāsk,bndri jask,jask,بندرِ جاسک,جاسک",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130366,
+    "name": "Jongiyeh",
+    "alternatenames": "Jangeyeh,Jangiyeh,Jangīyeh,Jongiyeh,Jongīyeh",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130451,
+    "name": "Jam",
+    "alternatenames": "Jam,Jam-e Jam,Jamm,Jām-e Jam,Velayat,Velāyat,jami jam,jm,wlayt,جامِ جَم,جم,ولایت",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130524,
+    "name": "Jajarm",
+    "alternatenames": "Jajarm,Jājarm,jajrm,جاجرم",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130531,
+    "name": "Jahrom",
+    "alternatenames": "Do,JAR,Jahrom,Jahrum,Jahrūm,dw,jhrm,جهرم,دو",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130802,
+    "name": "Ilam",
+    "alternatenames": "Elam,Elām,IIL,Ilam,ailam,aylam,ylam,Īlām,Илам,اِلام,ایلام,يلام",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 130821,
+    "name": "Hoveyzeh",
+    "alternatenames": "Havizeh,Hawiza,Hawizeh,Hawīzeh,Hovayze,Hovayzeh,Hoveyzeh,Huzgan,Hūzgān,hwyzh,هویزه",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 131528,
+    "name": "Heris",
+    "alternatenames": "Haris,Harīs,Heris,Herīs,Hiriz,hrys,هريس",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 131559,
+    "name": "Hendijan",
+    "alternatenames": "Hendeyan,Hendeyān,Hendian,Hendijan,Hendijan Kuchek,Hendijar,Hendījān,Hendījān Kūchek,Hendījār,Hendīān,Hindian,Hindijan,Hindīān,hndyjan,هندیجان",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 131691,
+    "name": "Hashtgerd",
+    "alternatenames": "Ashjird,Hashtgerd,Hashtjerd,Hashtjird,hashtjird,hshtgrd,هشتگرد,هَشتجِرد",
+    "subcountry": "Alborz Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 131962,
+    "name": "Harsin",
+    "alternatenames": "Harsin,Harsīn,hrsyn,هرسین",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132144,
+    "name": "Hamadan",
+    "alternatenames": "Ecbatana,HDM,Hamadan,Hamadān,Hamedan,Hamedān,Khamadan,hmdan,Хамадан,همدان",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132380,
+    "name": "Hajjiabad",
+    "alternatenames": "Hajiabad,Hajjiabad,Hājīābād,hajy abad,حاجی آباد,Ḩājjīābād",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132382,
+    "name": "Hajjiabad",
+    "alternatenames": "Hajjiabad,hajy abad,حاجی آباد,Ḩājjīābād",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132428,
+    "name": "Haftkel",
+    "alternatenames": "Haftgel,Haftkel,hftgl,hftkl,هفتکل,هفتگل",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132892,
+    "name": "Gorgan",
+    "alternatenames": "Asterabad,Asterābād,GBT,Gorgan,Gorgān,Gurgan,Gurgon,Gūrgān,Hirkanio,aastir abad,grgan,gwrgan,Горган,Гургон,اَستِر آباد,گرگان,گورگان",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132938,
+    "name": "Gonbad-e Kavus",
+    "alternatenames": "Dashte Gorgan,Gonbad Qabus,Gonbad Qavoos,Gonbad Qābūs,Gonbad-e Kavus,Gonbad-e Kāvūs,Gonbad-e Qabus,Gonbad-e Qābūs,Gunbad-i-Kawas,Gunbad-i-Kawus,Gunbad-i-Kāwās,Gunbad-i-Kāwūs,Gunbad-i-Qabus,Gunbad-i-Qābūs,gnbd kawws,gnbd qabws,گنبد قابوس,گنبد کاووس",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 132961,
+    "name": "Gonabad",
+    "alternatenames": "Gonabad,Gonābād,Gunabad,Gūnābād,Juymand,Jūymand,gnabad,گناباد",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133037,
+    "name": "Golpayegan",
+    "alternatenames": "Golpayagan,Golpayegan,Golpāyagān,Golpāyegān,Gulpaigan,Gulpāīgān,Shahr-e Golpayegan,Shahr-e Golpāyegān,glpaygan,گلپایگان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133345,
+    "name": "Gilan-e Gharb",
+    "alternatenames": "Gilan,Gilan-e Gharb,Gīlān,Gīlān-e Gharb,gylan ghrb,گیلان غرب",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133595,
+    "name": "Gerash",
+    "alternatenames": "Gerash,Gerāsh,Girash,Girāsh,grash,گراش",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133852,
+    "name": "Gavbandi",
+    "alternatenames": "Gabandi,Gavbandi,Gāvbandī,gawbndy,گاوبندی",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133964,
+    "name": "Garmsar",
+    "alternatenames": "Garmsar,Garmsār,Qeshlaq,Qeshlāq,Qishlaq,Shahr-e Qeshlaq,Shahr-e Qeshlāq,grmsar,qishlaq,shahri qishlaq,شَهرِ قِشلاق,قِشلاق,گرمسار",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133972,
+    "name": "Germi",
+    "alternatenames": "Garmi,Garmi Ejarood,Garmī,Germi,Germī,grmy,گرمی",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 133978,
+    "name": "Garmeh",
+    "alternatenames": "Garmeh,grmh,گرمه",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134217,
+    "name": "Bandar-e Genaveh",
+    "alternatenames": "Bandar Ganaveh,Bandar Ganāveh,Bandar-e Ganaveh,Bandar-e Ganāveh,Bandar-e Genaveh,Bandar-e Genāveh,Bandar-e-Gonaveh,Bandar-e-Gonāveh,Ganaveh,Ganāveh,Genaveh,Genāveh,Gonaveh,Gonāveh,Kenareh,Kenâreh,bndr gnawh,بندر گناوه",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134255,
+    "name": "Galugah",
+    "alternatenames": "Galugah,Galūgāh,glwgah,گلوگاه",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134282,
+    "name": "Galikesh",
+    "alternatenames": "Galikash,Galikesh,Galīkesh,Gālīkash,Gālīkesh,galyksh,گاليكش",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134441,
+    "name": "Fuman",
+    "alternatenames": "Fowman,Fowmen,Fuman,Fumen,Fūman,fwmn,فومن",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134462,
+    "name": "Firuzkuh",
+    "alternatenames": "Firuzkuh,Fīrūzkūh,Qasabeh-ye Firuz Kuh,Qaşabeh-ye Fīrūz Kūh,fyrwzkwh,فيروزكوه",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134518,
+    "name": "Firuzabad",
+    "alternatenames": "Firuzabad,Fīrūzābād,fyrwz abad,فیروز آباد",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134563,
+    "name": "Feyzabad",
+    "alternatenames": "Faizabad,Faizābād,Feyzabad,Feyzābād,Feyẕābād,fyd abad,فیض آباد",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134601,
+    "name": "Fereydunshahr",
+    "alternatenames": "Fareydunshahr,Fareydūnshahr,Fereydunshahr,Fereydūnshahr,frydwn shhr,فریدون شهر",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134602,
+    "name": "Fereydun Kenar",
+    "alternatenames": "Faridun Kinar,Fereidun Kenar,Fereydun Kenar,Fereydunkenar,Fereydūn Kenār,Fereydūnkenār,Fāridūn Kinār,Qasabeh,Qaşabeh,frydwn knar,frydwnknar,فريدون كنار,فريدونكنار",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134613,
+    "name": "Ferdows",
+    "alternatenames": "Ferdous,Ferdows,Firdaus,Firdavs,Firdevs,Firdovs,Tun,Tūn,fei er dao si,ferudousu,frdws,Фердоус,Фирдавс,فردوس,フェルドゥース,費爾道斯",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134721,
+    "name": "Fasa",
+    "alternatenames": "FAZ,Fasa,Fassa,Fasā,fsa,فسا",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134735,
+    "name": "Faryab",
+    "alternatenames": "Fariab,Fariyab,Faryab,Fāryāb,Fārīāb,Pariab,Paryab,Paryāb,Pay Ab,Pārīāb,Pāy Āb,Shahmoradi-ye Faryab,Shahmorādi-ye Fāryāb,faryab,فاریاب",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134745,
+    "name": "Faruj",
+    "alternatenames": "Farij,Faruj,Fārij,Fārūj,farwj,فاروج",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134762,
+    "name": "Farsan",
+    "alternatenames": "Farsa,Farsan,Farsian,Farsun,Farsūn,Fārsā,Fārsān,Fārsīān,farsan,فارسان",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134781,
+    "name": "Farashband",
+    "alternatenames": "Farash,Farashband,Farrash,Farrashband,Farrāsh,Farrāshband,Farāsh,Farāshband,frashbnd,فراشبند",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134788,
+    "name": "Farmahin",
+    "alternatenames": "Farmahin,Farmahīn,frmhyn,فرمهين",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134809,
+    "name": "Fariman",
+    "alternatenames": "Fariman,Farimun,Farīmān,Farīmūn,fryman,فریمان",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134894,
+    "name": "Fannuj",
+    "alternatenames": "Fannuj,Fannūj,Fanuch,Fanuj,Fanūj,Fānūch,fnwj,فنوج",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134905,
+    "name": "pamas",
+    "alternatenames": "Famast,Fāmāst,Gamasb,Gamasp,Gāmāsb,Gāmāsp,Pamas,famast,gamasb,gamasp,pamas,فاماست,پَمَس,گاماسب,گاماسپ",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134906,
+    "name": "Famenin",
+    "alternatenames": "Famanin,Famenin,Faminin,Famīnīn,Fāmanīn,Fāmenīn,famnyn,فامنین",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 134962,
+    "name": "Fahraj",
+    "alternatenames": "Fahraj,Fahrej,Iranshahr,Irānshahr,Narmashir,Narmāshīr,fhrj,فهرج",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135094,
+    "name": "Estahban",
+    "alternatenames": "Estahban,Estahbanat,Estahbān,Estehbanat,Eşţahbān,Eşţahbānāt,Istehbanat,Istehbānāt,Savanat,Savānāt,Shahr-e Estahbanat,Shahr-e Eşţahbānāt,asthban,استهبان",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135175,
+    "name": "Eslamabad-e Gharb",
+    "alternatenames": "Eslamabad,Eslamabad-e Gharb,Eslāmābād,Eslāmābād-e Gharb,Harunabad,Hārūnābād,Shahabad,Shahabad-e Gharb,Shāhābād,Shāhābād-e Gharb,aslam abad ghrb,اسلام آباد غرب",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135205,
+    "name": "Eshtehard",
+    "alternatenames": "Eshtehard,Eshtehārd,Ishtahabad,Ishtahard,ashthard,Īshtahard,Īshtahābād,اشتهارد",
+    "subcountry": "Alborz Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135298,
+    "name": "Esfarayen",
+    "alternatenames": "Esfarayen,Esfarāyen,Meyanabad,Meyanābād,Mianabad,Miyanabad,Mīyānābād,Mīānābād,asfrayn,اسفراین",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135355,
+    "name": "Eqlid",
+    "alternatenames": "Eklid,Eklīd,Eqlid,Eqlīd,Iqlid,Iqlīd,Shahrestan-e Eqlid,Shahrestān-e Eqlīd,aqlyd,اقلید",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135423,
+    "name": "Shahrud",
+    "alternatenames": "Emamshahr,Emāmshahr,RUD,Shahrud,Sharud,Shāhrūd,Shārūd,aimamshahr,shahrwd,sharwd,اِمامشَهر,شارود,شاهرود",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135743,
+    "name": "Dowlatabad",
+    "alternatenames": "Daulatabad,Daulatābad,Dowlatabad,Dowlatābād,dwlt abad,دولت آباد",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 135878,
+    "name": "Dorud",
+    "alternatenames": "Dorood Garan,Dorud,Dorūd,Dow Rud,Dow Rūd,Durud,Dūrūd,dwrwd,دورود",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136014,
+    "name": "Dogonbadan",
+    "alternatenames": "Do Gonbadan,Do Gonbadān,Dogonbadan,Dow Gonbadan,Dow Gonbadān,Du Gunbadan,Du Gunbadān,GCH,Gachsaran,Gachsārān,du gunbadan,gchsaran,دُو گُنبَدان,گچساران",
+    "subcountry": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136156,
+    "name": "Divandarreh",
+    "alternatenames": "Divan Darra,Divandarreh,Diwan Darreh,Dīvan Darra,Dīvāndarreh,Dīwān Darreh,dywandrh,ديواندره",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136256,
+    "name": "Dezful",
+    "alternatenames": "DEF,Dezfoul,Dezful,Dezfūl,Dizful,Dizful',Dīzfūl,des ful,dezaphula,di zi fu lei,dyzfwl,dzfwl,Дизфуль,دزفول,ديزفول,देज़फूल,เดซฟูล,迪茲富勒",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136280,
+    "name": "Deyr",
+    "alternatenames": "Bandar-e Deyyer,Daiyir,Dayer,Dayir,Dayyer,Deyr,Qal'eh Dir,Qal’eh Dīr,bndr dyr,dyr,qalyih dyr,بندر دیر,دير,قَلئِه دير",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136399,
+    "name": "Delijan",
+    "alternatenames": "Dalijan,Dalijān,Delijan,Delījān,Dilijan,Dilījān,dlyjan,دليجان",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136702,
+    "name": "Dehloran",
+    "alternatenames": "Deh Lovan,Deh Lovān,Deh Luran,Deh Lūrān,Dehloran,Dehlorān,Dekhlorana,dhlran,dih luan,dih lwran,Дехлорана,دهلران,دِه لوران,دِه لُوان",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136773,
+    "name": "Dehgolan",
+    "alternatenames": "Deh Gulan,Deh-i-Gulan,Deh-ī-Gūlān,Dehgolan,Dehgolān,dhglan,دهگلان",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 136987,
+    "name": "Dehdasht",
+    "alternatenames": "Dehdasht,Dehdast,Kuhgiluyeh,dhdsht,dihdast,دهدشت,دِهدَست",
+    "subcountry": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137013,
+    "name": "Sisakht",
+    "alternatenames": "Deh Bozorg-e Sisakht,Deh Bozorg-e Sīsakht,Deh Bozorg-e Sīsākht,Deh-e Bozorg Sisakht,Deh-e Bozorg Sīsakht,Sisakht,Sīsakht,dih buzurgi sysakht,sy skht,دِه بُزُرگِ سيساخت,دِه بُزُرگِ سيسَخت,سی سخت",
+    "subcountry": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137025,
+    "name": "Safashahr",
+    "alternatenames": "Deh Bid,Deh Bīd,Safashahr,dh byd,sfashhr,Şafāshahr,ده بید,صفاشهر",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137057,
+    "name": "Dehaqan",
+    "alternatenames": "Dehaqan,Dehāqān,dhaqan,دهاقان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137268,
+    "name": "Susangerd",
+    "alternatenames": "Dasht-e Azadegan,Dasht-e Āzādegān,Dasht-i-Mishan,Dasht-i-Mishān,Dashte' Mishan,Dashte’ Mishan,Khafajiyah,Khafajiyaz,Khafajiyeh,Susangerd,Susangird,Susangurd,Sūsangerd,Sūsangird,Sūsangurd,swsngrd,سوسنگرد",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137436,
+    "name": "Darreh Shahr",
+    "alternatenames": "Dareh sahr,Darre Szahr,Darreh Shahr,Darreh-ye Shahr,Darrehshahr,Darreshekhr,Deresehr,Dereşehr,Dərəşəhr,Madakto,drh shhr,Даррашаҳр,Даррешехр,Դարեհ շահր,دره شهر,دره‌شهر,دەڕەشار,شهرستان دره‌شهر",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137585,
+    "name": "Dargaz",
+    "alternatenames": "Dargaz,Darreh Gaz,Mohammadabad,Mohammadabad Arbab,Moḩammadābād,Moḩammadābād Arbāb,Muhammadabad,Muhammadābād,drgz,drh gz,دره گز,درگز",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137929,
+    "name": "Daran",
+    "alternatenames": "Daran,Darun,Dārān,Dārūn,Fareydan,Faridan,Farīdān,daran,frydn,داران,فریدن",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 137956,
+    "name": "Darab",
+    "alternatenames": "Darab,Darab-e Do,Dārāb,Dārāb-e Do,darab,darab 2,داراب,داراب ٢",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 138025,
+    "name": "Damghan",
+    "alternatenames": "Damghan,Dāmghān,damghan,دامغان",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 138042,
+    "name": "Damavand",
+    "alternatenames": "Damavand,Damāvand,Demavend,Demāvend,Qasabeh-e Damavand,Qaşabeh-e Damāvand,dmawnd,qasabihi damawand,Дамаванд,دماوند,قَصَبِهِ دَماوَند",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 138742,
+    "name": "Chenaran",
+    "alternatenames": "Chanaran,Chanārān,Chenaran,Chenārān,Chinaran,Chinārān,chnaran,چناران",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 138799,
+    "name": "Chelgard",
+    "alternatenames": "Chalehgard,Chelgard,Chelgerd,Shur Ab,Shūr Āb,chlgrd,چلگرد",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 139223,
+    "name": "Chalus",
+    "alternatenames": "Chalus,Chālūs,chalws,Чалус,چالوس",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 139780,
+    "name": "Chadegan",
+    "alternatenames": "Chadegan,Chadgan,Chadgun,Chadgūn,Chadugan,Chadūgān,Chādegān,Chādgān,chadgan,چادگان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 139817,
+    "name": "Bushehr",
+    "alternatenames": "Abu Shahr,Abu Shehr,Abuschehr,BUZ,Bandar Abu Shehr,Bandar Bushehr,Bandar Būshehr,Bandar-e Bushehr,Bandar-e Būshehr,Bouchehr,Buschehr,Buschir,Busehr,Bushehr,Busher,Bushir,Bushire,Būshehr,Būšehr,bndr bwshhr,bwshhr,bwshihr,Бушер,Бушир,Бӯшеҳр,Бӯшиҳр,بندر بوشهر,بوشهر,بوشِهر",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 139889,
+    "name": "Bukan",
+    "alternatenames": "Bokan,Bowkan,Bowkān,Bukan,Būkān,bwkan,Букан,بوکان",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 139903,
+    "name": "Bu'in Zahra",
+    "alternatenames": "Bu'in,Bu'in Zahra,Buyin,Būyīn,Bū’īn,Bū’īn Zahrā,bwyyn zhra,بوئین زهرا",
+    "subcountry": "Qazvīn"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140044,
+    "name": "Borujerd",
+    "alternatenames": "Borudzherd,Borujerd,Borūjerd,Burujird,Būrūjīrd,brwjrd,bwrwjyrd,Боруджерд,بروجرد,بوروجيرد",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140046,
+    "name": "Borujen",
+    "alternatenames": "Amrujan,Amrūjān,Beroojen,Borujan,Borujen,Borūjen,Borūjān,Burujan,Burūjān,Urujan,Urūjān,aamrwjan,birujin,brwjn,burwjan,اَمروجان,بروجن,بُروجان,بِرُّجِن",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140097,
+    "name": "Borazjan",
+    "alternatenames": "Borazdjan,Borazjan,Borazjun,Borāzjān,Borāzjūn,brazjan,burazdjan,برازجان,بُرَزدجَن",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140216,
+    "name": "Shahrak-e Kuluri",
+    "alternatenames": "Boneh Hoseinkalooli,Boneh Hoseyn Koluli,Boneh Ḩoseyn Kolūlī,Boneh-ye Hoseyn Kaluli,Boneh-ye Ḩoseyn Kalūlī,Shahrak-e Kaluli,Shahrak-e Kalūlī,Shahrak-e Kuluri,Shahrak-e Kūlūrī,bnh hsyn klwly,shhrk klwly,shhrk kwlwry,بنه حسين کلولی,شهرک کلولی,شهرک کولوری",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140380,
+    "name": "Bojnurd",
+    "alternatenames": "BJB,Bodzhnurd,Bojnord,Bojnourd,Bojnurd,Bojnūrd,Bujnurd,Bujnūrd,bjnwrd,Боджнурд,بجنورد",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140463,
+    "name": "Birjand",
+    "alternatenames": "Birdjand,Birdschand,Birdzhend,Birjand,Bīrjand,XBJ,byrjnd,Бирдженд,Бӣрҷанд,بيرجند,بیرجند",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140494,
+    "name": "Bileh Savar",
+    "alternatenames": "Bileh Savar,Bīleh Savār,bylh swar,بيله سوار",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140521,
+    "name": "Bijar",
+    "alternatenames": "Bidzhar,Bijar,Bījār,byjar,Биджар,بيجار",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140889,
+    "name": "Bonab",
+    "alternatenames": "Benab,Benāb,Binab,Bināb,Bonab,Bonāb,Bunab,bnab,Бонаб,بناب",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140918,
+    "name": "Behshahr",
+    "alternatenames": "Ashraf,Behshahr,Bekhshekhr,aashraf,bhshhr,Бехшехр,اَشرَف,بهشهر",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 140951,
+    "name": "Behbahan",
+    "alternatenames": "Behbahan,Behbahān,Behbehan,Behbehān,bhbhan,بهبهان",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141015,
+    "name": "Masal",
+    "alternatenames": "Bazar-e Masal,Bāzār-e Māsāl,Masal,Masal-Bazar,Māsāl,Sar-i-Bazar,Sar-i-Bāzar,Sari Bazar Musar,Sārī Bāzār Mūsār,bazar masal,masal,بازار ماسال,ماسال",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141104,
+    "name": "Bastak",
+    "alternatenames": "Bastak,Lastak,bstk,lastak,Бастак,بستک,لَستَك",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141124,
+    "name": "Basht",
+    "alternatenames": "Basht,Bāsht,basht,باشت,بَشت",
+    "subcountry": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141349,
+    "name": "Bardaskan",
+    "alternatenames": "Badar Askan,Badar Askān,Badr Eshkand,Bardaskan,Bardaskand,Bardeshkand,Bardeskan,Bardāskan,Bardāskand,Berdesken,Budraskan,Būdraskān,Bərdəskən,ba er da si kan,baradaskana,brdaskn,brdskn,Бардаскан,Բարդասքան,برداسکن,بردسكن,بردسکن,বারদাস্কান,巴爾達斯坎",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141584,
+    "name": "Baneh",
+    "alternatenames": "Bane,Baneh,Bani,Bāneh,banh,bani,Бани,بانه,بَنِ",
+    "subcountry": "Kordestān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141653,
+    "name": "Bandar-e Torkaman",
+    "alternatenames": "Bandar Shah,Bandar Shāh,Bandar-e Shah,Bandar-e Shāh,Bandar-e Torkaman,Bandar-e Torkeman,Bandar-e Torkman,bandari shah,bandari turkman,bndr trkmn,بندر تركمن,بَندَرِ تُركمَن,بَندَرِ شاه",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141663,
+    "name": "Bandar-e Mahshahr",
+    "alternatenames": "Bandar Ma`sbur,Bandar Ma`shur,Bandar Mah Shahr Terminal,Bandar Mah Sharh,Bandar Mah-Shahr,Bandar Mashur,Bandar Ma‘sbur,Bandar Ma‘shūr,Bandar-Mashour,Bandar-e Ma`shur,Bandar-e Mahshahr,Bandar-e Ma‘shūr,Bandar-e Māhshahr,Bandar-mashoor,Bar Andaz,Bār Andāz,MRX,Mah Shahr,Mahshahr,Markaz-e Bargiri-ye Bandar-e Mah Shahr,Markaz-e Bārgīrī-ye Bandar-e Māh Shahr,Mashur,Māhshahr,bndr mahshhr,بندر ماهشهر",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141665,
+    "name": "Bandar-e Lengeh",
+    "alternatenames": "BDH,Bandar Langeh,Bandar-e Lengeh,Bandar-e-Langeh,Linja,Linjah,bndr lngh,بندر لنگه",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141673,
+    "name": "Bandar-e Gaz",
+    "alternatenames": "Bandar Gaz,Bandar-e Gaz,Bandar-i-Gaz,Bandar-i-Jaz,Bander Gaz,bndr gz,بندر گز",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141676,
+    "name": "Bandar-e Deylam",
+    "alternatenames": "Bandar Deylam,Bandar Dilam,Bandar Dīlam,Bandar-e Delam,Bandar-e Deylam,Dilam,Dīlam,bndr dylm,بندر ديلم",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141679,
+    "name": "Bandar-e Anzali",
+    "alternatenames": "Bandar Anzali,Bandar Pahlavi,Bandar Pahlevi,Bandar-e Anzali,Bandar-e Anzalī,Bandar-e Pahlavi,Bandar-e Pahlavī,Enceli,Enzeli,Pahlavi,Pahlavī,Pahlevi,Pahlevī,Pehlevi,bndr anzly,بندر انزلی",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141681,
+    "name": "Bandar Abbas",
+    "alternatenames": "BND,Bandar Abas,Bandar Abbas,Bandar Abbas - بندر عباس,Bandar Abbás,Bandar `Abbas,Bandar `Abbasi,Bandar ‘Abbās,Bandar ‘Abbāsī,Bandar-Abbas,Bandar-Abbasz,Bandar-Abbos,Bandar-Abbász,Bandar-e Abbas,Bandar-e `Abbas,Bandar-e ‘Abbās,Bandare Abasas,Bander Abbas,Bantar Ampas,Bendehr-Abas,Bender Abas,Bender Abbas,Bender Ebbas,Bender-Abbas,Bəndər Abbas,Cambarao,Cambarão,Gombroon,Gumrun,Port Comorao,Port Comorão,a ba si gang,ban dar xab bas,bandaleuabaseu,bandara abbasa,bandara-e-abbasa,bender-abasi,bndr ʻbʼs,bndr ʿbas,gumbrun,Μπαντάρ Αμπάς,Бандар-Аббос,Бендер Абас,Бендер-Аббас,Бендэр-Абас,Բանդեր Աբբաս,בנדר עבאס,بندر عباس,بندرعباس,بَندَر عَبّاسی,بَندَرِ عَبّاس,بەندەر عەباس,گُمبرُّن,बंदर-ए-अब्बास,বন্দর আব্বাস,บันดาร์อับบาส,ბენდერ-აბასი,バンダレ・アッバース,阿巴斯港,반다르아바스",
+    "subcountry": "Hormozgan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141736,
+    "name": "Bam",
+    "alternatenames": "BXR,Bam,bamu,bm,Бам,بم,バム",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 141891,
+    "name": "Bajestan",
+    "alternatenames": "Bajestan,Bajestān,Bejestan,Bejestān,Bijestan,Bijistan,Bījestān,Bījistān,bjstan,بجستان",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142000,
+    "name": "Bahar",
+    "alternatenames": "Bahar,Bahār,Bakhar,bhar,Бахар,بهار",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142114,
+    "name": "Bagh-e Malek",
+    "alternatenames": "Bagh Malek,Bagh-e Malek,Bagh-i-Malik,Bāgh-e Malek,bagh mlk,باغ ملک",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142247,
+    "name": "Baft",
+    "alternatenames": "Baft,Bāft,baft,بافت",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142255,
+    "name": "Bafq",
+    "alternatenames": "Bafk,Bafq,Bāfq,bafq,Бафк,بافق",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142358,
+    "name": "Babolsar",
+    "alternatenames": "Babolsar,Babul Sar,Bābolsar,Bābul Sar,Mashhad-i-Sar,Mashhadsar,Meshed-i-Sar,bablsr,بابلسر",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142363,
+    "name": "Babol",
+    "alternatenames": "Babol,Babol',Babul,Balfrush,Barfarush,Barfrush,Barfurush,Bābol,Bābul,Bārfurush,babl,Баболь,بابل",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142496,
+    "name": "Azna",
+    "alternatenames": "Azna,Aznā,azna,ازنا",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142497,
+    "name": "Azna",
+    "alternatenames": "Azna,Aznā,Ezna,Eznā,azna,ازنا",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142554,
+    "name": "Hashtrud",
+    "alternatenames": "Azaran,Hashtrud,Hashtrūd,Sar Eskand,Sar Eskand Khan,Sar Eskand Khān,Sar Eskandar,Saraskand,Sarāskand,hshtrwd,Āz̄arān,هشترود",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142567,
+    "name": "Shazand",
+    "alternatenames": "Azadshahr,Shah Zand,Shazand,Shāzand,shaznd,Āzādshahr,شازند",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142676,
+    "name": "Astara",
+    "alternatenames": "Astara,astara,Āstārā,Астара,آستارا",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142679,
+    "name": "Astaneh-ye Ashrafiyeh",
+    "alternatenames": "Astane,Astaneh,Astaneh-ye Ashrafiyeh,astanh ashrfyh,Āstāneh,Āstāneh-ye Ashrafīyeh,آستانه اشرفیه",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142744,
+    "name": "Ashtian",
+    "alternatenames": "Ashtian,Ashtiyan,Ashtīyan,ashtyan,Āshtīān,آشتيان",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142768,
+    "name": "Ashkhaneh",
+    "alternatenames": "Ashkhaneh,ashkhanh,Āshkhāneh,آشخانه",
+    "subcountry": "North Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142857,
+    "name": "Bandar-e `Asaluyeh",
+    "alternatenames": "Asalu,Bandar-e `Asalu,Bandar-e `Asaluyeh,Bandar-e ‘Asalū,Bandar-e ‘Asalūyeh,PGU,`Asaluyeh,بندر عسلویه,بَندَرِ عَسَلو,عسلويه,‘Asalūyeh",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142862,
+    "name": "Asadiyeh",
+    "alternatenames": "Asadiyeh,Asadīyeh,asdyh,اسدیه",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142872,
+    "name": "Asadabad",
+    "alternatenames": "Asadabad,Asadabada,Asadābād,asd abad,Асадабада,اسد آباد",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142902,
+    "name": "Arzu'iyeh",
+    "alternatenames": "Arzoo'eyeh,Arzoo’eyeh,Arzu,Arzu'iyeh,Arzū’īyeh,Orzu'iyeh,Orzū’īyeh,Ozu'iyeh,Ozū’īyeh,`Orsu'iyeh,arzwyyh,Ārzū,ارزوئیه,‘Orsū’īyeh",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 142958,
+    "name": "Arsanjan",
+    "alternatenames": "Arsanjan,Arsanjān,Arsenjan,Arsenjān,Arsinjan,Arsinjān,arsnjan,ارسنجان",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143052,
+    "name": "Ardestan",
+    "alternatenames": "Ardestan,Ardestān,Ardistan,Ardistān,ardstan,اردستان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143070,
+    "name": "Ardal",
+    "alternatenames": "Ardal,Ardel,ardl,اردل",
+    "subcountry": "Chaharmahal and Bakhtiari"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143073,
+    "name": "Ardakan",
+    "alternatenames": "Ardakan,Ardakān,Ardekan,ardkan,اردکان",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143083,
+    "name": "Ardabil",
+    "alternatenames": "ADU,Ardabel,Ardabil,Ardabīl,Ardebil,Ardebīl,Erdebil,aardibyl,ardbyl,Ərdəbil,Ардабел,اردبيل,اردبیل,اَردِبيل",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143122,
+    "name": "Aran Bidgol",
+    "alternatenames": "Aran,Aran Bidgol,Aran va Bidgol,Arun,Arūn,Gol Ara,Gol Ārā,aran,aran byd gl,aran w bydgl,gl ara,Ārān,Ārān Bīdgol,Ārān va Bīdgol,آران,آران بيد گل,آران و بيدگل,گل آرا",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143127,
+    "name": "Arak",
+    "alternatenames": "Arak,Arak - sawh,Arak - ساوه,Arok,Arāk,Ehrak,Soltanabad,Solţānābād,Sultanabad,Sultānābād,`Iraq,arak,sawh,sultan abad,Арак,Арок,Эрак,اراک,ساوه,سُلطان آباد,‘Irāq",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143129,
+    "name": "Aradan",
+    "alternatenames": "Aradan,Ardan,Ardān,Azadan,aardan,aradan,Ārādān,Āzādān,آرادان,اَردان",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143320,
+    "name": "Anuch",
+    "alternatenames": "Anuch,Anuj,Anūch,Anūj,Sefid Kuh,Sefīd Kūh,aanwj,anwch,انوچ,اَنوج",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143420,
+    "name": "Andimeshk",
+    "alternatenames": "Andimeshg,Andimeshk,Andimishk,Andremeshl,Andīmeshg,Andīmeshk,Andīmīshk,Salehabad,Salehābād,andymshk,اندیمشک",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143471,
+    "name": "`Anbarabad",
+    "alternatenames": "Ambarabad,Ambārābād,`Anbarabad,عنبر آباد,‘Anbarābād",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143499,
+    "name": "Anar",
+    "alternatenames": "Anar,Anār,anar,انار",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143534,
+    "name": "Amol",
+    "alternatenames": "Amol,Amol',Amul,aml,Āmol,Амоль,آمل",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143539,
+    "name": "Amlash",
+    "alternatenames": "Amlash,Amlesh,Amlish,amlsh,املش",
+    "subcountry": "Gīlān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143748,
+    "name": "Alvand",
+    "alternatenames": "Alband,Alvand,Alwand,El'vend,El’vend,alwnd,Алванд,الوند",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143860,
+    "name": "Shahriar",
+    "alternatenames": "Ali Shah `Iwaz,Ali Shāh ‘Iwaz,Shahreyar,Shahreyār,Shahriar,Shahriyar,Shahriyār,Shahrīār,Shakhrijar,`Ali Shah `Avaz,shhryar,Шахрияр,شهريار,‘Alī Shāh ‘Avaẕ",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 143921,
+    "name": "Aligudarz",
+    "alternatenames": "Aligoodarz,Aligudarz,Alīgūdarz,`Ali Gudar,alygwdrz,Алигударз,الیگودرز,‘Ali Gudār",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144038,
+    "name": "Aliabad-e Katul",
+    "alternatenames": "Aliabad,`Aliabad,`Aliabad-e Katul,Алиабад,علی آباد,علی آباد کتول,‘Alīābād,‘Alīābād-e Katūl",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144263,
+    "name": "Alavijeh",
+    "alternatenames": "'Alavijeh,Alavijeh,علویجه,‘Alavijeh",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144269,
+    "name": "Aleshtar",
+    "alternatenames": "Alashtar,Aleshtar,Alishtar,Alishtār,Qal`eh Mozaffari,Qal`eh `Alishtar,Qal‘eh Moz̧affari,Qal‘eh ‘Alishtār,alshtr,الشتر",
+    "subcountry": "Lorestan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144410,
+    "name": "Akbarabad",
+    "alternatenames": "Akbar Abad Kawar,Akbarabad,Akbarabad-e Kavar,Akbarābād,Akbarābād-e Kavār,akbr abad,Акбарабад,اکبر آباد",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144443,
+    "name": "Ajab Shir",
+    "alternatenames": "Ajabshahr,`Ajab Shir,aajabshahr,اَجَبشَهر,عجب شیر,‘Ajab Shīr",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144448,
+    "name": "Ahvaz",
+    "alternatenames": "AWZ,Ahvaz,Ahvaz - ahwaz,Ahvaz - اهواز,Ahvaza,Ahvazas,Ahvazo,Ahvoz,Ahváz,Ahvāz,Ahvāza,Ahwas,Ahwaz,Ahwāz,Akhvaz,Akhvaz shaary,Axvaz,Bandar Nasiri,Bandar Nāsirī,Bandar-e Naser,Bandar-e Nāşer,Ehvaz,Naseri,Nasiri,Nāsiri,Nāşerī,a wa shi,abajeu,afuvuazu,ahabaja,ahavaza,ahvazi,ahwaz,akvacu,alahwaz,Əhvaz,Ахваз,Ахваз шаары,Аҳвоз,Ախվազ,אהוואז,ئەھواز,الأهواز,اهواز,اہواز,अहवाज़,আহবাজ,ਅਹਵਾਜ਼,ஆக்வாசு,ཨཱ་ཝཛ།,აჰვაზი,アフヴァーズ,阿瓦士,아바즈",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144484,
+    "name": "Ahram",
+    "alternatenames": "Ahram,Ahrom,ahrm,اهرم",
+    "subcountry": "Bushehr"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144616,
+    "name": "Ahar",
+    "alternatenames": "Ahar,Akhar,Eher,a ha er,ahaleu,ahara,ahr,Əhər,Ахар,Аҳар,أهر,اهر,اہار,اہر,अहार,阿哈尔,아하르",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144696,
+    "name": "Aghajari",
+    "alternatenames": "AKW,Agha Jari,Aghajari,Aqa Jari,aghajary,Āghā Jārī,Āghājārī,Āqā Jarī,آغاجاری",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144794,
+    "name": "Abyek",
+    "alternatenames": "Abiak,abyik,آبيِك",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 144795,
+    "name": "Abyek",
+    "alternatenames": "Abiak,Abiak Sarai,Abiak Sarāi,Abyek,Abyek Sofla,Abyek-e Pa'in,aabyik sufla,abyiki payyn,abyk,Ābyek,Ābyek-e Pā’īn,آبيِكِ پائين,آبيک,اَبيِك سُفلَ",
+    "subcountry": "Qazvīn"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145034,
+    "name": "Abhar",
+    "alternatenames": "Abhar,Abkhar,abhr,Абхар,ابهر",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145233,
+    "name": "Abdanan",
+    "alternatenames": "Abdanan,Awdanan,Qal`a Ab-i-Danan,Qal`eh Ab-i-Danan,Qal`eh-ye Ab Danan,Qal`eh-ye Abdaran,Qal‘a Ab-ī-Danan,Qal‘eh Āb-ī-Dānān,Qal‘eh-ye Āb Dānān,Qal‘eh-ye Ābdārān,a bo da nan,abadanana,abdanan,Ābdānān,Абданан,آبدانان,ابدانان,قَلعِۀ آب دانان,قَلعِۀ آبداران,अबदानन,阿卜达南,阿卜達南",
+    "subcountry": "Ilam Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145303,
+    "name": "'Abas Abad",
+    "alternatenames": "Abassabad,Abbasabad,Varaak,Varsak,`Abbasabad,Абассабад,عباس آباد,‘Abbāsābād",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145407,
+    "name": "Abbar",
+    "alternatenames": "Abbar,Obar,Ubar,Ubār,ab br,Ābbar,آب بر",
+    "subcountry": "Zanjan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145427,
+    "name": "Abarkuh",
+    "alternatenames": "Abar Qu,Abar Qū,Abarghoo,Abarku,Abarkuh,Abarkū,Abarkūh,Abarquh,Abarqūh,aabarghu,aabarkw,aabarqwh,abr qw,abrkwh,ابر قو,ابرکوه,اَبَرغُّ,اَبَرقوه,اَبَركو",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145449,
+    "name": "Abadeh",
+    "alternatenames": "Abade,Abadeh,abadh,Ābādeh,Абаде,آباده",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 145459,
+    "name": "Abadan",
+    "alternatenames": "ABD,Abadan,Abadana,Abadanas,Abadano,Abadán,Ampantan,Obodon,a ba dan,abadan,abadana,abadani,Ábádán,Ābadāna,Ābādān,ʿbadan,Αμπαντάν,Абадан,Ободон,Աբադան,אבאדאן,آبادان,ابادان,عبادان,अबादान,ਆਬਾਦਾਨ,აბადანი,アバダーン,アーバーダーン,阿巴丹,아바단",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 390054,
+    "name": "Kuh Sefid",
+    "alternatenames": "Kuh Sefid,Kuh-e Sefid,Kūh Sefīd,Kūh-e Sefīd,kwh sfyd,کوه سفید",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 401118,
+    "name": "Showt",
+    "alternatenames": "Shot,Showt,Showţ,Shoţ,shut,shwt,شوط,شُط",
+    "subcountry": "West Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 401202,
+    "name": "Pasargad",
+    "alternatenames": "Pasargad,Pāsārgād",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 403126,
+    "name": "Shahrak-e Pabedana",
+    "alternatenames": "Kian Shahr,Kiyan Shar,Kīyān Shār,Kīān Shahr,Shahrak-e Pabedana,Shahrak-e Pābedānā",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 403656,
+    "name": "Sepidan",
+    "alternatenames": "Ardakan,Ardakān,Sepidan,Sepīdān,ardkan,spydan,اردکان,سپیدان",
+    "subcountry": "Fars"
+  },
+  {
+    "country": "IR",
+    "geonameid": 406993,
+    "name": "Eqbaliyeh",
+    "alternatenames": "Eqbaliyeh,Eqbālīyeh,aqbalyh,اقباليّه",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 417472,
+    "name": "Shahin Shahr",
+    "alternatenames": "Shahin Shahr,Shāhīn Shahr,shahyn shhr,شاهین شهر",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418418,
+    "name": "Zarrin Shahr",
+    "alternatenames": "Qal`eh Riz,Qal‘eh Rīz,Riz,Riz-e Lanjan,Rīz,Rīz-e Lanjān,Zarrin Shahr,Zarrīn Shahr,zryn shhr,زرّین شهر",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418446,
+    "name": "Tiran",
+    "alternatenames": "Tehran,Tehrān,Tihran,Tihrān,Tiran,Tirun,Tirūn,Tīrān,tyran,تیران",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418521,
+    "name": "Rehnan",
+    "alternatenames": "Rahnan,Rehnan,Rehnān,Renan,Renān,Rohanan,Rohnan,rhnan,rnan,رنان,رهنان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418533,
+    "name": "Shahreza",
+    "alternatenames": "Qomisheh,Qomsheh,Qomīsheh,Qowmsheh,Qumisheh,Shahreza,Shahreẕā,Shahriza,qmshh,shhrda,شهرضا,قمشه",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418571,
+    "name": "Qahderijan",
+    "alternatenames": "Kedargun,Kedargūn,Qadrijan,Qadrijān,Qadrja,Qadrjā,Qahderijan,Qahderījān,qhdryjan,قهدریجان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418606,
+    "name": "Najafabad",
+    "alternatenames": "Nadzhafabad,Najafabad,Najafābād,Nejafabad,Nejafābād,njf abad,Наджафабад,نجف آباد",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418625,
+    "name": "Mobarakeh",
+    "alternatenames": "Mobarakeh,Mobārakeh,Mubarakeh,Mubārakeh,mbarkh,مبارکه",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418710,
+    "name": "Khomeyni Shahr",
+    "alternatenames": "Homayoon Shahr,Homayunshahr,Homāyūnshahr,Khomeyni Shahr,Khomeynishahr,Khomeynī Shahr,Khomeynīshahr,Sedeh,khmyny shhr,خمینی شهر",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418723,
+    "name": "Kelishad va Sudarjan",
+    "alternatenames": "Baba `Abdollah,Bābā ‘Abdollāh,Gulshad,Gulshād,Kalushad,Kalūshād,Kelishad,Kelishad va Sudarjan,Kelishad-e Sofla,Kelīshād,Kelīshād va Sūdarjān,Kelīshād-e Soflá,klyshad,klyshad w swdrjan,کلیشاد,کلیشاد و سودرجان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418851,
+    "name": "Falavarjan",
+    "alternatenames": "Falavar Jan,Falavarjan,Falāvar Jān,Falāvarjān,Felavarjan,Felāvarjān,Mollavarjan,Mollāvarjān,Pol-e Vargan,Pol-e Vargān,Pol-e Varqan,Pol-e Varqān,Pul-i-Vargan,Pul-i-Vargān,flawrjan,mlawrjan,فلاورجان,ملاورجان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418863,
+    "name": "Isfahan",
+    "alternatenames": "Aspadana,Dakbayan sa Esfahan,Dakbayan sa Esfahān,Esfahan,Esfahano,Esfahān,Esfehan,Eşfahān,Eşfehān,IFN,Isfachan,Isfahan,Isfahana,Isfahanas,Isfahanum,Isfahon,Isfahán,Isfahāna,Isfakhan,Isfehan,Ispahan,Iszfahan,Iszfahán,Kota Isfahan,Spahan,Yspyhan,asfhan,aysfahan,esaphahana,esufahan,icupakan,isafahana,iseupahan,isfahana,isphahana,xis fa han,yi si fa han,Îsfehan,İsfahan,İsfehan,Ισφαχάν,Ісфахан,Исфахан,Исфаҳон,Исфаһан,Սպահան,אספהאן,أصفهان,ئسفأھان,ئەسفەھان,اصفهان,اصفہان,ایصفاهان,इस्फहान,इस्फ़हान,এসফাহন,ਇਸਫ਼ਹਾਨ,இசுபகான்,อิสฟาฮาน,ისპაანი,エスファハーン,伊斯法罕,이스파한",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418868,
+    "name": "Dowlatabad",
+    "alternatenames": "Daulatabad,Daulatābād,Dowlatabad,Dowlatābād,dwlt abad,دولت آباد",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418896,
+    "name": "Dorcheh Piaz",
+    "alternatenames": "Darcheh Piaz,Darcheh Pīāz,Dorcheh Peyaz,Dorcheh Peyāz,Dorcheh Piaz,Dorcheh Pīāz",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 418950,
+    "name": "Abrisham",
+    "alternatenames": "Abrisham,Abrīsham,Bagh Abrisham,Bagh-e Abrisham,Bāgh Abrīsham,Bāgh-e Abrīsham,abryshm,bagh abryshm,ابریشم,باغ ابریشم",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 449504,
+    "name": "Eslamshahr",
+    "alternatenames": "Eslamshahr,Eslāmshahr,aslamshhr,اسلامشهر",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1112446,
+    "name": "Shahrak-e Bakharz",
+    "alternatenames": "Shahr-e Now,Shahrak-e Bakharz,Shahrak-e Bākharz,shhrk bakhrz,شهرک باخرز",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1113217,
+    "name": "Zabol",
+    "alternatenames": "ACZ,Zabol,Zabol',Zābol,zabl,Заболь,زابل",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159301,
+    "name": "Zahedan",
+    "alternatenames": "Dowzdab,Dowzdāb,Duzdab,Duzdap,Duzdāb,Duzdāp,ZAH,Zahedan,Zahedan-e (Yek),Zahedanas,Zahedano,Zahedán,Zahidan,Zaidan,Zaidān,Zakhedan,Záhedán,Zāhedān,Zāhedān-e (Yek),cakitan,jahedan,jahedana,zahdan,zahedan,zahedana,zahedani,zha hei dan,Захедан,Зоҳидон,Զահեդան,زاهدان,زاہدان,ज़ाहेदान,জহেদন,சாகிதன்,ზაჰედანი,ザーヘダーン,扎黑丹,자헤단",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159302,
+    "name": "Zehak",
+    "alternatenames": "Deh-e Zahak,Zahak,Zehak,zhk,زهک",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159306,
+    "name": "Zaboli",
+    "alternatenames": "Magas,Mehrestan,Mehrestān,Qal`eh-ye Zaboli,Qal‘eh-ye Zābolī,Zaboli,Zābolī,mhrstan,zably,زابلی,مهرستان",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159362,
+    "name": "Torbat-e Jam",
+    "alternatenames": "Torbat-e Jam,Torbat-e Jām,Torbat-e Sheykh Jam,Torbat-e Sheykh Jām,Turbat-i-Shaikh Jam,trbt jam,تربت جام",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159384,
+    "name": "Taybad",
+    "alternatenames": "Taiabad,Taybad,Tayebad,Tayebat,Tayyebat,Taīabad,Tāybād,Tāyebāt,taybad,Ţayyebāt,تايباد",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159431,
+    "name": "Suran",
+    "alternatenames": "Sooran,Suran,Surar,Sūrān,Sūrār,swran,سوران",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159716,
+    "name": "Sarakhs",
+    "alternatenames": "CKT,Sarahs,Sarakhs,Serakhs,srkhs,Сарахс,سرخس",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159836,
+    "name": "Rasak",
+    "alternatenames": "Rasak,Rask,Razk,Rāsak,Rāsk,Rāzk,rask,راسک",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1159877,
+    "name": "Qasr-e Qand",
+    "alternatenames": "Barqan,Barqān,Borgan,Qasr Qand,Qasr-e Qand,Qasr-e-Qand,Qaşr Qand,Qaşr-e Qand",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1160110,
+    "name": "Nikshahr",
+    "alternatenames": "Geh,Keh,Nik,Nikshahr,Nīk,Nīkshahr,nykshhr,نیکشهر",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1160120,
+    "name": "Nehbandan",
+    "alternatenames": "Nah,Neh,Nehbandan,Nehbandān,nhbndan,نهبندان",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1160500,
+    "name": "Konarak",
+    "alternatenames": "Kenarak,Kenārak,Konarak,Konārak,Kumarak,Kunarak,Kunark,Kunārak,Kūmārak,knark,کنارک",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1160544,
+    "name": "Khvaf",
+    "alternatenames": "Khaf,Khvaf,Khvāf,Khāf,Qasabeh-ye Rud,Qaşabeh-ye Rūd,Rud,Rui Khaf,Ruy,Rūd,Rūi Khāf,Rūy,khwaf,خواف",
+    "subcountry": "Razavi Khorasan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1160571,
+    "name": "Khash",
+    "alternatenames": "Kavash,Khash,Khāsh,Kwash,Kwāsh,Vasht,Vāsht,khash,Хаш,خاش",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1160939,
+    "name": "Iranshahr",
+    "alternatenames": "Fahrej,Fehruj,IHR,Iranshahr,Qal`eh-ye Naseri,Qal‘eh-ye Nāşerī,ayranshhr,Īrānshahr,ايرانشهر",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1161048,
+    "name": "Hajjiabad",
+    "alternatenames": "Hajabad,Hajiabad,Hajjiabad,Hajābād,Hājīābād,hajy abad,حاجی آباد,Ḩājjīābād",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1161297,
+    "name": "Dust Mohammad Khan",
+    "alternatenames": "Dust Mohammad Khan,Dūst Moḩammad Khān,dwst mhmd khan,دوست محمد خان",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 1161724,
+    "name": "Chabahar",
+    "alternatenames": "Cabahar,Cahbahar,Chabahar,Chabakhar,Chah Bahar,Chakhbekhar,Chāh Bahār,Czabahar,Tschahbahar,ZBR,bndr chabhar,cabahara,chabhar,chah bhar,qia he ba ha er,tshabhar,Çabahar,Čabahar,Čáhbahár,Чабахар,Чахбехар,Чҳобаҳор,بندر چابهار,تشابهار,چابهار,چابہار,چاه بهار,چاہ بہار,चाबहार,ਚਾਬਹਾਰ,恰赫巴哈爾",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6657461,
+    "name": "Mamuniyeh",
+    "alternatenames": "Mamuniyeh,Māmūnīyeh,mamwnyh,مامونیه",
+    "subcountry": "Markazi"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6686970,
+    "name": "Azarshahr",
+    "alternatenames": "Azarshahr,Dehkhvareqan,Dehkhvāreqān,adhrshhr,dihkhwariqan,Āz̄arshahr,آذرشهر,دِهخوارِقان",
+    "subcountry": "East Azerbaijan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6709138,
+    "name": "Tazehabad",
+    "alternatenames": "Tazehabad,Tāzehābād,tazh abad,تازه آباد",
+    "subcountry": "Kermānshāh"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6861211,
+    "name": "Kashan",
+    "alternatenames": "Kachan,Kashan,Kāshān,kashan,كاشان",
+    "subcountry": "Isfahan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6925362,
+    "name": "Jiroft",
+    "alternatenames": "JYR,Jiroft,Jīroft,Sabzawaran,Sabzevaran,Sabzevaran-e Jiroft,Sabzevārān,Sabzevārān-e Jiroft,Sabzvaran,Sabzvārān,Sabzāwārān,jyrft,جیرفت",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6928551,
+    "name": "Eslamabad",
+    "alternatenames": "Eslamabad,Eslamabad-e Rudbar,Eslāmābād,Eslāmābād-e Rūdbār,Rudbar,Rūdbār,aslam abad,aslam abad rwdbar,rwdbar,اسلام آباد,اسلام آباد رودبار,رودبار",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6949363,
+    "name": "Famast",
+    "alternatenames": "",
+    "subcountry": "Hamadān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 6961608,
+    "name": "Kahnuj",
+    "alternatenames": "Kahnuj,Kahnūj,khnwj,کهنوج",
+    "subcountry": "Kerman"
+  },
+  {
+    "country": "IR",
+    "geonameid": 7100777,
+    "name": "Mahdishahr",
+    "alternatenames": "Mahdishahr,Sangsar,mhdyshhr,sngsr,سنگسر,مهدیشهر",
+    "subcountry": "Semnan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 7102155,
+    "name": "Dalgan",
+    "alternatenames": "Dalgan,Dalgān,Galmurti,Galmūrtī,dlgan,glmwrty,دلگان,گلمورتی",
+    "subcountry": "Sistan and Baluchestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 7329809,
+    "name": "Aq Qala",
+    "alternatenames": "Aq Qal`eh,Aq Qala,Pahlavi Dezh,Pahlavi-dej,Pahlavī Dezh,Pahlevi Diz,aq qla,Āq Qalā,Āq Qal‘eh,آق قلا",
+    "subcountry": "Golestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 8521444,
+    "name": "Bandar-e Emam Khomeyni",
+    "alternatenames": "Bandar Imam,Bandar Imam Khomeini,Bandar Jomeiny,Bandar Sahpur,Bandar Šâhpur,Bandar-e Chomejni,Bandar-e Emam Khomeyni,Bandar-e Homeini,Bandar-e Imam Chomeini,Bandare Chomeinis,Bandare Emm Xomeyni,Bender Imam Humeyni,Bender İmam Humeyni,Bender-Imam-Khomejni,Bender-Khomejni,Bəndər İmam Xomeyni,QBR,bandaleueemamhomeini,bandara-e-imama khumeyani,bandare・emamu・homeini,bndr amam khmyny,bndramam khmyny,huo mei ni gang,mynaʾ alamam alkhmyny,Бендер-Імам-Хомейні,Бендер-Хомейни,بندر امام خمينى,بندر امام خمینی,بندرامام خمینی,ميناء الإمام الخميني,बंदर-ए-इमाम खुमेयनी,バンダレ・エマーム・ホメイニー,霍梅尼港,반다르에에맘호메이니",
+    "subcountry": "Khuzestan"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9260882,
+    "name": "Qa'em Shahr",
+    "alternatenames": "Qa'em Shahr,Qā’em Shahr,qaym shhr,قائم شهر",
+    "subcountry": "Māzandarān"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9478811,
+    "name": "Pakdasht",
+    "alternatenames": "Mamazan,Māmāzān,Pakdasht,Pākdasht,mamazan,pakdsht,مامازان,پاکدشت",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9480732,
+    "name": "Boshruyeh",
+    "alternatenames": "Bocruye,Boshruiyeh,Boshruyeh,Boshrūyeh,Boshrūīyeh,Bushruieh,Bushruiyeh,Bushrūīeh,Bushrūīyeh,bshrwyh,بشرویه",
+    "subcountry": "South Khorasan Province"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9485471,
+    "name": "Taft",
+    "alternatenames": "Taft,tft,تفت",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9514746,
+    "name": "Givi",
+    "alternatenames": "Givi,Gīvī,gywy,گیوی",
+    "subcountry": "Ardabīl"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9533872,
+    "name": "Rey",
+    "alternatenames": "Raj,Ray,Rayy,Rehj,Rei,Rej,Rejus,Rey,Rhagae,Rėjus,Shahr-e Rey,alry,lei yi,ry,shhr ry,Ρέι,Рей,Рэй,الري,رى,ری,رے,شهر ری,雷伊",
+    "subcountry": "Tehran"
+  },
+  {
+    "country": "IR",
+    "geonameid": 9533956,
+    "name": "Bahabad",
+    "alternatenames": "Bahabad,Bahābād,Behabad,Behābād,bhabad,بهاباد",
+    "subcountry": "Yazd"
+  },
+  {
+    "country": "IR",
+    "geonameid": 10630176,
+    "name": "Pasragad Branch",
+    "alternatenames": "",
+    "subcountry": "Hamadān"
+  }
+]

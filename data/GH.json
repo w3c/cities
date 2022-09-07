@@ -1,0 +1,555 @@
+[
+  {
+    "country": "GH",
+    "geonameid": 2293801,
+    "name": "Yendi",
+    "alternatenames": "Jendi,Yendi",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294034,
+    "name": "Winneba",
+    "alternatenames": "Simpa,Vinnebe,Winneba,Winnebah,Виннебе",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294056,
+    "name": "Sefwi Wiawso",
+    "alternatenames": "Sefwi Wiawso,Sehwi Wiawso,Wiawoso,Wiawso,Wiawuso,Wiosu",
+    "subcountry": "Western North"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294086,
+    "name": "Wankyi",
+    "alternatenames": "Wankyi,Wenchi",
+    "subcountry": "Bono"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294206,
+    "name": "Wa",
+    "alternatenames": "Va,WZA,Wa,wa,Ва,وا، گھانا,วา,와",
+    "subcountry": "Upper West"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294665,
+    "name": "Teshi Old Town",
+    "alternatenames": "Tassi,Teshhi,Teshi Old Town,Teshie,Тещи",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294700,
+    "name": "Tema",
+    "alternatenames": "Tema,Temma,Toma,te ma,tema,tma,Тема,تما,テマ,特马,테마",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294727,
+    "name": "Techiman",
+    "alternatenames": "Takyiman,Techiman,Tekyiman,Tekyiman-Brong",
+    "subcountry": "Bono East"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294768,
+    "name": "Tarkwa",
+    "alternatenames": "Tarkwa,Tarquah",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294877,
+    "name": "Tamale",
+    "alternatenames": "TML,Tamale,Тамале",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294915,
+    "name": "Takoradi",
+    "alternatenames": "TKD,Takoradi,Takoradze",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294938,
+    "name": "Tafo",
+    "alternatenames": "Old Tafo,Tafo",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2294962,
+    "name": "Swedru",
+    "alternatenames": "Agona,Agona Swedru,Jwewuhu,Swedru",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295021,
+    "name": "Sunyani",
+    "alternatenames": "NYI,Sun'jani,Sunjanis,Sunyani,su ni ya ni,suniani,Суньяні,蘇尼亞尼,수니아니",
+    "subcountry": "Bono"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295065,
+    "name": "Suhum",
+    "alternatenames": "Suhum",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295385,
+    "name": "Shama Junction",
+    "alternatenames": "Shama,Shama Junction",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295458,
+    "name": "Sekondi-Takoradi",
+    "alternatenames": "Sekandy-Takarady,Sekondi,Sekondi Takoradi,Sekondi-Takoradi,Sekondis-Takoradis,Sékondi,se kan di-ta ko ra di,sekonditakoladi,skwndy-takwrady,sqwndy-tqwrdy,sykwndy takwrady,Секанды-Такарады,Секонди,Секонди Такоради,Секонди-Такоради,Секонді-Такораді,סקונדי-טקורדי,سيكوندي تاكورادي,سکوندی-تاکورادی,سیکونڈی-ٹاکوراڈی,เซกันดี-ตาโกราดี,セコンディ・タコラディ,塞康第─塔科拉迪,세콘디타코라디",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295517,
+    "name": "Savelugu",
+    "alternatenames": "Saveluga,Savelugu",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295672,
+    "name": "Saltpond",
+    "alternatenames": "Achimfu,Saltpond",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295684,
+    "name": "Salaga",
+    "alternatenames": "Salaga",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2295840,
+    "name": "Prestea",
+    "alternatenames": "Esamang,Prestea",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2296458,
+    "name": "Kasoa",
+    "alternatenames": "Kasoa,Oduponkpehe",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2296564,
+    "name": "Akim Oda",
+    "alternatenames": "Akim Oda,Insuaim,Nsuaem,Oda,Ода",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2296606,
+    "name": "Obuase",
+    "alternatenames": "Oboase,Obuase,Obuasi,Obuasis,Obuassi,Обуаси",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2296969,
+    "name": "Nungua",
+    "alternatenames": "Nungoa,Nungua,Nungwa",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2297141,
+    "name": "Nsawam",
+    "alternatenames": "Nsawam",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2297505,
+    "name": "Navrongo",
+    "alternatenames": "Navrongo",
+    "subcountry": "Upper East"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2297661,
+    "name": "Nalerigu",
+    "alternatenames": "Nalerigu",
+    "subcountry": "North East"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2297810,
+    "name": "Mumford",
+    "alternatenames": "Gamma,Gammah,Jumba,Mumford,Mumfort",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2297834,
+    "name": "Mpraeso",
+    "alternatenames": "Mpraeso",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2298264,
+    "name": "Mampong",
+    "alternatenames": "Mampon,Mampon Asante,Mampong",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2298330,
+    "name": "Medina Estates",
+    "alternatenames": "Madina,Medina Estates",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2298890,
+    "name": "Kumasi",
+    "alternatenames": "Coomassie,KMS,Kumase,Kumasi,Kumasi shaary,Kumasis,Kumaso,Kumassi,Kumasy,ku ma xi,kumashi,kumasi,kwmasy,Кумаси,Кумаси шаары,Кумасі,Կումասի,كوماسي,کوماسی,ਕੁਮਾਸੀ,クマシ,库马西,쿠마시",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299233,
+    "name": "Kpandu",
+    "alternatenames": "Gabi,Kpando,Kpandu,Tsakpe",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299236,
+    "name": "Kpandae",
+    "alternatenames": "Kpandae,Kpandai",
+    "subcountry": "Northern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299349,
+    "name": "Konongo",
+    "alternatenames": "Konongo,Konongo-Odumase",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299522,
+    "name": "Koforidua",
+    "alternatenames": "Koforidua,ke fu li du ya,kopolidua,kwfwrydwa,kwfwrydwya,Кофоридуа,کوفوریدوئا,کوفوریدوا,科福里杜亞,코포리두아",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299625,
+    "name": "Kintampo",
+    "alternatenames": "Kintampo",
+    "subcountry": "Bono East"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299636,
+    "name": "Kibi",
+    "alternatenames": "Kibbi,Kibi,Kyebi",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299642,
+    "name": "Kete Krachi",
+    "alternatenames": "Kete Krachi,Kete Krakye,Kete-Kratschi,Kete-Ktachi,Krachi,Krete Kratschi",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2299645,
+    "name": "Keta",
+    "alternatenames": "Keta,Kitta,Kwitta,Quittah",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2300182,
+    "name": "Japekrom",
+    "alternatenames": "Gyapekurom,Japekrom",
+    "subcountry": "Bono"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2300372,
+    "name": "Hohoe",
+    "alternatenames": "Chochoe,Chokhoe,Hohoe,Khokhoe",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2300379,
+    "name": "Ho",
+    "alternatenames": "Ho,Hohoe,Kho,No,ho,hw. ghna,Но,Хо,هو٬ غنا,ہو، گھانا,ホ,호",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2300721,
+    "name": "Gbawe",
+    "alternatenames": "Gbawe",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2300749,
+    "name": "Goaso",
+    "alternatenames": "Gawso,Goaso,Gooso",
+    "subcountry": "Ahafo"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2300883,
+    "name": "Foso",
+    "alternatenames": "Foso",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2301190,
+    "name": "Elmina",
+    "alternatenames": "Dena,Edina,Ehlmina,Elmina,Saint George Del Mina,Sao Jorge da Mina,São Jorge da Mina,aylmyna,elmina,erumina,Елмина,Элмина,אלמינה,ایلمینا,エルミナ,엘미나",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2301217,
+    "name": "Ejura",
+    "alternatenames": "Ejura",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2301400,
+    "name": "Dunkwa",
+    "alternatenames": "Dunkwa,Dunkwa-on-Offin",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2301424,
+    "name": "Dambai",
+    "alternatenames": "Dambae,Dambai,Dambaé,Danbae,Dangbae,Dumbai",
+    "subcountry": "Oti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2301464,
+    "name": "Duayaw-Nkwanta",
+    "alternatenames": "Duayaw-Nkwanta,Nkwanta",
+    "subcountry": "Ahafo"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2301639,
+    "name": "Dome",
+    "alternatenames": "Dam,Dom,Dome,Дом",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2302002,
+    "name": "Damongo",
+    "alternatenames": "Damongo",
+    "subcountry": "Savannah"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2302357,
+    "name": "Cape Coast",
+    "alternatenames": "Cabo Corso,Cape Coast,Cape Coast Castle,Igua Ogwa,Keip Kostas,Kejp-Kost,Ogwa,hai an jiao,keipeukoseuteu,kyp kwst,Кейп-Кост,کیپ کوست,کیپ کوسٹ,ケープ・コースト,海岸角,케이프코스트",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2302821,
+    "name": "Bolgatanga",
+    "alternatenames": "Bolagatanga,Bolga,Bolgatanga,Bolgatange,bo er jia tan jia,bolgatang-ga,borugatanga,Болгатанга,Болгатанге,ボルガタンガ,博爾加坦加,볼가탕가",
+    "subcountry": "Upper East"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303060,
+    "name": "Bibiani",
+    "alternatenames": "Babianeha,Bebiani,Bebianiha,Bibiani",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303125,
+    "name": "Berekum",
+    "alternatenames": "Berekum",
+    "subcountry": "Bono"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303224,
+    "name": "Bekwai",
+    "alternatenames": "Bekawi,Bekwai",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303236,
+    "name": "Begoro",
+    "alternatenames": "Begoro",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303258,
+    "name": "Bechem",
+    "alternatenames": "Bechem",
+    "subcountry": "Ahafo"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303287,
+    "name": "Bawku",
+    "alternatenames": "Bawku",
+    "subcountry": "Upper East"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2303611,
+    "name": "Axim",
+    "alternatenames": "Axim,Esim",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2304220,
+    "name": "Asamankese",
+    "alternatenames": "Asamankese",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2304389,
+    "name": "Apam",
+    "alternatenames": "Apam,Appam,Апам",
+    "subcountry": "Central"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2304548,
+    "name": "Anloga",
+    "alternatenames": "Anloga,Awunaga",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2304931,
+    "name": "Akwatia",
+    "alternatenames": "Akwatia",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2305027,
+    "name": "Akropong",
+    "alternatenames": "Akropong,Akropong-Akwapim,Akuropon",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2305164,
+    "name": "Akim Swedru",
+    "alternatenames": "Akim Swedru",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2305537,
+    "name": "Agogo",
+    "alternatenames": "Agogo",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2305677,
+    "name": "Aflao",
+    "alternatenames": "Aflahu,Aflao,Afloa,Dano,Porura",
+    "subcountry": "Volta"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2306079,
+    "name": "Atsiaman",
+    "alternatenames": "Achiaman,Atsiaman",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2306104,
+    "name": "Accra",
+    "alternatenames": "ACC,Aakra,Aakrá,Accra,Acra,Akara,Akkr,Akkra,Akkrae,Akra,Akrao,Akʻra,Nkran,a ke la,akara,akeula,akra,akura,xak kra,yەkra,΄Aκκρα,Άκκρα,Аккрæ,Аккра,Акра,Աքրա,אקרא,אקרה,آکرا,أكرا,ئەکرا,اكرا,اکرا,عکرہ,अक्रा,आक्रा,আক্রা,ਅਕਰਾ,ଆକ୍ରା,அக்ரா,അക്ര,อักกรา,ཨ་ཁ་ར།,အက်ခရာမြို့,აკრა,አክራ,アクラ,阿克拉,아크라",
+    "subcountry": "Greater Accra"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2306119,
+    "name": "Aburi",
+    "alternatenames": "Aburi",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 2306224,
+    "name": "Aboso",
+    "alternatenames": "Aboso,Abosso",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 8532058,
+    "name": "Mamponteng",
+    "alternatenames": "",
+    "subcountry": "Ashanti"
+  },
+  {
+    "country": "GH",
+    "geonameid": 9159672,
+    "name": "Wassa-Akropong",
+    "alternatenames": "",
+    "subcountry": "Western"
+  },
+  {
+    "country": "GH",
+    "geonameid": 11205758,
+    "name": "Odumase Krobo",
+    "alternatenames": "",
+    "subcountry": "Eastern"
+  },
+  {
+    "country": "GH",
+    "geonameid": 12123477,
+    "name": "Zonno",
+    "alternatenames": "",
+    "subcountry": "Upper East"
+  }
+]

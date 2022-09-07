@@ -1,0 +1,2018 @@
+[
+  {
+    "country": "SY",
+    "geonameid": 2960,
+    "name": "`Ayn Halaqim",
+    "alternatenames": "Ain HalaqIm,Aïn HalâqÎm,`Ayn Halaqim,عين حلاقيم,‘Ayn Ḩalāqīm",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 4273,
+    "name": "Al Karamah",
+    "alternatenames": "Al Karamah,Al Karāmah,Fatsat ath Thayb,Faţsat ath Thayb,alkramt,ftst althyb,الكرامة,فطسة الثيب",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 5174,
+    "name": "`Ariqah",
+    "alternatenames": "Arika,`Ariqah,tl ʿmar,Арика,تل عمار,عريقة,‘Arīqah",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 12795,
+    "name": "As Surah as Saghirah",
+    "alternatenames": "As Sawarah as Sughra,As Surah as Saghirah,As Surah as Sughra,Aş Şawarah aş Şughrá,Aş Şūrah aş Şaghīrah,Aş Şūrah aş Şughrá,Savara-ehs-Segira,alswrt alsghry,alswrt alsghyrt,Савара-эс-Сегира,الصورة الصغرى,الصورة الصغيرة",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 162284,
+    "name": "Muh Hasan",
+    "alternatenames": "Mouhassane,Muh Hasan,Muhasan,Muhassan,Muḩassan,Muḩaşşan,Mūḩ Ḩasan,Mūḩasan,mwh hsn,mwhsn,موح حسن,موحسن",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 162627,
+    "name": "Yabrud",
+    "alternatenames": "Gebru,Jabrud,Jebru,Jebrud,Yabroud,Yabroûd,Yabrud,Yabrūd,ybrwd,Ябруд,يبرود",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 162706,
+    "name": "Wadi al `Uyun",
+    "alternatenames": "Wadi Al 'Uyun,Wadi al 'Uyun,Wādī al ‘Uyūn,وادي العيون",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 162803,
+    "name": "`Uqayribat",
+    "alternatenames": "Aaqerbate,Aaqerbâte,Aquerbate,Uzeribat,`Aqrabat,`Iqarbat,`Oqeiribat,`Uqayribat,عقيربات,‘Aqrabāt,‘Iqarbāt,‘Oqeiribāt,‘Uqayribāt",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163270,
+    "name": "Tayyibat al Imam",
+    "alternatenames": "Taibet el Imam,Taybat al Imam,Taybat al Imam `Ali,Tayyibat al Imam,Taïbet el Imâm,Tibbat al Imam,Tibbat al Imām,Tibet Iman,tybt alamam,Ţaybat al Imām,Ţaybat al Imām ‘Alī,Ţayyibat al Imām,طيبة الامام",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163330,
+    "name": "Tasil",
+    "alternatenames": "Tasil,Tasil',Tasīl,Tsil,Tsîl,tsyl,Тасиль,تسيل",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163345,
+    "name": "Tartus",
+    "alternatenames": "Antaradus,Tartous,Tartouss,Tartoûs,Tartus,mhafzt trtws,trtws,Ţarţūs,Тартус,טרטוס,طرطوس,محافظة طرطوس",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163434,
+    "name": "Tall Tamr",
+    "alternatenames": "Tall Tamir,Tall Tamr,Tall Tāmir,Tel Tamer,Tell Tamer,Tell Tâmer,tl tamr,tl tmr,تل تامر,تل تمر",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163470,
+    "name": "Tall Salhab",
+    "alternatenames": "Tall Salhab,Tall Salḩab,Tallsalhab,Tallsalḩab,Tell Salhab,tl slhb,tlslhb,تل سلحب,تلسلحب",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163476,
+    "name": "Tall Rif`at",
+    "alternatenames": "Tal Refaat,Tall Rif`at,Tall Rif‘at,Tell Arfad,Tell Refaat,Tell Rifaate,Tell Rifat,Tell Rifaâte,تل رفعت",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163533,
+    "name": "Tallkalakh",
+    "alternatenames": "Talkalakh,Tall Kalakh,Tallkalakh,Telkalakh,Tell Kalakh,tl klkh,tlklkh,تل كلخ,تلكلخ",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163568,
+    "name": "Tall Hamis",
+    "alternatenames": "Tall Hamis,Tall Ḩamīs,Tell Hamis,Tell Hamîs,tl hmys,تل حميس",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163596,
+    "name": "Talldaww",
+    "alternatenames": "Kheurbet Nasriye,Kheurbet Nâsriyé,Khirbat Nasiriyah,Khirbat Nāşirīyah,Khirbat an Nasiriyah,Khirbat an Nāşirīyah,Tall Daww,Talldaww,Tell Daou,khrbt alnasryt,tl dw,tldw,تل دو,تلدو,خربة الناصرية",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163747,
+    "name": "Tall ad Daman",
+    "alternatenames": "Tall Daman,Tall Dāmān,Tall ad Daman,Tall aḑ Ḑamān,Tall Ḑamān,Tell Damane,Tell ed Damane,Tell ed Damâne,tl aldman,tl daman,tl dman,تل الضمان,تل دامان,تل ضمان",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163750,
+    "name": "Tall Abyad",
+    "alternatenames": "Eht-Tell'-ehl'-Ab'jad,Tal-Abyad,Tall Abyad,Tall Abyaḑ,Tell Abiad,Tell Abyad,tl abyd,Эт-Телль-эль-Абьяд,تل أبيض",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163774,
+    "name": "Talin",
+    "alternatenames": "Talin,Taline,Tâlîne,Tālīn,talyn,تالين",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163779,
+    "name": "Tallbisah",
+    "alternatenames": "Talbisah,Talbiseh,Talbīsah,Tall Bisih,Tall Bissah,Tall Bīsih,Tallbisah,Tallbīsah,Tel Bisi,Telbeiseh,Telbise,Tell Bise,Tell Bisse,Tell Bîsse,Tell Bîssé,Tell Bīse,tlbyst,تلبيسة",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163799,
+    "name": "Taftanaz",
+    "alternatenames": "Taftanaz,Taftanāz,Teftanaz,Teftanâz,Teftenaz,tftnaz,تفتناز",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163806,
+    "name": "Tafas",
+    "alternatenames": "Tafas,Tafass,tfs,Ţafas,Тафас,طفس",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163808,
+    "name": "Tadmur",
+    "alternatenames": "PMS,Pal'mira,Palmira,Palmuera,Palmyra,Palmyre,Palmüra,Palmýra,Tadmor,Tadmur,Tedmor,ba er mi la,parumira yi ji,tdmr,tdmwr,Палмира,Пальмира,תדמור,تدمر,パルミラ遺跡,巴尔米拉",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163811,
+    "name": "Tadif",
+    "alternatenames": "Tadef,Tader,Tadif,Teft,Tâdef,Tâder,Tādif,tadf,تادف",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163913,
+    "name": "Suran",
+    "alternatenames": "Sawran,Sourane,Soûrâne,Suran,swran,Şawrān,Şūrān,صوران",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163915,
+    "name": "Suran",
+    "alternatenames": "Sawran,Soran,Souran,Sourane,Soûrâne,Suran,swran,Şawrān,Şūrān,Суран,صوران",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 163921,
+    "name": "As Suqaylibiyah",
+    "alternatenames": "Al-Skeilbyeh,As Suqaylibiyah,As Suqaylibīyah,Saglabiye,Saqlabiyah,Saqlabīyah,Skalebie,Skalebié,Skeilbieh,Sqalbiye,Sqalbiyé,Suqaylabiyah,Suqaylibiyah,Suqaylibīyah,alsqylbyt,sqlbyt,sqylbyt,Şaqlabīyah,Şuqaylabīyah,Şuqaylibīyah,السقيلبية,سقيلبية,صقلبية,صقيلبية",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164025,
+    "name": "Subaykhan",
+    "alternatenames": "Sabikhan,Soubeikhane,Soubeïkhâne,Subaykhan,Subaykhān,sbykhan,Şubaykhān,سبيخان,صبيخان",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164052,
+    "name": "Slinfah",
+    "alternatenames": "Dalnafah,Salinfah,Silenfih,Slennfe,Slennfé,Slinfah,slnft,Şalinfah,Şlinfah,صلنفة,Ḑalnafah",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164071,
+    "name": "Sirrin ash Shamaliyah",
+    "alternatenames": "Serrin,Serrin-ehsh-Shimalija,Serrīn,Sirrin,Sirrin ash Shamaliyah,Sirrine,Sirrine ech Chemaliye,Sirrine ech Chimaliye,Sirrîne,Sirrîne ech Chimâliye,Sirrîne ech Chémâlîyé,Sirrīn ash Shamālīyah,sryn alshmalyt,Şirrīn,Şirrīn ash Shamālīyah,Серрин-эш-Шималия,سرين الشمالية,صرين الشمالية",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164083,
+    "name": "Sirghaya",
+    "alternatenames": "Serghaya,Serrhaya,Serrhâya,Sirgaya,Sirghaya,Sirghāyā,srghaya,سرغايا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164094,
+    "name": "Sinjar",
+    "alternatenames": "Sendjar,Senjar,Senjār,Sinjar,Sinjār,Sinnjar,Sinnjâr,snjar,سنجار",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164159,
+    "name": "Shuyukh Tahtani",
+    "alternatenames": "Chioukh Tahtani,Shuyukh Tahtani,Shuyūkh Taḩtānī,shywkh thtany,شيوخ تحتاني",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164261,
+    "name": "Shin",
+    "alternatenames": "Chine,Chîne,Shin,Shīn,shyn,شين",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164328,
+    "name": "Shaykh Miskin",
+    "alternatenames": "Ash Shaykh Maskin,Ash Shaykh Maskīn,Ash Shaykh Miskin,Ash Shaykh Miskīn,Cheikh Meskine,Cheïkh Meskîne,Chikh Meskine,Shaykh Maskin,Shaykh Maskīn,Shaykh Miskin,Shaykh Miskīn,Sheikh Miskin,Sheikh Miskīn,Shejkh-Miskin,alshykh mskyn,shykh mskyn,Шейх-Мискин,الشيخ مسكين,شيخ مسكين",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164354,
+    "name": "Shaykh al Hadid",
+    "alternatenames": "Cheikh el Hadid,Cheïkh el Hadîd,Shaykh al Hadid,Shaykh al Ḩadīd,Sheikh el Hadid,Sheikh el Hadīd,shykh alhdyd,شيخ الحديد",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164398,
+    "name": "Shathah",
+    "alternatenames": "Chat' ha ett Tahta,Chat’ ha ett Tahta,Shathah,Shathah at Tahta,Shathah at Tahta',Shathat at Tahta,Shaţḩah,Shaţḩah at Taḩtā,Shaţḩah at Taḩtā’,Shaţḩat at Taḩtā,shtht,shtht althta,شطحة,شطحة التحتا",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164451,
+    "name": "Sharan",
+    "alternatenames": "Charannli,Cheranli,Chéranli,Sharan,Sharanli,Sharanlī,Sharān,Sharānlī,shran,shranly,شران,شرانلي",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164479,
+    "name": "Shaqqa",
+    "alternatenames": "Chakka,Chaqqa,Shakka,Shaqqa,Shaqqah,Shaqqā,shqa,Шакка,شقّا",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164626,
+    "name": "Shahba",
+    "alternatenames": "Chahba,Philippopolis,Phillipopolis,Philppopolis,Shaba,Shahaba,Shahba,Shahba',Shahbah,Shahbā,Shahbā’,Shakhba,shhba,Шахба,شهبا",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164717,
+    "name": "Saydnaya",
+    "alternatenames": "Said Naya,Said Nâya,Saydnaya,Sednaya,Seidnaya,Seyd Naya,sydnaya,Şaydnāyā,صيدنايا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164773,
+    "name": "Sa`sa`",
+    "alternatenames": "Sa`sa`,Saasa,Saassa,Saassaa,Sassa,Sa‘sa‘,Сааса,سعسع",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164782,
+    "name": "Sarmin",
+    "alternatenames": "Sarmin,Sarmine,Sarmîne,Sarmīn,Sermin,Sermīn,srmyn,سرمين",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164816,
+    "name": "Saraqib",
+    "alternatenames": "Sarakeb,Saraqeb,Saraqib,Saraquib,Sarâqeb,Sarāqib,Seraikin,Serakab,Seraqab,Seraqib,Serāqab,sraqb,سراقب",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164895,
+    "name": "Suluk",
+    "alternatenames": "Saluq,Salūq,Sloug,Slouq,Sloûq,Suluk,Suluq,Sulūk,Sulūq,slwk,slwq,سلوق,سلوك",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164898,
+    "name": "Salqin",
+    "alternatenames": "Salkine,Salkîne,Salqin,Salqine,Salqîne,Salqīn,Selkin,Silkin,slqyn,سلقين",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164917,
+    "name": "Salkhad",
+    "alternatenames": "Sal'khad,Salakhad,Salakhed,Salka,Salkas,Salkhad,Salkhade,Salâkhed,slkhd,Şalkhad,Şalākhad,Сальхад,صلخد",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164947,
+    "name": "As Salamiyah",
+    "alternatenames": "As Salamiyah,As Salamīyah,Salamias,Salamiyah,Salamiyeh,Salamīyah,Selemie,Selemiya,Selemiye,Selemié,Selemīya,Sélémîyé,alslmyt,slmyt,السلمية,سلمية",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164952,
+    "name": "Salakhid",
+    "alternatenames": "Salakhed,Salakhid,Salâkhed,slakhd,Şalākhid,صلاخد",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 164994,
+    "name": "Sahnaya",
+    "alternatenames": "Sahnaiya,Sahnaya,shnaya,Şaḩnāyā,صحنايا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165060,
+    "name": "Safita",
+    "alternatenames": "Borj Safita,Borj Sâfîta,Burj Safita,Burj Şāfītā,Khokhu,Safita,Satita,brj safyta,safyta,Şāfītā,برج صافيتا,صافيتا",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165109,
+    "name": "Sadad",
+    "alternatenames": "Sadad,sdd,Şadad,صدد",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165143,
+    "name": "Sabburah",
+    "alternatenames": "Sabboura,Sabboûra,Sabburah,Sabura,Saburah,sbwrt,Şabbūrah,Şabūrah,صبورة",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165158,
+    "name": "As Sab` Biyar",
+    "alternatenames": "As Sab` Abar,As Sab` Biyar,As Sab‘ Biyār,As Sab‘ Ābār,Sab` Abar,Sab` Biyar,Saba Biar,Saba Bjar,Sabaa Biar,Sabaa Biâr,Sab‘ Biyār,Sab‘ Ābār,Saobo Biar,Saobo Biâr,alsbʿ byar,السبع آبار,السبع بيار,سبع بيار",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165303,
+    "name": "Ar Riqama",
+    "alternatenames": "Ar Riqama,Ar Riqamah,Ar Riqāmah,Ar Riqāmā,Arqamah,Arqāmah,Irgama,Irghama,Irgāma,Irqama,Irqāma,Raqamah,Raqāmah,Riqama,Riqamah,Riqâma,Riqāmah,alrqama,alrqamt,الرقاما,الرقامة",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165428,
+    "name": "Rasm al Harmal",
+    "alternatenames": "Rasm al Harmal,Rasm al Harmal al Imam,Rasm al Hirmil,Rasm al Ḩarmal,Rasm al Ḩarmal al Imām,Rasm el Harme,Rasm el Hermel,rsm alhrml,rsm alhrml alamam,رسم الحرمل,رسم الحرمل الإمام",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165509,
+    "name": "Ra's al `Ayn",
+    "alternatenames": "Ra's al `Ayn,Ras el Ain,Ras-ehl'-Ajn,Rass el Ain,Rass-el-Ein,Ra’s al ‘Ayn,Râs el Aïn,Râss el Aïn,Рас-эль-Айн,رأس العين",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165533,
+    "name": "Rankus",
+    "alternatenames": "Rankus,Rankūs,Rannkous,Rannkoûs,rnkws,رنكوس",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165571,
+    "name": "Raju",
+    "alternatenames": "Radjou,Radjun,Raju,Rājū,rajw,راجو",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165637,
+    "name": "Al Qutaylibiyah",
+    "alternatenames": "Al Qutaylibiyah,Al Quţaylibīyah,Qtailbiye,Qtaïlbîyé,Qutaylibiyah,Quţaylibīyah,alqtylbyt,qtylbyt,القطيلبية,قطيلبية",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165672,
+    "name": "Qurqina",
+    "alternatenames": "Kourkania,Qarqania,Qurqanya,Qurqina,Qūrqanyā,Qūrqānyā,Qūrqīnā,qwrqnya,qwrqyna,قورقنيا,قورقينا",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165757,
+    "name": "Al Qahtaniyah",
+    "alternatenames": "Al Qahtaniyah,Al Qaḩţānīyah,Koubour el Bid,Qahtaniyyeh,Qoubour el Bid,Qouboûr el Bîd,Qubur al Bid,Qubūr al Bīḑ,Turbe Sipi,Turbé Sipi,alqhtanyt,qbwr albyd,القحطانية,قبور البيض",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165929,
+    "name": "Qatana",
+    "alternatenames": "Katana,Qatana,Qatanah,Qaţanah,Qaţanā,qtna,قطنا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165940,
+    "name": "Qastal Ma`af",
+    "alternatenames": "Qastal Ma`af,Qastal Ma`f,Qastal Maaf,Qastal al Ma`af,Qasţal Ma‘f,Qasţal Ma‘āf,Qasţal al Ma‘āf,قسطل المعاف,قسطل معاف,قسطل معف",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 165997,
+    "name": "Jasim",
+    "alternatenames": "Dzhasim,Jacem,Jasem,Jasim,Jassem,Jassim,Jâssem,Jāsim,Qasim,Qāsim,jasm,Джасим,جاسم",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166111,
+    "name": "Qarah",
+    "alternatenames": "Kara,Karra,Qara,Qarah,Qārah,Qārā,qart,قارة",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166158,
+    "name": "Al Qamsiyah",
+    "alternatenames": "Al Qamsiyah,Al Qamşīyah,Qamsiyah,Qamsiye,Qamsîyé,Qamsīyah,Qamşīyah,alqmsyt,qmsyt,القمصية,قمسية",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166227,
+    "name": "Qal`at al Madiq",
+    "alternatenames": "Kal'at al Madik,Kalaat Moudik,Kalat el Mudik,Kal’at al Madik,Qal`at al Madiq,Qal`at al Mudiq,Qal`at el Madhiq,Qal`at el Mudiq,Qalaat el Moudiq,Qal‘at al Maḑīq,Qal‘at al Muḑīq,Qal‘at el Madhiq,Qal‘at el Mudiq,قلعة المضيق",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166251,
+    "name": "Qadsayya",
+    "alternatenames": "Adsaya,Adsâya,Edsaya,Koudsaya,Qadisiya,Qadisiyā,Qadsayya,Qadsayyā,Qadsiya,Qadsīyā,Qudsayya,Qudsayyā,Qudsiya,Qudsīyā,qdsya,قدسيا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166331,
+    "name": "Nubl",
+    "alternatenames": "Noubbel,Noubbol,Nubl,nbl,نبل",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166365,
+    "name": "Nawa",
+    "alternatenames": "Naoua,Nava,Nawa,Nawá,nwy,Нава,نوى",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166503,
+    "name": "Al Muzayrib",
+    "alternatenames": "Al Muzayrib,Al Muzayrīb,Bouta,Mezerib,Muzayrib,Muzayrīb,Muzeirib,Muzeirīb,Mzairib,Mzaïrîb,Mzerib,Mzérib,almzyryb,المزيريب",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166507,
+    "name": "Al Muzayri`ah",
+    "alternatenames": "Al Muzayri`ah,Al Muzayri‘ah,Muzayri`ah,Muzayri‘ah,Mzairaa,Mzaïraâ,المزيرعة,مزيرعة",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166597,
+    "name": "Al Jala'",
+    "alternatenames": "Al Jala',Al Jalā’,Al Musallakhah,Moussallakha,Musallakhah,aljlaʾ,almslkht,الجلاء,المسلّخة",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166640,
+    "name": "Murak",
+    "alternatenames": "Morek,Mork,Mourek,Moûrek,Murak,Murk,Mūrak,mwrk,مورك",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166719,
+    "name": "Mukharram al Fawqani",
+    "alternatenames": "Al-Mukharram Fokani,Moukharram Faouqani,Moukharrem el Fouqani,Muharram,Muharrem,Mukharram Fawqani,Mukharram Fawqānī,Mukharram Fokani,Mukharram al Fawqani,Mukharram al Fawqānī,Muḩarram,Upper Makhram,Upper Makhrim,almkhrm alfwqany,mkhrm alfwqany,المخرم الفوقاني,مخرم الفوقاني",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166742,
+    "name": "Muhradah",
+    "alternatenames": "Al Karmah,Mahardah,Maharde,Mahardih,Maḩardah,Maḩarde,Maḩardih,Muhardeh,Muhradah,Muḩradah,alkrmt,mhrdt,الكرمة,محردة",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166757,
+    "name": "Muhambal",
+    "alternatenames": "Mhannbel,Muhambal,Muhanbal,Muḩambal,Muḩanbal,mhmbl,mhnbl,محمبل,محنبل",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 166946,
+    "name": "Mazra`at Bayt Jinn",
+    "alternatenames": "Mazra`at Bay Jinn,Mazra`at Bayt Jinn,Mazraat Bein Jinn,Mazraat Beit Jinn,Mazraat Beïn Jînn,Mazraat Beït Jinn,Mazraat Beït Jînn,Mazra‘at Bay Jînn,Mazra‘at Bayt Jinn,مزرعة بيت جن",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167046,
+    "name": "Masyaf",
+    "alternatenames": "Imranie,Massiaf,Massiyaf,Massiâf,Massyaf,Masyab,Masyad,Masyaf,Masyāb,Maşyāf,Maşşīyaf,Misiaf,Omranie,Omranié,`Omraniye,`Umraniya,msyaf,مصياف,‘Omrānīye,‘Umraniya",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167080,
+    "name": "Maskanah",
+    "alternatenames": "Balis,Bālis,Maskanah,Maskanih,Meshseneh,Meskene,Meskeneh,Meskéné,bals,msknt,بالس,مسكنة",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167100,
+    "name": "Mashta al Hulw",
+    "alternatenames": "Machta Heilou,Machta Helou,Machta Hélou,Mashta al Hulw,Mashtá al Ḩulw,mshty alhlw,مشتى الحلو",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167167,
+    "name": "Mas'adah",
+    "alternatenames": "El Mes `ade,El Mes ‘ade,El Mesadi,Mas`adah,Massaade,Massaadé,Masuada,Mas‘adah,Messadi,almsʿdh,almsʿdt,msʻdh,msʿdh,msʿdt,Масъада,מסעדה,المسعدة,المسعده,مسعدة,مسعده",
+    "subcountry": "Quneitra"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167208,
+    "name": "Markadah",
+    "alternatenames": "Markada,Markadah,Marqada,Marqadah,Marqadā,mrkdt,mrqda,mrqdt,مرقدا,مرقدة,مركدة",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167245,
+    "name": "Mari`",
+    "alternatenames": "Daftardar,Daftardār,Defterdar,Ma`ratah,Maareh,Mar`a,Mare'`,Mareaa,Mare’‘,Mari`,Mar‘ā,Ma‘rātah,Mraa,Mâréaa,Māri‘,مارع",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167357,
+    "name": "Manbij",
+    "alternatenames": "Bambyce,Giyerapol,Hierapolis,Manbej,Manbi,Manbidsch,Manbidz,Manbidzh,Manbidż,Manbidž,Manbij,Manbiy,Membidj,Membij,Memdidge,Menbidj,Menbij,Mennbidj,Minbej,Muenbic,Münbiç,man bi ji,manbiji,mnbj,Манбидж,Манбідж,منبج,ማንቢጅ,マンビジ,曼比季",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167375,
+    "name": "Ma`lula",
+    "alternatenames": "Ma'aloula,Ma'alula,Ma`lula,Ma`lulah,Maaljulja,Maaloula,Maaloûla,Ma‘lūlah,Ma‘lūlā,Ma’aloula,Ma’alula,Маалюля,معلولا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167408,
+    "name": "Malah",
+    "alternatenames": "Malah,Malaḩ,Mallah,Mallaḩ,Mallāḩ,Mellah,Mellakh,Mellan,Mellâh,Mellân,Milh,Milḩ,mlh,Меллах,ملح",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167488,
+    "name": "Mahin",
+    "alternatenames": "Maheen,Mahin,Mahire,Mahīn,Mehin,Mehine,Mehīn,Mheen,Mhine,Mihine,Mihîne,Méhine,mhyn,مهين",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167538,
+    "name": "Ma`dan",
+    "alternatenames": "Khan Maddan,Ma`dan,Ma`din Jadid,Maadann,Ma‘dan,Ma‘din Jadīd,Ma‘dān,mʿdan,معدان,معدن جديد",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167558,
+    "name": "Madaya",
+    "alternatenames": "Madaya,Maḑāyā,Medaya,mdaya,مضايا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167577,
+    "name": "Al Ma`batli",
+    "alternatenames": "Al Ma`batli,Al Ma‘baţlī,Ma`batli,Maabatli,Mabadli,Ma‘baţlī,almʿbtly,المعبطلي,معبطلي",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167605,
+    "name": "Ma`arratmisrin",
+    "alternatenames": "Ma'arrat Shemarin,Ma`arrat Misrin,Ma`arrat Misriyn,Ma`arratmisrin,Maarat Missrin,Maarrat al Masrin,Maarret Misrine,Maarret el Mesrine,Marshemarin,Ma‘arrat Misriyn,Ma‘arrat Mişrīn,Ma‘arratmişrīn,معرة مصرين,معرتمصرين",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167611,
+    "name": "Ma`arrat an Nu`man",
+    "alternatenames": "Ma'arrat al-Nu'man,Ma`arat an Na`man,Ma`arrat an Nu`man,Ma`arret en Nu`man,Maarat al-Numaan,Maaret el Noman,Maarrat al-Nu'man,Maarret enn Naamane,Maarret enn Naamâne,Maret en Na`man,Maret en Na‘man,Maʿarrat al-Nuʿmān,Ma‘arat an Na‘mān,Ma‘arrat an Nu‘mān,Ma‘arret en Nu‘mān,Mo'aret-Nu'man,Mo’aret-Nu’man,al-Ma'arra,al-Maʿarra,معرة النعمان",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167713,
+    "name": "Kuwayris Sharqi",
+    "alternatenames": "Kawbris ash Sharqi,Kawbrīs ash Sharqī,Khuwayrat ash Sharqi,Khuwayrat ash Sharqī,Kouaires ech Chargi,Kouaires ech Charqui,Kouaïres ech Charqui,Kouaïrès ech Chargi,Koueir es Charqiye,Kouéïr ès Charqiyé,Kuwayris Sharqi,Kuwayris Sharqī,Kuwayris ash Sharqi,Kuwayris ash Sharqī,kwyrs shrqy,كويرس شرقي",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167739,
+    "name": "Kurnaz",
+    "alternatenames": "Kornaz,Kornâz,Kurnaz,Kurnāz,Qurnaz,Qurnāz,krnaz,كرناز",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167863,
+    "name": "Kinnsibba",
+    "alternatenames": "Kensiya,Kinnsibba,Kinnsibbah,Kinnsibbā,Kinsiba,Kinsibba,Kinsibbā,Kinsibā,Qansiba,Qānsībā,knsba,كنّسبّا",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167880,
+    "name": "Rabi`ah",
+    "alternatenames": "Gebelli,Guebelli,Guébelli,Kaybilali,Kaybilalī,Kaybilli,Kaybillī,Kibiliyah,Kibilli,Kibillī,Kibilīyah,Rabi`ah,Rabī‘ah,kblyt,kyblly,rbyʿt,ربيعة,كبلية,كيبللي",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 167899,
+    "name": "Khusham",
+    "alternatenames": "Khusham,Khushām,khsham,خشام",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168052,
+    "name": "Khirbat Tin Nur",
+    "alternatenames": "Khan,Kharabat et Tin,Kheurbet Tine Naduar,Kheurbet Tine Naour,Kheurbet Tîne Naduar,Kheurbet et Tine,Kheurbet et Tiné,Kheurbet ett Tine,Kheurbet ett Tîne,Khirbat Tin Nur,Khirbat Tīn Nūr,Khirbat at Tin,Khirbat at Tīn,Khirbet et Tin,Khirbet et Tīn,khrbt tyn nwr,خربة تين نور",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168098,
+    "name": "Al Qabw",
+    "alternatenames": "Al Qabw,Kheurbet el Qabou,Khirbat al Qabw,alqbw,khrbt alqbw,القبو,خربة القبو",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168102,
+    "name": "Khirbat al Ma`azzah",
+    "alternatenames": "Kheurbet el Maaze,Kheurbet el Maazé,Khirbat Ma`zzah,Khirbat Ma‘zzah,Khirbat al Ma`azzah,Khirbat al Ma`zah,Khirbat al Ma‘azzah,Khirbat al Ma‘zah,خربة المعزة,خربة معزة",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168120,
+    "name": "Khirbat Ghazalah",
+    "alternatenames": "Ghazale,Kheurbet Rhazale,Kheurbet Rhazâlé,Khirbat Ghazalah,Khirbat Ghazālah,Khirbat al Ghazalah,Khirbat al Ghazālah,Khirbet el Ghazale,Khirbet el Ghazāle,Khirbet-ehl'-Gazala,Rhazale,Rhazâle,khrbt alghzalt,khrbt ghzalt,Хирбет-эль-Газала,خربة الغزالة,خربة غزالة",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168325,
+    "name": "Khan Shaykhun",
+    "alternatenames": "Khan Cheykoun,Khan Shaykhun,Khan Sheikhun,Khan-Sheikhoun,Khane Chaikhoun,Khane Cheikhoun,Khâne Chaïkhoun,Khâne Cheïkhoûn,Khān Shaykhūn,Khān Sheikhūn,khan shykhwn,خان شيخون",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168351,
+    "name": "Khanasir",
+    "alternatenames": "Khamassir,Khanasir,Khanasser,Khanâsser,Khanāşir,Qunasira,Qunāsira,khnasr,خناصر",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168355,
+    "name": "Khan Arnabah",
+    "alternatenames": "Khan Arnabah,Khan Uraynibah,Khan ar Raubah,Khan ar Rinbah,Khane Erennbe,Khâne Erennbé,Khān Arnabah,Khān Uraynibah,Khān ar Raubah,Khān ar Rinbah,khan arnbt,khan arynbt,خان أرنبة,خان أرينبة",
+    "subcountry": "Quneitra"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168422,
+    "name": "Al Khafsah",
+    "alternatenames": "Al Khafsah,Hafse Kebir,Hafse Kebīr,Khafre Kebire,Khafré Kébiré,Khafsah,Khafsah Kabir,Khafsah Kabīr,Khafse,Khafse el Kebire,Khafsé,Khafsé el Kébîré,alkhfst,khfst,الخفسة,خفسة",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168478,
+    "name": "Al Ghandurah",
+    "alternatenames": "Al Ghandurah,Al Ghandūrah,Al `Alkanah,Al ‘Alkānah,Ghandurah,Ghandūrah,Guiaour Elli,Guiaoûr Elli,Kaour Elli,Kawur Illi,Kawurayli,Kāwur Illī,Kāwurāylī,alghndwrt,ghndwrt,العلكانة,الغندورة,غندورة",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168519,
+    "name": "Kassab",
+    "alternatenames": "Kassab,Kesab,Keseb,Kessab,Kiseb,Qasab,ksb,كسب",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168538,
+    "name": "Ra's al Khashufah",
+    "alternatenames": "Al Kashfah,Kachfe,Kachfé,Kashfah,Ra's al Khashufah,Ra’s al Khashūfah,alkshft,kshft,ras alkhshwft,الكشفة,رأس الخشوفة,كشفة",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168541,
+    "name": "Al Karimah",
+    "alternatenames": "Al Karimah,Al Karīmah,Karimah,Karto,Kartu,Kartū,Karīmah,alkrymt,krtw,krymt,الكريمة,كرتو,كريمة",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168620,
+    "name": "Kafr Zayta",
+    "alternatenames": "Az Zaytiyah,Az Zaytīyah,Kafer Zaita,Kafer Zaïta,Kafer Zita,Kafer ez Zaita,Kafer ez Zaïta,Kaferzita,Kafr Zayta,Kafr Zaytah,Kafr Zaytā,Kafr Zita,Kafr Zīta,alzytyt,kfr zyta,kfr zytt,الزيتية,كفر زيتا,كفر زيتة",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168629,
+    "name": "Kafr Takharim",
+    "alternatenames": "Kafar Takharim,Kafer Harut,Kafer Taharim,Kafer Tahârim,Kafer Takharim,Kafer Takhârim,Kafer Tkherim,Kafr Taharim,Kafr Takharim,Kafr Takhārīm,Kafr Taḩārīm,kfr tkharym,كفر تخاريم",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168661,
+    "name": "Kafranbel",
+    "alternatenames": "Kafr Anbel,Kafr Nabl,Kafr Nubl,Kafr Nubul,Kafr nabel,Kafranbel,Kafranbel',Kufer Nabel,kfr nbl,kfrnbl,Кафранбель,كفر نبل,كفرنبل,کفر نبل,کفرنبل",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168668,
+    "name": "Kafr Laha",
+    "alternatenames": "Houla,Hula,Kafer Laha,Kafer Lâha,Kafr Laha,Kafr Lahah,Kafr Lāhā,Kafr Lāḩah,Kefrlehe,Kufer Laha,al-Hulah,al-Ḥūlāh,alhwlt‎‎,kfr laha,الحولة‎‎,كفر لاها",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168713,
+    "name": "Kafr Batna",
+    "alternatenames": "Kafar Batna,Kafer Batna,Kafr Batna,Kafr Baţnā,Kefer Batna,kfr btna,كفر بطنا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168724,
+    "name": "Kafr Saghir",
+    "alternatenames": "Kafer Serhir,Kafer Sérhîr,Kafer es Saghir,Kafr Saghir,Kafr as Safir,Kafr as Saghir,Kafr aş Şafīr,Kafr aş Şaghīr,Kafr Şaghīr,kfrsghyr,كفرصغير",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168852,
+    "name": "Junaynat Raslan",
+    "alternatenames": "Jnainet Raslane,Jnaïnet Raslâne,Junaynat Raslan,Junaynat Raslān,jnynt rslan,جنينة رسلان",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168917,
+    "name": "Jubb Ramlah",
+    "alternatenames": "Joub Ramle,Joubb Ramle,Joubb Ramlé,Jubb Ramlah,jb rmlt,جب رملة",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 168972,
+    "name": "Jubb al Jarrah",
+    "alternatenames": "Djoubb ej Jarrah,Joubb ej Jarrah,Joubb ej Jarrâh,Jubb al Jarrah,Jubb al Jarrāḩ,jb aljrah,جب الجرّاح",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169017,
+    "name": "Al Jizah",
+    "alternatenames": "Al Jizah,Al Jīzah,Jiza,Jizah,Jize,Jizzah,Jîzé,Jīzah,Jīzā,aljyzt,jyza,الجيزة,جيزا",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169023,
+    "name": "Jisr ash Shughur",
+    "alternatenames": "Djisr el Choghour,Jisr Al-Shughour,Jisr Shagour,Jisr ash Shaghur,Jisr ash Shughur,Jisr ash Shughūr,Jisr ash Shāghūr,Jisr ech Chorhour,Jisr esh Shaur,Jisr esh Shughur,Jisr esh Shughūr,Jisr-esh-Shughour,jsr alshghwr,جسر الشغور",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169041,
+    "name": "Jinniyah",
+    "alternatenames": "Jenniya,Jennîya,Jinniyah,Jinnīyah,jnyt,جنية",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169113,
+    "name": "Jayrud",
+    "alternatenames": "Djeroud,Djerud,Djéroud,Jairoud,Jairud,Jayrud,Jayrūd,Jaïroud,Jerud,Jerūd,jyrwd,جيرود",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169135,
+    "name": "Jawbat Burghal",
+    "alternatenames": "Jaoubet Borrhal,Jaoubet Borrhâl,Jaoubet Bour'rhal,Jaoubet Bourrhat,Jaoubet Bour’rhâl,Jawbat Burghal,Jawbat Burghāl,jwbt brghal,جوبة برغال",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169138,
+    "name": "Ar Ra`i",
+    "alternatenames": "Ar Ra`i,Ar Rā‘ī,Choban Bey,Jawban Bak,Jawban Bayk,Jawbān Bak,Jawbān Bayk,Shawban Bayk,Shawbān Bayk,Tchoban Bey,Tchobane Bey,Tchobâne Bey,jwban bk,الراعي,جوبان بك",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169162,
+    "name": "Al Jarniyah",
+    "alternatenames": "Al Jarniyah,Al Jarnīyah,Jarniyah,Jerniye,Jernîye,aljrnyt,jrnyt,الجرنية,جرنية",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169174,
+    "name": "Jaramana",
+    "alternatenames": "Djaramana,Djaramānā,Jaramana,Jaramanah,Jaramānah,Jaramānā,Jeramana,Jurmana,Jurmānā,Jéramâna,jrmana,جرمانا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169179,
+    "name": "Jarabulus",
+    "alternatenames": "Carablus,Djarablous,Djerablous,Djérâbloûs,Jarablos,Jarablus,Jarabulus,Jarābulus,Jerablus,Jirablus,Jirāblus,jrabls,جرابلس",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169190,
+    "name": "Jindayris",
+    "alternatenames": "Dindaris,Djennderess,Djenndéress,Djinnderess,Djinndéress,Dīndaris,Genderesse,Jandaris,Jandarīs,Jandayris,Jenderess,Jendéress,Jindaras,Jindayris,Jundayris,dyndrs,jndyrs,جنديرس,ديندرس",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169304,
+    "name": "Jablah",
+    "alternatenames": "Djeble,Djéblé,Jablah,Jableh,Jebele,Jebeleh,Jebelli,Jeble,jblt,جبلة",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169341,
+    "name": "Izra`",
+    "alternatenames": "Ezra,Ezraa,Ezrra,Izra,Izra`,Izra`a,Izra‘,Izra‘a,Lorava,Zoraia,Zorava,Изра,ازرع",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169372,
+    "name": "`Irbin",
+    "alternatenames": "Aarbil,Aarbîl,Arbine,Irbin,Irbine,`Irbin,عربين,‘Irbīn",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169375,
+    "name": "Inkhil",
+    "alternatenames": "Ankhel,Enkhel,Enn Nakhl,Ennkhel,Inkhel,Inkhil,ankhl,انخل",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169389,
+    "name": "Idlib",
+    "alternatenames": "Idleb,Idlib,Idlibas,Idlip,adlb,idaliba,ideullibeu,idoribu,mhafzt adlb,yi de li bo,İdlib,İdlip,Ідліб,Идлиб,Իդլիբ,אדלב,إدلب,ادلب,محافظة إدلب,इदलिब,イドリブ,伊德利卜,이들리브",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169557,
+    "name": "Hisya'",
+    "alternatenames": "Hasiya,Hassie,Hassié,Hassye,Hassyé,Hasyah,Hisiyah,Hisya,Hisya',Hisyah,hsya,hsyaʾ,hsyt,حسيا,حسياء,حسية,Ḩasyah,Ḩisyah,Ḩisyā,Ḩisyā’,Ḩisīyah",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169563,
+    "name": "Hish",
+    "alternatenames": "Haysh,Hich,Hish,Hîch,Hīsh,hysh,حيش,Ḩaysh,Ḩīsh",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169577,
+    "name": "Homs",
+    "alternatenames": "Choms,Emesa,Hims,Himsa,Homs,Homsas,Homsz,Houmousse,Hums,Humus,Kh'oms,KhIums,Khoms,QHS,h xms,himasa,hms,homsa,homseu,homsi,homusu,huo mu si,hwms,mdynt hms,Χομς,ХІумс,Хомс,Хьомс,Հոմս,חומס,حمص,مدينة حمص,ܚܡܨ,होम्स,ਹਿਮਸ,ฮอมส์,ჰომსი,Ḩimş,Ἔμεσα,ホムス,霍姆斯,홈스",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169579,
+    "name": "Himmin",
+    "alternatenames": "Himmin,Himmine,Himmîne,Himmīne,hmyn,حمين,Ḩimmīn",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169843,
+    "name": "Harran al `Awamid",
+    "alternatenames": "Harran al `Awamid,Harrane el-Aouamid,Harrâne el-Aouâmîd,حرّان العواميد,Ḩarrān al ‘Awāmīd",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169858,
+    "name": "Huraytan",
+    "alternatenames": "Haratan,Hareitane,Hareïtane,Haritan,Harithan,Hraitane,Hraytan,Hraïtâne,Hreitan,Hritan,Huraytan,hrytan,حريتان,Ḩarītān,Ḩuraytān,Ḩāratān,Ḩārithān,Ḩāritān",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169866,
+    "name": "Harim",
+    "alternatenames": "Harem,Harim,harm,حارم,Ḩārim",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169873,
+    "name": "Harf al Musaytirah",
+    "alternatenames": "Harf al Musaytirah,Harf el Msaitra,Harf el Msaïtra,hrf almsytrt,حرف المسيترة,Ḩarf al Musaytirah",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169886,
+    "name": "Harbinafsah",
+    "alternatenames": "Harb Nafsah,Harb Nafse,Harb Nafsih,Harb Nafsou,Harb Nafsé,Harb Nefsi,Harbinafsah,Harbinafsih,Harbnafsah,Harbnessi,Hurbinafsuh,Hurr Binafsah,Kharbnefih,Kharibnafih,hrbnfsh,حربنفسه,Ḩarb Nafsah,Ḩarb Nafsih,Ḩarbinafsah,Ḩarbinafsih,Ḩarbnafsah,Ḩurbinafsuh,Ḩurr Binafsah",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169897,
+    "name": "Harasta",
+    "alternatenames": "Arasta Bassal,Harasta,Harasta al Basal,Harasta el Bassal,Harastah al Basal,Harastah al Başal,Hirista,hrsta,حرستا,Ḩarastā,Ḩarastā al Başal,Ḩiristā",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 169966,
+    "name": "Hammam Wasil",
+    "alternatenames": "Hammam Ouassel,Hammam Wasil,Hammâm Ouâssel,hmam wasl,حمام واصل,Ḩammām Wāşil",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170017,
+    "name": "Hamah",
+    "alternatenames": "Epiphaneia,Epiphania,Hama,Hamah,Hamao,Hamath,Khama,hmah,hmat,Хама,حماة,حماه,Ḥamāh,Ḩamāh",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170044,
+    "name": "Halfaya",
+    "alternatenames": "Halfaya,Helfeya,hlfaya,حلفايا,Ḩalfāyā",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170063,
+    "name": "Aleppo",
+    "alternatenames": "ALP,Alep,Alepas,Alepo,Aleppe,Aleppo,Aleppu,Aleppó,Alèp,Berea,Beroea,Chalepi,Halab,Haleb,Haleba,Halep,Heleb,Hələb,Khaleb,Khaleb khot,Khalepion,Madinat Halab,Madīnat Ḩalab,Xalab,a lei po,aleppea,aleppo,allepo,areppo,halaba,hlb,xa lep po,Χαλέπι,Алеп,Алеппо,Халеб,Халеб хот,ХӀалаб,Хәлеб,Հալեպ,חאלב,حلب,ܚܠܒ,अलेप्पो,हलब,আলেপ্পো,ਹਲਬ,அலெப்போ,അലെപ്പോ,อะเลปโป,ალეპო,Ḥaleb,Ḩalab,アレッポ,阿勒颇,알레포",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170136,
+    "name": "Hadidah",
+    "alternatenames": "Hadidah,Hadide,Hadîdé,hdydt,حديدة,Ḩadīdah",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170137,
+    "name": "Al Hadir",
+    "alternatenames": "Al Hadir,Al Hādir,Al Ḩāḑir,Hader,Hâder,alhadr,الحاضر,الهادر",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170325,
+    "name": "Ghabaghib",
+    "alternatenames": "Gabagib,Ghabaghib,Ghabāghib,Rhabarheb,Rhabârheb,ghbaghb,Габагиб,غباغب",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170340,
+    "name": "Al Furqlus",
+    "alternatenames": "Al Furqlus,Farqalus,Farqalūs,Forkloss,Forqloss,Fourgloss,Fourqloss,Furqlus,alfrqls,frqls,الفرقلس,فرقلس",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170483,
+    "name": "Al Fakhurah",
+    "alternatenames": "Al Fakhurah,Al Fākhūrah,Fakhaura,Fakhoura,Fakhurah,Fâkhoura,Fākhūrah,alfakhwrt,الفاخورة",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170517,
+    "name": "Duwayr Raslan",
+    "alternatenames": "Douair Raslane,Douaïr Raslâne,Duwayr Raslan,Duwayr Raslān,dwyr rslan,دوير رسلان",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170572,
+    "name": "Ad Duraykish",
+    "alternatenames": "Ad Duraykish,Ad Duraykīsh,Bermana,Dere Kish,Draikich,Draykikh,Draykīkh,Draïkich,Draïkîch,Dreikich,Duraykish,Duraykīsh,Dureikish,Dureikīsh,aldrykysh,drykysh,الدريكيش,دريكيش",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170589,
+    "name": "Ad Dumayr",
+    "alternatenames": "Ad Dumayr,Al-Dumayr,Aḑ Ḑumayr,Damir,Dumair,Dumayr,aldmyr,dmyr,الضمير,ضمير,Ḑamīr,Ḑumayr",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170592,
+    "name": "Duma",
+    "alternatenames": "Douma,Duma,Dūmā,dwma,Дума,دوما",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170654,
+    "name": "Damascus",
+    "alternatenames": "Al-Sham,Al-Shām,An Damaisc,Cham,DAM,Damas,Damasc,Damasch,Damasco,Damascu,Damascus,Damasek,Damashq,Damasiko,Damask,Damask,Damaska,Damaskas,Damasko,Damaskos,Damaskosy,Damasku,Damaskus,Damaszek,Damaszkusz,Damašek,Dameski,Dammeseq,Damsyik,Dimaejk,Dimaesq,Dimashk,Dimashk al-Sham,Dimashk al-Shām,Dimashku,Dimashq,Dimeshki esh Sham,Dimishiq,Dimishku,Dimishq,Dimäjk,Dimäşq,Domas,Domás,Dàmáskù,Dəməşq,Esh Sham,Esh Shām,Kamakeko,Ndamako,Ndamáko,Sam,d mshq,da ma shi ge,damasaka,damasakasa,damaseukuseu,damaskas,damaskasa,damasukasu,dameska,damiska,dimisqu,dmshq,dmsq,drmswq,timisku,Şam,Δαμασκός,Дамаск,Дамаскус,Дамаскъ,Димашкъ,Димишкъ,Димишқ,Դամասկոս,דמשק,د مشق,دمشق,دیمەشق,دەمەشىق,ܕܪܡܣܘܩ,ދިމިޝްޤު,दमास्कस,दमिश्क,দামেস্ক,ਦਮਸ਼ਕ,ଡାମାସକସ,திமிஷ்கு,ಡಮಾಸ್ಕಸ್,ദമാസ്കസ്,ดามัสกัส,དྷ་མ་སི་ཁོ་སི།,ဒမားစကပ်မြို့,დამასკი,ደማስቆ,ダマスカス,大馬士革,大马士革,다마스쿠스,𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko",
+    "subcountry": "Dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170689,
+    "name": "Dhibbin",
+    "alternatenames": "Dhibbin,Dhībbīn,Dibbin,Dibbine,Dibbîne,Dibbīn,Dibin,Dibine,Dîbîne,Dībīn,dhybyn,Дибин,ذيبين",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170691,
+    "name": "Dhiban",
+    "alternatenames": "Dabyan,Dhiban,Dhībān,Diban,Dibane,Dîbâne,Dībān,dhyban,dyban,ديبان,ذيبان",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170785,
+    "name": "Dayr Hafir",
+    "alternatenames": "Dayr Hafir,Dayr Ḩāfir,Deir Hafer,Deir Hafero,Deir Hafir,Deir Hâfero,Deir Hâfir,Deïr Hâfer,dyr hafr,دير حافر",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170794,
+    "name": "Deir ez-Zor",
+    "alternatenames": "Azaura,DEZ,Dair az-Zaur,Dair az-Zaŭr,Dajr az-Zaur,Dajr ez-Zaur,Dajr-ehz-Zaur,Dayr al-Zawr,Dayr al-Zor,Dayr az Zawr,Dayr az Zur,Dayr az Zūr,Dayr az-Zawr,Dayr uz-Zur,Deir Azzor,Deir Zzor,Deir al-Zor,Deir al-Zour,Deir el-Zor,Deir ez Zoar,Deir ez Zor,Deir ez Zoras,Deir ez-Zor,Dejr ez-Zor,Dejr-ehz-Zor,Dejr-ez-Zor,Der Ezzor,Deyr-el-Zor,Deyrizor,Deïr ez Zor,Nteir al-Zor,Ter Zor  Der Zor  Ter Zor,dai er zu er,deileuejeujoleu,deileuejoleu,deir-el-zori,derizoru,dyr alzwr,dyralzwr,dyrʾ zʿwrtʾ,Ντέιρ αλ-Ζορ,Дайр-эз-Заур,Дейр ез-Зор,Дейр-ез-Зор,Дейр-эз-Зор,Դեյր-էլ-Զոր,Տէր Զօր  Դեր Զոր  Ter Zor,דיר א-זור,دير الزور,دیر الزور,دیرالزور,ܕܝܪܐ ܙܥܘܪܬܐ,დეირ-ელ-ზორი,デリゾール,代尔祖尔,데이르에조르,데이르에즈조르",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170797,
+    "name": "Dayr `Atiyah",
+    "alternatenames": "Dayr `Atiyah,Dayr ‘Aţīyah,Deir Aatiye,Deir Atieh,Deir `Atiye,Deir ‘Atīye,Deïr Aatiyé,دير عطية",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170817,
+    "name": "Dayr al 'Asafir",
+    "alternatenames": "Dayr al `Asafir,Dayr al ‘Aşāfīr,Dayr al-Assafir,Deir Al-Asaffir,Deir al-Asafir,Deir el Aassafir,Deir el Assifir,Deïr el Aassâfîr,Deïr el Assifir,دير العصافير",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170857,
+    "name": "Darat `Izzah",
+    "alternatenames": "Dar Azza,Dar Ja'zeh,Dar Ja’zeh,Dar Ta`izah,Dar Ta`izzah,Dar Taazze,Dar Taâzze,Dar al `Izzah,Dar el `Izze,Darat Azza,Darat `Izzah,Daret Azza,Dart Azze,Dart Azzé,Dār Ta‘izah,Dār Ta‘izzah,Dār al ‘Izzah,Dār el ‘Izze,Dārat ‘Izzah,dart ʿzt,دار تعزة,دارة عزة",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170865,
+    "name": "Darkush",
+    "alternatenames": "Darkouch,Darkoûch,Darkush,Darkūsh,Deir Kush,Derkouch,Derkouk,Derkush,drkwsh,دركوش",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170887,
+    "name": "Ad Darbasiyah",
+    "alternatenames": "Ad Darbasiyah,Ad Darbāsīyah,Darbasiyah,Darbāsīyah,Derbassiye,Derbisiye,Derbisīye,Dirbassiyeh,aldrbasyt,drbasyt,الدرباسية,درباسية",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170892,
+    "name": "Darayya",
+    "alternatenames": "Daraiya,Daraje,Daraya,Daraye,Darayya,Darayyah,Dareiya,Deraya,Dâraiya,Dārayyah,Dārayyā,Dārayā,Dāreiya,darya,Дарайе,داريا,داريّا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170905,
+    "name": "Dar'a",
+    "alternatenames": "Adraa,Dar`a,Daraa,Darua,Dar‘ā,Der`a,Deraa,Deraâ,Derua,Der‘ā,Даръа,Деръа,درعا",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 170959,
+    "name": "Da`il",
+    "alternatenames": "Da`il,Daail,Daal,Dael,Dail',Daél,Dâail,Dā‘il,Даиль,داعل",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171126,
+    "name": "Busra ash Sham",
+    "alternatenames": "Bosra,Bosra Eski Sham,Bosra ech Cham,Bosra ech Châm,Bostra,Busra,Busra Sham,Busra ash Sham,Busrah ash Sham,Buşrah ash Shām,Buşrá,Buşrá ash Shām,bsry,bsry alsham,Босра,Бусра,بصرى,بصرى الشام",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171200,
+    "name": "Buq'ata",
+    "alternatenames": "Baq`ata,Baqa`tah,Baqa‘tah,Baq‘ātā,Boqaata,Boqaâta,Buq'ata,Buq‘ātā,bqʿatha,bwqʻth,בוקעתה,بقعاتا,بقعاثا",
+    "subcountry": "Quneitra"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171212,
+    "name": "Bulbul",
+    "alternatenames": "Bulbul,blbl,بلبل",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171295,
+    "name": "Brummanat al Mashayikh",
+    "alternatenames": "Birmathat al Mashayikh,Birmāthat al Mashāyikh,Broummanet el Machayekh,Broummânet el Machâyekh,Brummanat al Masha'ikh,Brummanat al Mashayikh,Brummānat al Mashāyikh,Brummānat al Mashā’ikh,brmant almshaykh,برمانة المشايخ",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171410,
+    "name": "Bi'r al Hulw al Wardiyah",
+    "alternatenames": "Bi'r Hulw,Bi'r al Hulw al Wardiyah,Bir Helou,Bir Hulw,Bi’r al Ḩulw al Wardīyah,Bi’r Ḩulw,Bîr Hélou,Bīr Ḩulw,byr alhlw alwrdyt,byr hlw,بئر الحلو الوردية,بير حلو",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171451,
+    "name": "Binnish",
+    "alternatenames": "Binnesh,Binnich,Binnish,bnsh,بنش",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171494,
+    "name": "Bdama",
+    "alternatenames": "Badama,Badāmā,Barama,Barāmā,Bdama,Bdamah,Bdâma,Bdāmah,Bdāmā,bdama,بداما",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171501,
+    "name": "Ar Rawdah",
+    "alternatenames": "Ar Rawdah,Ar Rawḑah,Bazzaq,Bazzāq,Bezzaq,Bezzâq,alrwdt,bzaq,الروضة,بزاق",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171694,
+    "name": "Batabo",
+    "alternatenames": "Batabo,batbw,btbw,باتبو,بتبو",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171757,
+    "name": "Barri ash Sharqi",
+    "alternatenames": "Barri Charqi,Barri ash Sharqi,Barri ech Charqi,Barrī ash Sharqī,bry alshrqy,برّي الشرقي",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171830,
+    "name": "Baniyas",
+    "alternatenames": "Banias,Banijas,Baniyas,Bulunyas,Bulunyās,Bâniâs,Bāniyās,banyas,Банияс,بانياس",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171851,
+    "name": "Banan",
+    "alternatenames": "Banan,Banān,Benan,Benān,Bnan,Bnane,Bnâne,Bnān,bnan,بنان",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 171998,
+    "name": "Babila",
+    "alternatenames": "Bab Bila,Babila,Babīlā,Bāb Bīlā,bab byla,bbyla,باب بيلا,ببيلا",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172027,
+    "name": "Az Ziyarah",
+    "alternatenames": "Az Ziyarah,Az Ziyārah,Ez Ziara,Ez Ziâra,alzyart,الزيارة",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172045,
+    "name": "Az Zarbah",
+    "alternatenames": "Az Zarbah,Ez Zerbe,Ez Zerbé,Zarbah,Zerbe,alzrbt,zrbt,الزربة,زربة",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172059,
+    "name": "Az Zabadani",
+    "alternatenames": "Az Zabadani,Az Zabadānī,Zabadani,Zabadany,Zabdani,Zabdānī,Zebdani,Zebdāni,Zebedani,Zibdani,Zibdānī,alzbdany,الزبداني",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172082,
+    "name": "I`zaz",
+    "alternatenames": "A`zaz,Aazaz,Aazâz,Azaz,A‘zāz,E'zaz,Ezzaz,I`zaz,Izaz,I‘zāz,aʿzaz,Аазаз,Азаз,أعزاز,إعزاز",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172134,
+    "name": "`Ayn `Isa",
+    "alternatenames": "Ain Aissa,Aïn Aïssa,`Ayn `Isa,عين عيسى,‘Ayn ‘Īsá",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172157,
+    "name": "`Ayn at Tinah",
+    "alternatenames": "Ain Tin,Ain ett Tine,Aïn ett Tîné,`Ayn at Tinah,عين التينة,‘Ayn at Tīnah",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172159,
+    "name": "Sabbah",
+    "alternatenames": "Ain ett Tine,Aïn ett Tîné,Sabbah,`Ayn at Tinah,sbt,سبة,عين التينة,‘Ayn at Tīnah",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172172,
+    "name": "`Ayn Shiqaq",
+    "alternatenames": "'Ain el Shegag,Ain ech Cheqaq,Aïn ech Chéqâq,`Ayn Shiqaq,`Ayn ash Shiqaq,ʿyn shqaq,عين الشقاق,عين شقاق,‘Ayn Shiqāq,‘Ayn ash Shiqāq,’Ain el Shegag",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172173,
+    "name": "`Ayn ash Sharqiyah",
+    "alternatenames": "Ain ech Charqiye,Ain ech Charuiye,Ain ech Charuiyé,Aïn ech Charqîyé,`Ain esh Sharqiye,`Ayn ash Sharqiyah,عين الشرقية,‘Ain esh Sharqīye,‘Ayn ash Sharqīyah",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172232,
+    "name": "`Ayn al Fijah",
+    "alternatenames": "Ain Figeh,Ain Fije,Ain el Fije,Aïn Fîjé,Aïn el Fîjé,`Ayn al Fijah,عين الفيجة,‘Ayn al Fījah",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172243,
+    "name": "`Ayn al Bayda",
+    "alternatenames": "Ain el Beida,Aïn el Beida,Ein El-Bayda,`Ayn al Bayda,`Ayn al Bayda',`Ayn al Baydah,ʿyn albydt,عين البيضا,عين البيضة,‘Ayn al Bayḑah,‘Ayn al Bayḑā,‘Ayn al Bayḑā’",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172256,
+    "name": "'Ayn al 'Arab",
+    "alternatenames": "Aarab Peunar,Aarab Peunâr,Ain el Aarab,Ajn-ehl'-Arab,Arab Peunar,Aïn el Aarab,Ein-al-Arab,Kobane,Kobani,Kobanî,`Arab Binar,`Arab Bunar,`Ayn al `Arab,ʿrb bynar,Айн-эль-Араб,عرب بينار,عين العرب,‘Arab Bīnār,‘Arab Būnār,‘Ayn al ‘Arab",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172308,
+    "name": "`Awaj",
+    "alternatenames": "A`waj,Aaouaj,Aavadzh,Aouaj,A‘waj,`Awaj,Аавадж,عوج,‘Awaj",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172327,
+    "name": "At Tibni",
+    "alternatenames": "At Tibni,At Tibnī,Tibnah,Tibne,Tibné,altbny,التبني",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172339,
+    "name": "At Tawahin",
+    "alternatenames": "At Tawahin,Aţ Ţawāḩīn,Tawahin,Touahine,Touâhîne,altwahyn,twahyn,Ţawāḩīn,الطواحين,طواحين",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172347,
+    "name": "At Tamani`ah",
+    "alternatenames": "At Tamani`ah,At Tamāni‘ah,Tamana,Tamanaa,Tamanat,Tamani`ah,Tamâna,Tamânat,Tamânaâ,Tamāni‘ah,التمانعة,تمانعة",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172349,
+    "name": "At Tall",
+    "alternatenames": "Al-Tal,At Tall,Ett Tell,Tal,Tall,Tell,al-Tell,altl,التل",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172374,
+    "name": "Ath Thawrah",
+    "alternatenames": "Al Tabaqah,Al-Tabbaqah,Al-Thawra,At Tabaqah,At Tabqah,Ath Thawrah,Aţ Ţabaqah,Aţ Ţabqah,Madinat ath Thawrah,Madīnat ath Thawrah,Medinat Al Thawra,Revolution City,Tabaqah,Tabqa,Thawrah,altbqt,althwrt,thwrt,Ţabaqah,الثورة,الطبقة,ثورة",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172408,
+    "name": "As-Suwayda",
+    "alternatenames": "Al-Sweida,As Suwayda',As Suwaydah,As Suwaydā’,As-Suwayda,Dionysia,Ehs-Suvejda,Es Suweida,Es Suweidiya,Es Suweidīya,Es-Suvejda,QSW,Soueida,Soueïda,Suwaydah,Sweida,su wei da,suwaida,swyda,ʼ-swwydʼ,Ес-Сувейда,Эс-Сувейда,א-סווידא,السويداء,سویدا,苏韦达,수와이다",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172415,
+    "name": "As Susah",
+    "alternatenames": "As Susa,As Susah,As Sūsah,As Sūsá,Es Soussa,Es Soûssa,Soussa,Sousse,Susah,Sūsah,alswst,السوسة",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172425,
+    "name": "As Sukhnah",
+    "alternatenames": "As Sukhnah,Es Sukhne,Soukhne,Soukhné,Sukhnah,alskhnt,السخنة",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172432,
+    "name": "As Sisniyah",
+    "alternatenames": "As Sisniyah,As Sīsnīyah,Sisaniyah,Sisniyah,Sisniye,Sisniyé,Sisnîyé,Sīsanīyah,Sīsnīyah,alsysnyt,sysnyt,السيسنية,سيسنية",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172441,
+    "name": "Al Mazra`ah",
+    "alternatenames": "Al Mazra`ah,Al Mazra‘ah,As Sajin,As Sajīn,As Sijn,Ehs-Sidzhn,Es Sijine,Es Sijn,Sajin,Sajīn,Sejen,Sejene,Sejine,Sijine,Sijn,Sijnah,Séjine,Séjéne,almzrʿt,alsjn,Эс-Сиджн,السجن,المزرعة",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172454,
+    "name": "As Sawda",
+    "alternatenames": "As Sawda,As Sawda',As Sawdah,As Sawdā,As Sawdā’,Es Soda,Saouda,Sauda,Sawda',Sawdah,Sawdā’,alswda,alswdt,السودا,السوداء,السودة",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172469,
+    "name": "As Sanamayn",
+    "alternatenames": "Aere,Aeré,As Sanamayn,Aş Şanamayn,Ehs-Sanamejn,Es Sanamein,Es Sannamain,Sanamayn,Sanamein,Sanameine,Sanameïne,Sanmayn,alsnmyn,snmyn,Şanamayn,Эс-Санамейн,الصنمين,صنمين",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172487,
+    "name": "`Assal al Ward",
+    "alternatenames": "Aassal el Ouard,Aassâl el Ouard,Assal el Ouard,Assal el Ward,`Asal al Ward,`Asal el Ward,`Assal al Ward,`Isal al Ward,عسال الورد,‘Asal al Ward,‘Assāl al Ward,‘Asāl el Ward,‘Isāl al Ward",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172497,
+    "name": "As Safsafah",
+    "alternatenames": "As Safsafah,Aş Şafşāfah,Safsaf,Safsafah,Safsafe,Safsafih,Safsâfe,Sofsafe,Sofsâfé,alsfsaft,sfsaft,Şafşāf,Şafşāfah,Şafşāfih,الصفصافة,صفصافة",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172503,
+    "name": "As Safirah",
+    "alternatenames": "Al-Safira,As Safirah,As Safīrah,Safir,Safira,Safirah,Safīrah,Sfaireh,Sfira,Sfire,Sfiré,Sfīra,alsfyrt,sfyrt,Şafīr,السفيرة,سفيرة",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172511,
+    "name": "As Sabkhah",
+    "alternatenames": "As Sabkhah,Sabkha,Sabkhah,alsbkht,السبخة",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172515,
+    "name": "As Si`in",
+    "alternatenames": "As Sa`an,As Sa‘an,As Seen,As Si`in,As Si‘in,Es Sa`an,Es Saane,Es Saene,Es Saëne,Es Sā‘ān,Saane,Saane ech Chajara,Saene,السعن",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172743,
+    "name": "Ash Shaykh Badr",
+    "alternatenames": "Al-Sheikh-Bader,Ash Shaykh Badr,Cheikh Bader,Cheikh Beder,Cheïkh Bader,Cheïkh Beder,Ech Cheikh Bader,Ech Cheikh Badr,Ech Cheïkh Bader,Shaykh Badr,Sheikh-Bader,alshykh bdr,shykh bdr,الشيخ بدر,شيخ بدر",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172829,
+    "name": "Ash Shajarah",
+    "alternatenames": "Ash Shajarah,Chajara,Shajarah,alshjrt,الشجرة",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172837,
+    "name": "Ash Shaddadah",
+    "alternatenames": "Ash Shaddadah,Ash Shaddādah,Ath Tharadi,Ath Tharādī,Chaddade,Chaddadi,Chaddâde,Chaddâdi,Jisr ash Shadadi,Jisr ash Shadādï,Shadadi,Shadādī,Tall Shadadi,Tall Shadādī,Tell Shedadi,Tell Shedādi,alshdadt,jsr alshdady,الشدادة,جسر الشدادي",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172880,
+    "name": "Arwad",
+    "alternatenames": "Arwad,Arwād,Rawad,Rawāḑ,Rouad,Rouâd,arwad,أرواد",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172922,
+    "name": "Ar Ruhaybah",
+    "alternatenames": "Ar Ruhaybah,Ar Ruḩaybah,Rouhaibe,Rouhaïbe,Ruhaibeh,Ruhaybah,Ruḩaybah,alrhybt,rhybt,الرحيبة,رحيبة",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172946,
+    "name": "Ar Rastan",
+    "alternatenames": "Al-Rastan,Ar Rastan,Arethousa,Arethus,El Rastane,Er Rastan,Rastan,Rastane,Rastâne,alrstn,الرستن",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172955,
+    "name": "Ar Raqqah",
+    "alternatenames": "Al-Rakka,Ar Raqqah,Ar-Rakka,Ar-Raqqah,Nicephorium,Rakka,Raqqa,Raqqah,alrqt,Ар-Ракка,الرقة",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172988,
+    "name": "Armanaz",
+    "alternatenames": "Armanaz,Armanāz,armnaz,أرمناز",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 172994,
+    "name": "Ariha",
+    "alternatenames": "Ariha,Arihah,Arīḩah,Arīḩā,Eriha,Erîha,Riha,Rīḩā,aryha,أريحا",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173178,
+    "name": "An Nashabiyah",
+    "alternatenames": "Al-Nashabiyah,An Nashabiyah,An Nashshabiyah,An Nashshābīyah,An Nashābīyah,En Nishabiye,Nachabie,Nachabiye,Nachâbîyé,Nashabieh,Nashabiyah,Nashabiye,Nashābīyah,Nashābīye,Nechabye,Nechabyé,alnshabyt,النشابية",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173193,
+    "name": "An Nabk",
+    "alternatenames": "Al-Nabek,An Nabk,En Nebk,Kalamom,Nabak,Nabaq,Nabek,Nebeck,Nebek,Nebk,Nébeck,alnbk,النبك",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173230,
+    "name": "`Amuda",
+    "alternatenames": "Aamouda,Amouda,Amude,Aâmoûda,`Amuda,`Amudah,ʿamwda,عامودا,عامودة,‘Āmūdah,‘Āmūdā",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173311,
+    "name": "Al Ghantu",
+    "alternatenames": "Al Ghanta,Al Ghantu,Al Ghanţā,Al Ghanţū,Al Rhannto,Al-Ghantoo,Al-Ghantu,El Rhannta,El Rhannto,Ghantto,alghntw,الغنطو",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173312,
+    "name": "Al Qutayfah",
+    "alternatenames": "Al Qutayfah,Al Quţayfah,Al-Kutaifeh,El Qtaife,El Qtaïfé,Kouteife,Kouteifé,Kutayfa,Kuteife,Qtaife,Qtaïfé,Qutayfah,Quteifa,Quteife,Quteifeh,Quţayfah,alqtyft,qtyft,القطيفة,قطيفة",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173322,
+    "name": "Al Qusayr",
+    "alternatenames": "Al Qusayr,Al Quşayr,Al'-Kusajra,Al-Kuseir,El Qoussair,El Quseir,Kouseir,Koussaie,Kousseir,Kuseir,Qosair,Qoussair,Qoussaïr,Qusair,Qusayr,Qusir,Quşayr,alqsyr,Аль-Кусайра,القصير",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173331,
+    "name": "Al Qurayya",
+    "alternatenames": "Al Qrayyah,Al Qurayya,Al Qurayyah,Al Qurayyā,Ehl'-Kurajja,El Kraiye,El Kraïyé,El Kreye,El Qraiye,El Qraïyé,alqrya,Эль-Курайя,القريا",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173334,
+    "name": "Al Qunaytirah",
+    "alternatenames": "Al Qunaytirah,Al Qunayţirah,Ehl'-Kunejtra,El Kuneitra,El Qnaitra,El Qnaïtra,El Quneitra,Kuneitra,Kuneïtra,Qhaitra,Qnaitra,Qnaytra,Qnayţra,Qnaïtra,Qunaytirah,Qunayturah,Qunayţirah,Qunayţurah,Quneitra,alqnytrt,Эль-Кунейтра,القنيطرة",
+    "subcountry": "Quneitra"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173361,
+    "name": "Al Qaryatayn",
+    "alternatenames": "Al Qaryatayn,El Qaryatein,Kariatein,Kariateine,Karyatein,Kuriatein,Kuryatein,Nezala,Qariateine,Qariateïne,Qaryatayn,Quayatein,Quraytayn,alqrytyn,القريتين",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173364,
+    "name": "Al Qardahah",
+    "alternatenames": "Al Qardahah,Al Qardāḩah,Al-Kurdaha,Kerdaha,Kirdaha,Kirdatcha,Kurdaha,Qardaha,Qardahah,Qardāha,Qardāḩah,Qerdaha,Qerdâha,Qurdaha,alqrdaht,qrdaht,القرداحة,قرداحة",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173377,
+    "name": "Al Qamishli",
+    "alternatenames": "Al Qamishli,Al Qāmishlī,Al-Kamishly,Al-Qamishli,Ehl'-Kamyshly,El Qamishliye,KAC,Kamechlie,Kamichlieh,Kamishli,Kamishlie,Kamishlié,Qameshli,Qamichliyah,Qamichliye,Qamichlîyé,Qamichlīyah,Qamischli,Qamishliyah,Qamislo,Qamişlo,Qāmeshli,Qāmishlīyah,alqamshlw,alqamshly,byt zlyn,byt zʾlyn,qamshlw,qamshly,qamshlۆ,qamyshlۆ,qmshly,qmshlʾ,Эль-Камышлы,القامشلو,القامشلي,قامشلو,قامشلۆ,قامشلی,قامیشلۆ,ܒܝܬ ܙܐܠܝ̈ܢ,ܒܝܬ ܙܐܠܝܢ,ܒܝܬ ܙܠܝ̈ܢ,ܒܝܬ ܙܠܝܢ,ܩܡܫܠܐ,ܩܡܫܠܝ",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173389,
+    "name": "Al Qadmus",
+    "alternatenames": "Al Qadmus,Al Qadmūs,El Qadmus,El Qadmūs,Kadmous,Qadmous,Qadmouss,Qadmoûs,Qadmus,Qadmūs,alqdmws,القدموس",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173414,
+    "name": "Al Mushannaf",
+    "alternatenames": "Al Mushannaf,El Mouchannaf,El Mushennef,Mashnaf,Mouchannaf,Mushannaf,almshnf,mshnf,المشنف,مشنف",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173416,
+    "name": "Al Musayfirah",
+    "alternatenames": "Al Musayfirah,El Museifire,Moussaifrat,Moussaifre,Moussaïfrat,Moussaïfre,Mousseifre,Mousseifré,Musayrifah,Museifre,Musejfra,almsyfrt,Мусейфра,المسيفرة",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173434,
+    "name": "Al Mulayhah",
+    "alternatenames": "Al Malihah,Al Malīḩah,Al Mleha,Al Mulayhah,Al Mulayḩah,Meleha,Mlaiha,Mlaihah,Mlaiḩah,Mlaïha,Mleiha,Mulayhah,Mulayḩah,Muleiha,almlyht,المليحة",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173462,
+    "name": "Mismiyah",
+    "alternatenames": "Al Mismiyah,Al Mismīyah,El Mesmiye,El Mesmiyé,Mesmiye,Mismiyah,Mismīyah,almsmyt,msmyt,المسمية,مسمية",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173480,
+    "name": "Al Mayadin",
+    "alternatenames": "Al Mayadin,Al Mayādīn,Al-Mayadeen,Audattha,Mayadin,Mayadine,Mayādīn,Meyadin,Meyadine,Meyedine,Meyādīn,almyadyn,myadyn,الميادين,ميادين",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173530,
+    "name": "Al Malikiyah",
+    "alternatenames": "Al Malikiyah,Al Mālikīyah,Darik,Dayrik,Dayrīk,Deirik,Derik,Deïrîk,Dêrik,Dêrîk,Guir Zerik,Guir Zérik,Kir Dhayrik,Kir Zerik,Kīr Dhayrīk,Kīr Zérik,Malikiyeh,Malkieh,almalkyt,dyryk,dێryk,kyr dhyryk,المالكية,ديريك,دێريك,كير ذيريك",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173576,
+    "name": "Latakia",
+    "alternatenames": "Al Ladhiqiyah,Al Lādhiqīyah,Al-Laziqiyah,El Ladhaqiye,El Ladhiqiya,El Lādhaqiyé,El Lādhiqīya,LTK,Ladhiqiye,Ladikija,Ladikis,Ladikiya,Laodicea,Laodicea ad Mare,Laodicee,Laodicée,Laodikeia,Latakia,Latakieh,Latakija,Latakija shaary,Latakio,Latakiya,Lataqiae,Lataqiä,Lataquia,Lattakeia,Lattakia,Lattaquie,Lattaquié,Latʻakia,Lazikija,Lazkiye,Lázikíja,Lādikīja,alladhqyt,la ta ji ya,ladhqyh,ladhqyt,ladhqyہ,latakia,latakiya,ltqyh,ratakia,Əl-Laziqiyyə,Λαττάκεια,Латакия,Латакия шаары,Латакија,Латакія,Լաթակիա,לטקיה,اللاذقية,لاذقية,لاذقیه,لاذقیہ,लताकिया,ლათაკია,ラタキア,拉塔基亚,라타키아",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173598,
+    "name": "Al Kiswah",
+    "alternatenames": "Al Kiswah,Kesweh,Kisoue,Kisoué,Kissoue,Kisswa,Kiswah,Kiswe,Kisweh,alkswt,kswt,الكسوة,كسوة",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173606,
+    "name": "An Nasirah",
+    "alternatenames": "Al Khuraybah,An Nasirah,An Nāşirah,Kheraibi,Khraibe,Khraïbé,Khuraybah,Nasirah,Nāşirah,alnasrt,khrybt,nasrt,الناصرة,خريبة,ناصرة",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173711,
+    "name": "Al Jawadiyah",
+    "alternatenames": "Al Jawadiyah,Al Jawādīyah,Chil Agha,Cil Axa,Jabal Agha,Jabal Āghā,Jil Agha,Jīl Āghā,aljwadyt,chl yagha,jbl agha,jl agha,Çil Axa,الجوادية,جبل آغا,جل أغا,چل ئاغا",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173715,
+    "name": "Al Janudiyah",
+    "alternatenames": "Al Janudiyah,Al Jānūdīyah,Ej Janoudiye,Ej Jânoûdîyé,El Janoudiye,El Jânoûdiyé,Jabudiyah,Janudiyah,Jenudi,Jnoudiye,Jnoudîye,Jābūdīyah,Jānūdīyah,aljanwdyt,janwdyt,الجانودية,جانودية",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173777,
+    "name": "Al Hinadi",
+    "alternatenames": "Al Hannadi,Al Hannādī,Al Hinadi,Al Hinādī,Hanadi,Hennadi,Hennâdi,Hinadi,Hinādī,alhnady,hnady,الهنادي,هنادي,Ḩanādī",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173797,
+    "name": "Al Hawl",
+    "alternatenames": "Al Hal,Al Hawl,Al Hul,Al Hāl,Al Ḩawl,Al Ḩūl,El Haul,El Hol,El Hool,El Hôl,alhwl,الحول",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173802,
+    "name": "Al Hawash",
+    "alternatenames": "Al Hawash,Al Ḩawāsh,Haouach,Haouâch,Hawash,alhwash,hwash,الحواش,حواش,Ḩawāsh",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173811,
+    "name": "Al Hasakah",
+    "alternatenames": "Al Hasakah,Al Ḩasakah,Al-Hasakeh,El Haseke,Hasaka,Hasakeh,Hasijih,Hassetche,Hasskih,alhskt,hەsychە,الحسكة,حەسیچە,Ḩasijih,Ḩasskih",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173819,
+    "name": "Al Hirak",
+    "alternatenames": "Al Harak,Al Hirak,Al Ḩarāk,Al Ḩirāk,El Hrak,El Hrâk,alhrak,الحراك",
+    "subcountry": "Daraa"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173830,
+    "name": "Al Hamra'",
+    "alternatenames": "Al Hamra',Al Hamrah,Al Ḩamrah,Al Ḩamrā’,El Hamra,Hamra,Qaraqol,Qichlet el Hamra,alhmraʾ,alhmrt,الحمراء,الحمرة",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173842,
+    "name": "Al Hamidiyah",
+    "alternatenames": "Al Hamidiyah,Al Ḩamīdīyah,Hamide,Hamidieh,Hamidiya,Hamidiyah,Hamidiye,Hamîdiyé,Hamīdīya,alhmydyt,hmydyt,الحميدية,حميدية,Ḩamīdīyah",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173852,
+    "name": "Al Hajib",
+    "alternatenames": "Al Hajib,Al Ḩājib,El Hajeb,Hajeb,Hajib,Hâjeb,alhajb,الحاجب,Ḩājib",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173856,
+    "name": "Al Haffah",
+    "alternatenames": "Al Haffah,Al Jaffah,Al Ḩaffah,Al-Haffeh,Al-Hiffeh,Haffah,Haffe,alhft,الحفة,Ḩaffah",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173869,
+    "name": "Al Ghizlaniyah",
+    "alternatenames": "Al Ghizlaniyah,Al Ghizlānīyah,Al Ghuzlaniyah,Al Ghuzlānīyah,El Ghuzlaniye,El Ghuzlānīye,Ghazlaniye,Ghizlaniyah,Ghizlānīyah,Ghuzlaniyah,Ghuzlānīyah,Gozlanie,Gozlanié,Rhozlaniye,Rhozlanye,Rhozlanyé,alghzlanyt,ghzlanyt,الغزلانية,غزلانية",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173880,
+    "name": "Al Ghariyah",
+    "alternatenames": "Al Ghariyah,Al Ghāriyah,Ehl'-Garija,Ghariyah,Ghāriyah,Rhariye,Rhârîyé,algharyt,Эль-Гария,الغارية",
+    "subcountry": "As-Suwayda"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173927,
+    "name": "Al Busayrah",
+    "alternatenames": "Al Busayrah,Al Buşayrah,Bassira,Bessireh,Boussaira,Boussaïra,Bseira,Bseïra,Busayrah,Buseira,Buseire,Buşayrah,Circesium,albsyrt,البصيرة",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 173991,
+    "name": "Al Bariqiyah",
+    "alternatenames": "Al Bariqiyah,Al Bāriqīyah,Bariqiyah,Barqiyah,Barqiye,Barqîyé,Barqīyah,Bāriqīyah,albarqyt,barqyt,brqyt,البارقية,بارقية,برقية",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174012,
+    "name": "Al Bahluliyah",
+    "alternatenames": "Al Bahluliyah,Al Bahlūlīyah,Bahlawaniyeh,Bahloulie,Bahlouliye,Bahloulié,Bahloûlîyé,Bahluliyah,Baḩlūlīyah,Behlulia,El Bahluliye,El Bahlūlīye,albhlwlyt,البهلولية",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174018,
+    "name": "Al Bab",
+    "alternatenames": "Al Bab,Al Balo,Al Bāb,Al Bālo,Bab,Bâb,El Bab,El Bāb,albab,الباب",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174030,
+    "name": "Al Atarib",
+    "alternatenames": "Al Atarib,Al Atārib,Atarib,Atharib,Athārib,Atārib,El Atareb,El Atâreb,Tarib,Terib,Térib,alatarb,atarb,اتارب,الأتارب",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174036,
+    "name": "Al `Asharah",
+    "alternatenames": "Acharat,Al Asharah,Al Ashārah,Al `Asharah,Al ‘Ashārah,Charra,El Aachara,El Aachâra,El Achara,El Achâra,Qasr el `Ashara,Qasr el ‘Ashara,Sharra,Tirya,alashart,الأشارة,العشارة",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174043,
+    "name": "Al `Arimah",
+    "alternatenames": "Aajami,Adjimi,Al `Arimah,Al ‘Arīmah,`Ajami,`Arime,alʿrymt,ʿjmy,العريمة,عجمي,‘Ajamī,‘Arime",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174057,
+    "name": "Al `Annazah",
+    "alternatenames": "Aannaze,Aannâzé,Al `Annazah,Al ‘Annāzah,An Nazi,`Annazah,`Annazih,`Anz,`Anzah,`Aunaz,العنازة,عنازة,‘Annāzah,‘Annāzih,‘Anz,‘Anzah,‘Aunāz",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174115,
+    "name": "Akhtarin",
+    "alternatenames": "Akhtareen,Akhtareine,Akhtareïne,Akhtarin,Akhtarīn,Akhterin,Akhtreen,Akhtrin,Akterine,Aktérine,akhtryn,أخترين",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174144,
+    "name": "Ihsim",
+    "alternatenames": "Ahsim,Aḩsim,Ehsem,Ihsim,Iḩsim,ahsm,إحسم,احسم",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174186,
+    "name": "`Afrin",
+    "alternatenames": "Aafrine,Aafrîne,Afrin,Afrine,`Afrin,`Ifrin,عفرين,‘Afrīn,‘Ifrīn",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174239,
+    "name": "Ad Dimas",
+    "alternatenames": "Ad Dimas,Ad Dīmās,Dimas,Dīmās,Khan Dimez,aldymas,dymas,الديماس,ديماس",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174259,
+    "name": "Ad Dana",
+    "alternatenames": "Ad Dana,Ad Danah,Ad Dānah,Ad Dānā,Dana,Dānā,Ed Dana,Ed Dâna,aldana,الدانا",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174262,
+    "name": "Ad Daliyah",
+    "alternatenames": "Ad Dali,Ad Daliyah,Ad Dāliyah,Ad Dālī,Ad Dālīyah,Dali,Delibi,Dâli,Ed Dali,Ed Dâli,aldaly,aldalyt,الدالي,الدالية",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174407,
+    "name": "Abu Qalqal",
+    "alternatenames": "Abou Qalqal,Abu Kalkal,Abu Qalqal,Abu Qilqil,Abū Kalkal,Abū Qalqal,abw qlql,أبو قلقل",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174448,
+    "name": "Albu Kamal",
+    "alternatenames": "Abou Kemal,Abu Kamal,Abu Kemal,Abu Kemāl,Abu-Kamal',Abū Kamāl,Al-Bukamal,Al-bu-Kamal,Albu Kamal,Bukmal,Hindane,Hindané,abw kmal,albw kmal,Ālbū Kamāl,Абу-Камаль,أبو كمال,البو كمال",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174506,
+    "name": "Hajin",
+    "alternatenames": "Abou Hardane,Abou Hardâne,Abu Hardan,Abu Hardub,Abū Ḩardān,Abū Ḩardūb,Bou Hardane,Hajin,Hajine,Hajîne,Hajīn,hjyn,هجين",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 174611,
+    "name": "Abu az Zuhur",
+    "alternatenames": "Abou ed Douhour,Abou ed Douhoûr,Aboudouhour,Abu ad Duhur,Abu az Zuhur,Abu ed Duhur,Abu ed Duhūr,Abu edh Dhahur,Abū az̧ Z̧uhūr,Abū aḑ Ḑuhūr,abw aldhwr,abw alzhwr,أبو الظهور,ابو الضهور",
+    "subcountry": "Idlib"
+  },
+  {
+    "country": "SY",
+    "geonameid": 383661,
+    "name": "Al Ya`rubiyah",
+    "alternatenames": "Al Ya`rubiyah,Al Ya‘rubīyah,Al Ya‘rūbīyah,Tall Kuchak,Tall Kuchik as Saghir,Tall Kujik,Tall Kujik Saghir,Tall Kūchak,Tall Kūchik aş Şaghīr,Tall Kūjik,Tall Kūjik Şaghīr,Tel Kocek,Tel Kochek,Tel Koçek,Tell Kotchek,Tell Kushik,Tell Kūshik,tl kwchk alsghyr,tl kwjk sghyr,tl kwshk,tەl kۆchەk,اليعربية,تل كوجك صغير,تل كوشك,تل كوچك الصغير,تەل كۆچەك",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 421015,
+    "name": "`Arishah",
+    "alternatenames": "Al `Arishah,Al ‘Arīshah,`Arishah,alʿrysht,العريشة,عريشة,‘Arīshah",
+    "subcountry": "Al-Hasakah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 6943439,
+    "name": "Kaff al-Jaa",
+    "alternatenames": "kaf aljaʿ,كاف الجاع",
+    "subcountry": "Tartus"
+  },
+  {
+    "country": "SY",
+    "geonameid": 7891616,
+    "name": "`Ayn an Nasr",
+    "alternatenames": "`Ayn Dat,`Ayn Zata,`Ayn an Nasr,عين النسر,عين دات,عين ظاطا,‘Ayn Dāt,‘Ayn Z̧āţā,‘Ayn an Nasr",
+    "subcountry": "Homs"
+  },
+  {
+    "country": "SY",
+    "geonameid": 7905767,
+    "name": "Nahiyat as Sab` Biyar",
+    "alternatenames": "Nahiyat as Sab` Biyar,Nāḩiyat as Sab‘ Biyār,ناحية السبع بيار",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 8308210,
+    "name": "Al Kasrah",
+    "alternatenames": "Al Kasra,Al Kasrah,Al Kasrā,alksra,alksrt,الكسرا,الكسرة",
+    "subcountry": "Deir ez-Zor"
+  },
+  {
+    "country": "SY",
+    "geonameid": 8419677,
+    "name": "Al Hajar al Aswad",
+    "alternatenames": "Al Hajar al Aswad,Al Ḩajar al Aswad,Hajar Aswad,Hajar al Aswad,alhjr alaswd,hjr alaswd,الحجر الأسود,حجر الأسود,Ḩajar al Aswad",
+    "subcountry": "Rif-dimashq"
+  },
+  {
+    "country": "SY",
+    "geonameid": 8559276,
+    "name": "Al Mansurah",
+    "alternatenames": "Al Mansurah,Al Manşūrah,almnswrt,المنصورة",
+    "subcountry": "Ar-Raqqah"
+  },
+  {
+    "country": "SY",
+    "geonameid": 8609252,
+    "name": "Bayt Yashut",
+    "alternatenames": "Bayt Yashut,Bayt Yāshūţ,byt yashwt,بيت ياشوط",
+    "subcountry": "Latakia"
+  },
+  {
+    "country": "SY",
+    "geonameid": 9847679,
+    "name": "Tremseh",
+    "alternatenames": "Al Treimseh,Taramsah,Taramseh,Treimsa,Treimseh,Tremseh,al-Turaymisah",
+    "subcountry": "Hama"
+  },
+  {
+    "country": "SY",
+    "geonameid": 11257949,
+    "name": "Qentere",
+    "alternatenames": "",
+    "subcountry": "Aleppo"
+  },
+  {
+    "country": "SY",
+    "geonameid": 11431916,
+    "name": "Kafr Musa Al-Hmidiya",
+    "alternatenames": "Ard Khirbat Kafr Musa,Arḑ Khirbat Kafr Mūsá,ard khrbt kfr mwsy,أرض خربة كفر موسى",
+    "subcountry": "Homs"
+  }
+]

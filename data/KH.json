@@ -1,0 +1,933 @@
+[
+  {
+    "country": "KH",
+    "geonameid": 1821306,
+    "name": "Phnom Penh",
+    "alternatenames": "Krong Chaktomuk,Nam Van,Nam-Vang,Nom Pen,PNH,Phnom Pen,Phnom Penh,Phnom Pénh,Phnom-Penh,Phnompen,Phnompenh,Phnum Penh,Phnum Peny,Phnum Pénh,Phnum Pény,Phnôm Pênh,Phon Phen,Pnampen',Pnom Pehn',Pnom Pen,Pnom Pen'ch,Pnom Pene,Pnom Penh,Pnompen,Pnompen',Pnompena,Pnompenis,Pnompeno,Pnompeņa,Ville de Phnom Penh,bnwm bnh,fnwm pn,fnwm pېn,jin bian,namapenha,panoma pena,peunompen,phnm pen,phnmpey,pnwm pn,punom pen,punonpen,Πνομ Πενχ,Пнампень,Пном Пен,Пном Пэнь,Пномпень,Պնոմպեն,פנום פן,بنوم بنه,فنوم پن,فنوم پېن,پنوم پن,پنوم‌پن,پنۆم پێن,नामपेन्ह,पनॉम पेन,প্‌নম পেন,புனோம் பென்,พนมเปญ,พนมเปณ,ཕོམ་ཕེན།,ဖနွမ်းပင်မြို့,პნომპენი,ፕኖም ፔን,ភនកពងតរាច,ភនពេញ,ភ្នំកំពង់ត្រាច,ភ្នំពេញ,プノンペン,金边,프놈펜",
+    "subcountry": "Phnom Penh"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1821394,
+    "name": "Veun Sai",
+    "alternatenames": "Moulapoumok,Veun Sai,Virachei,Virachey,Virocheay,Virochey,Virôchey,Virôcheăy,Voeune Sai",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1821935,
+    "name": "Ta Khmau",
+    "alternatenames": "Ta Khmau,Takhman,Takhmau,Takkhmau,Такхмау,កណតាល,កណ្តាល",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1821940,
+    "name": "Takeo",
+    "alternatenames": "Prasat,Pràsàt,Takeo,Takev,Takéo,Takêv",
+    "subcountry": "Takeo"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1821993,
+    "name": "Svay Rieng",
+    "alternatenames": "Phumi Svay Rieng,Phumĭ Svay Riĕng,SVR,Soai Rieng,Soei Rieng,Svai Rieng,Svay Rieng,Svay Riĕng",
+    "subcountry": "Svay Rieng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822003,
+    "name": "Svay Chek",
+    "alternatenames": "Khum Svay Chek,Svay Chek,Svay Chék,Sway-Chek",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822019,
+    "name": "Suong",
+    "alternatenames": "Phumi Suong,Phumĭ Suŏng,Suong,Suŏng",
+    "subcountry": "Tboung Khmum"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822029,
+    "name": "Stung Treng",
+    "alternatenames": "Stoeng Treng,Stung Teeng,Stung Treng,Stung-treng,Stœ̆ng Trêng,TNX",
+    "subcountry": "Stung Treng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822102,
+    "name": "Srae Ambel",
+    "alternatenames": "Phum Sre Ambel,Phumi Sre Ambel,Phumĭ Srê Âmbel,Srae Ambel,Sre Ambel,Sre Umbell,Sreumbel,Srê Âmbĕl",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822207,
+    "name": "Sisophon",
+    "alternatenames": "Serei Saophoan,Sesopone,Sisobhon,Sisophon,Sisŏphŏn",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822214,
+    "name": "Siem Reap",
+    "alternatenames": "Ciudad de Siem Riep,Khett Siem Reab,REP,Siem Reab,Siem Reap,Siem-Reap,Siemrap,Siemreab,Siemreabas,Siemreap,Siemrãp,Sijem Reap,Siĕm Réab,Siĕmréab,Sziemreap,Xiem Riep,Xiêm Riệp,ciyem rip,seiy mrath,shemuriappu,siemleapeu,siemlib,sima ripa,ssiemlib,syam ryb,sym ryp,syym ryp,syym ryyp,xian li sheng,xian li shi,Сием-Реап,Сиемреап,Сијем Реап,Сіемреап,سيام ريب,سیئم ریئپ,سیئم ریپ,سیم ریپ,सीम रीप,சியெம் ரீப்,เสียมราฐ,ក្រុងសៀមរាប,シェムリアップ,暹粒市,暹粒省,시엠레아프,시엠립,씨엠립",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822216,
+    "name": "Siem Pang",
+    "alternatenames": "Siem Pang,Siem Prang,Siempang,Siĕmpang",
+    "subcountry": "Stung Treng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822227,
+    "name": "Sen Monorom",
+    "alternatenames": "Krong Saen Monourom,Mondul Kiri,Saen Monourom,Sen Monorom,Sen Monorum,Sen Moronom,Senmanorum,Senmonorom,Senmonourom,Sênmônoŭrôm",
+    "subcountry": "Mondolkiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822610,
+    "name": "Prey Veng",
+    "alternatenames": "Prei Veng,Prey Veng,Prey Vêng",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822640,
+    "name": "S'ang",
+    "alternatenames": "Prek Taugh,Prek Toch,Prêk Toch,S'ang,S’ang,ព្រែកតូច",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822644,
+    "name": "Koah Thum",
+    "alternatenames": "Koah Thum,Phum Prek Thmey,Phumi Prek Thmei,Phumĭ Prêk Thmei,Prek T'mei,Prek Thmei,Prek Thmey,Prek T’mei,Prey Thmey,Prêk Thmei,ព្រែកថ្ម",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822768,
+    "name": "Pursat",
+    "alternatenames": "Porsat,Pousat,Pouthisat,Poŭsăt,Poŭthĭsăt,Pursat",
+    "subcountry": "Pursat"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1822906,
+    "name": "Phumi Veal Sre",
+    "alternatenames": "",
+    "subcountry": "Takeo"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1823750,
+    "name": "Bak Khlang",
+    "alternatenames": "Bak Khlang,Ban Snam Khwai,Packlang,Phum Thnal Krabei,Phum Thnál Krâbei,Phumi Thnal Krabei,Phumĭ Thnál Krâbei,Snam Krapeu,Snom Crabeu,Snom Craboeu,Snom Khuai,Snon Khuai",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1823887,
+    "name": "Thma Puok",
+    "alternatenames": "Hmar Pouok,Phum Thma Pok,Phum Thmâ Pôk,Phumi Thma Pok,Phumĭ Thmâ Pôk,Thma Puok,Thmar Pouok,Thmar Puok,ភូមិ ថ្មពក",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1824235,
+    "name": "Ta Loas",
+    "alternatenames": "Phum Taluh,Phum Talŭh,Phumi Talon,Phumi Talun,Phumĭ Talón,Phumĭ Talŭn,Ta Loas,Taluo,ភូមិ តាលន់",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1825093,
+    "name": "Samraong",
+    "alternatenames": "Phumi Samraong,Phumi Samrong,Phumi Samroung,Phumi Sâmroŭng,Phumĭ Sâmraông,Phumĭ Sâmrông,Samraong,Samrong,Somrong,Sâmraông",
+    "subcountry": "Ŏtâr Méanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1825200,
+    "name": "Sala Krau",
+    "alternatenames": "Phum Sala Krau,Phum Sala Krau (1),Phumi Sala Krau (1),Phumĭ Sala Krau (1),Sala Krau,Sala Krav,ភូមិ សាលាក្រៅ",
+    "subcountry": "Pailin"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1825978,
+    "name": "Preaek Prasab",
+    "alternatenames": "Phumi Prek Prasab,Phumi Prek Prasap,Phumĭ Prêk Prâsáb,Phumĭ Prêk Prâsâp,Preaek Prasab,ភូមិ ព្រែកប្រសប់",
+    "subcountry": "Kratie"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1827523,
+    "name": "Koas Krala",
+    "alternatenames": "Kas Kralo,Koas Krala,Koas Kralar,Kokolor,Koăs Krâlâ,Phum Kas Kralo,Phum Koas Krala,Phum Kôâs Krâlâ,Phumi Koas Krala,Phumĭ Koăs Krâlâ,ភូមិ គាស់ក្រឡ",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1828227,
+    "name": "Kampong Seila",
+    "alternatenames": "Kampong Seila,Kompong Sala,Kompong Seila,Kompong Sela,Kompong Siela,Phumi Kampong Sala,Phumĭ Kâmpóng Sala",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1828973,
+    "name": "Chhuk",
+    "alternatenames": "Chhouk,Chhuk,Phumi Chhuk,Phumĭ Chhuk",
+    "subcountry": "Kampot"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1828985,
+    "name": "Chhloung",
+    "alternatenames": "Chhlong,Chhloung,Chlong,Phum Chhlong,Phumi Chhlong,Phumĭ Chhlong,ភូមិ ឆ្លូង",
+    "subcountry": "Kratie"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1829514,
+    "name": "Bavel",
+    "alternatenames": "Bavel,Boh Wel,Phum Bavel,Phumi Bavil,Phumĭ Bâvĭl",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1829673,
+    "name": "Banan",
+    "alternatenames": "Banan,Phum Banon,Phumi Banan,Phumĭ Banăn",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830098,
+    "name": "Tbeng Meanchey",
+    "alternatenames": "Kampong Preng,Kimpong Pranak,Kompong Pranak,Kompong Prena,Kompong Preng,OMY,Phnom Tbeng Meanchey,Phnom Thbeng Meanchey,Phnom Thbeng Neanchey,Phnum Tbeng Meanchey,Phnum Tbêng Méanchey,Phom Thbeng Meanchey,Phumi Thbeng Meanchey,Phumĭ Thbeng Meanchey,Tbaeng Mean Chey,Tbeng Meanchey,Tbêng Méanchey,Thbeng Meanchey",
+    "subcountry": "Preah Vihear"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830194,
+    "name": "Paoy Paet",
+    "alternatenames": "Paoy Paet,Paoy Pet,Paôy Pêt,Phum Paoy Pet,Phum Paôy Pêt,Phumi Paoy Pet,Phumĭ Paôy Pêt,Poipet,Pojpet,Пойпет,ប៉ោយប៉ែត",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830205,
+    "name": "Pailin",
+    "alternatenames": "Ciudad de Pailin,Ciudad de Pailín,Krong Pailin,Pailin,Pailĭn,pairin,ក្រុងប៉ៃលិន,パイリン",
+    "subcountry": "Pailin"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830298,
+    "name": "Moung Ruessei",
+    "alternatenames": "Maung,Maung Russei,Moung,Moung Roessei,Moung Ruessei,Moung Russei,Moung Russey,Moŭng Rœssei,Moŭng Rŭssei,Muong Roessei,Russey,មោងឬស្សី",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830377,
+    "name": "Lumphat",
+    "alternatenames": "Lomphat,Lumphat,Lumphăt,លំផាត់",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830454,
+    "name": "Kuleaen",
+    "alternatenames": "Koulen,Kuleaen,Kulen,Kulén,Phumi Kulen,Phumĭ Kulén,គូលេន",
+    "subcountry": "Preah Vihear"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830467,
+    "name": "Krong Kep",
+    "alternatenames": "Kaeb,Kep,Krong Keb,Krong Kep,Krŏng Kêb,Krŏng Kêp,របភាពករង,រូបភាពក្រុង",
+    "subcountry": "Kep"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830468,
+    "name": "Koh Kong",
+    "alternatenames": "KKZ,Kaoh Kong,Kaôh Kŏng,Khemarak Phoumin,Khemarak Phoumin Ville,Khemareah Phumint,Koh Kong,Koville,Krong Kao Kong,Krong Kaoh Kong,Krong Khemarak Phoumin,Krong Khemoreah Phumint,Krong Koh Kong,Krŏng Kaôh Kŏng,Krŏng Khémôreăh Phumĭnt,កោះកង,កោះកុង",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830564,
+    "name": "Kratie",
+    "alternatenames": "KTI,Kracheh,Krati,Kratie,Krâchéh,ករចេះ,ក្រចេះ",
+    "subcountry": "Kratie"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1830799,
+    "name": "Batheay",
+    "alternatenames": "Bat'eay,Batheay,Bat’eay,Khum Batheay,Khŭm Bathéay,Phumi Batheay,Phumĭ Batheay",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831112,
+    "name": "Kampot",
+    "alternatenames": "Compong Bai,Compong Baï,Kampat,Kampot,Kampot Lalawigan,Kampotas,Kamput,Kompong Bai,Krong Kampot,Krŏng Kâmpôt,Kâmpôt,gong bu,kampoteu,kampwt,kanpotto,Кампот,کامپوت,کمپوٹ شہر,កពត,កំពត,ក្រុងកំពត,カンポット,贡布,캄포트",
+    "subcountry": "Kampot"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831118,
+    "name": "Kampong Trach",
+    "alternatenames": "Kampong Trach,Kampong Trak,Kompong Trach,Kâmpóng Trach,Phumi Kampong Trach,Phumi Kompong Trach,Phumĭ Kompong Trach,Phumĭ Kâmpông Trach",
+    "subcountry": "Kampot"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831120,
+    "name": "Kampong Trabaek",
+    "alternatenames": "Kampong Trabaek,Kampong Trabek,Kompong Trabek,Kâmpóng Trâbêk,Phumi Kampong Trabek,Phumĭ Kâmpông Trâbêk",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831125,
+    "name": "Kampong Thom",
+    "alternatenames": "Kampong Thom,Kampong Thum,Kampong Thun,Kompong Thom,Kâmpóng Thom,Kâmpóng Thum",
+    "subcountry": "Kampong Thom"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831133,
+    "name": "Kampong Speu",
+    "alternatenames": "Kampong Speu,Kampong Spoe,Kompon Spu,Kompong Speu,Kâmpóng Spœ,Kŏmpon Spu",
+    "subcountry": "Kampong Speu"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831142,
+    "name": "Sihanoukville",
+    "alternatenames": "Ciudad de Sihanoukville,KOS,Kampong Saom,Kampong Semville,Kampong Som,Kampong Somville,Kom Pong Song,Kompong Som,Kompong Somville,Krong Preah Seihanu,Krong Preah Sihanouk,Krŏng Preăh Seihanŭ,Krŏng Preăh Sihanouk,Kâmpóng Saôm,Port de Sihanoukville,Preah Seihanouk,Sianukvil',Sihanouk,Sihanoukville,Sikanonville,shianukubiru,sih nu will,xi ha nu ke shi,Сиануквиль,สีหนุวิลล์,ក្រុងព្រះសីហនុ,シアヌークビル,西哈努克市",
+    "subcountry": "Preah Sihanouk"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831167,
+    "name": "Kampong Chhnang",
+    "alternatenames": "KZC,Kampong Chhnang,Kampong Chnang,Kampongchnang,Kompon Chnang,Kompong Chhang,Kompong Chhnang,Kâmpóng Chhnăng,Phumi Kampong Chhnang,Phumĭ Kâmpông Chhnăng,Кампонгчнанг,ករងកពងឆនាង,ក្រុងកំពង់ឆ្នាំង",
+    "subcountry": "Kampong Chhnang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831173,
+    "name": "Kampong Cham",
+    "alternatenames": "Compon-lina,Kampong Cham,Kampongtjam,Kompon Cam,Kompong Cham,Kâmpóng Cham,Кампонгтям,ករងកពងចាម,ក្រុងកំពង់ចាម",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831180,
+    "name": "Sesan",
+    "alternatenames": "Ban Komphun,Kamphun,Kâmphŭn,Sesan,កំភុន",
+    "subcountry": "Stung Treng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831732,
+    "name": "Banlung",
+    "alternatenames": "Ban Lung,Ban Lŭng,Banlung,Bong Long,Boung Long,Bung Lung,Bông Lông,Bŭng Lŭng,Krong Ban Lung,Phumi Bung Lung,Phumĭ Bŭng Lŭng,Soung Long",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831795,
+    "name": "Odongk",
+    "alternatenames": "Bat Deng,Bat Doeng,Bat Dong,Batt Doeng,Batt Dœ̆ng,Băt Dœ̆ng,Odongk,Phumi Batt Doeng,Phumĭ Batt Dœ̆ng",
+    "subcountry": "Kampong Speu"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831797,
+    "name": "Battambang",
+    "alternatenames": "BBM,Bat Dambang,Batambang,Batambangas,Batdamban,Batdambang,Batdâmbâng,Battamban,Battambang,Battampan'nk,Băt Dâmbâng,Bătdâmbâng,Ciudad de Battambang,Khett Batdambang,Phratabong,batambang,batanban,byatamabam,ma de wang,pattampan,phra tabxng,Μπατταμπάνγκ,Батамбанг,Батдамбан,Баттамбанг,باتم‌بنگ,باٹامبانگ,ব্যাটামবং,பட்டாம்பாங்,พระตะบอง,ករងបាតដបង,ក្រុងបាត់ដំបង,バタンバン,马德望,바탐방",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831809,
+    "name": "Baray",
+    "alternatenames": "Barai,Baray,Barayn,Bareayon,Baréayôn,Phumi Baray,Phumĭ Baray",
+    "subcountry": "Kampong Thom"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831856,
+    "name": "Bar Kaev",
+    "alternatenames": "Andaung Pech,Andaung Pich,Ba Kev,Bakeo,Bar Kaev,Bo Kheo,Bokeo,Bâ Kêv,Phum Ba Key,Phumi Ba Kev,Phumĭ Bâ Kêv",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831866,
+    "name": "Pal Hal",
+    "alternatenames": "Bahal,Banhai,Barhal,Pal Hal,Palhal,Phum Pahal,Phumi Bahal,Phumĭ Bahal",
+    "subcountry": "Preah Vihear"
+  },
+  {
+    "country": "KH",
+    "geonameid": 1831898,
+    "name": "Anlong Veaeng",
+    "alternatenames": "Anlong Veaeng,Anlong Veng,Anlung Veng,Anlung Vêng,Srok Anlongweng,Ânlóng Vêng,Ânlūng Vêng",
+    "subcountry": "Ŏtâr Méanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 8403851,
+    "name": "Sampov Lun",
+    "alternatenames": "Sampou Lun,Sampov Lun,Sâmpŏu Lun",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 8740221,
+    "name": "Smach Mean Chey",
+    "alternatenames": "",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11320707,
+    "name": "Phnum Proek",
+    "alternatenames": "Phnum Proek",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11320731,
+    "name": "Kamrieng",
+    "alternatenames": "Kamrieng",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11336111,
+    "name": "Samlout",
+    "alternatenames": "",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11338555,
+    "name": "Ou Chrov",
+    "alternatenames": "Ou Chrov",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11349490,
+    "name": "Veal Veaeng",
+    "alternatenames": "Veal Veaeng",
+    "subcountry": "Pursat"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11369422,
+    "name": "Aek Phnum",
+    "alternatenames": "Aek Phnum",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11374152,
+    "name": "Bat Dambang",
+    "alternatenames": "Bat Dambang",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11376379,
+    "name": "Phnum Srok",
+    "alternatenames": "Phnum Srok",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11376380,
+    "name": "Kralanh",
+    "alternatenames": "Kralanh,Sala Srok Kralanh,Sala Srŏk Krâlanh",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11407734,
+    "name": "Mongkol Borei",
+    "alternatenames": "Mongkol Borei",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11407738,
+    "name": "Preah Netr Preah",
+    "alternatenames": "Preah Netr Preah",
+    "subcountry": "Banteay Meanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11416658,
+    "name": "Mondul Seima",
+    "alternatenames": "Mondul Seima",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11416659,
+    "name": "Smach Meanchey",
+    "alternatenames": "Smach Meanchey",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11423896,
+    "name": "Botum Sakor",
+    "alternatenames": "Botum Sakor",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11424654,
+    "name": "Sangkae",
+    "alternatenames": "Sangkae",
+    "subcountry": "Battambang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11424848,
+    "name": "Mittakpheap",
+    "alternatenames": "Mittakpheap",
+    "subcountry": "Preah Sihanouk"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11441372,
+    "name": "Thma Bang",
+    "alternatenames": "Thma Bang",
+    "subcountry": "Koh Kong"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11441587,
+    "name": "Phnum Kravanh",
+    "alternatenames": "Phnum Kravanh",
+    "subcountry": "Pursat"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11448939,
+    "name": "Srei Snam",
+    "alternatenames": "Srei Snam",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11449306,
+    "name": "Chum Kiri",
+    "alternatenames": "Chum Kiri",
+    "subcountry": "Kampot"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11449447,
+    "name": "Kampot",
+    "alternatenames": "Kampot",
+    "subcountry": "Kampot"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11449475,
+    "name": "Damnak Chang'aeur",
+    "alternatenames": "Damnak Chang'aeur,Damnak Chang’aeur",
+    "subcountry": "Kep"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11450607,
+    "name": "Phnum Sruoch",
+    "alternatenames": "Phnum Sruoch",
+    "subcountry": "Kampong Speu"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11450764,
+    "name": "Thpong",
+    "alternatenames": "Thpong",
+    "subcountry": "Kampong Speu"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11456467,
+    "name": "Soutr Nikom",
+    "alternatenames": "Soutr Nikom",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11458564,
+    "name": "Trapeang Prasat",
+    "alternatenames": "Trapeang Prasat",
+    "subcountry": "Ŏtâr Méanchey"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11459753,
+    "name": "Kiri Vongs",
+    "alternatenames": "Kiri Vongs",
+    "subcountry": "Takeo"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11459805,
+    "name": "Banteay Meas",
+    "alternatenames": "Banteay Meas",
+    "subcountry": "Kampot"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11459958,
+    "name": "Kandal Stueng",
+    "alternatenames": "Kandal Stueng",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11459959,
+    "name": "Ta Khmau",
+    "alternatenames": "Ta Khmau",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11460015,
+    "name": "Tram Kak",
+    "alternatenames": "Tram Kak",
+    "subcountry": "Takeo"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11460019,
+    "name": "Basedth",
+    "alternatenames": "Basedth",
+    "subcountry": "Kampong Speu"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11475204,
+    "name": "Mukh Kampul",
+    "alternatenames": "Mukh Kampul",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11475218,
+    "name": "Ponhea Lueu",
+    "alternatenames": "Ponhea Lueu",
+    "subcountry": "Phnom Penh"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11475248,
+    "name": "Ruessei Kaev",
+    "alternatenames": "Ruessei Kaev",
+    "subcountry": "Phnom Penh"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11475273,
+    "name": "Dangkao",
+    "alternatenames": "Dangkao",
+    "subcountry": "Phnom Penh"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11475282,
+    "name": "Mean Chey",
+    "alternatenames": "Mean Chey",
+    "subcountry": "Phnom Penh"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11476646,
+    "name": "Kampong Leaeng",
+    "alternatenames": "Kampong Leaeng",
+    "subcountry": "Kampong Chhnang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11476830,
+    "name": "Stueng Saen",
+    "alternatenames": "Stueng Saen",
+    "subcountry": "Kampong Thom"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11476892,
+    "name": "Stoung",
+    "alternatenames": "Stoung",
+    "subcountry": "Kampong Thom"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11477985,
+    "name": "Bourei Cholsar",
+    "alternatenames": "Bourei Cholsar",
+    "subcountry": "Takeo"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478031,
+    "name": "Preah Sdach",
+    "alternatenames": "Preah Sdach",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478169,
+    "name": "Kang Meas",
+    "alternatenames": "Kang Meas",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478187,
+    "name": "Kaoh Soutin",
+    "alternatenames": "Kaoh Soutin",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478225,
+    "name": "Sithor Kandal",
+    "alternatenames": "Sithor Kandal",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478256,
+    "name": "Prey Veaeng",
+    "alternatenames": "Prey Veaeng",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478677,
+    "name": "Chamkar Leu",
+    "alternatenames": "Chamkar Leu",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478720,
+    "name": "Cheung Prey",
+    "alternatenames": "Cheung Prey",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11478722,
+    "name": "Prey Chhor",
+    "alternatenames": "Prey Chhor",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11481395,
+    "name": "Sandan",
+    "alternatenames": "Sandan",
+    "subcountry": "Kampong Thom"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11482105,
+    "name": "Rumduol",
+    "alternatenames": "Rumduol",
+    "subcountry": "Svay Rieng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11482149,
+    "name": "Svay Teab",
+    "alternatenames": "Svay Teab",
+    "subcountry": "Svay Rieng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11482204,
+    "name": "Me Sang",
+    "alternatenames": "Me Sang",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11482496,
+    "name": "Stueng Trang",
+    "alternatenames": "Sala Srok Stoeng Trang,Sala Srŏk Stœ̆ng Trâng,Stueng Trang",
+    "subcountry": "Kampong Cham"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11482666,
+    "name": "Chantrea",
+    "alternatenames": "Chantrea",
+    "subcountry": "Svay Rieng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11483299,
+    "name": "Kaev Seima",
+    "alternatenames": "Kaev Seima",
+    "subcountry": "Mondolkiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11483430,
+    "name": "Ou Chum",
+    "alternatenames": "Ou Chum",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11483923,
+    "name": "Andoung Meas",
+    "alternatenames": "Andoung Meas",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11484016,
+    "name": "Ou Ya Dav",
+    "alternatenames": "Ou Ya Dav",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11502544,
+    "name": "Sangkom Thmei",
+    "alternatenames": "Sangkom Thmei",
+    "subcountry": "Preah Vihear"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11503558,
+    "name": "Peam Ro",
+    "alternatenames": "Peam Ro",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11503566,
+    "name": "Kampong Leav",
+    "alternatenames": "Kampong Leav",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11504394,
+    "name": "Leuk Daek",
+    "alternatenames": "Leuk Daek,Sala Srok Leuk Dek,Sala Srŏk Leuk Dêk,សាលាស្រុកលើកដែក",
+    "subcountry": "Kandal"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11504398,
+    "name": "Peam Chor",
+    "alternatenames": "Peam Chor,Sala Srok Peam Chor,Sala Srŏk Péam Chôr,សាលាស្រុកពាមជរ",
+    "subcountry": "Prey Veng"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11518574,
+    "name": "Koun Mom",
+    "alternatenames": "Koun Mom",
+    "subcountry": "Ratanakiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11531574,
+    "name": "Pechreada",
+    "alternatenames": "Pechreada",
+    "subcountry": "Mondolkiri"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11533018,
+    "name": "Prey Nob",
+    "alternatenames": "Prey Nob",
+    "subcountry": "Preah Sihanouk"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11538889,
+    "name": "Bakan",
+    "alternatenames": "Bakan",
+    "subcountry": "Pursat"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11559400,
+    "name": "Angkor Thum",
+    "alternatenames": "Angkor Thum",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11562962,
+    "name": "Bakong",
+    "alternatenames": "Bakong",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11584517,
+    "name": "Varin",
+    "alternatenames": "Varin",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11586874,
+    "name": "Angkor Chum",
+    "alternatenames": "Angkor Chum",
+    "subcountry": "Siem Reap"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11598833,
+    "name": "Aoral",
+    "alternatenames": "Aoral",
+    "subcountry": "Kampong Speu"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11598978,
+    "name": "Baribour",
+    "alternatenames": "Baribour",
+    "subcountry": "Kampong Chhnang"
+  },
+  {
+    "country": "KH",
+    "geonameid": 11603215,
+    "name": "Chi Kraeng",
+    "alternatenames": "Chi Kraeng",
+    "subcountry": "Siem Reap"
+  }
+]

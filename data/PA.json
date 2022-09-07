@@ -1,0 +1,4510 @@
+[
+  {
+    "country": "PA",
+    "geonameid": 3699915,
+    "name": "Zapotillo",
+    "alternatenames": "Zapotillo",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3699946,
+    "name": "Las Zanguengas",
+    "alternatenames": "La Zanguenga,Las Zanguengas,Las Zangüengas,Zanguenga,Zanguengas,Zangüengas",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3699980,
+    "name": "Yaviza",
+    "alternatenames": "PYV,Yavisa,Yaviza",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3699984,
+    "name": "Yape",
+    "alternatenames": "Yape",
+    "subcountry": "Emberá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700017,
+    "name": "Volcan",
+    "alternatenames": "El Hato,El Hato del Volcan,El Hato del Volcán,El Volcan,El Volcán,Hato de Volcan,Hato del Volcan,Hato del Volcán,Volcan,Volcán",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700033,
+    "name": "Vista Hermosa",
+    "alternatenames": "",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700038,
+    "name": "Vista Alegre",
+    "alternatenames": "Vista Alegre",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700070,
+    "name": "Villa Rosario",
+    "alternatenames": "Villa Rosario",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700080,
+    "name": "Villa Carmen",
+    "alternatenames": "Villa Carmen",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700085,
+    "name": "Vigui",
+    "alternatenames": "Vigui,Viguí",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700103,
+    "name": "Viento Frio",
+    "alternatenames": "Viento Frio,Viento Frío",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700164,
+    "name": "Veracruz",
+    "alternatenames": "Camaron,Camarón,Cameron,Camerón,Veracruz",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700199,
+    "name": "Veladero",
+    "alternatenames": "Veladero",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700218,
+    "name": "Vallerriquito",
+    "alternatenames": "Valle Riquito,Vallerriquito",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700221,
+    "name": "Valle Rico",
+    "alternatenames": "Valle Rico",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700261,
+    "name": "Utira",
+    "alternatenames": "Utira,Utirá",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700269,
+    "name": "Ustupo",
+    "alternatenames": "Concepcion,Concepción,UTU,Ustupo,Ustupo Ogobsucun,Yantupo",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700381,
+    "name": "Tucuti",
+    "alternatenames": "Tucuti,Tucutí",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700393,
+    "name": "Tubuala",
+    "alternatenames": "Tubuala,Tubuala Numero Dos,Tubualá,Tubualá Número Dos",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700433,
+    "name": "Tres Quebradas",
+    "alternatenames": "Tres Quebradas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700486,
+    "name": "Toza",
+    "alternatenames": "Toza",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700538,
+    "name": "Tonosi",
+    "alternatenames": "Tonosi,Tonosí",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700559,
+    "name": "Tole",
+    "alternatenames": "Tole,Tolé",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700563,
+    "name": "Tocumen",
+    "alternatenames": "Tocumen,Tokumen,Токумен",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700572,
+    "name": "Tobobe",
+    "alternatenames": "Tobobe",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700579,
+    "name": "Toabre",
+    "alternatenames": "Toabre,Toabré",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700609,
+    "name": "Tinajas",
+    "alternatenames": "Tinajas,Tinajas Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700620,
+    "name": "Tijeras",
+    "alternatenames": "Tijera,Tijeras",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700740,
+    "name": "Tebario",
+    "alternatenames": "Mariato,Tebario",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700788,
+    "name": "Pueblo Nuevo",
+    "alternatenames": "Pueblo Nuevo,Taimati,Taimatí",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700871,
+    "name": "Sortova",
+    "alternatenames": "Sortoua,Sortova,Sortová",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700878,
+    "name": "Sora",
+    "alternatenames": "Sora,Sorá",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700888,
+    "name": "Sona",
+    "alternatenames": "Sona,Soná",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700892,
+    "name": "Soloy",
+    "alternatenames": "Boca de Soloy,Soloy",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700921,
+    "name": "Sitio Prado",
+    "alternatenames": "Sitio Praco,Sitio Prado",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700931,
+    "name": "Siogui Arriba",
+    "alternatenames": "Siogui Arriba,Sioguí Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700933,
+    "name": "Siogui Abajo",
+    "alternatenames": "Siogui Abajo,Sioguí Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3700992,
+    "name": "Seteganti",
+    "alternatenames": "Seteganti,Setegantí",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701058,
+    "name": "Sardinilla",
+    "alternatenames": "Sardinilla",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701088,
+    "name": "San Vicente de Bique",
+    "alternatenames": "Bique,San Vicente de Bique,Sitio Viejo",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701090,
+    "name": "San Vicente",
+    "alternatenames": "San Vicente",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701093,
+    "name": "Santo Tomas",
+    "alternatenames": "El Tullido,Santo Tomas,Santo Tomás",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701101,
+    "name": "Santo Domingo",
+    "alternatenames": "Santo Domingo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701103,
+    "name": "Santo Domingo",
+    "alternatenames": "Santo Domingo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701117,
+    "name": "Santiago de Veraguas",
+    "alternatenames": "SYP,Santiago,Santiago Veraguas,Santjago de Veragvasa,Veragvaso Santjagas,santiagodebelagwaseu,sheng de ya ge-de bei la gua si,سانتیاگو دے ویراگواس,სანტიაგო-დე-ვერაგუასი,圣地亚哥-德贝拉瓜斯,산티아고데베라과스",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701131,
+    "name": "Santa Rosa Numero Uno",
+    "alternatenames": "Santa Rosa,Santa Rosa Numero 1,Santa Rosa Numero Uno,Santa Rosa Número 1,Santa Rosa Número Uno",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701132,
+    "name": "Santa Rosa",
+    "alternatenames": "Santa Rosa",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701148,
+    "name": "Santa Rita",
+    "alternatenames": "Santa Rita",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701150,
+    "name": "Santa Rita",
+    "alternatenames": "Santa Rita",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701163,
+    "name": "Santa Marta",
+    "alternatenames": "Santa Marta",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701174,
+    "name": "Santa Maria",
+    "alternatenames": "Santa Maria,Santa María",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701186,
+    "name": "Santa Isabel",
+    "alternatenames": "Santa Isabel",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701195,
+    "name": "Santa Fe",
+    "alternatenames": "Santa Fe,Santa Fé",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701196,
+    "name": "Santa Fe",
+    "alternatenames": "SFW,Santa Fe,Santa Fé",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701227,
+    "name": "Santa Cruz",
+    "alternatenames": "Santa Cruz",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701231,
+    "name": "Santa Cruz",
+    "alternatenames": "Santa Cruz",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701239,
+    "name": "Santa Clara",
+    "alternatenames": "Santa Clara",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701240,
+    "name": "Santa Clara",
+    "alternatenames": "Santa Clara",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701256,
+    "name": "Santa Catalina",
+    "alternatenames": "Santa Catalina",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701264,
+    "name": "Santa Ana Arriba",
+    "alternatenames": "Santa Ana Arriba,Tembladera",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701290,
+    "name": "San Pedro del Espino",
+    "alternatenames": "San Pedro,San Pedro del Espino",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701313,
+    "name": "San Pablo Viejo Abajo",
+    "alternatenames": "La Plaza,San Pablo Viejo Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701317,
+    "name": "San Pablo Nuevo",
+    "alternatenames": "San Pablo,San Pablo Nuevo,San Pablo Nuevo Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701329,
+    "name": "San Miguelito",
+    "alternatenames": "San Miguel,San Miguelito",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701345,
+    "name": "San Miguel",
+    "alternatenames": "NMG,San Miguel",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701356,
+    "name": "San Marcelo",
+    "alternatenames": "San Marcelo",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701371,
+    "name": "San Lorenzo",
+    "alternatenames": "San Lorenzo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701424,
+    "name": "San Juan",
+    "alternatenames": "San Juan",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701426,
+    "name": "San Juan",
+    "alternatenames": "Cerrillos,San Jan,San Juan",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701449,
+    "name": "San Jose",
+    "alternatenames": "",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701451,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701454,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701455,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701459,
+    "name": "San Jose",
+    "alternatenames": "San Jose,San José",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701466,
+    "name": "San Ignacio de Tupile",
+    "alternatenames": "Dad Nakued Dupir,Isla Gallina,Kannir Dup,San Ignacio de Tupile",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701469,
+    "name": "San Francisco",
+    "alternatenames": "Nuevo San Francisco,San Francisco,San Francisco de Caleta,San Francisco de la Caleta",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701483,
+    "name": "San Francisco",
+    "alternatenames": "San Francisco",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701484,
+    "name": "San Francisco",
+    "alternatenames": "San Francisco",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701491,
+    "name": "San Felix",
+    "alternatenames": "San Felix,San Félix",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701493,
+    "name": "San Felipe",
+    "alternatenames": "",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701526,
+    "name": "San Carlos",
+    "alternatenames": "San Carlos",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701527,
+    "name": "San Carlos",
+    "alternatenames": "San Carlos",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701544,
+    "name": "San Bartolo",
+    "alternatenames": "San Bartolo",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701565,
+    "name": "San Antonio",
+    "alternatenames": "San Antonio",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701578,
+    "name": "San Andres",
+    "alternatenames": "San Andreas,San Andres,San Andrés",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701603,
+    "name": "Salud",
+    "alternatenames": "Salud,Salud Numero Uno,Salud Número Uno",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701682,
+    "name": "Sabanitas",
+    "alternatenames": "Sabanita,Sabanitas",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701703,
+    "name": "Sabana Grande",
+    "alternatenames": "Sabana Grande",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701704,
+    "name": "Sabana Grande",
+    "alternatenames": "Sabana Grande",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701727,
+    "name": "Rovira Arriba",
+    "alternatenames": "Rovira Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701766,
+    "name": "Rodeo Viejo",
+    "alternatenames": "Rodeo Viejo",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701784,
+    "name": "Valle de Risco",
+    "alternatenames": "Risco,Valle de Risco,Valle de Riscó,Valle del Risco",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701810,
+    "name": "Rio Sereno",
+    "alternatenames": "Rio Sereno,Río Sereno,Sereno",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701816,
+    "name": "Rio Rita",
+    "alternatenames": "Rio Rita,Río Rita",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701856,
+    "name": "Rio Hondo",
+    "alternatenames": "Rio Hondo,Río Hondo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701861,
+    "name": "Rio Hato",
+    "alternatenames": "RIH,Rio Hato,Río Hato",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701867,
+    "name": "Rio Grande",
+    "alternatenames": "Rio Grande,Río Grande,Vaca del Monte",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701868,
+    "name": "Rio Grande",
+    "alternatenames": "Rio Grande,Río Grande",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701869,
+    "name": "Rio Grande",
+    "alternatenames": "Rio Grande,Río Grande",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701870,
+    "name": "Gatun",
+    "alternatenames": "Gatun,Gatún,Rio Gatun,Río Gatún",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701874,
+    "name": "Rio Duque",
+    "alternatenames": "Rio Duque,Río Duque",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701882,
+    "name": "Rio de Jesus",
+    "alternatenames": "Rio de Jesus,Río de Jesús",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701889,
+    "name": "Rio Congo",
+    "alternatenames": "El Arado,Rio Congo,Río Congo",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701914,
+    "name": "Rio Alejandro",
+    "alternatenames": "Rio Alejandro,Río Alejandro",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701917,
+    "name": "Rio Abajo",
+    "alternatenames": "Rio Abajo,Río Abajo",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701934,
+    "name": "Rincon Hondo",
+    "alternatenames": "Rincon Hondo,Rincón Hondo",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701951,
+    "name": "Rincon",
+    "alternatenames": "Rincon,Rincon de Gualaca,Rincón,Rincón de Gualaca",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3701994,
+    "name": "Remedios",
+    "alternatenames": "Remedios",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702057,
+    "name": "Panama City",
+    "alternatenames": "Arco Iris,Rainbow City,Rambow City,Silver City",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702098,
+    "name": "Querevalo",
+    "alternatenames": "Querebalo,Querevalo,Querevalos,Querévalo,Querévalos",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702232,
+    "name": "Quebrada de Piedra",
+    "alternatenames": "Quebrada Piedra,Quebrada de Piedra",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702238,
+    "name": "Quebrada de Oro",
+    "alternatenames": "Quebrada de Oro",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702240,
+    "name": "Quebrada del Rosario Arriba",
+    "alternatenames": "Quebrada del Rosario,Quebrada del Rosario Arriba",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702245,
+    "name": "Quebrada de Loro",
+    "alternatenames": "Quebrada Loro,Quebrada de Loro",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702269,
+    "name": "Canoa",
+    "alternatenames": "Canoa,Quebrada Canoa",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702276,
+    "name": "Quebrada Bonita Adentro",
+    "alternatenames": "Quebrada Bonita Adentro",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702313,
+    "name": "Punta Robalo",
+    "alternatenames": "Punta Robalo,Punta Rovalo,Punta Róbalo,Rabala,Robala,Robalo,Rovalo",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702321,
+    "name": "Punta Laurel",
+    "alternatenames": "Punta Laurel",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702332,
+    "name": "Punta Pena",
+    "alternatenames": "Chiriquicito Numero Tres,Chiriquicito Número Tres,Punta Pena,Punta Peña,Punta de Pena,Punta de Peña",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702342,
+    "name": "Burica",
+    "alternatenames": "Burica,Punta de Burica",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702371,
+    "name": "Puerto Vidal",
+    "alternatenames": "Puerto Vidal",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702384,
+    "name": "Puerto Pilon",
+    "alternatenames": "Puerto Pilon,Puerto Pilón",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702390,
+    "name": "Puerto Obaldia",
+    "alternatenames": "Obaldia,PUE,Puerto Obaldia,Puerto Obaldía",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702412,
+    "name": "Puerto Escondido",
+    "alternatenames": "Puerto Escondido",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702427,
+    "name": "Puerto Caimito",
+    "alternatenames": "Chorrera Landing,Port of La Chorrera,Puerto Caimito,Puerto Chorrera,Puerto de Chorrera,Puerto de la Chorrera",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702431,
+    "name": "Puerto Armuelles",
+    "alternatenames": "AML,Armuelles,Puerto Armuelles,Rabo de Puerco",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702448,
+    "name": "Pueblo Viejo",
+    "alternatenames": "Pueblo Viejo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702498,
+    "name": "Pucuro",
+    "alternatenames": "Pucro,Pucuro,Púcuro",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702509,
+    "name": "Progreso",
+    "alternatenames": "",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702534,
+    "name": "Potuga",
+    "alternatenames": "Potuga",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702538,
+    "name": "Potrero Grande",
+    "alternatenames": "Potrero Grande",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702542,
+    "name": "Potrero de Cana",
+    "alternatenames": "Potrero de Cana,Potrero de Caña",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702548,
+    "name": "Potrerillos Arriba",
+    "alternatenames": "Potrerillos Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702550,
+    "name": "Potrerillos Abajo",
+    "alternatenames": "Potrerillos,Potrerillos Abajo,Potrreillo Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702577,
+    "name": "Portobelo",
+    "alternatenames": "Portobelas,Portobello,Portobelo,Puerto Bello,bo tuo wei luo,poleutobello,porutobero,pwrtwblw,Портобело,פורטובלו,პორტობელო,ポルトベロ,波托韦洛,포르토벨로",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702579,
+    "name": "Portobelillo",
+    "alternatenames": "Porto Bello,Portobelillo",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702601,
+    "name": "Ponuga",
+    "alternatenames": "Ponuga",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702631,
+    "name": "Pocri",
+    "alternatenames": "Pocri,Pocrí",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702632,
+    "name": "Pocri",
+    "alternatenames": "Pocri,Pocrí,Porci",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702637,
+    "name": "Plaza de Caisan",
+    "alternatenames": "Plaza de Caisan,Plaza de Caisán",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702647,
+    "name": "Playon Chico",
+    "alternatenames": "PYC,Plajon Chiko,Playon Chico,Playón Chico,Плайон Чико",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702661,
+    "name": "Playa Leona",
+    "alternatenames": "La Playa,Playa Leon,Playa Leona,Playa Leone",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702688,
+    "name": "Playa Chiquita",
+    "alternatenames": "Playa Chiquita",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702748,
+    "name": "Plan de Chorcha",
+    "alternatenames": "Plan de Chorcha,Plan de Galera",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702818,
+    "name": "Pinogana",
+    "alternatenames": "Pinogana",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702882,
+    "name": "Piedras Gordas",
+    "alternatenames": "Piedras Gordas,Piedras Goroas",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702883,
+    "name": "Piedras Gordas",
+    "alternatenames": "Piedras Gordas",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3702901,
+    "name": "Piedra Roja",
+    "alternatenames": "Piedra Roja",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703011,
+    "name": "Pese",
+    "alternatenames": "Pese,Pesé",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703059,
+    "name": "Perales",
+    "alternatenames": "Perales",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703068,
+    "name": "Penonome",
+    "alternatenames": "Penonome,Penonomé",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703093,
+    "name": "Penas Chatas",
+    "alternatenames": "Penas Chatas,Peñas Chatas",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703125,
+    "name": "Pena Blanca",
+    "alternatenames": "Pena Blanca,Peña Blanca",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703126,
+    "name": "Pena Blanca",
+    "alternatenames": "Pena Blanca,Peña Blanca",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703227,
+    "name": "Pedregal",
+    "alternatenames": "Pedregal",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703229,
+    "name": "Pedregal",
+    "alternatenames": "Pedregal,Puerto Pedregal",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703239,
+    "name": "Pedasi",
+    "alternatenames": "PDM,Pedasi,Pedasí",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703250,
+    "name": "Paya",
+    "alternatenames": "Paya",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703346,
+    "name": "Parque Lefevre",
+    "alternatenames": "Parque Lefevre,Parque Lefrevre",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703349,
+    "name": "Paritilla",
+    "alternatenames": "Paritilla",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703354,
+    "name": "Parita",
+    "alternatenames": "Parita",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703358,
+    "name": "Paris",
+    "alternatenames": "El Sucio,Paris,París",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703374,
+    "name": "Paraiso",
+    "alternatenames": "Paraiso,Paraíso",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703375,
+    "name": "Paraiso",
+    "alternatenames": "Paraiso,Paraíso",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703443,
+    "name": "Panama",
+    "alternatenames": "Ciudad de Panama,Ciudad de Panamá,Ciutat de Panama,Ciutat de Panamà,PTY,Panama,Panama City,Panama Hiria,Panama by,Panama-Stadt,Panama-Urbo,Panama-stad,Panamurbo,Panamá,Pole tou Panama,Ziuda de Panama,Ziudá de Panamá,ba na ma cheng,panama si,panama siti,panamashiti,panamasiti,pnmh syty,shhr panama,Πόλη του Παναμά,Панама,פנמה סיטי,شهر پاناما,पनामा सिटी,ปานามาซิตี,ፓናማ ከተማ,パナマシティ,巴拿馬城,파나마 시,파나마시티",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703478,
+    "name": "Palo Grande",
+    "alternatenames": "Palo Grande",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703497,
+    "name": "Palmira Centro",
+    "alternatenames": "Palmira,Palmira Centro,Palmiras Centro",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703503,
+    "name": "Palmira",
+    "alternatenames": "Culebra,Palmira",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703505,
+    "name": "Palmira",
+    "alternatenames": "",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703507,
+    "name": "Palmira",
+    "alternatenames": "Palmira",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703523,
+    "name": "Palmas Bellas",
+    "alternatenames": "Lagarto,Palmas Bellas",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703573,
+    "name": "Palenque",
+    "alternatenames": "Palenque",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703616,
+    "name": "Paja de Sombrero",
+    "alternatenames": "Paja de Sombrero",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703647,
+    "name": "Pacora",
+    "alternatenames": "Pacora",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703745,
+    "name": "Ola",
+    "alternatenames": "Ola,Olá",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703786,
+    "name": "Ocu",
+    "alternatenames": "Ocu,Ocú",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703818,
+    "name": "Nuevo Vigia",
+    "alternatenames": "Nuevo Vigia,Nuevo Vigía,Vigia",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703820,
+    "name": "Nuevo San Juan",
+    "alternatenames": "Nuevo San Juan",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703828,
+    "name": "Nuevo Emperador",
+    "alternatenames": "Nuevo Emperador,Paja",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703831,
+    "name": "Nuevo Chagres",
+    "alternatenames": "Nuevo Chagres",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703833,
+    "name": "Nuevo Arraijan",
+    "alternatenames": "Nueva Arraijan,Nueva Arraiján,Nuevo Arraijan,Nuevo Arraiján",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703837,
+    "name": "Nueva Providencia",
+    "alternatenames": "New Providence,Nueva Providencia",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703839,
+    "name": "Nueva Gorgona",
+    "alternatenames": "Gorgona,Nueva Gorgona",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703843,
+    "name": "Nueva Arenosa",
+    "alternatenames": "Nueva Arenosa",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703847,
+    "name": "Nuestro Amo",
+    "alternatenames": "Nuestro Amo",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703854,
+    "name": "Nuario",
+    "alternatenames": "Nuario",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703876,
+    "name": "Nombre de Dios",
+    "alternatenames": "Nombre de Dios",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703938,
+    "name": "Nata",
+    "alternatenames": "Nata,Natá",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3703946,
+    "name": "Nargana",
+    "alternatenames": "NGN,Nargana,Narganá,Rio Diablo,Rio Diablo Village,Río Diablo,Yandup",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704029,
+    "name": "Mulatupo",
+    "alternatenames": "Gallinazo,Isla Gallinazo,MPP,Mulatupo,Mulatupo Sasardi,Mulatupo Sasardí",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704073,
+    "name": "Morti",
+    "alternatenames": "Boca de Morti,Boca de Mortí,Iquinina,Morti,Morti Abajo,Mortinak,Mortí,Mortí Abajo",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704123,
+    "name": "Montijo",
+    "alternatenames": "Montijo",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704138,
+    "name": "Monte Lirio",
+    "alternatenames": "Monte Lirio",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704154,
+    "name": "La Montanuela",
+    "alternatenames": "La Montanuela,La Montañuela,Montanuela,Montañuela",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704174,
+    "name": "Monjaras",
+    "alternatenames": "Monjaras,Monjarás",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704187,
+    "name": "Monagrillo",
+    "alternatenames": "Monagrillo",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704231,
+    "name": "Mogollon",
+    "alternatenames": "Mogollon,Mogollón",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704255,
+    "name": "Miramar",
+    "alternatenames": "Miramar",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704256,
+    "name": "Miramar",
+    "alternatenames": "Miramar",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704308,
+    "name": "Miguel de La Borda",
+    "alternatenames": "Donoso,Miguel de La Borda",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704327,
+    "name": "Meteti",
+    "alternatenames": "Meteti,Metety,Metetí",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704348,
+    "name": "Mendoza",
+    "alternatenames": "Mendoza",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704460,
+    "name": "Mata del Nance",
+    "alternatenames": "Mata del Nance",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704547,
+    "name": "Maria Chiquita",
+    "alternatenames": "Maria Chiquita,María Chiquita",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704550,
+    "name": "Mariabe",
+    "alternatenames": "Mariabe,Mariabé",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704571,
+    "name": "Margarita",
+    "alternatenames": "Las Margaritas,Margarita,Margarita-Escondido",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704612,
+    "name": "Maraca",
+    "alternatenames": "Maraca",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704874,
+    "name": "Macaracas",
+    "alternatenames": "Macaracas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704929,
+    "name": "Los Valles",
+    "alternatenames": "Los Valles",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3704964,
+    "name": "Los Santos",
+    "alternatenames": "Los Santos",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705024,
+    "name": "Los Pozos",
+    "alternatenames": "Los Pozo,Los Pozos",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705131,
+    "name": "Los Olivos",
+    "alternatenames": "Los Olivos",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705156,
+    "name": "Los Naranjos",
+    "alternatenames": "Los Naranjos",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705229,
+    "name": "Los Lotes",
+    "alternatenames": "Los Lotes",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705238,
+    "name": "Los Llanitos",
+    "alternatenames": "Los Llanitos",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705280,
+    "name": "Los Higos",
+    "alternatenames": "Los Higos",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705371,
+    "name": "Los Corotues",
+    "alternatenames": "Los Corotues,Los Corotúes",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705403,
+    "name": "Los Cerros de Paja",
+    "alternatenames": "Cerro de Paja,Los Cerros de Paja",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705417,
+    "name": "Los Cerritos",
+    "alternatenames": "Cerrillos,Cerritos,Los Cerritos",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705445,
+    "name": "Los Castillos",
+    "alternatenames": "Los Castillos",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705446,
+    "name": "Los Castillos",
+    "alternatenames": "Los Castillos",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705464,
+    "name": "Los Canelos",
+    "alternatenames": "Los Canelos",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705533,
+    "name": "Los Asientos",
+    "alternatenames": "Los Asientos",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705542,
+    "name": "Los Angeles",
+    "alternatenames": "Los Angeles,Los Ángeles",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705544,
+    "name": "Los Angeles",
+    "alternatenames": "Los Angeles,Los Ángeles",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705549,
+    "name": "Los Anastacios",
+    "alternatenames": "Los Anastacios",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705562,
+    "name": "Los Algarrobos",
+    "alternatenames": "Algarrabo,Algarrobo,Los Algarrobos",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705563,
+    "name": "Los Algarrobos",
+    "alternatenames": "Los Algarrobos",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705666,
+    "name": "Lola",
+    "alternatenames": "Lola,Lolá",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705678,
+    "name": "Buabidi",
+    "alternatenames": "Buabidi,Buabti,Buäbti,Llano Tugri,Llano Tugrí",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705688,
+    "name": "Llano Nopo",
+    "alternatenames": "Llano Nopa,Llano Nopo,Llano Ñopa,Llano Ñopo",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705691,
+    "name": "Llano Marin",
+    "alternatenames": "Llano Marin,Llano Marín",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705702,
+    "name": "Llano Largo",
+    "alternatenames": "Llano Largo",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705710,
+    "name": "Llano Largo",
+    "alternatenames": "Llano Largo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705720,
+    "name": "Llano Grande",
+    "alternatenames": "Llano Grande",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705725,
+    "name": "Llano Grande",
+    "alternatenames": "Llano Grande",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705735,
+    "name": "Llano Grande",
+    "alternatenames": "Llano Grade,Llano Grande",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705737,
+    "name": "Llano Grande",
+    "alternatenames": "Llano Grande",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705743,
+    "name": "Llano de Piedra",
+    "alternatenames": "Llano de Piedra",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705768,
+    "name": "Llano de La Cruz",
+    "alternatenames": "Juan La Cruz,Juan de la Cruz,Llano de La Cruz",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705779,
+    "name": "Llano Bonito",
+    "alternatenames": "Llano Bonito",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705800,
+    "name": "Llano Abajo",
+    "alternatenames": "Llano Abajo,Llano Bajo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705836,
+    "name": "Limones",
+    "alternatenames": "Limones,Puerto Limones,Puerto Limónes",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705840,
+    "name": "Limon de Tijeras",
+    "alternatenames": "Limon de Tijeras,Limón de Tijeras",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705894,
+    "name": "Lidice",
+    "alternatenames": "Lidice,Lídice",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705906,
+    "name": "Leones Arriba",
+    "alternatenames": "Leones Arriba",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705907,
+    "name": "Leones Arriba",
+    "alternatenames": "Leones Arriba",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3705969,
+    "name": "La Yeguada",
+    "alternatenames": "La Yeguada",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706043,
+    "name": "La Tronosa",
+    "alternatenames": "La Tronosa",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706052,
+    "name": "La Trinidad",
+    "alternatenames": "La Trinidad,La Trinidad Obispo,Trinidad",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706091,
+    "name": "La Tiza",
+    "alternatenames": "La Tiza",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706155,
+    "name": "Las Uvas",
+    "alternatenames": "Las Uvas",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706185,
+    "name": "Las Trancas",
+    "alternatenames": "Las Trancas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706208,
+    "name": "Las Tablas",
+    "alternatenames": "Las Tablas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706214,
+    "name": "Las Sabanas",
+    "alternatenames": "Las Sabanas",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706278,
+    "name": "Las Palmitas",
+    "alternatenames": "Las Palmitas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706292,
+    "name": "Las Palmas",
+    "alternatenames": "Las Palmas",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706294,
+    "name": "Las Palmas",
+    "alternatenames": "Las Palmas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706305,
+    "name": "Las Ollas Arriba",
+    "alternatenames": "Las Ollas,Las Ollas Arriba,Las Ollas Arribas,Ollas Arriba",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706313,
+    "name": "La Soledad",
+    "alternatenames": "La Soledad",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706346,
+    "name": "Las Minas",
+    "alternatenames": "Las Minas",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706347,
+    "name": "Las Minas",
+    "alternatenames": "Las Minas",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706386,
+    "name": "Las Marias",
+    "alternatenames": "Las Marias",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706396,
+    "name": "Las Margaritas",
+    "alternatenames": "La Margarita,Las Margaritas",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706410,
+    "name": "Las Lomas",
+    "alternatenames": "Las Lomas,Llano del Medio",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706431,
+    "name": "Lajas de Tole",
+    "alternatenames": "Laja de Tole,Lajas de Tole,Lajas de Tolé,Las Lajas de Tole,Las Lajas de Tolé",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706455,
+    "name": "Las Lajas",
+    "alternatenames": "Las Lajas",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706459,
+    "name": "Las Lajas",
+    "alternatenames": "Lajas,Las Lajas",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706482,
+    "name": "Las Huacas del Quije",
+    "alternatenames": "Huacas del Quije,Las Huacas,Las Huacas del Quije",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706493,
+    "name": "Las Huacas",
+    "alternatenames": "La Huacas,Las Huacas",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706520,
+    "name": "Las Guabas",
+    "alternatenames": "Las Guaba,Las Guabas",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706521,
+    "name": "Las Guabas",
+    "alternatenames": "Guabas,Las Guabas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706567,
+    "name": "Las Cumbres",
+    "alternatenames": "Las Cumbres",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706575,
+    "name": "Altos de San Francisco",
+    "alternatenames": "Altos de San Francisco,Las Cruces,Las Cruces de San Francisco,San Francisco",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706584,
+    "name": "Las Cruces",
+    "alternatenames": "Las Cruces",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706590,
+    "name": "Las Colinas",
+    "alternatenames": "Las Colinas",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706614,
+    "name": "Las Cabras",
+    "alternatenames": "Las Cabras",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706724,
+    "name": "La Raya de Santa Maria",
+    "alternatenames": "La Raya de Santa Maria,La Raya de Santa María,La Victoria Numero Uno,La Victoria Número Uno",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706727,
+    "name": "La Raya de Calobre",
+    "alternatenames": "La Raya de Calobre,Raya de Calobre",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706765,
+    "name": "Gobernadora",
+    "alternatenames": "Gobernadora,La Punta",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706845,
+    "name": "Pitaloza Arriba",
+    "alternatenames": "La Pitaloza Arriba,Pitaloza Arriba",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706931,
+    "name": "La Pintada",
+    "alternatenames": "La Pintada",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3706974,
+    "name": "La Pena",
+    "alternatenames": "La Pena,La Peña",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707006,
+    "name": "La Pasera",
+    "alternatenames": "La Pasera,Llano del Hato",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707058,
+    "name": "La Palma",
+    "alternatenames": "La Palma,PLP",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707063,
+    "name": "La Palma",
+    "alternatenames": "La Palma",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707064,
+    "name": "La Palma",
+    "alternatenames": "La Palma",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707150,
+    "name": "La Mitra",
+    "alternatenames": "La Mitra",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707198,
+    "name": "La Miel",
+    "alternatenames": "La Miel",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707220,
+    "name": "La Mesa",
+    "alternatenames": "La Mesa",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707227,
+    "name": "La Mesa",
+    "alternatenames": "La Mesa,Las Mesa",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707228,
+    "name": "La Mesa",
+    "alternatenames": "La Mesa",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707311,
+    "name": "La Loma",
+    "alternatenames": "La Loma",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707318,
+    "name": "Quebro",
+    "alternatenames": "La Loma,Quebro",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707380,
+    "name": "La Laja",
+    "alternatenames": "La Laja",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707392,
+    "name": "La Laguna",
+    "alternatenames": "La Laguna",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707393,
+    "name": "La Laguna",
+    "alternatenames": "La Laguna",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707398,
+    "name": "La Laguna",
+    "alternatenames": "La Laguna",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707461,
+    "name": "Lajas Adentro",
+    "alternatenames": "Lajas Adentro,Las Adentro",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707467,
+    "name": "Lajamina",
+    "alternatenames": "Lajamina",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707568,
+    "name": "La Herradura",
+    "alternatenames": "La Herradura",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707590,
+    "name": "La Guinea",
+    "alternatenames": "Guinea,La Guinea",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707659,
+    "name": "Lagarterita",
+    "alternatenames": "Amador,Lagarterita,Lagarterito",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707674,
+    "name": "La Garceana",
+    "alternatenames": "La Garceana",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707736,
+    "name": "La Estrella",
+    "alternatenames": "La Estrella",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707752,
+    "name": "La Espigadilla",
+    "alternatenames": "La Espigadilla",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707758,
+    "name": "La Esperanza",
+    "alternatenames": "La Esperanza",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707762,
+    "name": "La Esmeralda",
+    "alternatenames": "Esmeralda,Hafafa,La Esmeralda,Mafafa",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707770,
+    "name": "La Ermita",
+    "alternatenames": "Ermita,Hermita,La Ermita",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707778,
+    "name": "La Ensenada",
+    "alternatenames": "La Ensenada",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707784,
+    "name": "La Enea",
+    "alternatenames": "La Enea",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707794,
+    "name": "La Encantada",
+    "alternatenames": "Alcarreto,La Encantada",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707899,
+    "name": "La Concepcion",
+    "alternatenames": "Concepcion,Concepción,La Concepcion,La Concepción",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707921,
+    "name": "La Colorada",
+    "alternatenames": "La Colorada",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707924,
+    "name": "La Colorada",
+    "alternatenames": "La Colorada",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707961,
+    "name": "La Chorrera",
+    "alternatenames": "Chorrera,La Chorrera",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3707999,
+    "name": "La Carrillo",
+    "alternatenames": "La Carrillo,Los Carrillos",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708062,
+    "name": "La Cabuya",
+    "alternatenames": "Cabuya,La Cabuya",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708066,
+    "name": "La Cabima",
+    "alternatenames": "La Cabima,La Cabina",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708107,
+    "name": "La Boca del Guasimo",
+    "alternatenames": "Boca del Guasimo,Boca del Guásimo,La Boca del Guasimo,La Boca del Guásimo",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708171,
+    "name": "La Arena",
+    "alternatenames": "La Arena",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708175,
+    "name": "La Arena",
+    "alternatenames": "La Arena",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708267,
+    "name": "Juay",
+    "alternatenames": "Juay,Las Mareas",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708306,
+    "name": "Juan Diaz",
+    "alternatenames": "Juan Diaz,Juan Díaz",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708307,
+    "name": "Juan Diaz",
+    "alternatenames": "Juan Diaz,Juan Díaz",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708425,
+    "name": "Jaramillo Arriba",
+    "alternatenames": "Jaramillo Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708432,
+    "name": "Jaque",
+    "alternatenames": "JQE,Jague,Jagué,Jaque,Jaqué,Jarque",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708616,
+    "name": "Horconcitos",
+    "alternatenames": "Horconcitos,Horoncitos",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708728,
+    "name": "Hato Pilon",
+    "alternatenames": "Hato Pilon,Hato Pilón",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708731,
+    "name": "Hato Montana",
+    "alternatenames": "",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708735,
+    "name": "Hato Juli",
+    "alternatenames": "Hato Juli,Hato Julí,Los Juli,Los Julí",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708737,
+    "name": "Hato Jobo",
+    "alternatenames": "Hato Jobo",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708742,
+    "name": "Hato Culantro",
+    "alternatenames": "Hato Culantro",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708745,
+    "name": "Hato Corotu",
+    "alternatenames": "Hato Corotu,Hato Corotú",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708747,
+    "name": "Hato Chami",
+    "alternatenames": "Hato Chame,Hato Chami,Hato Chamí",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708772,
+    "name": "Guzman",
+    "alternatenames": "Guzman,Guzmán",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708796,
+    "name": "Las Guias Abajo",
+    "alternatenames": "Guias Abajo,Guías Abajo,Las Guias Abajo,Las Guías Abajo",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708844,
+    "name": "Guayabito",
+    "alternatenames": "El Guayabito,Guayabito",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708853,
+    "name": "Guayabal",
+    "alternatenames": "Guayabal",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708892,
+    "name": "Guarumal",
+    "alternatenames": "Guarumal",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708894,
+    "name": "Guarumal",
+    "alternatenames": "Guarumal",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708904,
+    "name": "Guarare Arriba",
+    "alternatenames": "Guarare Arriba,Guararé Arriba",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708911,
+    "name": "Guarare",
+    "alternatenames": "Guarare,Guararé",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708948,
+    "name": "Gualaca",
+    "alternatenames": "Gualaca",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708954,
+    "name": "Guadalupe",
+    "alternatenames": "Guadalupe,La Laguna",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708974,
+    "name": "Guaca Arriba",
+    "alternatenames": "Guaca Arriba,Guacá Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3708989,
+    "name": "Guabito",
+    "alternatenames": "Guabito",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709011,
+    "name": "Guabal",
+    "alternatenames": "Guabal",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709218,
+    "name": "Gonzalo Vasquez",
+    "alternatenames": "Gonzalo Vasquez,Gonzalo Vásquez",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709228,
+    "name": "Gomez",
+    "alternatenames": "Gomez,Gomez Arriba,Gómez,Gómez Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709242,
+    "name": "Gobea",
+    "alternatenames": "Gobea,Guabilla",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709285,
+    "name": "Gatuncillo",
+    "alternatenames": "Gatuncillo",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709296,
+    "name": "Gatu",
+    "alternatenames": "Gatu,Gatuncillo,Gatuncito,Gatú",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709332,
+    "name": "Puerto Lindo",
+    "alternatenames": "Garrote,Puerto Lindo",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709361,
+    "name": "Garachine",
+    "alternatenames": "GHE,Garachine,Garachiné",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709509,
+    "name": "Flores",
+    "alternatenames": "Flores",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709569,
+    "name": "Finca Blanco",
+    "alternatenames": "Blanco,Finca Blanco,Finca Blanco Numero Uno,Finca Blanco Número Uno",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709703,
+    "name": "Espave",
+    "alternatenames": "El Espave,El Espavé,Espave,Espavé",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709742,
+    "name": "Escobal",
+    "alternatenames": "Escobal",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709823,
+    "name": "El Valle de La Union",
+    "alternatenames": "El Valle de La Union,El Valle de La Unión,Valle La Union,Valle La Unión",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709830,
+    "name": "El Uvito",
+    "alternatenames": "El Uvito",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709853,
+    "name": "El Toro",
+    "alternatenames": "El Toro",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709902,
+    "name": "El Tejar",
+    "alternatenames": "El Tejar",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709939,
+    "name": "El Silencio",
+    "alternatenames": "El Silencio",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3709945,
+    "name": "El Sesteadero",
+    "alternatenames": "El Sesteadero,Sesteadero",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710026,
+    "name": "El Roble",
+    "alternatenames": "El Roble",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710038,
+    "name": "El Rincon",
+    "alternatenames": "El Rincon,El Rincón",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710040,
+    "name": "El Rincon",
+    "alternatenames": "El Rincon,El Rincón",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710045,
+    "name": "El Retiro",
+    "alternatenames": "El Retiro",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710066,
+    "name": "El Quiteno",
+    "alternatenames": "El Quiteno,El Quiteño,Quinteno,Quinteño,Quiteno",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710087,
+    "name": "El Progreso",
+    "alternatenames": "El Progreso",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710089,
+    "name": "El Prado",
+    "alternatenames": "El Prado",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710107,
+    "name": "El Potrero",
+    "alternatenames": "El Potrero",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710108,
+    "name": "El Potrero",
+    "alternatenames": "El Potrero",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710114,
+    "name": "El Porvenir",
+    "alternatenames": "El Porvenir,PVE",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710152,
+    "name": "El Piro",
+    "alternatenames": "El Piro,El Piro Numero Uno,El Piro Número Uno",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710171,
+    "name": "Pilon",
+    "alternatenames": "El Pilon,El Pilón,Pilon,Pilón",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710177,
+    "name": "El Picador",
+    "alternatenames": "El Picador",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710211,
+    "name": "El Penon",
+    "alternatenames": "El Penon,El Peñón",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710225,
+    "name": "El Pedregoso",
+    "alternatenames": "El Pedregoso,Pedregoso",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710226,
+    "name": "El Pedregoso",
+    "alternatenames": "El Pedregoso,Pedregoso",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710277,
+    "name": "El Pantano",
+    "alternatenames": "El Pantano",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710304,
+    "name": "El Pajaro",
+    "alternatenames": "El Pajaro,El Pájaro",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710305,
+    "name": "El Pajaro",
+    "alternatenames": "El Pajaro,El Pájaro,Pajaro",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710367,
+    "name": "El Nancito",
+    "alternatenames": "El Nancito,Nancito",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710377,
+    "name": "El Munoz",
+    "alternatenames": "El Munoz,El Muñoz",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710417,
+    "name": "El Maria",
+    "alternatenames": "El Maria,El María",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710424,
+    "name": "El Maranon",
+    "alternatenames": "El Maranon,El Marañón,Maranon,Marañon",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710439,
+    "name": "El Manantial",
+    "alternatenames": "El Manantial",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710470,
+    "name": "Salto Dupi",
+    "alternatenames": "El Machin,El Machín,Salto Dupi,Salto Dupi Numero Uno,Salto Dupí,Salto Dupí Número Uno",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710481,
+    "name": "El Macano",
+    "alternatenames": "El Macano",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710534,
+    "name": "El Limon",
+    "alternatenames": "El Limon,El Limón",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710540,
+    "name": "Libano",
+    "alternatenames": "El Libano,El Líbano,Libano,Líbano",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710668,
+    "name": "El Higo",
+    "alternatenames": "El Higo",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710694,
+    "name": "El Hato",
+    "alternatenames": "El Hato",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710761,
+    "name": "El Guasimo",
+    "alternatenames": "El Guasimo,El Guásimo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710785,
+    "name": "El Guabo",
+    "alternatenames": "El Guabo",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710808,
+    "name": "El Giral",
+    "alternatenames": "El Giral,Giral,Jiral",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710855,
+    "name": "Farallon",
+    "alternatenames": "El Farallon del Chiru,El Farallón del Chirú,Farallon,Farallón,Playa del Farallon,Playa del Farallón",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710864,
+    "name": "El Espino de Santa Rosa",
+    "alternatenames": "El Espino,El Espino de Santa Rosa,Espino",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710867,
+    "name": "El Espino Amarillo",
+    "alternatenames": "El Espino Amarillo,Espino Amarillo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710875,
+    "name": "El Espino",
+    "alternatenames": "El Espino",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710877,
+    "name": "El Espino",
+    "alternatenames": "El Espino,Espino",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710887,
+    "name": "El Espinal",
+    "alternatenames": "El Espinal,Espinal",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710910,
+    "name": "Entradero",
+    "alternatenames": "El Entradero,El Entradero Marica,Entradero",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710920,
+    "name": "El Empalme",
+    "alternatenames": "El Empalme,Empalme",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710923,
+    "name": "El Ejido",
+    "alternatenames": "Ejido,El Egido,El Ejido",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710961,
+    "name": "El Cristo",
+    "alternatenames": "El Cristo",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710978,
+    "name": "El Cortezo",
+    "alternatenames": "Cortezo,El Cortezo",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3710981,
+    "name": "El Cortezo",
+    "alternatenames": "Corteza,Cortezo,El Cortezo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711009,
+    "name": "El Cope",
+    "alternatenames": "Cope,Copé,El Cope,El Copé",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711011,
+    "name": "El Cope",
+    "alternatenames": "El Cope,El Copé",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711056,
+    "name": "El Coco",
+    "alternatenames": "Coco,El Coco",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711059,
+    "name": "El Coco",
+    "alternatenames": "El Coco",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711068,
+    "name": "El Cocla",
+    "alternatenames": "El Cocla,El Coclá",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711073,
+    "name": "El Cocal",
+    "alternatenames": "Cacal,El Cocal",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711125,
+    "name": "El Chorrillo",
+    "alternatenames": "Chorrillo,El Chorrillo",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711133,
+    "name": "El Chiru",
+    "alternatenames": "Chiru,Chirú,El Chiru,El Chirú",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711182,
+    "name": "El Cedro",
+    "alternatenames": "El Cedro",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711211,
+    "name": "El Carate",
+    "alternatenames": "Carate,El Carate",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711223,
+    "name": "El Capuri",
+    "alternatenames": "El Capuri,El Capurí",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711240,
+    "name": "El Cano",
+    "alternatenames": "El Cano,El Caño",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711249,
+    "name": "El Canafistulo",
+    "alternatenames": "El Canafistulo,El Cañafístulo",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711272,
+    "name": "El Calabacito",
+    "alternatenames": "El Calabacito",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711302,
+    "name": "Cacao",
+    "alternatenames": "Cacao,El Cacao",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711308,
+    "name": "El Cacao",
+    "alternatenames": "Cacao,El Cacao",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711371,
+    "name": "El Bebedero",
+    "alternatenames": "Bebedero,El Bebedero",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711381,
+    "name": "El Barrito",
+    "alternatenames": "El Barrito",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711416,
+    "name": "El Barrero",
+    "alternatenames": "El Barrero",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711438,
+    "name": "Cerro Banco",
+    "alternatenames": "Cerro Banco,El Banco",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711454,
+    "name": "El Bale",
+    "alternatenames": "El Bale",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711514,
+    "name": "El Alto",
+    "alternatenames": "El Alto",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711572,
+    "name": "Dos Rios",
+    "alternatenames": "Dos Rios,Dos Rios Abajo,Dos Ríos,Dos Ríos Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711618,
+    "name": "Dolega District",
+    "alternatenames": "Dolega",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711631,
+    "name": "Divala",
+    "alternatenames": "Davala,Davalá,Divala,Divalá",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711668,
+    "name": "David",
+    "alternatenames": "Ciudad de David,DAV,David,Davida,Davidas,Dehvid,San Jose de David,San José de David,dabiddo,dabideu,dai wei,davidi,dwyd,Давид,Дэвид,דויד,ڈیوڈ، چیرکی,დავიდი,ダビッド,戴维,다비드",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711694,
+    "name": "Kusapin",
+    "alternatenames": "Cusapin,Cusapín,Kusapin,Kusapín",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711699,
+    "name": "Curundu",
+    "alternatenames": "Curundu,Curundu Army Reservation,Curundú",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711723,
+    "name": "Llano Culebra",
+    "alternatenames": "Culebra,Llano Culebra",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711738,
+    "name": "Cuipo",
+    "alternatenames": "Cuipo",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711749,
+    "name": "Cucunati",
+    "alternatenames": "Cucunati,Cucunatí",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711796,
+    "name": "Cuango",
+    "alternatenames": "Cuango",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711828,
+    "name": "Cristobal",
+    "alternatenames": "Christobal,Cristobal,Cristóbal,ke li si tuo fu,克里斯托弗",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711923,
+    "name": "Corozal",
+    "alternatenames": "Coroza,Corozal",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3711968,
+    "name": "Cordillera",
+    "alternatenames": "Cordillera,Cordillera Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712076,
+    "name": "Colon",
+    "alternatenames": "Aspinwall,Ciudad de Colon,Ciudad de Colón,Colon,Colón,Kolon,Kolona,Kolonas,ONX,gao lang,ke long,kollon,koron,kwlwn  panama,qwlwn,Колон,Կոլոն,קולון,کولون، پاناما,კოლონი,コロン,告郎,科隆,콜론",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712158,
+    "name": "Cocle del Norte",
+    "alternatenames": "Cocle del Norte,Coclé del Norte",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712161,
+    "name": "Coclecito",
+    "alternatenames": "Coclecito",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712164,
+    "name": "Cocle",
+    "alternatenames": "Cocle,Coclé",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712169,
+    "name": "Cochea Abajo",
+    "alternatenames": "Cochea Abajo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712225,
+    "name": "Ciricito de Los Sotos",
+    "alternatenames": "Ciri de Los Sotos,Ciricito Los Sotos,Ciricito de Los Sotos,Cirí de Los Sotos",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712280,
+    "name": "Churuquita Grande",
+    "alternatenames": "Churiquita Grande,Churuquita Grande",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712281,
+    "name": "Churuquita Chiquita",
+    "alternatenames": "Chiquita,Churiquita Chiquita,Churuquita,Churuquita Chiquita",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712291,
+    "name": "Chupampa",
+    "alternatenames": "Chupampa",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712296,
+    "name": "Chupa",
+    "alternatenames": "Chupa,Chupá",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712319,
+    "name": "Chumical",
+    "alternatenames": "Chumical,Chumical Arriba",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712320,
+    "name": "Barrio Guadalupe",
+    "alternatenames": "Barrio Guadalupe,Chumbaga,Chumbago,Guadalupe",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712384,
+    "name": "Chitre",
+    "alternatenames": "CTD,Chitre,Chitré,Читре",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712401,
+    "name": "Chiriqui Grande",
+    "alternatenames": "Chiriqui Grande,Chiriquí Grande",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712419,
+    "name": "Chiriqui",
+    "alternatenames": "Chiriqui,Chiriquí",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712448,
+    "name": "Chiman",
+    "alternatenames": "Chiman,Chimon,Chimán,Chimón",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712455,
+    "name": "Chilibre",
+    "alternatenames": "Chilibre",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712459,
+    "name": "Chiguiri Arriba",
+    "alternatenames": "Chiguiri Arriba,Chiguirí Arriba,Chiguri Arriba",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712462,
+    "name": "Chigore",
+    "alternatenames": "Chicore,Chigore,Chigoré",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712481,
+    "name": "Chichica",
+    "alternatenames": "Chichica",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712505,
+    "name": "Chepo",
+    "alternatenames": "Chepo",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712510,
+    "name": "Chepillo",
+    "alternatenames": "Chepillo",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712514,
+    "name": "Chepigana",
+    "alternatenames": "Chepigana",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712560,
+    "name": "Changuinola",
+    "alternatenames": "CHX,Changinola,Changuinola,Чангинола",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712579,
+    "name": "Chame",
+    "alternatenames": "Chame",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712602,
+    "name": "Chacarero",
+    "alternatenames": "Chacarero",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712614,
+    "name": "Cerro Viejo",
+    "alternatenames": "Cerro Viejo",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712616,
+    "name": "Cerro Venado",
+    "alternatenames": "Cerro Venado",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712628,
+    "name": "Cerro Silvestre",
+    "alternatenames": "Cerro Silvestre",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712636,
+    "name": "Cerro Punta",
+    "alternatenames": "Cerro Punta",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712643,
+    "name": "Cerro Plata",
+    "alternatenames": "Cerro Plata",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712644,
+    "name": "Cerro Plata",
+    "alternatenames": "Cerro Plata,Cerro de Plata",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712692,
+    "name": "Cerro Largo",
+    "alternatenames": "Cerro Largo",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712698,
+    "name": "Cerro Iglesia",
+    "alternatenames": "Cerro Iglesia,Cerro Iglesias",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712699,
+    "name": "Cerro Iglesia",
+    "alternatenames": "Bajo de Cerro Iglesias,Cerro Iglesia,Cerro Iglesias",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712761,
+    "name": "Cerro Cana",
+    "alternatenames": "Cerro Cana,Cerro Caña",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712765,
+    "name": "Cerro Cama",
+    "alternatenames": "Cerro Cama",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712786,
+    "name": "Cerro Azul",
+    "alternatenames": "Cerro Azul",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712809,
+    "name": "Cermeno",
+    "alternatenames": "Cermeno,Cermeño",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712828,
+    "name": "Celmira",
+    "alternatenames": "Celmira",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712862,
+    "name": "Cauchero",
+    "alternatenames": "Cauchero,Punta de Bongo",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712884,
+    "name": "Cativa",
+    "alternatenames": "Cativa,Catival,Cativá",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712938,
+    "name": "Cascabel",
+    "alternatenames": "Cascabel",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3712951,
+    "name": "Carti Sugtupu",
+    "alternatenames": "Carti Sugdup,Carti Sugtupu,Carti Suitupo,Carti Sutupo,Cartí Sugdup,Cartí Sugtupu,Cartí Suitupo,Cartí Sutupo,Suctupo",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713047,
+    "name": "Capira",
+    "alternatenames": "Capira",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713051,
+    "name": "Capellania",
+    "alternatenames": "Capellania,Capellanía,Las Guabas",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713058,
+    "name": "San Isidro",
+    "alternatenames": "Capacho,San Isidro,San Sidro",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713065,
+    "name": "Canto del Llano",
+    "alternatenames": "Canto del Llano",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713077,
+    "name": "Kankintu",
+    "alternatenames": "Canquintu,Canquintú,Kankintu,Kankintú",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713131,
+    "name": "Canita",
+    "alternatenames": "Canita,Cañita,Tumaganti,Tumagantí",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713196,
+    "name": "Canazas",
+    "alternatenames": "Canazas,Cañazas",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713208,
+    "name": "Canaveral",
+    "alternatenames": "Canaveral,Cañaveral",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713212,
+    "name": "Canas Gordas",
+    "alternatenames": "Canas Gordas,Cañas Gordas",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713224,
+    "name": "Canas",
+    "alternatenames": "Canas,Cañas",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713339,
+    "name": "Cambutal",
+    "alternatenames": "Cambutal",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713349,
+    "name": "Camaron Arriba",
+    "alternatenames": "Camaron Arriba,Camarón Arriba,Cienaquita",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713381,
+    "name": "Calzada Larga",
+    "alternatenames": "Calzada Larga,Casa Larga",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713390,
+    "name": "Calovebora",
+    "alternatenames": "Calovebora,Calovébora",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713396,
+    "name": "Calobre",
+    "alternatenames": "Calobre,Colobre",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713415,
+    "name": "Calidonia",
+    "alternatenames": "Caledonia,Calidonia",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713416,
+    "name": "Calidonia",
+    "alternatenames": "Calidonia",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713430,
+    "name": "Caldera",
+    "alternatenames": "Caldera",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713465,
+    "name": "Calabacito",
+    "alternatenames": "Calabacito",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713489,
+    "name": "Caimito",
+    "alternatenames": "Caimito",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713490,
+    "name": "Caimito",
+    "alternatenames": "Caimito",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713491,
+    "name": "Caimito",
+    "alternatenames": "Caimito,Caminito",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713499,
+    "name": "Caimitillo",
+    "alternatenames": "Caimitillo",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713523,
+    "name": "Cacique",
+    "alternatenames": "Cacique",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713571,
+    "name": "Cabuya",
+    "alternatenames": "Cabuya",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713573,
+    "name": "Cabuya",
+    "alternatenames": "Cabuya",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713575,
+    "name": "Cabuya",
+    "alternatenames": "Cabuya,Cabuyao",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713588,
+    "name": "Cabra Numero Uno",
+    "alternatenames": "Cabra,Cabra Numero 1,Cabra Numero Uno,Cabra Número 1,Cabra Número Uno",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713637,
+    "name": "Caballero",
+    "alternatenames": "Caballero",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713648,
+    "name": "Burunga",
+    "alternatenames": "Burunga",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713664,
+    "name": "Bugabita Arriba",
+    "alternatenames": "Bugabita,Bugabita Arriba,Bugabito Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713667,
+    "name": "Bugaba",
+    "alternatenames": "Bugaba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713678,
+    "name": "Buenos Aires",
+    "alternatenames": "Buenos Aires",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713682,
+    "name": "Buenos Aires",
+    "alternatenames": "Buenos Aires",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713715,
+    "name": "Buena Vista",
+    "alternatenames": "Buena Vista",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713768,
+    "name": "Brujas",
+    "alternatenames": "Brujas,Punta Bruja",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713783,
+    "name": "Brenon",
+    "alternatenames": "Brenon,Breñón",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713843,
+    "name": "Boro",
+    "alternatenames": "Boro,Boró",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713860,
+    "name": "Boquete",
+    "alternatenames": "Bajo Boquete,Boquete",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713873,
+    "name": "Boqueron",
+    "alternatenames": "Boqueron,Boquerón",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713875,
+    "name": "Boqueron",
+    "alternatenames": "Boqueron,Boquerón",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3713959,
+    "name": "Bocas del Toro",
+    "alternatenames": "BOC,Bocas Town,Bocas del Toro,Bokas del Toras,Bokas-dehl'-Tora,Bokas-del'-Toro,bo ka si de er tuo luo,bokaseudeltolo,Бокас-дель-Торо,Бокас-дэль-Тора,بوکاس ٹاؤن، بوکاس دیل تورو,ბოკას-დელ-ტორო,博卡斯德尔托罗,보카스델토로",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714000,
+    "name": "Boca de Parita",
+    "alternatenames": "Boca de Parita",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714013,
+    "name": "Boca de Rio Indio",
+    "alternatenames": "Boca de Rio Indio,Boca de Río Indio,Boca del Rio Indio,Boca del Río Indio,Chila,Chilar,La Boca de Rio Indio,La Boca de Río Indio,Rio Indio,Río Indio",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714014,
+    "name": "Boca de Rio Chiriqui",
+    "alternatenames": "Boca de Chiriqui,Boca de Rio Chiriqui,Boca de Río Chiriquí,Boca del Rio Chiriqui,Boca del Río Chiriquí,Perla Paraiso",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714021,
+    "name": "Boca del Monte",
+    "alternatenames": "Boca de Monte,Boca del Monte",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714043,
+    "name": "Boca de Cupe",
+    "alternatenames": "Boca de Cupe,Boca de Cupé",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714063,
+    "name": "Boca Chica",
+    "alternatenames": "Boca Chica",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714098,
+    "name": "Bisvalles",
+    "alternatenames": "Bisvalles,Bisvaya",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714101,
+    "name": "Bisira",
+    "alternatenames": "Arteda,Bisira,Bisiria",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714123,
+    "name": "Bijagual",
+    "alternatenames": "Bijagual",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714134,
+    "name": "Betania",
+    "alternatenames": "Betania",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714166,
+    "name": "Bella Vista",
+    "alternatenames": "Bella Vista",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714176,
+    "name": "Bella Vista",
+    "alternatenames": "Bella Vista",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714201,
+    "name": "Bejuco",
+    "alternatenames": "Bejuco",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714231,
+    "name": "Bayano",
+    "alternatenames": "Bayano",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714260,
+    "name": "Isla Bastimentos",
+    "alternatenames": "Isla Provision,Isla Provisión,Isla de Bastimentos,Old Bank Island",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714263,
+    "name": "Bastimentos",
+    "alternatenames": "Bastimentos",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714334,
+    "name": "Barranco Colorado",
+    "alternatenames": "Barranco Colorado",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714336,
+    "name": "Barranco",
+    "alternatenames": "Barranco,Riverside",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714347,
+    "name": "Barnizal",
+    "alternatenames": "Barnizal",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714439,
+    "name": "Bajos de Gueera",
+    "alternatenames": "Bajo de Guera,Bajo de Güera,Bajos de Guera,Bajos de Güera,El Bajo de Guera,El Bajo de Güera",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714504,
+    "name": "Bajo Corral",
+    "alternatenames": "Bajo Corral",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714513,
+    "name": "Bajo Boquete",
+    "alternatenames": "Bajo Boquete",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714536,
+    "name": "Bahia Honda",
+    "alternatenames": "Bahia Honda,Bahía Honda",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714538,
+    "name": "Bahia Azul",
+    "alternatenames": "Bahia Azul,Bahía Azul",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714543,
+    "name": "Bagala",
+    "alternatenames": "Bagala,Bágala",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714579,
+    "name": "Ave Maria",
+    "alternatenames": "Ave Maria,Ave María",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714598,
+    "name": "Atalaya",
+    "alternatenames": "Atalaya",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714611,
+    "name": "Aserrio de Gariche",
+    "alternatenames": "Aserria,Aserrio,Aserrio de Gariche,Aserrío,Aserrío de Gariché,San Antonio",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714637,
+    "name": "Arraijan",
+    "alternatenames": "Arraijan,Arraiján",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714641,
+    "name": "Arosemena",
+    "alternatenames": "Arosemena,Quebrada Grande",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714658,
+    "name": "La Arenosa",
+    "alternatenames": "Arenosa,La Arenosa",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714672,
+    "name": "Arenas",
+    "alternatenames": "Arenas",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714710,
+    "name": "Anton",
+    "alternatenames": "Anton,Antón",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714734,
+    "name": "Ancon",
+    "alternatenames": "Ancon,Ancón",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714771,
+    "name": "Altos de Gueera",
+    "alternatenames": "Alto de Guera,Alto de Güera,Altos de Guera,Altos de Güera,Los Altos",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714830,
+    "name": "Alto del Espino",
+    "alternatenames": "Alto del Espino",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714849,
+    "name": "Alto de La Estancia",
+    "alternatenames": "Alto de La Estancia,Cabecera de Sofre",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714873,
+    "name": "Alto Caballero",
+    "alternatenames": "Alto Caballero",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714875,
+    "name": "Alto Boquete",
+    "alternatenames": "Alto Boquete",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714896,
+    "name": "Almirante",
+    "alternatenames": "Almirante",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714932,
+    "name": "Alcalde Diaz",
+    "alternatenames": "Alcalde Diaz,Alcalde Díaz,Alcaldediaz,Alcaldedíaz,Penoncito,Peñoncito",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714939,
+    "name": "Alanje",
+    "alternatenames": "Alanje",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3714956,
+    "name": "Ailigandi",
+    "alternatenames": "AIL,Ailigandi,Ailigandí,Ailingandi,Ailingandí",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3715008,
+    "name": "Aguas Blancas",
+    "alternatenames": "Aguas Blancas",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3715042,
+    "name": "Aguadulce",
+    "alternatenames": "Aguadulce",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3715049,
+    "name": "Agua de Salud",
+    "alternatenames": "Agua de Salud",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3715111,
+    "name": "Agua Buena",
+    "alternatenames": "Agua Buena",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3715156,
+    "name": "Achutupo",
+    "alternatenames": "ACU,Achutupo,Achutupo Numero 2,Achutupo Numero Dos,Achutupo Número 2,Achutupo Número Dos",
+    "subcountry": "Guna Yala"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3715161,
+    "name": "Achiote",
+    "alternatenames": "Achiote",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3764110,
+    "name": "Pasiga",
+    "alternatenames": "Pasiga,Pásiga,Rio Pasiga,Río Pasiga",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3764191,
+    "name": "Jingurudo",
+    "alternatenames": "Jingurudo,Jingurudó,Jungurudo,Jungurudó",
+    "subcountry": "Emberá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 3764343,
+    "name": "Santa Rita Arriba",
+    "alternatenames": "Santa Rita Arriba",
+    "subcountry": "Colón"
+  },
+  {
+    "country": "PA",
+    "geonameid": 7543540,
+    "name": "Lajas Blancas",
+    "alternatenames": "Lajas Blancas",
+    "subcountry": "Emberá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 8581466,
+    "name": "Union Choco",
+    "alternatenames": "",
+    "subcountry": "Emberá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 9409143,
+    "name": "Howard",
+    "alternatenames": "",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10179291,
+    "name": "Villa Lourdes",
+    "alternatenames": "Villa Lourdes",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10179292,
+    "name": "Cedro Arriba",
+    "alternatenames": "Cedro Arriba",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10179345,
+    "name": "San Juan Bautista",
+    "alternatenames": "San Juan Bautista",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10179348,
+    "name": "Oria Arriba",
+    "alternatenames": "Oria Arriba",
+    "subcountry": "Los Santos"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10180007,
+    "name": "Villa Unida",
+    "alternatenames": "Villa Unida",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10180024,
+    "name": "San Antonio",
+    "alternatenames": "San Antonio",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10180075,
+    "name": "Gonzalillo",
+    "alternatenames": "Gonzalillo",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10180082,
+    "name": "Nuevo Belen",
+    "alternatenames": "Nuevo Belen,Nuevo Belén",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10180086,
+    "name": "La Colorada",
+    "alternatenames": "La Colorada",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10181512,
+    "name": "Vista Hermosa",
+    "alternatenames": "Vista Hermosa",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10181534,
+    "name": "Nueva Esperanza",
+    "alternatenames": "Nueva Esperanza",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10181567,
+    "name": "Union de Azuero",
+    "alternatenames": "Union de Azuero,Unión de Azuero",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10194186,
+    "name": "Torti",
+    "alternatenames": "Torti,Tortí",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10194271,
+    "name": "Barriales",
+    "alternatenames": "Barriales",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10194273,
+    "name": "Platanillo",
+    "alternatenames": "Platanilla,Platanillo",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10194748,
+    "name": "Camoganti",
+    "alternatenames": "Camoganti,Camogantí",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10194758,
+    "name": "Corozal",
+    "alternatenames": "Corozal",
+    "subcountry": "Emberá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10194898,
+    "name": "Agua Fria Numero Uno",
+    "alternatenames": "Agua Fria Numero 1,Agua Fria Numero Uno,Agua Fría Número 1,Agua Fría Número Uno",
+    "subcountry": "Darién"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10202392,
+    "name": "Bayamon",
+    "alternatenames": "Bayamon,Bayamón",
+    "subcountry": "Emberá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10206727,
+    "name": "Union Santena",
+    "alternatenames": "Union Santena,Unión Santeña",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10206733,
+    "name": "Contadora",
+    "alternatenames": "Contadora",
+    "subcountry": "Panamá"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10211093,
+    "name": "Norteno",
+    "alternatenames": "Norteno,Norteño",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10211159,
+    "name": "Sieyik",
+    "alternatenames": "Sieyic,Sieyik",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10211200,
+    "name": "Barranco Adentro",
+    "alternatenames": "Barranco Adentro",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10211213,
+    "name": "La Mesa",
+    "alternatenames": "La Mesa",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10346879,
+    "name": "Quebrada del Rosario",
+    "alternatenames": "Quebrada del Rosario",
+    "subcountry": "Herrera"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347255,
+    "name": "Paso Canoas Arriba",
+    "alternatenames": "Paso Canoas Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347282,
+    "name": "El Palmar",
+    "alternatenames": "El Palmar",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347303,
+    "name": "Manaca Norte",
+    "alternatenames": "Manaca Norte",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347304,
+    "name": "Manaca Civil",
+    "alternatenames": "Manaca Civil",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347320,
+    "name": "Los Algarrobos Arriba",
+    "alternatenames": "Algarrobos Arriba,Los Algarrobos Arriba",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347321,
+    "name": "Nuevo San Carlitos",
+    "alternatenames": "Nuevo San Carlitos",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347337,
+    "name": "Rambala",
+    "alternatenames": "Rambala,Rámbala",
+    "subcountry": "Bocas del Toro"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347339,
+    "name": "Pueblo Nuevo",
+    "alternatenames": "Pueblo Nuevo",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347348,
+    "name": "Valle de Las Minas",
+    "alternatenames": "Valle de La Mina,Valle de Las Minas",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347377,
+    "name": "Quebrada Tula",
+    "alternatenames": "Quebrada Tula",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347390,
+    "name": "Boca de Balsa",
+    "alternatenames": "Boca de Balsa",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347421,
+    "name": "Coronte",
+    "alternatenames": "Coronte,Cuoronte",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347473,
+    "name": "Oma",
+    "alternatenames": "Oma",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347484,
+    "name": "Cabecera de Cerro Puerco",
+    "alternatenames": "Cabecera de Cerro Puerco",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347489,
+    "name": "El Porvenir",
+    "alternatenames": "El Porvenir",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347490,
+    "name": "Santa Lucia",
+    "alternatenames": "Santa Lucia,Santa Lucía",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347491,
+    "name": "El Puerto",
+    "alternatenames": "El Puerto",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347496,
+    "name": "Mirones",
+    "alternatenames": "Mirones",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347864,
+    "name": "Bajo Solis",
+    "alternatenames": "Bajo Solis,Bajo Solís",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10347868,
+    "name": "Bella Vista",
+    "alternatenames": "Bella Vista",
+    "subcountry": "Chiriquí"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348000,
+    "name": "Cerro Pelado",
+    "alternatenames": "Cerro Pelado",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348109,
+    "name": "Lajero",
+    "alternatenames": "Lajero,Lajero Arriba",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348333,
+    "name": "Loma Yuca",
+    "alternatenames": "Loma Yuca",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348468,
+    "name": "Los Pollos",
+    "alternatenames": "Los Pollos",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348488,
+    "name": "San Juan de Dios",
+    "alternatenames": "San Juan de Dios",
+    "subcountry": "Coclé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348600,
+    "name": "Rio Luis",
+    "alternatenames": "Rio Luis,Río Luís",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348668,
+    "name": "Gueibale",
+    "alternatenames": "Guibale,Güibale",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348671,
+    "name": "Paredon Arriba",
+    "alternatenames": "El Paredon Arriba,El Paredón Arriba,Paredon Arriba,Paredón Arriba",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348681,
+    "name": "Guayabito",
+    "alternatenames": "Guayabito",
+    "subcountry": "Ngöbe-Buglé"
+  },
+  {
+    "country": "PA",
+    "geonameid": 10348753,
+    "name": "Alto de Jesus",
+    "alternatenames": "Alto de Jesus,Alto de Jesús",
+    "subcountry": "Veraguas"
+  },
+  {
+    "country": "PA",
+    "geonameid": 11398367,
+    "name": "La Pesa",
+    "alternatenames": "La Pesa",
+    "subcountry": "Panamá Oeste"
+  },
+  {
+    "country": "PA",
+    "geonameid": 11398385,
+    "name": "Ciricito Abajo",
+    "alternatenames": "Ciricito Abajo",
+    "subcountry": "Panamá Oeste"
+  }
+]

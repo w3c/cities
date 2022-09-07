@@ -1,0 +1,646 @@
+[
+  {
+    "country": "TJ",
+    "geonameid": 1220112,
+    "name": "Yovon",
+    "alternatenames": "Jovon,Yavan,Yovan,Yovon,Ёвон",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220163,
+    "name": "Hulbuk",
+    "alternatenames": "Aral,Hulbuk,Imeni Vose,Kal Khaz,Kolkhozabad,Paytok,Vose',Voseu,Vose’,Восеъ,Ҳулбук",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220164,
+    "name": "Vorukh",
+    "alternatenames": "Kalacha,Varukh,Vorukh,Warox,Wārōx,Ворух",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220197,
+    "name": "Varzob",
+    "alternatenames": "Obi-Dzhuk,Varzob",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220210,
+    "name": "Vanj",
+    "alternatenames": "Kala-i-Vanch,Rokharv,Vanch,Vanj,Ванҷ",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220219,
+    "name": "Vakhsh",
+    "alternatenames": "Vakhsh,Vakhshstroi,Vakhshstroy,Вахш",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220253,
+    "name": "Istaravshan",
+    "alternatenames": "Bundzhikat,Istaravchan,Istaravsan,Istaravsanas,Istaravshan,Istaravsjan,Istaravson,Istaravŝan,Istaravšan,Istaravšanas,Istaravšon,Istaravșan,Istarawschan,Istarawshan,Istarawszan,Ura-Tyube,Uroteppa,astrwshn,iseuteulabeusyan,isutarafushan,yi si ta la fu shang,İstərövşən,Ŭroteppa,Істаравшан,Истаравшан,Истәраушан,استروشن,イスタラフシャン,伊斯塔拉夫尚,이스트라브샨",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220324,
+    "name": "Tavildara",
+    "alternatenames": "Tavil'-Dara,Tavildara,Tavil’-Dara,Tovil'-Dora,Tovildara,Tovil’-Dora,Тавилдара",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220380,
+    "name": "Tartiki",
+    "alternatenames": "Tartiki,Tartki,Tartku,Тартики",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220401,
+    "name": "Tagob",
+    "alternatenames": "Tabok,Tagob,Takob",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220416,
+    "name": "Tajikobod",
+    "alternatenames": "Kalai-Lyabi-Ob,Tadzhikabad,Tajikobod",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220446,
+    "name": "Sovet",
+    "alternatenames": "Kizyl-Mazar,Kizyl-Mazar-Bolo,Kyzul-Mazar-Bolo,Kyzyl-Mazar,Kyzyl-Mazar-Bolo,Kzyl-Mazar,Kzyl-Mazar-Bolo,Sovet,Sovetskiy,Sovetskoye,Sovety,Совет",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220479,
+    "name": "Shurobod",
+    "alternatenames": "Shurabad,Shuroabad,Shurobod,Shŭrobod,Шӯробод",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220566,
+    "name": "Shahrinav",
+    "alternatenames": "Cheptura,Schachrinau,Shahr-e Now,Shahrinav,Shakhrinau,Shakhrinav,Shakhrinay,shhr nw,Шаҳринав,شهر نو",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220571,
+    "name": "Shahriston",
+    "alternatenames": "Shahriston,Shakhrislan,Shakhristan,Verkhne-Dal'yan,Verkhne-Dal’yan,Шаҳристон",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220576,
+    "name": "Shahritus",
+    "alternatenames": "Shaarfuz,Shaartuz,Shahritus,Shahrtuz,Шаҳритус",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220628,
+    "name": "Sarikhosor",
+    "alternatenames": "Sarikhosor,Sary-Khasor,Sarykhosor,Сарихосор",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220685,
+    "name": "Rushon",
+    "alternatenames": "Kala-i-Warma,Kalai-Vamar,Rushan,Rushon,Rŭshon,Рӯшон",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220694,
+    "name": "Roshtqal'a",
+    "alternatenames": "Rosht-Kala,Roshtqal'a,Roshtqal’a,Роштқалъа",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220701,
+    "name": "Roghun",
+    "alternatenames": "Ragun,Roghun,Rogun",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220747,
+    "name": "Bokhtar",
+    "alternatenames": "Bokhtar,KQT,Kurgan Tjube,Kurgan-Tyube,Qurghan Tyube,Qurghonteppa,Qurghān Tyube,Qŭrghonteppa,Бохтар,Курган Тюбе,Қӯрғонтеппа",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220750,
+    "name": "Panj",
+    "alternatenames": "Baumanabad,Kirovabad,Kirowabad,Panj,Pyandzh,Sarai,Sarai-Kamar,Saray Komar,Saray-Kamar,Панҷ",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220798,
+    "name": "Panjakent",
+    "alternatenames": "Pandschakent,Pandzakent,Pandżakent,Pandžakent,Panjakent,Panjkent,Panxaquent,Pendjikent,Pendshikent,Pendzhakent,Pendzhikent,Pendzikentas,Pendzjikent,Pendžikentas,Penjikent,bnjknt,panjakenta,panjakenteu,panjikento,peng ji ken te,pnjknt,Панҷакент,Пенджикент,Пәнҗәкәнт,بنجكنت,پنجکنت,पंजाकॅन्त,パンジケント,彭吉肯特,판자켄트",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220826,
+    "name": "Farkhor",
+    "alternatenames": "Farkhor,Parkbar,Parkhar,Фархор",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220853,
+    "name": "Orzu",
+    "alternatenames": "Orzu,Орзу",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220855,
+    "name": "Vahdat",
+    "alternatenames": "Kofarnihon,Kofarnikhon,Kofarnikhona,Ordhonikidzeabad,Ordzhonikidzeabad,Orjonikidzeabad,Orjonikidzeobod,Vahdat,Vakhdat,Yangi-Bazar,Вахдат,Ваҳдат,Кофарнихона",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220862,
+    "name": "Ismoili Somoni",
+    "alternatenames": "Alchin,Chichka,Chichkhar,Ismoili Somon,Ismoili Somoni,Ismoili Somoní,Oktyabr'sh,Oktyabrsk,Oktyabr’sh,Исмоили Сомон",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220883,
+    "name": "Obikiik",
+    "alternatenames": "Obikiik,Обикиик",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220888,
+    "name": "Obigarm",
+    "alternatenames": "Obigarm",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220905,
+    "name": "Norak",
+    "alternatenames": "Norak,Nurek,Норак",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220936,
+    "name": "Novobod",
+    "alternatenames": "Navabad,Navobod,Novabad,Novobod,Nusratobod,Nusstatobad,Shul'mak,Shul’mak,nwabad,Навобод,نوآباد",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220962,
+    "name": "Murghob",
+    "alternatenames": "Margab,Murgab,Murghab,Murghabi,Murghob,Murghāb,Murghābi,Murgob,Pamir Post,Pamirski Post,Pamīrski Post,Post Pamirskiy,Pāmir Post,Мурғоб",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1220988,
+    "name": "Moskva",
+    "alternatenames": "Chubek,Moskovskiy,Moskva,Москва",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221089,
+    "name": "Somoniyon",
+    "alternatenames": "Imeni Sardarova Karakhana,Koktasch,Koktash,Lenin,Leninskiy,Somonijon,Somoniyon,Сомониён",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221091,
+    "name": "Mu'minobod",
+    "alternatenames": "Leningrad,Leningradskiy,Mu'minobod,Muminabad,Muminobod,Mumynabad,Muuminobod,Mŭminobod,Mŭ’minobod,Мӯминобод,Мӯъминобод",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221135,
+    "name": "Bokhtariyon",
+    "alternatenames": "Bokhtarijon,Bokhtariyon,Kuybishevskiy,Kuybyshevsk,Kuybyshevskiy,Vakhsh,Бохтариён",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221136,
+    "name": "Abdurahmoni Jomi",
+    "alternatenames": "Abdurahmoni Jomi,Abdurahmoni Jomí,Abduraҳmoni Ҷomi,Aral,Kuibyshevabad,Kujbishev,Kuybishev,Kuybishevsk,Kuybyshevabad,Kuybyshevsk,Kuybyshevskiy,Kŭybishev,Абдураҳмони Ҷомӣ,Куйбишев,Кӯйбишев",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221194,
+    "name": "Kulob",
+    "alternatenames": "Kulab,Kuljab,Kulob,Kulyab,Kŭlob,TJU,Куляб,Кӯлоб",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221250,
+    "name": "Darband",
+    "alternatenames": "Darand,Darband,Komsomolabad,Komsomolbad,Komsomolobod,Pombachi,Даранд,Дарбанд",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221259,
+    "name": "Kolkhozobod",
+    "alternatenames": "Kaganovichabad,Kaganowtschab,Kolkhozabad,Kolkhozobod,Tugalan,Tugolan,Колхозобод",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221297,
+    "name": "Kirov",
+    "alternatenames": "Imeni Kirova,Kirov,Kirovskiy,Sovkhoz Imeni Kirova,Киров",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221321,
+    "name": "Khovaling",
+    "alternatenames": "Khovaling,Ховалинг",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221328,
+    "name": "Khorugh",
+    "alternatenames": "Khorog,Khorug,Khorugh,Хорог,Хоруғ",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221344,
+    "name": "Khodzha-Maston",
+    "alternatenames": "Khodzha-Maston",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221494,
+    "name": "Karakenja",
+    "alternatenames": "Kara-Gendzha,Kara-Gendzhe,Karakendzha,Karakenja,Kurz-Genje",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221549,
+    "name": "Levakant",
+    "alternatenames": "Kalininabad,Levakant,Sarband,Левакант,Сарбанд",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221559,
+    "name": "Qalaikhumb",
+    "alternatenames": "Kala Khumb,Kala-I-Khamb,Kalai Khumb,Kalaikhum,Qala-i-Khum,Qalaikhum,Qalaikhumb,Қалаихум,Қалаихумб",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221583,
+    "name": "Qubodiyon",
+    "alternatenames": "Imeni Nasir Khisrav,Kabadian,Kabodiyen,Kabodiyon,Kabodiyën,Mikoyanabad,Nosir Khisrav,Qabodiyon,Qubodiyon,Қубодиён",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221614,
+    "name": "Ishqoshim",
+    "alternatenames": "Ishkashim,Ishkashim Post,Ishkāshīm Post,Ishqoshim,Nud,Nuda,Ишкашим,Ишқошим",
+    "subcountry": "Gorno-Badakhshan"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221714,
+    "name": "Hisor",
+    "alternatenames": "Gissar,Hisor,Khisor,Staryy Gissar,Гиссар,Ҳисор",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221740,
+    "name": "Rasht",
+    "alternatenames": "Garm,Gharm,Rasht,Рашт",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221748,
+    "name": "Gharavuti",
+    "alternatenames": "Garavuti,Gharavuti,Gharavŭtí,Ғаравӯтӣ",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221758,
+    "name": "Ghonchi",
+    "alternatenames": "Ganchi,Ghonchi,Ghonchí,Gonchi,Granchi,Ғончи",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221774,
+    "name": "Fayzobod",
+    "alternatenames": "Daragion,Daragizy,Faizabad,Fajzobod,Fayzabad,Fayzobod,Файзобод",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221802,
+    "name": "Jirghatol",
+    "alternatenames": "Dzhergatol,Dzhirgatal',Dzhirgatal’,Dzhirgital',Dzhirgital’,Jirgatal',Jirgatal’,Jirgatol,Jirghatol,Ҷирғатол",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221808,
+    "name": "Jilikul",
+    "alternatenames": "Dzhil'kul',Dzhilikol,Dzhilikul',Dzhilikul’,Dzhil’kul’,Jilikul,Jilikŭl,Ҷиликӯл",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221871,
+    "name": "Dusti",
+    "alternatenames": "Dusti,Dusty,Dŭsty,Dŭstí,Molotovabad,Pyandzh,Дӯстӣ",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221874,
+    "name": "Dushanbe",
+    "alternatenames": "DYU,Djuschambe,Doesjanbe,Douchanbe,Douchanbé,Dusanbe,Dusanbeo,Duschanbe,Dushambe,Dushanbe,Dusjanbe,Duszanbe,Duŝanbeo,Duşanbe,Dušanbe,Dušanbė,Dušhanbe,Dyushambe,Düşənbə,Jushambe,Ntousanmpe,Stalinabad,doushanbe,du shang bie,dusyanbe,dwshnbh,dwsnbh,Ντουσάνμπε,Душанбе,דושנבה,دوشنبه,ዱሻንቤ,ドゥシャンベ,杜尚别,두샨베",
+    "subcountry": "Dushanbe"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221965,
+    "name": "Danghara",
+    "alternatenames": "Dangar,Dangara,Danghara,Дангара,Данғара",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1221997,
+    "name": "Chubek",
+    "alternatenames": "Chubek,Moskovskiy,Чубек",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1222009,
+    "name": "Boshchorbogh",
+    "alternatenames": "Boshchorbog,Boshchorbogh,Boshgorbog,Chorbog,Бошчорбоғ",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1222085,
+    "name": "Bustonqal'a",
+    "alternatenames": "Bustonkala,Bustonkˌala,Bustonkˌalua,Bustonqal'a,Bŭstonqal’a,bstan‌qlʿh‎,Бӯстонқала,Бӯстонқалъа,بستان‌قلعه‎",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1222107,
+    "name": "Boshkengash",
+    "alternatenames": "Bashkyngash,Boshkengash,Boshkengosh",
+    "subcountry": "Dushanbe"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1222192,
+    "name": "Baljuvon",
+    "alternatenames": "Bal'dzhuan,Bal'dzhuvon,Bal'juan,Baldshuan,Baljuvon,Bal’dzhuan,Bal’dzhuvon,Bal’juan,Bol'dzhuan,Bol’dzhuan,Балҷувон",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1222222,
+    "name": "Ayni",
+    "alternatenames": "Aini,Ajni,Ayni,Ayny,Ayní,Varziminor,Varzominor,Zakhmatabad,Айнӣ",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1282601,
+    "name": "Tursunzoda",
+    "alternatenames": "Tursunsoda,Tursunzade,Tursunzadė,Tursunzoda,Turszunzoda,tourusunzoda,tu er sun zha de,tuleusunjoda,twrswnzadh,Турсунзаде,Турсунзода,تورسونزاده,تورسونزادہ,تورسون‌زاده,トゥルスンゾダ,圖爾孫扎德,투르순조다",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1346374,
+    "name": "Roghun",
+    "alternatenames": "Maydon,Roghun,Rogun,Роғун",
+    "subcountry": "Republican Subordination"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1475483,
+    "name": "Bahori",
+    "alternatenames": "Bahori,Bahorí,Sovkhoz Beshkent-2,Баҳорӣ",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1475852,
+    "name": "Avzikent",
+    "alternatenames": "Avzikent,Navbahor,Navbaҳor,Авзикент,Навбаҳор",
+    "subcountry": "Khatlon"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514815,
+    "name": "Zafarobod",
+    "alternatenames": "Ayni,Imeni Ayni,Zafapobod,Zafarabad,Zafarabod,Zafarobod,Зaфapoбoд",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514829,
+    "name": "Taboshar",
+    "alternatenames": "Taboshar,Taboshary,Табошар",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514831,
+    "name": "Shurob",
+    "alternatenames": "Schurab,Shorab,Shurab,Shurob,Shŭrob,Шӯроб",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514839,
+    "name": "Proletar",
+    "alternatenames": "Dragomirovo,Jabar Rasulov,Jabbor Rasulov,Proletar,Proletarsk,Пролетар",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514843,
+    "name": "Palos",
+    "alternatenames": "Palas,Palos,Палос",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514844,
+    "name": "Pakhtakoron",
+    "alternatenames": "Pakhtakoron,Paxtakoron,Пахтакорон",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514852,
+    "name": "Neftobod",
+    "alternatenames": "Nefteabad,Nefteobod,Neftobod,Predyvak,Нефтобод",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514856,
+    "name": "Nov",
+    "alternatenames": "Nau,Nov,Нов",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514870,
+    "name": "Quruqsoy",
+    "alternatenames": "Kuruksay,Kurusay,Quruqsoy,Қуруқсой",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514877,
+    "name": "Kim",
+    "alternatenames": "Kim,Nefteprom Kim,Santo,Ким",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514879,
+    "name": "Khujand",
+    "alternatenames": "Choedzjand,Chudschand,Chudzandas,Chudzjand,Chudžandas,Hodjent,Hudzand,Hudžand,Khodjent,Khodyent,Khodzhent,Khojend,Khudzhand,Khujand,Khuzhant,Khŭjand,Kojend,LBD,Leninabad,Leninobod,Ursaten,Xo'jand,Xoʻjand,hojendo,khjnd,ku zhan,Ходжент,Худжанд,Хужант,Хуҷанд,Хӯҷвнд,خجند,ホジェンド,苦盏",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514883,
+    "name": "Qayroqqum",
+    "alternatenames": "Kaikak Kum,Kayrakkum,Kayrakum,Khodzhent,Qayraqqum,Qayroqqum,Қайроққум",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514889,
+    "name": "Konsoy",
+    "alternatenames": "Kaindisoy,Kansai,Kansay,Konsoj,Konsoy,Svints,Консой",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514891,
+    "name": "Konibodom",
+    "alternatenames": "Kanibadam,Konibodom,Konibodomas,Qənibadam,kan badam,kany badam,ke ni bo duo mu,konibodom,Кoнибодом,Канибадам,Канібадам,Конибодом,کان بادام,کانی بادام,科尼博多姆,코니보돔",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514896,
+    "name": "Isfara",
+    "alternatenames": "Isfara,asfrh,asfrt,iseupala,isufara,yi si fa la,İsfərah,Ісфара,Исфара,Исфәрә,اسفرة,اسفره,اسفرہ,イスファラ,伊斯法拉,이스파라",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514900,
+    "name": "Ghafurov",
+    "alternatenames": "Gafurob,Gafurov,Ghafurov,Khodzhent,Sovetabad,Stantsiya Leninabad,Ғафуроб",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514913,
+    "name": "Buston",
+    "alternatenames": "Bustan,Buston,Bŭston,Yantak,Бӯстон",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514921,
+    "name": "Shaydon",
+    "alternatenames": "Asht,Shaidan,Shajdon,Shaydan,Shaydon,Шайдон",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514925,
+    "name": "Oltintopkan",
+    "alternatenames": "Altyn-Topkan,Oltintopkan,Олтинтопкан",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1514929,
+    "name": "Adrasmon",
+    "alternatenames": "Adrasman,Adrasmon,Адрасман,Адрасмон",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 1538311,
+    "name": "Buston",
+    "alternatenames": "Buston,Chkalov,Chkalovsk,bwstan,qi ka luo fu si ke,Бустон,Бӯстон,Чкалов,بوستان,契卡洛夫斯克",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 8217253,
+    "name": "Mehron",
+    "alternatenames": "Mehron,Меҳрон",
+    "subcountry": "Sughd"
+  },
+  {
+    "country": "TJ",
+    "geonameid": 8416817,
+    "name": "Moskovskiy",
+    "alternatenames": "Moskovskij,Moskovskiy,Московский",
+    "subcountry": "Khatlon"
+  }
+]

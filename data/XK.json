@@ -1,0 +1,408 @@
+[
+  {
+    "country": "XK",
+    "geonameid": 783770,
+    "name": "Zvecan",
+    "alternatenames": "Zaccan,Zvecan,Zvechan,Zveçan,Zvečan,Звечан",
+    "subcountry": "Mitrovica"
+  },
+  {
+    "country": "XK",
+    "geonameid": 783802,
+    "name": "Zubin Potok",
+    "alternatenames": "Zubin Potok,Zubin Potoku,Zubinpotok,Зубин Поток",
+    "subcountry": "Mitrovica"
+  },
+  {
+    "country": "XK",
+    "geonameid": 784097,
+    "name": "Vushtrri",
+    "alternatenames": "Vicianum,Vicitirin,Vuchitrn,Vucitern,Vuciterne,Vucitrn,Vushtrri,Vuçitërn,Vuçitërnë,Vučitrn,Vıçıtırın,Вучитрн",
+    "subcountry": "Mitrovica"
+  },
+  {
+    "country": "XK",
+    "geonameid": 784372,
+    "name": "Vitina",
+    "alternatenames": "Viti,Vitina,Витина",
+    "subcountry": "Gjilan"
+  },
+  {
+    "country": "XK",
+    "geonameid": 784759,
+    "name": "Ferizaj",
+    "alternatenames": "Ferezaj,Ferizaj,Ferizovik,Urosevac,Uroshevac,Uroševac,Урошевац",
+    "subcountry": "Ferizaj"
+  },
+  {
+    "country": "XK",
+    "geonameid": 785238,
+    "name": "Suva Reka",
+    "alternatenames": "Lumthate,Lumthatë,Suha Reka,Suhareka,Suhareke,Suharekë,Suharjeka,Sukareke,Sukarekë,Suva Reka,Suva Reki,Theranda,Thëranda,Сува Река",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 785388,
+    "name": "Strpce",
+    "alternatenames": "Shterpce,Shtrpce,Shtërpcë,Strice,Strpce,Štrice,Štrpce,Штрпце",
+    "subcountry": "Ferizaj"
+  },
+  {
+    "country": "XK",
+    "geonameid": 785485,
+    "name": "Shtime",
+    "alternatenames": "Shtime,Shtimle,Stimle,Stimlja,Stimlje,Ştimle,Štimlja,Štimlje,Штимље",
+    "subcountry": "Ferizaj"
+  },
+  {
+    "country": "XK",
+    "geonameid": 785642,
+    "name": "Srbica",
+    "alternatenames": "Skenderaj,Skënderaj,Srbica,Србица",
+    "subcountry": "Mitrovica"
+  },
+  {
+    "country": "XK",
+    "geonameid": 786156,
+    "name": "Irzniq",
+    "alternatenames": "Irzniq,Irzniqi,Rrezar,Rrezari,Rrezniq,Rrznic,Rrznić,Rrëzniq,Rznic,Rznić,Рзнић",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 786478,
+    "name": "Ranilug",
+    "alternatenames": "Ranillug,Ranillugu,Ranilug,Ranllug,Ранилуг",
+    "subcountry": "Gjilan"
+  },
+  {
+    "country": "XK",
+    "geonameid": 786712,
+    "name": "Prizren",
+    "alternatenames": "Perzeren,Perzerin,Prizren,Prizrena,Prizrenas,Prizreni,Përzeren,bryzrn,peulijeulen,pryzrn,pu li ci lun,purizuren,Πρίζρεν,Призрен,Приꙁрѣнь,Прізрен,بريزرن,پریزرن,プリズレン,普里兹伦,프리즈렌",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 786714,
+    "name": "Pristina",
+    "alternatenames": "PRN,Prestena,Prishhina,Prishtina,Prishtinae,Prishtine,Prishtinë,Prisjtina,Pristin,Pristina,Pristine,Pristino,Pristína,Prisztina,Prixtina,Priŝtino,Priştina,Priştine,Prištin,Priština,Priștina,Pryshcina,Prìstina,Prėštėna,bryshtyna,peulisyutina,phrich ti na,piristina,prisatina,pristina,pryshtyna,prystynh,prysٹyna,pu li shen di na,purishutina,Πρίστινα,Приштинæ,Приштина,Прищина,Прышціна,Պրիշտինա,פרישטינה,بريشتينا,پریسٹینا,پریشتینا,प्रिस्टिना,ਪ੍ਰਿਸ਼ਤੀਨਾ,பிரிஸ்டினா,พริชตีนา,པི་རི་སི་ཊི་ན།,პრიშტინა,プリシュティナ,普里什蒂納,普里什蒂纳,프리슈티나",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 786734,
+    "name": "Prilep",
+    "alternatenames": "Arrnjet,Arrnjeti,Perlep,Prejlep,Prejlepi,Prelep,Prilep,Prilip,Përlep,Прилеп",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 786950,
+    "name": "Podujeva",
+    "alternatenames": "Besiana,Besiane,Besianë,Podjeve,Podjevë,Podujeva,Podujeve,Podujevo,Podujevë,Podujevó",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787155,
+    "name": "Peqan",
+    "alternatenames": "Pecane,Peqan,Pećane,Recan,Reçan,Пећане",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787157,
+    "name": "Pec",
+    "alternatenames": "Pec,Pecas,Pech,Pegia,Peja,Peje,Pejë,Peć,Pečas,Picaria,Πέγια,Печ,Пећ",
+    "subcountry": "Pec"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787197,
+    "name": "Partesh",
+    "alternatenames": "Partes,Partesh,Parteshi,Parteš,Партеш",
+    "subcountry": "Gjilan"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787268,
+    "name": "Pagarusa",
+    "alternatenames": "Pagarusa,Pagarusha,Pagarushe,Pagarushë,Pagaruša,Пагаруша",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787456,
+    "name": "Orahovac",
+    "alternatenames": "Orahovac,Orakhovac,Rahavec,Rahovec,Rahoveci,Ораховац",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787534,
+    "name": "Obiliq",
+    "alternatenames": "Gllaboder,Kastriot,Obilic,Obiliq,Obilić,Обилић",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787589,
+    "name": "Novo Brdo",
+    "alternatenames": "Artana,Artane,Artanë,Novaberd,Novo Brdo,Novoberda,Novoberde,Novobërda,Novobërdë,Novus Mons,Ново Брдо",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 787650,
+    "name": "Nishor",
+    "alternatenames": "Nishor,Nisor,Nišor,Нишор",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788187,
+    "name": "Mamusa",
+    "alternatenames": "Mamus,Mamusa,Mamusha,Mamushe,Mamushë,Mamuşa,Mamuša,Мамуша",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788239,
+    "name": "Malisevo",
+    "alternatenames": "Malisevo,Malisheve,Malishevo,Malishevë,Mališevo,Малишево",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788470,
+    "name": "Llazice",
+    "alternatenames": "Llazice,Llazicë,Llozice,Llozicë,Lozica",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788536,
+    "name": "Lumbardhi",
+    "alternatenames": "Ljumbardh,Lumbarda,Lumbardh,Lumbardhe,Lumbardhi,Lumbardhë,Лумбарда",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788543,
+    "name": "Lebushe",
+    "alternatenames": "Lebusha,Lebushe,Ljebuse,Ljebuše,Ljubusa,Ljubusha,Ljubuša,Lpushe,Lpushë,Lubushe,Lubushë,Lëbusha,Lëbushë,Љубуша",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788652,
+    "name": "Lipljan",
+    "alternatenames": "Lipjan,Liplan,Lipljan,Lipljane,Липљан",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788726,
+    "name": "Leshan",
+    "alternatenames": "Lesane,Leshan,Leshane,Leshtane,Lešane,Лешане",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 788731,
+    "name": "Leposaviq",
+    "alternatenames": "Albaniku,Leposavic,Leposavici,Leposaviq,Leposavić,Leposavići,Лепосавић",
+    "subcountry": "Mitrovica"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789199,
+    "name": "Kosuriq",
+    "alternatenames": "Kosuric,Kosuriq,Kosurić,Косурић",
+    "subcountry": "Pec"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789225,
+    "name": "Mitrovice",
+    "alternatenames": "Kosovska Mitrovica,Mitrovica,Mitrovice,Mitrovicë,Косовска Митровица",
+    "subcountry": "Mitrovica"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789227,
+    "name": "Kamenica",
+    "alternatenames": "Dardana,Dardane,Dardanë,Gurash,Kamenica,Kamenice,Kamenicë,Kosovska Kamenica,Каменица",
+    "subcountry": "Gjilan"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789228,
+    "name": "Kosovo Polje",
+    "alternatenames": "Fushe Kosove,Fushe-Kosova,Fushë Kosovë,Fushë-Kosova,Kosovo,Kosovo Pole,Kosovo Polje,Косово Поље",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789427,
+    "name": "Klokot",
+    "alternatenames": "Kllokot,Kllotkot,Klokot,Klokot-Vrbovac,Клокот",
+    "subcountry": "Gjilan"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789455,
+    "name": "Klina",
+    "alternatenames": "Kliha,Klina,Kline,Klinë,Клина",
+    "subcountry": "Pec"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789721,
+    "name": "Kacanik",
+    "alternatenames": "Kacanik,Kacanikas,Kacaniku,Kachanik,Kaçanik,Kaçaniku,Kačanik,Kačanikas,Orhanye,ka cha ni ke,kachanyk,Качаник,Качанік,کاچانیک,卡查尼克",
+    "subcountry": "Ferizaj"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789739,
+    "name": "Junik",
+    "alternatenames": "Junik,Јуник",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 789996,
+    "name": "Istok",
+    "alternatenames": "Burim,Burimi,Istog,Istogu,Istok,Исток",
+    "subcountry": "Pec"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790002,
+    "name": "Isniq",
+    "alternatenames": "Isniqi,Rrezari",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790354,
+    "name": "Strellc i Eperm",
+    "alternatenames": "Strallc i Eperm,Strallc i Epërm,Strellc i Eperm,Strellc i Epërm",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790486,
+    "name": "Lluka e Eperme",
+    "alternatenames": "Lluka e Eperme,Lluka e Epërme,Lluke e Eperme,Llukë e Epërme,Luka,Luka e Eperme,Luka e Epërme",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790674,
+    "name": "Gjilan",
+    "alternatenames": "Gilan,Gjilan,Gjilani,Gnilane,Gniljane,Gnjilane,Gnjilanė,Komuna e Gjilanit,Гњилане",
+    "subcountry": "Gjilan"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790701,
+    "name": "Glogovac",
+    "alternatenames": "Drenas,Drenasi,Gllogoc,Gllogoci,Gllogofc,Gllogovc,Glogovac,Glogovce,Глоговац",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790704,
+    "name": "Gllogjan",
+    "alternatenames": "Fortesa,Glacani,Gladane,Glaçani,Glađane,Gllogjan,Gllogjani,Glodani,Glodjane,Glogjan,Glođani,Глођане",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 790977,
+    "name": "Dubova (Driloni)",
+    "alternatenames": "Driloni,Dubova,Dubove,Dubovë",
+    "subcountry": "Pec"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791043,
+    "name": "Dranoc",
+    "alternatenames": "Drenoc,Drenoci,Drenovac,Дреновац",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791122,
+    "name": "Dragash",
+    "alternatenames": "Dagash,Dragas,Dragash,Dragashi,Dragaš,Sharr,Sharri,Драгаш",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791161,
+    "name": "Strellc i Ulet",
+    "alternatenames": "Strellc i Poshtem,Strellc i Poshtëm",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791483,
+    "name": "Gjinoc",
+    "alternatenames": "Dinovce,Dzinovce,Džinovce,Gjinoc,Gjinofc,Gjinovc,Ðinovce,Ђиновце",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791539,
+    "name": "Hani i Elezit",
+    "alternatenames": "Deneral Jankovic,Dzeneral Jankovic,Dženeral Janković,Elez Han,Han i Elezit,Hani i Elezit,Jankovic,Ðeneral Janković,Ђенерал Јанковић",
+    "subcountry": "Ferizaj"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791580,
+    "name": "Decan",
+    "alternatenames": "Decan,Decani,Dekan,Deçan,Deçani,Декан",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 791646,
+    "name": "Gjakove",
+    "alternatenames": "GJakovica,Gjakova,Gjakove,Gjakovë,Đakovica",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 792185,
+    "name": "Budakovo",
+    "alternatenames": "Budakove,Budakovo,Budakovë,Butakove,Butakovë,Будаково",
+    "subcountry": "Prizren"
+  },
+  {
+    "country": "XK",
+    "geonameid": 793226,
+    "name": "Papraqan",
+    "alternatenames": "Papracane,Papraqan,Papraćane,Papračane,Prapacan,Prapacane,Prapacani,Prapaqan,Prapaqani,Prapaçan,Prapaçani,Prapaćan,Prapaćane,Папраћане,Прапаћане",
+    "subcountry": "Gjakova"
+  },
+  {
+    "country": "XK",
+    "geonameid": 830005,
+    "name": "Glanica",
+    "alternatenames": "Glanica,Gllanice,Gllanicë,Гланица",
+    "subcountry": "Pristina"
+  },
+  {
+    "country": "XK",
+    "geonameid": 830410,
+    "name": "Lloqan",
+    "alternatenames": "Llocan,Llocani,Lloqan,Lloqani,Lloçan,Lloçani,Locan,Locane,Loçan,Loćane,Лоћане",
+    "subcountry": "Gjakova"
+  }
+]

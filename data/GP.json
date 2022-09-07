@@ -1,0 +1,177 @@
+[
+  {
+    "country": "GP",
+    "geonameid": 3578278,
+    "name": "Vieux-Habitants",
+    "alternatenames": "Les Habitants,Vez-Abitan,Vieux-Habitants,Вєз-Абітан",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578324,
+    "name": "Trois-Rivieres",
+    "alternatenames": "Les Trois Rivieres,Les Trois Rivières,Trois-Rivieres,Trois-Rivières",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578351,
+    "name": "Petites Anses",
+    "alternatenames": "HTB,Le Bourg,Petites Anses,Petites-Anses,Terr-de-Ba,Terre-de-Bas,Vostrau Tehr-deh-Bas,tyr-dw-ba,Востраў Тэр-дэ-Бас,Терр-де-Ба,تير-دو-با",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578441,
+    "name": "Saint-Francois",
+    "alternatenames": "SFC,Saint-Francois,Saint-François",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578447,
+    "name": "Sainte-Rose",
+    "alternatenames": "Sainte-Rose,Sent-Roz,Сент-Роз",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578466,
+    "name": "Sainte-Anne",
+    "alternatenames": "Sainte-Anne",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578467,
+    "name": "Saint-Claude",
+    "alternatenames": "Saint-Claude",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578575,
+    "name": "Port-Louis",
+    "alternatenames": "Port-Louis",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578594,
+    "name": "Pointe-Noire",
+    "alternatenames": "La Pointe-Noire,Point Noire,Pointe-Noire",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578599,
+    "name": "Pointe-a-Pitre",
+    "alternatenames": "La Pointe a Pitre,La Pointe à Pitre,PTP,Poent a Pitr,Pointe a Pitre,Pointe-a-Pitre,Pointe-à-Pitre,Pouant-a-Pitr,Puant a Pitras,Puehnt-a-Pitr,Puent-a-Pitr,bwant-ah-bytr,pi te er jiao cheng,powantapitoru,Πουάντ-α-Πιτρ,Поент а Питр,Пуент-а-Пітр,Пуэнт-а-Питр,פואנט-א-פיטר,بوانت-آه-بيتر,ポワンタピートル,皮特尔角城",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578681,
+    "name": "Petit-Canal",
+    "alternatenames": "Peti-Kanal',Petit Canat,Petit-Canal,byty-kanal,Петі-Каналь,بيتي-كانال",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578682,
+    "name": "Petit-Bourg",
+    "alternatenames": "Peti-Bur,Petit-Bourg,Pti Bur,Pti-Burg,byty-bwr,pwty bwr,Петі-Бур,Пти Бур,Пти-Бург,بيتي-بور,پوتی بور",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578959,
+    "name": "Les Abymes",
+    "alternatenames": "Abeymes,Abymes,Les Abymes,Lez-Abim,PTP,lzabym,lzbym,rezabimu,sa lai bi mei,Лез-Абім,לז אבים,لزابيم,لزبیم,レザビーム,薩萊比梅",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578967,
+    "name": "Le Moule",
+    "alternatenames": "Le Moule,Le Mul,Le-Mul',Moule,lw mwl,Ле Мул,Ле-Муль,لو مول",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3578978,
+    "name": "Le Gosier",
+    "alternatenames": "Gosier,Gozier,Le Gosier,Le Gozje,Le-Goz'e,lw ghwsyyh,lw gwsyh,Ле Гозје,Ле-Гозьє,لو غوسييه,لو گوسیه",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579023,
+    "name": "Lamentin",
+    "alternatenames": "Lamentin,Le Lamentin",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579232,
+    "name": "Beausejour",
+    "alternatenames": "Beausejour,Beauséjour,Grande Anse,La Grande Anse",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579250,
+    "name": "Grand-Bourg",
+    "alternatenames": "Gran-Bur,Grand Buras,Grand-Bourg,ghran-bwr,guran=buru,Гран-Бур,גראן-בור,غران-بور,グラン＝ブール",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579267,
+    "name": "Gourbeyre",
+    "alternatenames": "Gourbevre,Gourbeyre,Gurbejr,ghwrbyr,Гурбейр,غوربير",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579585,
+    "name": "Capesterre-Belle-Eau",
+    "alternatenames": "Capesterre,Capesterre-Belle-Eau,Kapester-Bel-O,Kapesterr-Bel'-O,kabstr-byl-aw,Капестер-Бел-О,Капестерр-Бель-О,كابستر-بيل-أو",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579642,
+    "name": "Bouillante",
+    "alternatenames": "Bouillante,Bujant,bwyant,Буянт,بويانت",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579732,
+    "name": "Basse-Terre",
+    "alternatenames": "BBR,Bas Ter,Bas Teras,Bas-Tehr,Bas-Ter,Bas-Tero,Bas-ter,Bassa-Terra,Basse Terre,Basse-Terre,Bastera,Bastēra,Bâssa-Tèrra,ba si te er,bas-tr,bas-tyr,base-tera,baseuteleu,basuteru,paster,Μπας-Τερ,Бас Тер,Бас-Тер,Бас-Тэр,Бас-тер,Բաս Տեր,באס טר,باس-تر,باس-تير,باس-تیر,बासे-तेर,பாஸ்தெர்,บัส-แตร์,ბას-ტერი,バステール,巴斯特尔,바스테르",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579761,
+    "name": "Baillif",
+    "alternatenames": "Baif,Baillif,Le Baillif,bayf,Баїф,بايف",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579767,
+    "name": "Baie-Mahault",
+    "alternatenames": "Bai-Mao,Baie-Mahault,Baj Mao,La Baie Mahault,bay-maww,khlyj myw,Баї-Мао,Бај Мао,باي-ماؤو,خلیج مئو",
+    "subcountry": "Guadeloupe"
+  },
+  {
+    "country": "GP",
+    "geonameid": 3579789,
+    "name": "Anse-Bertrand",
+    "alternatenames": "Ans-Bertran,Anse-Bertrand,ans-brtran,ansu=berutoran,Анс-Бертран,آنس-برتران,アンス＝ベルトラン",
+    "subcountry": "Guadeloupe"
+  }
+]

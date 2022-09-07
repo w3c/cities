@@ -1,0 +1,2165 @@
+[
+  {
+    "country": "AM",
+    "geonameid": 174703,
+    "name": "Zarrit'ap'",
+    "alternatenames": "Azizbekov,Pashaghu,Pashalu,Zaritap,Zarrit'ap',Zarrit’ap’,Զառիթափ",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174704,
+    "name": "Zangakatun",
+    "alternatenames": "Chanakhchi,Nizhniye Chanakhchi,Sovetashen,Zangakatun,Зангакатун,Զանգակատուն",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174706,
+    "name": "Goravan",
+    "alternatenames": "Goravan,Gorovan,Yenikend",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174709,
+    "name": "Yeghegnavan",
+    "alternatenames": "Egegnavan,Ekhegnavan,Shidlu,Yeghegnavan,Ехегнаван,Եղեգնավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174710,
+    "name": "Yeghegnadzor",
+    "alternatenames": "Egegnajor,Eghegnazor,Ehegnadzor,Ekhegnadzor,Jechegnadzor,Jeghegnadsor,Jeghegnadzor,Jeghegnadzoras,Jekhegnadzor,Keshishkend,Keshishkent,Keşişkənd,Mikoyan,Yegegnadzor,Yeghegik,Yeghegnadzor,Yekhegnadzor,Yeğegnadzor,eghegnadzori,ye hai ge na zuo er,yegeganadajora,yghghnadzwr,yghgnadzwr,yghgndzwr,Єхегнадзор,Јехегнаџор,Ехегнадзор,Եղեգնաձոր,يغغنادزور,یغگنادزور,یغگندزور,ਯੇਗੇਗਨਾਦਜੋਰ,ეღეგნაძორი,葉海格納佐爾",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174713,
+    "name": "Vostan",
+    "alternatenames": "Bedzhazlu,Ostan,Vostan,Востан,Ոստան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174714,
+    "name": "Vosketap'",
+    "alternatenames": "Shiraz,Shirazlu,Vosketap',Vosketap’,Ոսկետափ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174716,
+    "name": "Vernashen",
+    "alternatenames": "Bashkend,Vernashen,Вернашен",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174717,
+    "name": "Verishen",
+    "alternatenames": "Verisen,Veriseni,Verishen,Verisheni,Վերիշեն,Վերիշենի",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174725,
+    "name": "Vedi",
+    "alternatenames": "Beyuk-Vedi,Biyuk-Vedi,Vedi,Веди,Վեդի",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174726,
+    "name": "Vayk'",
+    "alternatenames": "Azizbekov,Soylan,Vajk,Vayk',Vayk’,Вайк,Վայք",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174743,
+    "name": "Tegh",
+    "alternatenames": "Dyg,Lekh,Teg,Tegh,Tekh,Tex,Тех,Տեղ",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174755,
+    "name": "Surenavan",
+    "alternatenames": "Surenavan,Սուրենավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174764,
+    "name": "Sisavan",
+    "alternatenames": "Sisavan,Yengidzha,Сисаван,Սիսավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174769,
+    "name": "Shinuhayr",
+    "alternatenames": "Shinuair,Shinuajr,Shinuayr,Shinuhayr,Sinuayr,Sinuhayr,Şinuayr,Шинуайр,Շինուհայր",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174770,
+    "name": "Lusarrat",
+    "alternatenames": "Lusarat,Lusarrat,Shikhlar,Shkhlar,Лусарат,Լուսառատ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174775,
+    "name": "Shahumyan",
+    "alternatenames": "Sahumyan,Shahumian,Shahumyan,Shaumjan,Shaumyan,Yuva,Шаумян,Շահումյան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174776,
+    "name": "Shatin",
+    "alternatenames": "Gasankend,Hasankand,Hesan Kand,Satin,Shatik,Shatin,Шатин,Շատին",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174782,
+    "name": "Shaghat",
+    "alternatenames": "Sagat,Shagat,Shaghat,Շաղատ",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174794,
+    "name": "Rrind",
+    "alternatenames": "Rind,Rrind,Ռինդ",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174805,
+    "name": "Noyakert",
+    "alternatenames": "Khalisa,Nojakert,Noyakert,Ноякерт,Նոյակերտ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174820,
+    "name": "Mrgavan",
+    "alternatenames": "Gedaklu,Mgravan,Mrgavan,Мграван,Մրգավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174823,
+    "name": "Meghri",
+    "alternatenames": "Meghri,Megri,Megris,Megry,Mergi,Meğri,Mogri,meghri,mei ge li,mghry,Мегри,Мегрі,Մեղրի,مغری,მეღრი,梅格里",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174828,
+    "name": "Malishka",
+    "alternatenames": "Malishka,Maliska,Մալիշկա",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174849,
+    "name": "Khndzoresk",
+    "alternatenames": "Khndzoresk,Xndzoresk,Xnjoresk,Խնձորեսկ",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174875,
+    "name": "Kapan",
+    "alternatenames": "Ghap'an,Ghapan,Ghap’an,Kafan,Kafin,Kapan,Kapanas,Katan,Madan,Qafan,Zangezur,ka pan,kapan,kapana,Капан,Կապան,کاپان,ਕਪਾਨ,კაპანი,カパン,卡潘,카판",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174884,
+    "name": "Jermuk",
+    "alternatenames": "Dzhermuk,Jermuk,Джермук,Ջերմուկ",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174895,
+    "name": "Goris",
+    "alternatenames": "Geryusy,Goris,Горис,Գորիս",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174904,
+    "name": "Gladzor",
+    "alternatenames": "Gladzor,Glajor,Ortakend,Гладзор,Գլաձոր",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174907,
+    "name": "Getap'",
+    "alternatenames": "Getap',Getap’,Ghyotur,Koytur,Գետափ",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174918,
+    "name": "Dzorastan",
+    "alternatenames": "Akhtakhana,Dzorastan,Jorastan,Khlatag,Ձորաստան",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174931,
+    "name": "Dalar",
+    "alternatenames": "Dalar,Dalular,Далар,Դալար",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174940,
+    "name": "Burastan",
+    "alternatenames": "Burastan,Karagamzalu,Tamamlu,Բուրաստան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174941,
+    "name": "Akner",
+    "alternatenames": "Akner,Brun,Ակներ,Բրուն",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174942,
+    "name": "Brrnakot'",
+    "alternatenames": "Brnakot,Brrnakot',Brrnakot’,Բռնակոթ",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174947,
+    "name": "Berk'anush",
+    "alternatenames": "Berk'anush,Berkanush,Berk’anush,Ogurbeklu,Բերքանուշ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174964,
+    "name": "Aygezard",
+    "alternatenames": "Ajgezard,Anastasavan,Aygedzor,Aygezard,Dargalu,Айгезард,Այգեզարդ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174965,
+    "name": "Aygepat",
+    "alternatenames": "Ajgepat,Aygepat,Dargalu Verkhniy,Masumlu,Verkhniy Dargalu,Айгепат,Այգեպատ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174968,
+    "name": "Aygavan",
+    "alternatenames": "Ajgavan,Aygavan,Reganlu,Айгаван,Այգավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174969,
+    "name": "Avshar",
+    "alternatenames": "Avsar,Avshar,Ավշար",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174972,
+    "name": "Hats'avan",
+    "alternatenames": "Acavan,Atsavan,Hats'avan,Hats’avan,Sisian,Ацаван,Հացավան",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174979,
+    "name": "Artashat",
+    "alternatenames": "Artachat,Artasat,Artasatas,Artasato,Artaschat,Artashat,Artasjat,Artaszat,Artaxat,Artaxata,Artaŝato,Artaşat,Artašat,Artašatas,Artașat,Kamarl,Kamarlu,Kamarlyu,Qəmərli,a er ta sha te,aratasata,artashat,artashat  armynya,Арташат,Արտաշատ,آرتاشات,آرتاشات، آرمینیا,أرتاشات,ਅਰਤਾਸ਼ਤ,არტაშატი,阿爾塔沙特",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174980,
+    "name": "Yeghegis",
+    "alternatenames": "Alagyaz,Alayaz,Artabuynk,Egegis,Erdapin,Yeghegis,Yekhegis,Եղեգիս",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174983,
+    "name": "Armash",
+    "alternatenames": "Armas,Armash,Արմաշ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174984,
+    "name": "Areni",
+    "alternatenames": "Areni,Arpa,Арени,Արենի",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174991,
+    "name": "Ararat",
+    "alternatenames": "Ararat,Araratas,Ararato,Davalinskiy Tsemzavod,Davalu,alalateu,ararat,ararat  armnstan,ararata,ararato,ya la la,Арарат,Արարատ,אררט,آرارات، ارمنستان,أرارات,ਅਰਾਰਤ,არარატი,アララト,亞拉臘,아라라트",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 174997,
+    "name": "Angeghakot'",
+    "alternatenames": "Angeghakot',Angeghakot’,Angekhakot,Angelaut,Անգեղակոթ",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 175002,
+    "name": "Aghavnadzor",
+    "alternatenames": "Agavnadzor,Agavnajor,Aghavnadzor,Akhavnadzor,Aynadzor,Агавнадзор,Աղավնաձոր",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 175006,
+    "name": "Agarakadzor",
+    "alternatenames": "Agarakadzor,Agarakajor,Ayar,Агаракадзор,Ագարակաձոր",
+    "subcountry": "Vayots Dzor"
+  },
+  {
+    "country": "AM",
+    "geonameid": 175007,
+    "name": "Agarak",
+    "alternatenames": "Agarak,Aqarak,Агарак,Ագարակ",
+    "subcountry": "Syunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 391233,
+    "name": "Aralez",
+    "alternatenames": "Aralek,Aralez,Արալեզ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 612561,
+    "name": "Horrom",
+    "alternatenames": "Horom,Horrom,Orom,Ором,Հոռոմ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 613075,
+    "name": "Margara",
+    "alternatenames": "Margara,Markara,Маргара,Маркара,Մարգարա",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616034,
+    "name": "Zovuni",
+    "alternatenames": "Molla Kasum,Zovuni,Зовуни,Զովունի",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616037,
+    "name": "Zovaber",
+    "alternatenames": "Yaydzhi,Zovaber,Зовабер,Զովաբեր",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616039,
+    "name": "Zorak",
+    "alternatenames": "Donguzyan,Zangilar,Zorak,Зорак,Զորակ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616046,
+    "name": "Zarr",
+    "alternatenames": "Zar,Zarr,Зар,Զառ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616052,
+    "name": "Yerevan",
+    "alternatenames": "Ayrivan,Djerevan,EVN,Eireavan,Eireaván,Ereban,Erehvan,Ereun,Erevan,Erevan osh,Erevana,Erevano,Erevanum,Erevàn,Ereván,Erevāna,Erewan,Erivan,Eriwan,Erywan,Erywań,Gierevan,Ierevan,Iereván,Iravan,Jerevan,Jerevanas,Jerevani,Jereván,Jerewan,Jerjewan,Revan,Yerevan,Yervandavan,Yerêvan,Yiriwan,Yèrèvan,Yérévan,ayrwan,ereban,erevani,iyerebhana,shhr ayrwan,ye li wen,yeleban,yeravana pranta,yere wan,yerevan,yerevana,yerevhana,yryfan,yrywan,Èrevan,Êrîvan,İrəvan,Γιερεβάν,Ερεβάν,Єреван,Јереван,Ереван,Ереван ош,Ерэван,Երեվան,Երևան,יערעוואן,ירוואן,ایروان,شهر ایروان,يريفان,يېرېۋان,یریوان,یەریڤان,येरवान प्रान्त,येरेवान,येरेव्हान,ইয়েরেভান,யெரெவான்,เยเรวาน,ཡེ་རེ་ཝན།,ერევანი,ዬሬቫን,エレバン,葉里溫,예레반",
+    "subcountry": "Yerevan"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616053,
+    "name": "Yerazgavors",
+    "alternatenames": "Aralykh,Erazgavors,Yerazgavors,Еразгаворс",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616055,
+    "name": "Yeraskhahun",
+    "alternatenames": "Erasxahun,Kuru-Araz,Yeraskhahun,Yeraskhaun,Երասխահուն",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616056,
+    "name": "Yeranos",
+    "alternatenames": "Eranos,Yeranos,Еранос,Երանոս",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616060,
+    "name": "Yeghegnut",
+    "alternatenames": "Egegnut,Ekheknut,Kamyshkut,Yegegnut,Yeghegnut,Yekhegnut,Yekheknut,Ехекнут,Եղեգնուտ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616061,
+    "name": "Yeghegnut",
+    "alternatenames": "Badal,Egegnut,Ekhegnut,Molla Badal,Yeghegnut,Yekheknut,Ехегнут,Եղեգնուտ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616062,
+    "name": "Vagharshapat",
+    "alternatenames": "Artemed,Avan Vardgesi,Echmiadzin,Echmiatsin,Ecmiadzin,Ejmiatsin,Etchmiadzin,Etjmiadzin,Etschmiadsin,Ečmiadzin,Iejmiatsin,Kaynepolis,Kayrak'aghak',Kayrak’aghak’,Norak'aghak',Norak’aghak’,Uch'k'ilisa,Uch’k’ilisa,Uckilise,Vagarsapat,Vagarshapat,Vagharsapat,Vagharshapat,Vagharšapat,Valeroktista,Vardgesavan,Wagharszapat,ehchmiadzin,vagharshapʼatʼi,wagharshapat,Üçkilise,Вагаршапат,Эчмиадзин,Վաղարշապատ,واغارشاپات,ვაღარშაპატი",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616065,
+    "name": "Yeghvard",
+    "alternatenames": "Eghvard,Egvard,Ehvard,Jeghward,Jegvard,Jegvardas,Jegward,Yeghvard,Yegvard,Yegvart,Yevgard,eghvardi,yghward,yghwrd,Єгвард,Егвард,Եղվարդ,يغوارد,یغوارد,یغورد,ეღვარდი",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616071,
+    "name": "Voskevaz",
+    "alternatenames": "Kiziltamur,Oskevaz,Voskevaz,Воскеваз,Ոսկեվազ",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616072,
+    "name": "Voskevan",
+    "alternatenames": "Koshkotan,Oskevan,Voskevan,Воскеван,Ոսկեվան",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616076,
+    "name": "Voskehask",
+    "alternatenames": "Molla Musa,Musakan,Oskehask,Voskeask,Voskehask,Воскеаск,Ոսկեհասկ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616094,
+    "name": "Verin Getashen",
+    "alternatenames": "Nerkin Getashen,Verin Adyaman,Verin Getasen,Verin Getashen,Verkhniy Adyaman,Неркин Геташен,Վերին Գետաշեն",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616097,
+    "name": "Verin Dvin",
+    "alternatenames": "Aysori Dvin,Verin Dvin,Verkhniy Dvin,Верин Двин,Վերին Դվին",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616100,
+    "name": "Verin Artashat",
+    "alternatenames": "Ardashar,Artashat,Verin Artasat,Verin Artashat,Verkhniy Artashat,Верин Арташат,Վերին Արտաշատ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616101,
+    "name": "Akht'ala",
+    "alternatenames": "Akht'ala,Akht’ala,Verin Akhtala,Verkhnyaya Akhtala,Ախթալա",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616103,
+    "name": "Varser",
+    "alternatenames": "Chirchir,Varser,Варсер,Վարսեր",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616108,
+    "name": "Vardenis",
+    "alternatenames": "Basargech'ar,Basargech’ar,Basarkeçər,Vardenis,Vardenisas,Wardenis,vardenisi,wa er dai ni si,wardnys,wrdnys,Варденис,Варденіс,Վարդենիս,ורדניס,واردنيس,واردنیس,ვარდენისი,瓦爾代尼斯",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616109,
+    "name": "Vardenik",
+    "alternatenames": "Gezeldara,Nerkin Gezaldara,Nizhnyaya Gezaldara,Vardenik,Варденик,Վարդենիկ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616117,
+    "name": "Vahan",
+    "alternatenames": "Orconikidze,Ordzhonikidze,Vahan,Орджоникидзе,Վահան",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616119,
+    "name": "Vaghashen",
+    "alternatenames": "Avdalagalu,Vagasen,Vagashen,Vaghashen,Vakhashen,Вахашен,Վաղաշեն",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616120,
+    "name": "Vahagni",
+    "alternatenames": "Shagali,Vaagni,Vahagni,Ваагни,Վահագնի",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616121,
+    "name": "Ushi",
+    "alternatenames": "Owsi,Ushi,Ուշի",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616123,
+    "name": "Urrut",
+    "alternatenames": "Owrut,Urrut,Urut,Урут,Ուռուտ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616136,
+    "name": "Tsovinar",
+    "alternatenames": "Covinar,Kolakran,Tsovinar,Цовинар,Ծովինար",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616137,
+    "name": "Tsovazard",
+    "alternatenames": "Covazard,Gadzhi Mukhan,Mukhan,Tsovazard,covazard,Цовазард,ծովազարդ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616138,
+    "name": "Tsovak",
+    "alternatenames": "Covak,Nerkin Zagalu,Nizhniy Zagalu,Tsovak,Цовак,Ծովակ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616139,
+    "name": "Tsovagyugh",
+    "alternatenames": "Chabukhly,Chibukhly,Chubukhly,Chubuli,Chubuliki,Covagjukh,Covagyug,Tsovagyugh,Tsovagyukh,Tzovagyugh,Цовагюх,Ծովագյուղ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616150,
+    "name": "Tsaghkunk'",
+    "alternatenames": "Tsaghkunk',Tsaghkunk’,Tsakhkunk,Verin Aylanlu,Verkhnyaya Aylanlu,Ծաղկունք",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616158,
+    "name": "Tsaghkahovit",
+    "alternatenames": "Cagkahovit,Cakhkaovit,Gadzhi-Khalil,Tsaghkahovit,Tsakhkaovit,Tzaghkahovit,Цахкаовит,Ծաղկահովիտ",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616159,
+    "name": "Tsaghkaber",
+    "alternatenames": "Avdibek,Cagkaber,Cakhkaber,Tsaghkaber,Tsakhkaber,Tsakhkashen,Tzaghkaber,Цахкабер,Ծաղկաբեր",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616160,
+    "name": "Tsaghkadzor",
+    "alternatenames": "Cachkadzor,Cachkadzoras,Cagkadzor,Cagkajor,Cakhkadzor,Darachichag,Dərəçiçək,Tahkadzor,Tsachkadzor,Tsaghkadzor,Tsakhkadzor,Zaghkadsor,tsaghkadzwr,Țahkadzor,Цагкадзор,Цахкадзор,Ծաղկաձոր,تساغکادزور,წაღკაძორი",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616174,
+    "name": "Tsovasar",
+    "alternatenames": "Covasar,T'azagyugh,Tazagyukh,Tsovasar,T’azagyugh,Ծովասար",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616178,
+    "name": "Tashir",
+    "alternatenames": "Kaliniko,Kalinin,Kalinino,Tashir,Tasir,Vorontsovka,Ташир,Տաշիր",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616184,
+    "name": "Tandzut",
+    "alternatenames": "Armutlu,Tandzut,Tanjut,Тандзут,Տանձուտ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616187,
+    "name": "T'alin",
+    "alternatenames": "T'alin,Talin,T’alin,Verin Talin,Verkhniy Talin,Талин,Թալին",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616194,
+    "name": "Stepanavan",
+    "alternatenames": "Dzhalalogly,Dzhelaloglu,Step'anavan,Stepahavan,Stepanavan,Stepanawan-Lori,Step’anavan,Степанаван,Ստեփանավան",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616199,
+    "name": "Spitak",
+    "alternatenames": "Amamlu,Amamth,Spitak,Спитак,Սպիտակ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616202,
+    "name": "Spandaryan",
+    "alternatenames": "Kulidzhan,Spandarjan,Spandaryan,Спандарян,Սպանդարյան",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616208,
+    "name": "Alashkert",
+    "alternatenames": "Alashkert,Alaskert,Kyarimarkh,Sovetakan,Советакан,Ալաշկերտ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616211,
+    "name": "Solak",
+    "alternatenames": "Solak,Солак,Սոլակ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616213,
+    "name": "Sis",
+    "alternatenames": "Sarvanlar,Sis,Uliya Sarvanlar,Сис,Սիս",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616220,
+    "name": "Shnogh",
+    "alternatenames": "Shnogh,Shnokh,Snog,Шнох,Շնող",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616224,
+    "name": "Shirak",
+    "alternatenames": "Konakhkran,Kunakhkran,Shirak,Sirak,Ширак,Շիրակ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616230,
+    "name": "Shenavan",
+    "alternatenames": "Blkher,Senavan,Shenavan,Шенаван,Շենավան",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616231,
+    "name": "Shenavan",
+    "alternatenames": "Kyalagarkh,Senavan,Shenavan,Шенаван,Շենավան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616250,
+    "name": "Sevan",
+    "alternatenames": "Sevan,Sevanas,Sewan,Ssewan,Yelenovka,sai fan,sevani,swan,Севан,Սևան,سوان,სევანი,塞凡",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616255,
+    "name": "Sarukhan",
+    "alternatenames": "Dalikardash,Sarukhan,Saruxan,Сарухан,Սարուխան",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616259,
+    "name": "Sarigyugh",
+    "alternatenames": "Sariguh,Sarigyug,Sarigyugh,Sarigyukh,Sarıgüh,Srigekh,Srygekh,Սարիգյուղ",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616262,
+    "name": "Saratak",
+    "alternatenames": "Imrkhan,Saratak,Саратак,Սարատակ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616265,
+    "name": "Saramej",
+    "alternatenames": "Chotur,Saramech,Saramej,Сарамеч,Սարամեջ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616273,
+    "name": "Sarahart'",
+    "alternatenames": "Gyullidzha,Saraart,Sarahart',Sarahart’,Սարահարթ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616278,
+    "name": "Geghakert",
+    "alternatenames": "Gegakert,Geghakert,Gekhakert,Samagar,Samaghar,Samakhar,Самахар,Գեղակերտ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616288,
+    "name": "Ptghni",
+    "alternatenames": "Ptghni,Ptgni,Ptkhni,Ptykhni,Птхни,Պտղնի",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616289,
+    "name": "Ptghunk'",
+    "alternatenames": "Ptghunk',Ptghunk’,Ptkhunk,Պտղունք",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616290,
+    "name": "P'shatavan",
+    "alternatenames": "Igdalu,P'shatavan,Pshatavan,P’shatavan,Пшатаван,Փշատավան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616291,
+    "name": "Prroshyan",
+    "alternatenames": "Proshian,Proshyan,Prosyan,Prroshyan,Պռոշյան",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616297,
+    "name": "P'ok'r Mant'ash",
+    "alternatenames": "Malyy Mantash,P'ok'r Mant'ash,Pokr Arkhvali,Pokr Mantash,P’ok’r Mant’ash,Покр Манташ,Փոքր Մանթաշ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616299,
+    "name": "Zoravan",
+    "alternatenames": "Kargavank,Pokravan,Zoravan,Зораван,Զորավան",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616303,
+    "name": "Pemzashen",
+    "alternatenames": "Magmudzhuk,Mahmutcuk,Makhmudzhug,Pemzasen,Pemzashen,Пемзашен,Պեմզաշեն",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616306,
+    "name": "Parravak'ar",
+    "alternatenames": "Paravakar,Paravaker,Parravak'ar,Parravak’ar,Паравакар,Պառավաքար",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616320,
+    "name": "Oshakan",
+    "alternatenames": "Ochakan,Osakan,Oschakan,Oshakan,Osjakan,Oszakan,Oŝakan,Oşakan,awshakan,Ошакан,Օշական,أوشاكان,اوشاکان,ოშაკანი",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616328,
+    "name": "Sardarapat",
+    "alternatenames": "Hoktember,Oktember,Oktemberjan,Sardarapat,Октемберян,Սարդարապատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616330,
+    "name": "Odzun",
+    "alternatenames": "Dzun,Odzun,Ojun,Usuklyar,Uzunlar,Одзун,Օձուն",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616333,
+    "name": "Noyemberyan",
+    "alternatenames": "Baran,Barana,Noemberjan,Noiemberian,Nojemberianas,Nojemberjan,Noyemberian,Noyemberyan,noemberiani,nwymbryan,Ноемберян,Նոյեմբերյան,نويمبريان,نویمبریان,ნოემბერიანი",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616340,
+    "name": "Nor Gyugh",
+    "alternatenames": "Nor Gyug,Nor Gyugh,Nor Gyukh,Tazagyukh,Նոր Գյուղ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616341,
+    "name": "Nor Geghi",
+    "alternatenames": "Bazmavan,Chatkran,Nor Geghi,Nor Gegi,Nor Gekhi,Нор Гехи,Նոր Գեղի",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616345,
+    "name": "Norashen",
+    "alternatenames": "Bogdanovka,Norasen,Norashen,Норашен,Նորաշեն",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616350,
+    "name": "Norashen",
+    "alternatenames": "Norasen,Norashen,Verin Kurdkend,Норашен,Նորաշեն",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616352,
+    "name": "Nor Armavir",
+    "alternatenames": "Nor Armavir,Նոր Արմավիր",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616356,
+    "name": "Noramarg",
+    "alternatenames": "Abilkend,Ablkend,Bulagli,Bulakhly,Imeni Kalinina,Kalinin,Noramarg,Poselok Imeni Kalinina,Posëlok Imeni Kalinina,Норамарг,Նորամարգ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616359,
+    "name": "Norakert",
+    "alternatenames": "Norakert,Նորակերտ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616361,
+    "name": "Noratus",
+    "alternatenames": "Noraduz,Noratus,Норадуз,Նորատուս",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616375,
+    "name": "Nerkin Getashen",
+    "alternatenames": "Nerk'in Getashen,Nerkin Adyaman,Nerk’in Getashen,Nizhniy Adyaman,Ներքին Գետաշեն",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616383,
+    "name": "Navur",
+    "alternatenames": "Navur,Навур,Նավուր",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616385,
+    "name": "Nalbandyan",
+    "alternatenames": "Mets Shagriar,Nalbandjan,Nalbandyan,Shagriar,Shagriar Bol'shoy,Shagriar Bol’shoy,Налбандян,Նալբանդյան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616391,
+    "name": "Basen",
+    "alternatenames": "Basen,Mets Kyapanak,Musaeljan,Musayelyan,Мусаелян,Բասեն",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616396,
+    "name": "Hovtamej",
+    "alternatenames": "Hovtamej,Mugan,Ovtamech,Հովտամեջ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616399,
+    "name": "Mrgashen",
+    "alternatenames": "Mrgasen,Mrgashen,Մրգաշեն",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616400,
+    "name": "Mrgashat",
+    "alternatenames": "Gecherlau,Gechrlu,Mrgasat,Mrgashat,Мргашат,Մրգաշատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616401,
+    "name": "Mrganush",
+    "alternatenames": "Mrganush,Zograblu,Мргануш",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616403,
+    "name": "Mosesgegh",
+    "alternatenames": "Mosesgeg,Mosesgegh,Mosesgekh,Mosesgex,Mosesqex,Movses,Мосесгех,Մոսեսգեղ",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616410,
+    "name": "Mets Parni",
+    "alternatenames": "Bekyand,Mec Parni,Mec-Parni,Mets Parni,Parni,Мец-Парни,Մեծ Պարնի",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616411,
+    "name": "Mets Masrik",
+    "alternatenames": "Bol'shaya Mazra,Bol’shaya Mazra,Mazra,Mec Masrik,Mec Mazra,Mets Masrik,Mets-Mazra,Мец Мазра,Մեծ Մասրիկ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616412,
+    "name": "Mets Mant'ash",
+    "alternatenames": "Bol'shoy Mantash,Bol’shoy Mantash,Mantash,Mec-Mantash,Mets Arikhvali,Mets Mant'ash,Mets Mant’ash,Metz Mantash,Мец-Манташ,Մեծ Մանթաշ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616416,
+    "name": "Metsavan",
+    "alternatenames": "Mecavan,Metsavan,Shakhnazar,Мецаван,Մեծավան",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616417,
+    "name": "Metsamor",
+    "alternatenames": "Kamarlu,Mecamor,Metsamor,Мецамор,Մեծամոր",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616418,
+    "name": "Merdzavan",
+    "alternatenames": "Merdzavan,Merjavan,Mertsavan,Мердзаван,Մերձավան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616421,
+    "name": "Meghrashen",
+    "alternatenames": "Kazanchi,Meghrashen,Megrasen,Megrashen,Меграшен,Մեղրաշեն",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616424,
+    "name": "Meghradzor",
+    "alternatenames": "Meghradzor,Megradzor,Megrajor,Taycharukh,Меградзор,Մեղրաձոր",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616429,
+    "name": "Mayakovski",
+    "alternatenames": "Majakovskij,Mayakovski,Mayakovskiy,Shaab,Маяковский,Մայակովսկի",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616435,
+    "name": "Masis",
+    "alternatenames": "Hrazdan,Masis,Narimanlu,Razdan,Takhanshalu,Tokhanshalu,Ulukhanlu,Zangibasar,Масис,Մասիս",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616438,
+    "name": "Martuni",
+    "alternatenames": "Karanlug,Martuki,Martuni,Martuny,Nerkin Karanlukh,Nizhniy-Karanlug,Мартуни,Մարտունի",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616441,
+    "name": "Marmarashen",
+    "alternatenames": "Marmarasen,Marmarashen,Marmorashen,Мармарашен,Մարմարաշեն",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616442,
+    "name": "Marmashen",
+    "alternatenames": "Kanlidzha,Marmasen,Marmashen,Verin Kanlidzha,Мармашен,Մարմաշեն",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616445,
+    "name": "Margahovit",
+    "alternatenames": "Bozigekh,Gamzachemanskaya,Gamzachiman,Hamgach'iman,Hamgach’iman,Margahovit,Margaovit,Маргаовит,Մարգահովիտ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616446,
+    "name": "Maralik",
+    "alternatenames": "Maralik,Molla Gekcha,Molla Gëkcha,Маралик,Մարալիկ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616453,
+    "name": "Mayisyan",
+    "alternatenames": "Maisian,Maisjan,Maisyan,Mayisyan,Ortakilisa,Маисян,Մայիսյան",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616456,
+    "name": "Madina",
+    "alternatenames": "Madina,Мадина,Մադինա",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616464,
+    "name": "Lukashin",
+    "alternatenames": "Imeni Mikoyana,Lukashin,Лукашин",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616465,
+    "name": "Lorut",
+    "alternatenames": "Lorut,Лорут,Լորուտ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616471,
+    "name": "Lichk'",
+    "alternatenames": "Gel,Gël,Lichk,Lichk',Lichk’,Личк,Լիճք",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616474,
+    "name": "Lerrnavan",
+    "alternatenames": "Kachagan,Lernavan,Lerrnavan,Лернаван,Լեռնավան",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616476,
+    "name": "Lerrnapat",
+    "alternatenames": "Gadzhikara,Lernapat,Lerrnapat,Makarashen,Լեռնապատ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616479,
+    "name": "Lerrnants'k'",
+    "alternatenames": "Lernantsk,Lerrnants'k',Lerrnants’k’,Spitak,Спитак,Լեռնանցք",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616480,
+    "name": "Lerrnanist",
+    "alternatenames": "Lernanist,Lerrnanist,Verin Akhta,Verkhnyaya Akhta,Лернанист,Լեռնանիստ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616481,
+    "name": "Lerrnakert",
+    "alternatenames": "Lernakert,Lerrnakert,Shirvan,Shirvandzhug,Լեռնակերտ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616484,
+    "name": "Khoronk'",
+    "alternatenames": "Khoronk',Khoronk’,Lenughi,Lenugi,Nerkin Aylanlu,Nizhniy Aylanlu,Խորոնք",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616488,
+    "name": "Lchashen",
+    "alternatenames": "Lcasen,Lchashen,Ordaklu,Лчашен,Լճաշեն",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616489,
+    "name": "Lchap",
+    "alternatenames": "Agzibir,Lchap,Lchap',Lchap’,Lehap,Лчап,Լճափ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616492,
+    "name": "Lanjaghbyur",
+    "alternatenames": "Kyuzadzhik,Landzhakhbjur,Landzhakhpyur,Lanjagbyur,Lanjaghbyur,Ланджахбюр,Լանջաղբյուր",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616522,
+    "name": "Kotayk'",
+    "alternatenames": "Kotajk,Kotayk',Kotayk’,Yelgovan,Котайк,Կոտայք",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616523,
+    "name": "Kosh",
+    "alternatenames": "Kos,Kosh,Кош,Կոշ",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616530,
+    "name": "Vanadzor",
+    "alternatenames": "Böyük Qarakilsə,Gharak'ilisa,Gharak’ilisa,Karakhs,Karakilis,Karaklis,Kirovakan,Kirowakan,Korovakan,Mets Karakilisa,Vanadzor,Vanadzoras,Vanajor,Wanadsor,Wanadzor,banajoleu,vanadzori,vuanazoru,wa na zuo er,wanadzwr,Ванадзор,Кировакан,Վանաձոր,وانادزور,ვანაძორი,ヴァナゾル,瓦纳佐尔,바나조르",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616535,
+    "name": "Hnaberd",
+    "alternatenames": "Hnaberd,Khnaberd,Kirkhdagirman,Kyrkhdagirman,Хнаберд,Հնաբերդ",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616537,
+    "name": "Khasht'arrak",
+    "alternatenames": "Hastarak,Həştərək,Khasht'arrak,Khashtarak,Khasht’arrak,Хаштарак,Խաշթառակ",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616554,
+    "name": "Kasakh",
+    "alternatenames": "Chamrlu,Chamyrlu,Kasakh,Касах",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616572,
+    "name": "Karchaghbyur",
+    "alternatenames": "Gedakbulag,Karcagbyur,Karchaghbyur,Karchaghpyur,Karchakhpjur,Karchakhpyur,Карчахпюр,Կարճաղբյուր",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616573,
+    "name": "Karbi",
+    "alternatenames": "Karbi,Карби,Կարբի",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616576,
+    "name": "Karanlukh",
+    "alternatenames": "Karanlukh,Verkhniy Karanlug",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616590,
+    "name": "Kaputan",
+    "alternatenames": "Geykilisa,Gëykilisa,Kaputan,Капутан,Կապուտան",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616593,
+    "name": "K'anak'erravan",
+    "alternatenames": "K'anak'erravan,Kanakeravan,Kenaker,Kenakeravan,K’anak’erravan,Murad Tapa,Քանաքեռավան",
+    "subcountry": "Yerevan"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616598,
+    "name": "Kamo",
+    "alternatenames": "Gadzhi Nazar,Kamo,Камо,Կամո",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616599,
+    "name": "Gavar",
+    "alternatenames": "Gavar,Gavarr,Kamo,Kyavar,Nor-Bajaset,Novo Bayazet,Гавар,Камо,Գավառ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616617,
+    "name": "Mayisyan",
+    "alternatenames": "Imeni Beriya,Imeni Zhdanova,Mayisyan,Zhdanov,Жданов,Մայիսյան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616620,
+    "name": "Shahumyan",
+    "alternatenames": "Imeni Shaumyana,Sahumyan,Shahumian,Shahumyan,Shahumyani Anvan Avazan,Shaumjan,Shaumyan,Шаумян,Շահումյան",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616627,
+    "name": "Ijevan",
+    "alternatenames": "Icevan,Iczewan,Idjevan,Idschewan,Idzevan,Idzevanas,Idzhevan,Idževan,Idževanas,Igevano,Ijevan,Istibulagh,Iĝevano,K'aravansaray,K'arvansara,Karavan Savan,Karavansarai,Karvansara,Karvansaray,K’aravansaray,K’arvansara,ayjwan,ijeban,ijevana,ijevani,ijevuan,yi jie wan,İcevan,Іджеван,Иджеван,Иџеван,Իջեվան,Իջևան,ایجوان,ਇਜੇਵਾਨ,იჯევანი,イジェヴァン,伊杰万,이제반",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616629,
+    "name": "Hrazdan",
+    "alternatenames": "Akhta,Akhtala,Akhti,Asagi Axta,Aşağı Axta,Hrasdan,Hrazdan,Hrazdanas,Khrazdan,Nerkin Akhta,Nizhne Akhti,Nizhniye Akhty,Nizhnyaya Akhta,Razdan,harajadana,he la zi dan,heulajeudan,hrazdan,razdani,Раздан,Храздан,Հրազդան,הרזדאן,هرازدان,ہرازدان,ਹਰਾਜਦਾਨ,რაზდანი,赫拉茲丹,흐라즈단",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616631,
+    "name": "Armavir",
+    "alternatenames": "Armavir,Armaviras,Armaviro,Armawir,Armawîr,Hoktemberyan,Oktember,Oktemberyan,Sardar-Abad,Sardarapat,Sərdarabad,a er ma wei er,aleumabileu,armaviri,armawyr,arumavuiru,Армавир,Армавір,Октембер,Արմավիր,آرماویر,არმავირი,アルマヴィル,阿爾馬維爾,아르마비르",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616632,
+    "name": "Hayanist",
+    "alternatenames": "Dostlug,Hayanist,Հայանիստ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616634,
+    "name": "Haghartsin",
+    "alternatenames": "Dzharkhech,Dzharkhedzh,Hagarcin,Haghardzin,Haghartsin,Kujbyshev,Kuybishev,Kuybyshev,Куйбышев,Հաղարծին",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616635,
+    "name": "Gyumri",
+    "alternatenames": "Alek'pol,Alek'sandrapol,Alek'sandrobol,Aleksandropol',Aleksandropol’,Alek’pol,Alek’sandrapol,Alek’sandrobol,Alexandropol',Alexandropol’,Ghiumri,Gimri,Giumri,Gjoemri,Gjumri,Gjumry,Guemrue,Gumri,Gumru,Gumry,Gyumri,Gümrü,Kumayri,Kumri,Kyumayri,Kyumri,Kümri,LWN,Leninakan,ghywmry,giumri,gyumeuli,gyumuri,gywmry,jiu mu li,Гюмри,Гюмры,Гјумри,Ґюмрі,Գյումրի,غيومري,گیومری,გიუმრი,ギュムリ,久姆里,규므리",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616639,
+    "name": "Gyulagarak",
+    "alternatenames": "Gjulagarak,Gyulabarrak,Gyulagarak,Gyulagorak,Гюлагарак,Գյուլագարակ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616645,
+    "name": "Ghukasavan",
+    "alternatenames": "Ghukasavan,Gukasavan,Kalara,Гукасаван,Ղուկասավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616646,
+    "name": "Geghamasar",
+    "alternatenames": "Gegamasar,Geghamasar,Gukarrich,Shishkaja,Shishkaya,Sisqaya,Şişqaya,Шишкая,Գեղամասար",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616648,
+    "name": "Gugark",
+    "alternatenames": "Gugark,Gugark',Gugark’,Meghrut,Megrut,Yagublu,Гугарк,Գուգարք",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616650,
+    "name": "Tsiatsan",
+    "alternatenames": "Ciacan,Grampa,Tsiatsan,Циацан,Ծիածան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616657,
+    "name": "Goght'",
+    "alternatenames": "Goght',Goght’,Gokht,Գողթ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616659,
+    "name": "Gogaran",
+    "alternatenames": "Geran,Gogaran,Gëran,Гогаран,Գոգարան",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616668,
+    "name": "Getazat",
+    "alternatenames": "Agdzhakishlag,Getashen,Getazat,Гетазат,Գետազատ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616669,
+    "name": "Getashen",
+    "alternatenames": "Dzhafarabat,Getasen,Getashen,Kalagar,Геташен,Գետաշեն",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616682,
+    "name": "Geghanist",
+    "alternatenames": "Geganist,Geghanist,Gekhanist,Getapnia,Geygmbet,Gëygmbet,Геханист,Գեղանիստ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616692,
+    "name": "Geghamavan",
+    "alternatenames": "Gegamavan,Geghamavan,Shagriz,Гегамаван,Գեղամավան",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616697,
+    "name": "Garrni",
+    "alternatenames": "Bash Gyarni,Garni,Garrni,Гарни,Գառնի",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616699,
+    "name": "Gagarin",
+    "alternatenames": "Gagarin,Гагарин,Գագարին",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616701,
+    "name": "Fantan",
+    "alternatenames": "Fantan,Fontan,Ֆանտան",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616702,
+    "name": "Fioletovo",
+    "alternatenames": "Fioletovo,Nikitino,Фиолетово,Ֆիոլետովո",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616712,
+    "name": "Dzoraghbyur",
+    "alternatenames": "Dzhorakhpyur,Dzoraghbyur,Dzoraghp'yur,Dzoraghp’yur,Dzorakhbjur,Dzorakhpyur,Joragbyur,Tedshirabad,Tedzhirabad,Tedzhrabak,Дзорахбюр,Ձորաղբյուր",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616716,
+    "name": "Dzoragyugh",
+    "alternatenames": "Dvoragyukh,Dzoraget,Dzoragyugh,Dzoragyukh,Joragyug,Vali Agalu,Дзорагет,Ձորագյուղ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616719,
+    "name": "Dzit'hank'ov",
+    "alternatenames": "Bazirkhana,Dzit'hank'ov,Dzitankov,Dzitkhankov,Dzit’hank’ov,Дзитанков,Ձիթհանքով",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616722,
+    "name": "Jrashen",
+    "alternatenames": "Dzhrashen,Jrasen,Jrashen,Vardnav,Vordnav,Vortnav,Джрашен,Ջրաշեն",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616724,
+    "name": "Jrashen",
+    "alternatenames": "Dzhrashen,Jrasen,Jrashen,Nor Dzhrashen,Джрашен,Ջրաշեն",
+    "subcountry": "Yerevan"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616729,
+    "name": "Jrahovit",
+    "alternatenames": "Dzhabachalu,Dzharovit,Dzhraovit,Jrahovit,Джаровит,Ջրահովիտ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616735,
+    "name": "Janfida",
+    "alternatenames": "Dzhanfida,Janfida,Джанфида,Ջանֆիդա",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616741,
+    "name": "Dvin",
+    "alternatenames": "Dvin,Dvin Armyanskiy,Nerkin Dvin,Nizhniy Dvin,Двин,Դվին",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616742,
+    "name": "Dsegh",
+    "alternatenames": "Dseg,Dsegh,Dsekh,Tumanyan,Дсех,Դսեղ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616744,
+    "name": "Drakhtik",
+    "alternatenames": "Drakhtik,Draxtik,Tokhludzha,Тохлуджа,Դրախտիկ",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616748,
+    "name": "Doghs",
+    "alternatenames": "Doghs,Dogs,Dokhs,Դողս",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616752,
+    "name": "Dilijan",
+    "alternatenames": "Delijan,Delishan,Delizhan,Dili,Dili P'ok'r,Dili P’ok’r,Dilican,Dilichan,Dilidjan,Dilidschan,Dilidzan,Dilidzhan,Dilidżan,Dilidžan,Diligano,Dilijan,Dilishan,Dilizanas,Dilizhan,Diliĝano,Diližanas,Hin,Tili,Tilichan,di li ran,dilijani,dylyjan,Дилиджан,Дилижан,Дилиџан,Діліжан,Դիլիջան,دیلیجان,დილიჯანი,迪利然",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616757,
+    "name": "Ddmashen",
+    "alternatenames": "Ddmasen,Ddmashen,Dodmashen,Totmashen,Ддмашен,Դդմաշեն",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616763,
+    "name": "Darpas",
+    "alternatenames": "Darbas,Darpas,Дарпас,Դարպաս",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616769,
+    "name": "Dalarik",
+    "alternatenames": "Dalarik,Mastara,Даларик,Դալարիկ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616773,
+    "name": "Chochkan",
+    "alternatenames": "Chochkan,Cockan,Ճոճկան",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616785,
+    "name": "Ch'arents'avan",
+    "alternatenames": "Ch'arants'avan,Ch'arents'avan,Charencavan,Charentsavan,Choentsavan,Ch’arants’avan,Ch’arents’avan,Lusavan,Чаренцаван,Չարենցավան",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616786,
+    "name": "Chambarak",
+    "alternatenames": "Chambarak,Kraside,Krasnosel'sk,Krasnosel’sk,Krasnoye,Mikhaylovka,Чамбарак",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616789,
+    "name": "Bjni",
+    "alternatenames": "Bjni,Bzhni,Բջնի",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616790,
+    "name": "Byureghavan",
+    "alternatenames": "Bjuregavan,Byuregavan,Byureghavan,Бюрегаван,Բյուրեղավան",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616791,
+    "name": "Byurakan",
+    "alternatenames": "Biurakan,Bjurakan,Burakan,Byurakan,Бюракан,Բյուրական",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616792,
+    "name": "Buzhakan",
+    "alternatenames": "Babakishi,Buzakan,Buzhakan,Бужакан,Բուժական",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616801,
+    "name": "Berdavan",
+    "alternatenames": "Berdavan,Kalacha,Բերդավան",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616802,
+    "name": "Berd",
+    "alternatenames": "Berd,Berrdagyugh,Berrdgyugh,Bert,Ghalak'yand,Ghalak’yand,Shlorut,T'auzk'end,T'auzkala,T'avuzghala,T'ous,T'ous Gale,T'ovuz,T'uzukala,Taua Kale,Taya-Kala,Tovuz,Tovuzkala,Tovuzqala,T’auzkala,T’auzk’end,T’avuzghala,T’ous,T’ous Gale,T’ovuz,T’uzukala,Volorut,Берд,Товуз,Բերդ",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616806,
+    "name": "Bazum",
+    "alternatenames": "Bazum,Bzovdal,Базум,Բազում",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616822,
+    "name": "Byuravan",
+    "alternatenames": "Bambakavan,Bjuravan,Byuravan,Verin Kuylasar,Verkhniy Kuylasar,Бюраван,Բյուրավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616823,
+    "name": "Bambakashat",
+    "alternatenames": "Bambakasat,Bambakashat,Molla Bayazet,Бамбакашат,Բամբակաշատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616824,
+    "name": "Balahovit",
+    "alternatenames": "Balahovit,Balakhovit,Balaovit,Mehub,Mekhub,Mgub,Балаовит,Балаховит,Բալահովիտ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616828,
+    "name": "Bagratashen",
+    "alternatenames": "Bagratasen,Bagratashen,Debedashen,Debetashen,Lambalu,Баграташен,Բագրատաշեն",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616835,
+    "name": "Azatan",
+    "alternatenames": "Azatan,Karakhs,Karakilisa,Pokr Karakilisa,Азатан,Ազատան",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616844,
+    "name": "Haykavan",
+    "alternatenames": "Ajkavan,Aykavan,Badzhogli,Haykavan,Айкаван",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616849,
+    "name": "Aygestan",
+    "alternatenames": "Ajgestan,Ayaslu,Aygestan,Айгестан,Այգեստան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616850,
+    "name": "Aygeshat",
+    "alternatenames": "Ajgeshat,Aygesat,Aygeshat,Gadzhikara,Айгешат,Այգեշատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616851,
+    "name": "Aygeshat",
+    "alternatenames": "Ajgeshat,Aygesat,Aygeshat,Kuzigidan,Айгешат,Այգեշատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616853,
+    "name": "Aknalich",
+    "alternatenames": "Aknalic,Aknalich,Aygerlich,Акналич,Ակնալիճ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616855,
+    "name": "Aygehovit",
+    "alternatenames": "Ajgeovit,Aygehovit,Aygeovit,Ayqeovit,Onut,Uzuntala,Айгеовит,Այգեհովիտ",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616872,
+    "name": "Artimet",
+    "alternatenames": "Alibeklu,Artimet,Atarbekyan,Артимет,Արտիմետ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616874,
+    "name": "Astghadzor",
+    "alternatenames": "Alikrykh,Astgajor,Astghadzor,Astkhadzor,Астхадзор,Աստղաձոր",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616877,
+    "name": "Ashtarak",
+    "alternatenames": "Achtarak,Aschtarak,Ashharak,Ashtarak,Ashtarakats' Gyugh,Ashtarakats’ Gyugh,Astarak,Astarakas,Astarako,Asztarak,Aŝtarako,Aştarak,Aštarak,Aštarakas,Aștarak,a shen ta la ke,asataraka,ashtarak,ashutaraku,asyutalakeu,Əştərək,Аштарак,Ащарак,Աշտարակ,آشتاراك,آشتاراک,ਅਸ਼ਤਾਰਕ,აშტარაკი,アシュタラク,阿什塔拉克,아슈타라크",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616879,
+    "name": "Ashnak",
+    "alternatenames": "Ashnak,Asnak,Ашнак,Աշնակ",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616881,
+    "name": "Arzni",
+    "alternatenames": "Arzni,arzny,ʾrzny,Арзни,Արզնի,آرزني,آرزنی,ܐܪܙܢܝ",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616882,
+    "name": "Arzakan",
+    "alternatenames": "Arzakan,Arzakyand,Арзакан,Արզական",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616888,
+    "name": "Arteni",
+    "alternatenames": "Arteni,Bogutlu,Артени,Արտենի",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616898,
+    "name": "Arshaluys",
+    "alternatenames": "Arsaluys,Arshalujs,Arshaluys,Kerpalu,Kërpalu,Аршалуйс,Արշալույս",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616912,
+    "name": "Argel",
+    "alternatenames": "Argel,Arkel,Lusakert,Аргел,Արգել",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616913,
+    "name": "Argavand",
+    "alternatenames": "Argavand,Dzhafarapat,Аргаванд,Արգավանդ",
+    "subcountry": "Yerevan"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616914,
+    "name": "Argavand",
+    "alternatenames": "Argavand,Uzunoba,Аргаванд,Արգավանդ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616915,
+    "name": "Arevshat",
+    "alternatenames": "Arevsat,Arevshat,Yekan,Yekanlar,Аревшат,Արևշատ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616916,
+    "name": "Arevshat",
+    "alternatenames": "Arevsat,Arevshat,Arpavar,Lusakert,Nerkin Agbash,Nizhniy Agbash,Аревшат,Արևշատ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616917,
+    "name": "Arevik",
+    "alternatenames": "Arevik,Tapadolag,Tapadolak,Аревик,Արևիկ",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616918,
+    "name": "Arevik",
+    "alternatenames": "Agdzharkh,Arevik,Аревик,Արևիկ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616920,
+    "name": "Arevashogh",
+    "alternatenames": "Arevashogh,Arevashokh,Arevasog,Chigdamal,Chikdamal,Аревашох,Արևաշող",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616921,
+    "name": "Arevashat",
+    "alternatenames": "Arevasat,Arevashat,Arevashet,Varmaziar,Аревашат,Արևաշատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616931,
+    "name": "Archis",
+    "alternatenames": "Archis,Arcis,Արճիս",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616932,
+    "name": "Arbat'",
+    "alternatenames": "Arbat',Arbat’,Արբաթ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616933,
+    "name": "Arazap'",
+    "alternatenames": "Arazap,Arazap',Arazap’,Evdzhilar,Аразап,Արազափ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616935,
+    "name": "Arrap'i",
+    "alternatenames": "Arapi,Arrap'i,Arrap’i,Odzhakhkuli,Առափի",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616936,
+    "name": "Aramus",
+    "alternatenames": "Aramus,Արամուս",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616938,
+    "name": "Arak's",
+    "alternatenames": "Arak's,Arak’s,Nerkin Karkhun,Nizhniy Karkhun,Արաքս",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616944,
+    "name": "Aragats",
+    "alternatenames": "Aragac,Aragats,Kaznafar,Арагац,Արագած",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616953,
+    "name": "Aparan",
+    "alternatenames": "Abaran,Abaran Verin,Aparan,Aparan Verin,Aparanas,Aparanbol,Aparanpol,Bash Abaran,Bash Aparan,Dash Abaron,K'asagh,K'asakh,K’asagh,K’asakh,P'araznavert,Pash Aparan,P’araznavert,a pa lan,abaran,aparan,Апаран,Ապարան,آپاران,أباران,აპარანი,阿帕蘭",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616954,
+    "name": "Apaga",
+    "alternatenames": "Apaga,Verin Turkmenlu,Апага,Ապագա",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616955,
+    "name": "Anushavan",
+    "alternatenames": "Anusavan,Anushavan,Parni,Pokr Parni,Анушаван,Անուշավան",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616971,
+    "name": "Amasia",
+    "alternatenames": "Amasia,Amasija,Amasiya,Gukasyan,Амасия,Ամասիա",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616974,
+    "name": "Alaverdi",
+    "alternatenames": "Alaverdi,Alaverdo,Alaverdy,Alawerdi,Alawerdy,Allahverdi,Allaverdy,Manes,a la wei er di,alaverdi,Алаверди,Алаверді,Ալավերդի,الله‌وردی,ალავერდი,阿拉韋爾迪",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616981,
+    "name": "Akunk'",
+    "alternatenames": "Akunk',Akunk’,Bashgyukh,Ակունք",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616982,
+    "name": "Akunk'",
+    "alternatenames": "Akunk,Akunk',Akunk’,Kirkhbulag,Ակունք",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 616989,
+    "name": "Akhuryan",
+    "alternatenames": "Akhurjan,Akhuryan,Axuryan,Duzk'end,Duzk'end Mets,Duzk'yand,Duzk’end,Duzk’end Mets,Duzk’yand,Ахурян,Ախուրյան",
+    "subcountry": "Shirak"
+  },
+  {
+    "country": "AM",
+    "geonameid": 617002,
+    "name": "Aghavnatun",
+    "alternatenames": "Agavnatun,Aghavnatun,Akhavnatukh,Akhavnatun,Агавнатун,Ахавнатун,Աղավնատուն",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 617003,
+    "name": "Aghavnadzor",
+    "alternatenames": "Agavnadzor,Aghavnadzor,Akhavnadzor,Babakishi,Агавнадзор",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 617018,
+    "name": "Agarak",
+    "alternatenames": "Agarak,Ագարակ",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 617019,
+    "name": "Agarakavan",
+    "alternatenames": "Agarak,Agarakavan,Ագարակավան",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 617026,
+    "name": "Abovyan",
+    "alternatenames": "Abovian,Abovianas,Abovjan,Abovyan,Abowian,Abowjan,Abowyan,Elar,Ellər,a bo wei yang,aboviani,abwfyan  ararat,abwwyan,Абовян,Абовјан,Աբովյան,آبوویان,أبوفيان، أرارات,აბოვიანი,阿博維揚",
+    "subcountry": "Kotayk"
+  },
+  {
+    "country": "AM",
+    "geonameid": 617027,
+    "name": "Abovyan",
+    "alternatenames": "Abovjan,Abovyan,Agbash,Verin Agbash,Verkhniy Agbash,Абовян,Աբովյան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 793638,
+    "name": "Vardablur",
+    "alternatenames": "Vardablur,Verdablur,Вардаблур",
+    "subcountry": "Lori"
+  },
+  {
+    "country": "AM",
+    "geonameid": 793672,
+    "name": "Bardzrashen",
+    "alternatenames": "Bardzrashen,Barjrasen,Bartsrashen,Բարձրաշեն",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 793693,
+    "name": "Nshavan",
+    "alternatenames": "Nsavan,Nshavan,Նշավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 799614,
+    "name": "Norabats'",
+    "alternatenames": "Norabats',Norabats’,Norashen,Նորաբաց",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823748,
+    "name": "Azatamut",
+    "alternatenames": "Azanut,Azatamut,Азанут",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823755,
+    "name": "Artsvaberd",
+    "alternatenames": "Arcvaberd,Artsvaberd,Арцваберд",
+    "subcountry": "Tavush"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823791,
+    "name": "Nor Yerznka",
+    "alternatenames": "Nor Erznka,Nor Yerznka,Նոր Երզնկա",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823793,
+    "name": "Sasunik",
+    "alternatenames": "Nor Sasunik,Sasunik,Սասունիկ",
+    "subcountry": "Aragatsotn"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823800,
+    "name": "Gandzak",
+    "alternatenames": "Gandzak",
+    "subcountry": "Gegharkunik"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823802,
+    "name": "Myasnikyan",
+    "alternatenames": "Mjasnikjan,Myasnikyan,Мясникян,Մյասնիկյան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823805,
+    "name": "Lenughi",
+    "alternatenames": "Lenughi,Lenugi,Լենուղի",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823807,
+    "name": "Metsamor",
+    "alternatenames": "Mecamor,Metsamor,Мецамор,Մեծամոր",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823808,
+    "name": "Gay",
+    "alternatenames": "Gay",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823809,
+    "name": "Baghramyan",
+    "alternatenames": "Baghramyan,Bagramyan,Բաղրամյան",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823810,
+    "name": "Musalerr",
+    "alternatenames": "Musaler,Musalerr,Մուսալեռ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823811,
+    "name": "Darakert",
+    "alternatenames": "Darakert,Դարակերտ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823812,
+    "name": "Dashtavan",
+    "alternatenames": "Dashtavan,Dastavan,Դաշտավան",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 823813,
+    "name": "Nizami",
+    "alternatenames": "Nizami,Նիզամի",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 859714,
+    "name": "Vardadzor",
+    "alternatenames": "Vardadzor",
+    "subcountry": "Yerevan"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866081,
+    "name": "Taronik",
+    "alternatenames": "Taronik",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866089,
+    "name": "Aknashen",
+    "alternatenames": "Aknashen",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866090,
+    "name": "Haykashen",
+    "alternatenames": "Aykashen,Haykasen,Haykashen,Հայկաշեն",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866091,
+    "name": "Hovtashat",
+    "alternatenames": "Hovtasat,Hovtashat,Ovtashat,Հովտաշատ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866092,
+    "name": "Sayat'-Nova",
+    "alternatenames": "Sayat'-Nova,Sayat’-Nova,Սայաթ-Նովա",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866093,
+    "name": "Voskehat",
+    "alternatenames": "Oskehat,Voskeat,Voskehat,Ոսկեհատ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866095,
+    "name": "Griboyedov",
+    "alternatenames": "Griboyedov",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866097,
+    "name": "Gmbet'",
+    "alternatenames": "Amberd,Gmbet',Gmbet’,Ամբերդ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866098,
+    "name": "Aygek",
+    "alternatenames": "Aygek,Այգեկ",
+    "subcountry": "Armavir"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866134,
+    "name": "Hovtashen",
+    "alternatenames": "Hovtasen,Hovtashen,Ovtashen,Հովտաշեն",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866135,
+    "name": "Dimitrov",
+    "alternatenames": "Dimitrov,Դիմիտրով",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866137,
+    "name": "Mrgavet",
+    "alternatenames": "Mrgavet,Մրգավետ",
+    "subcountry": "Ararat"
+  },
+  {
+    "country": "AM",
+    "geonameid": 866138,
+    "name": "Arevabuyr",
+    "alternatenames": "Arevabuyr,Արևաբույր",
+    "subcountry": "Ararat"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "country": "UZ",
+    "geonameid": 601294,
+    "name": "Nukus",
+    "alternatenames": "NCU,Noekis,Nokis,Noukous,Nukus,Nukusas,Nökis,nkws,nu ku si,nu kus,nukuseu,nukusu,nwkws,nwkys,nwqws,Нукус,Нүкіс,Նուկուս,נוקוס,نؤکیس,نكوص,نوکوس,นูกุส,ヌクス,努库斯,누쿠스",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601299,
+    "name": "Muynoq",
+    "alternatenames": "MOK,Mo'ynoq,Moynaq,Moʻynoq,Muinak,Mujnak,Mujnokˌ,Muynak,Muynoq,Mŭynoq,Муйнак,Мўйноқ",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601306,
+    "name": "Qanliko`l",
+    "alternatenames": "Leninabad,Leninobod,Qanliko`l,Qanliko‘l,Qanlikul,Qanlikŭl",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601323,
+    "name": "Qunghirot",
+    "alternatenames": "Kungirot,Kungrad,Qunghirot,Qŭnghirot,Zheleznodorozhny,Zheleznodorozhnyy",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601339,
+    "name": "Xo`jayli Shahri",
+    "alternatenames": "Gorod Khodzheyli,Khodzheili,Khodzhejli,Khodzheyli,Khojeili,Khujayli,Khujayli Shahri,Khŭjayli,Khŭjayli Shahri,Xo`jayli Shahri,Xo‘jayli Shahri,Ходжейли",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601349,
+    "name": "Kegeyli Shahar",
+    "alternatenames": "Kegayli,Kegeyli,Kegeyli Shahar",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601351,
+    "name": "Qozonketkan",
+    "alternatenames": "Kazanketken,Qozonketkan",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601417,
+    "name": "Oltinko`l",
+    "alternatenames": "Altynkul',Altynkul’,Oltinko`l,Oltinko‘l,Oltinkul,Oltinkŭl",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 601423,
+    "name": "Oqmang`it",
+    "alternatenames": "Akmangit,Oqmang`it,Oqmanghit,Oqmang‘it",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 829955,
+    "name": "Qo`ng`irot Shahri",
+    "alternatenames": "Gorod Kungrad,Qo`ng`irot Shahri,Qo‘ng‘irot Shahri,Qunghirot Shahri,Qŭnghirot Shahri",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 829960,
+    "name": "Chimboy Shahri",
+    "alternatenames": "Chimboy Shahri,Gorod Chimbay",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 829962,
+    "name": "Mo`ynoq Shahri",
+    "alternatenames": "Gorod Muynak,Mo`ynoq Shahri,Mo‘ynoq Shahri,Muynoq Shahri,Mŭynoq Shahri",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 829964,
+    "name": "Shumanay Shahri",
+    "alternatenames": "Gorod Shumanay,Shumanay Shahri",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215663,
+    "name": "Jondor Shaharchasi",
+    "alternatenames": "Dzhandar,Dzhandor,Dzhandzhar,Jondor Shaharchasi,Sverdlov,Sverdlovo,Sverdlovsk,Swerdlow,Zhondor",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215694,
+    "name": "Zomin Shaharchasi",
+    "alternatenames": "Saamin,Zaamin,Zomin,Zomin Shaharchasi,Зомин",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215736,
+    "name": "Nishon Tumani",
+    "alternatenames": "Nishon Tumani,Yangi-Nishan,Yangi-Nishon",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215810,
+    "name": "Usmat Shaharchasi",
+    "alternatenames": "Usmat,Usmat Shaharchasi,Usmet,Усмат",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215839,
+    "name": "Urgut Shahri",
+    "alternatenames": "Gorod Urgut,Urgut,Urgut Shahri,Ургут",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215856,
+    "name": "Mug`lon Shahar",
+    "alternatenames": "Mug`lon Shahar,Mughlon,Muglon,Mug‘lon Shahar,Ul'yanovsk,Ul’yanovsk",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215957,
+    "name": "Tirmiz",
+    "alternatenames": "Termez,Termiz,Tirmiz,tai er mei zi,trmdh,trmz,Термез,טרמז,ترمذ,ترمز,泰尔梅兹",
+    "subcountry": "Surxondaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1215975,
+    "name": "Toyloq Qishlog'i",
+    "alternatenames": "Komsomol'sk,Komsomol'skiy,Komsomol'skiy Rayon,Komsomol’sk,Komsomol’skiy,Komsomol’skiy Rayon,Taylak,Taylak-Payon,Taylakskiy Rayon,Taylyak,Taylyak-poyon,Toyloq,Toyloq Qishlog'i,Toyloq Qishlog’i",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216080,
+    "name": "Nurobod Shahri",
+    "alternatenames": "Nurabad,Nurobod,Nurobod Shahri,Sovetabad",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216115,
+    "name": "Sho`rchi",
+    "alternatenames": "Chourtchi,Dzhalair,Kul'-Tepe,Kul’-Tepe,Sho`rchi,Sho‘rchi,Shurchi,Shŭrchi",
+    "subcountry": "Surxondaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216187,
+    "name": "Shahrisabz",
+    "alternatenames": "Chakhrisabz,Sachrisabz,Sachrizabz,Sahrisabz,Sahrisabzas,Schachrissjabs,Sehr-i-Sebz,Shahri-i-Sabz,Shahrisabz,Shakhrisab,Shakhrisabz,Shakhrisabzs,Shakhrisyabz,Shaҳrisabz,Sjachrisabz,Xahrisabz,sakhrisabjako etihasika kendra,sha he li sa bu zi,shafurisabusu,shahrisabzi,shhrsbz,Ŝahrisabz,Şehr-i-Sebz,Šachrizabz,Šahrisabz,Šahrisabzas,Шахрисаб,Шахрисабз,Шаҳрисабз,שאחריסאבז,شهرسبز,شهری‌سبز,شہر سبز,शख्रिसब्जको एतिहासिक केन्द्र,შაჰრისაბზი,シャフリサブス,沙赫里薩布茲",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216189,
+    "name": "Shohimardon",
+    "alternatenames": "Khamzaabad,Kurort Khamza-Abad,Kurort Shakhimardan,Shahimardan,Shakhimardan,Shakhimardan),Shakimardan,Shaymardan,Shohimardon,Шахимардан,Шахимардан)",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216265,
+    "name": "Samarkand",
+    "alternatenames": "SKD,Samarcanda,Samarcande,Samarkand,Samarkanda,Samarkandas,Samarkando,Samarqand,Semerkant,Semerqend,sa ma er han,samaleukanteu,samarukando,smrqnd,Самарканд,סמרקנד,سمرقند,サマルカンド,撒馬爾罕,撒马尔罕,사마르칸트",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216290,
+    "name": "Romitan Shahri",
+    "alternatenames": "Kal'ty-Mauri,Kal’ty-Mauri,Ramitan,Rometan,Romitan Shahri,Romiton",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216311,
+    "name": "Qarshi",
+    "alternatenames": "Bek Budi,KSQ,Karaki,Karchi,Karshi,Karshy,Karsi,Karsio,Karsis,Karsji,Karszy,Karŝio,Karşi,Karši,Karšis,Karși,Kharsh khot,Qarshi,Qarsi,Qarši,ka er xi,kaleusi,karasi,karushi,nkhshb,qarshy,qrshy,qrsy,Карши,Каршы,Карші,Харш хот,Қарсы,Կարշի,קרשי,قارشی,قرشي,قرشی,نخشب,ਕਾਰਸ਼ੀ,カルシ,卡爾希,카르시",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216430,
+    "name": "Payariq Shahri",
+    "alternatenames": "Fedorovskoye,Narimanovka,Narimanovo,Narimanowka,Pai Aryk,Pay-Aruk,Payariq,Payariq Shahri,Payaryk",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216475,
+    "name": "Muborak",
+    "alternatenames": "Maburek,Mubarek,Muborak,Муборак",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216490,
+    "name": "Yangi Mirishkor",
+    "alternatenames": "Mirichkar,Mirishkor,Yangi Mirishkor",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216577,
+    "name": "Loyish Shaharchasi",
+    "alternatenames": "Akdar'ya,Akdar’ya,Laish,Loyish,Loyish Shaharchasi",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216787,
+    "name": "Kitob",
+    "alternatenames": "Kitab,Kitob,Китаб,Китоб",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1216982,
+    "name": "Kattaqo'rg'on Shahri",
+    "alternatenames": "Kattakurgan,Kattakˌurgon,Kattaqo'rg'on Shahri,Kattaqo`rg`on,Kattaqo‘rg‘on,Kattaqo’rg’on Shahri,Kattaqurghon,Kattaqŭrghon,Каттакурган,Каттақўрғон",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217007,
+    "name": "Koson",
+    "alternatenames": "Kasan,Kassan,Koson,Касан,Косон",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217035,
+    "name": "Qorovulbozor",
+    "alternatenames": "Karaulbazar,Qorovulbozor,Qorowulbozor,Караулбазар",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217084,
+    "name": "Karakul'",
+    "alternatenames": "Kara Kal,Karakul',Karakul’,Qorakul,Qorakŭl,Stantslya-Karakul,Каракуль",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217085,
+    "name": "Qorako`l Shahri",
+    "alternatenames": "Karakul',Karakul’,Qorako`l Shahri,Qorako‘l Shahri,Qorakul,Qorakŭl,Stantsiya Karakul',Stantsiya Karakul’",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217180,
+    "name": "Kogon Shahri",
+    "alternatenames": "Kagan,Kogon Shahri,Novaya Bukhara,Каган",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217215,
+    "name": "Ishtixon Shahri",
+    "alternatenames": "Ishtihon,Ishtikhon,Ishtixon Shahri,Ishtykhan",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217262,
+    "name": "G`uzor",
+    "alternatenames": "G'uzor,G`uzor,Ghuzor,Gusar,Guzar,Guzor,Gʻuzor,G‘uzor,gdhar‎),Гузор,گذار‎)",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217340,
+    "name": "Galaosiyo Shahri",
+    "alternatenames": "Galaasiya,Galaassiya,Galaosiyo Shahri,Gallya-Asiya,Gallya-Assiya",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217362,
+    "name": "Juma Shahri",
+    "alternatenames": "Dzhuma,Juma,Juma Shahri",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217414,
+    "name": "Jomboy Shahri",
+    "alternatenames": "Dzhambay,Jomboy,Jomboy Shahri,Khashdala,Khoshdala",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217474,
+    "name": "Denov",
+    "alternatenames": "Dehnan,Dehnav,Denan,Denau,Denov,Denow,Deynau,dh nw,Денов,ده نو",
+    "subcountry": "Surxondaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217512,
+    "name": "Dahbed",
+    "alternatenames": "Dagbid,Dagbit,Dahbed,Dakhbed,Dakhbet,Daxbet",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217540,
+    "name": "Chiroqchi",
+    "alternatenames": "Chirakchi,Chirakchya,Chiroqchi",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217569,
+    "name": "Chelak",
+    "alternatenames": "Chelak,Chelak Shahri,Chelek,Chelekskiy Rayon,Payaryk",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217595,
+    "name": "Charxin",
+    "alternatenames": "Charkhin,Charxin,Чархин",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217658,
+    "name": "Bulung'ur Shahri",
+    "alternatenames": "Bulung'ur,Bulung'ur Shahri,Bulunghur,Bulung’ur,Bulung’ur Shahri,Krasnogvardeiskoye,Krasnogvardeysk,Krasnogvardeyskaya,Krasnogvardeyskoye,Krasnogvardskiy,Rostovtsevo",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217662,
+    "name": "Bukhara",
+    "alternatenames": "Alt-Buchara,BHK,Bochara,Bokhara,Bouchara,Boukhara,Bucara,Buchara,Buhar,Buhara,Buharo,Buhhaara,Buhāra,Bujara,Bujará,Bukhaara,Bukhar,Bukhara,Bukharà,Bukhoro,Buxara,Buxoro,Buĥaro,Staraya Bukhara,bkhara,bkhary,bu ha la,buhala,buhara,bukhara,bukharako etihasika kendra,bwkhara,bwkrh,pukara,Μπουχάρα,Бухар,Бухара,Бухоро,Бұхара,בוכרה,بخارا,بخارى,بوخارا,बुखराको एतिहासिक केन्द्र,बुख़ारा,बुखारा,বুখারা,ਬੁਖਾਰਾ,புகாரா,ബുഖാറ,ბუხარა,ブハラ,布哈拉,부하라",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217703,
+    "name": "Beshkent",
+    "alternatenames": "Beshkent,Bish-Kent,Бешкент",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217734,
+    "name": "Boysun",
+    "alternatenames": "Baisuk,Baisun,Bajsun,Baysun,Bojsun,Boysun,Бойсун",
+    "subcountry": "Surxondaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217907,
+    "name": "Olot Shahri",
+    "alternatenames": "Alat,Alata,Olot Shahri",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217925,
+    "name": "Oqtosh Shahri",
+    "alternatenames": "Aktash,Gorod Aktash,Oqtosh,Oqtosh Shahri",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1217926,
+    "name": "Oqtosh",
+    "alternatenames": "Aktash,Oqtosh",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346442,
+    "name": "Qorovulbozor Shahri",
+    "alternatenames": "Gorod Karaulbazar,Qorovulbozor Shahri,Qorowulbozor Shahri",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346480,
+    "name": "Qorashina",
+    "alternatenames": "Karashina,Qorashina",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346482,
+    "name": "Shahrisabz Shahri",
+    "alternatenames": "Gorod Shakhrisabz,Shahrisabz Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346483,
+    "name": "Koson Shahri",
+    "alternatenames": "Gorod Kasan,Koson Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346485,
+    "name": "Kitob Shahri",
+    "alternatenames": "Gorod Kitab,Kitob Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346486,
+    "name": "Muborak Shahri",
+    "alternatenames": "Gorod Mubarek,Muborak Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346487,
+    "name": "Beshkent Shahri",
+    "alternatenames": "Beshkent Shahri,Gorod Beshkent",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346488,
+    "name": "G`uzor Shahri",
+    "alternatenames": "G`uzor Shahri,Ghuzor Shahri,Gorod Guzar,G‘uzor Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346489,
+    "name": "Qamashi Shahri",
+    "alternatenames": "Gorod Kamashi,Qamashi Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346491,
+    "name": "Chiroqchi Shahri",
+    "alternatenames": "Chiroqchi Shahri,Gorod Chirakchi",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346492,
+    "name": "Yakkabog` Shahri",
+    "alternatenames": "Gorod Yakkabag,Yakkabog` Shahri,Yakkabogh Shahri,Yakkabog‘ Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346493,
+    "name": "Yangi-Nishon Shahri",
+    "alternatenames": "Gorod Yangi-Nishan,Yangi-Nishon Shahri",
+    "subcountry": "Qashqadaryo"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1346571,
+    "name": "Ravon",
+    "alternatenames": "Ravan,Ravon,Rawon",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512260,
+    "name": "Ziyodin Shaharchasi",
+    "alternatenames": "Kala-ziadin,Pakhtakor,Ziadin,Ziaeddin,Ziatdin,Ziyautdin,Ziyodin Shaharchasi,Zradin",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512278,
+    "name": "Zarbdor Shaharchasi",
+    "alternatenames": "Komakino,Lomakino,Zarbdar,Zarbdor,Zarbdor Shaharchasi",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512286,
+    "name": "Zafarobod Shaharchasi",
+    "alternatenames": "Zafarabad,Zafarobod,Zafarobod Shaharchasi",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512287,
+    "name": "Zafar",
+    "alternatenames": "Almazar,Olmazor,Vrevskiy,Zafar,Зафар",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512298,
+    "name": "G'oliblar Qishlog'i",
+    "alternatenames": "G'oliblar Qishlog'i,G`oliblar,Gholiblar,G‘oliblar,G’oliblar Qishlog’i,Imeni Yuliusa Fuchika,Yuliusa Fuchika",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512319,
+    "name": "Yozyovon",
+    "alternatenames": "Yazyavan,Yaz”yavan,Yozyovon,Yozyowon",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512320,
+    "name": "Yaypan",
+    "alternatenames": "Bazar-Yaypan,Jajpan,Yaipan,Yaypan,Яйпан",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512339,
+    "name": "Yangiyul",
+    "alternatenames": "Jangijul,Jangijul',Kaunchi,Yangiyo'l,Yangiyoʻl,Yangiyul,Янгийўл,Янгиюль",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512342,
+    "name": "Yangiyer",
+    "alternatenames": "Jangier,Ungi-Yere,Yangier,Yangiyer,Янгиер",
+    "subcountry": "Sirdaryo Region"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512348,
+    "name": "Yangirabot",
+    "alternatenames": "Yangirabad,Yangirabod,Yangirabot",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512350,
+    "name": "Yangiqo`rg`on",
+    "alternatenames": "Yangikurgan,Yangiqo`rg`on,Yangiqo‘rg‘on,Yangiqurghon,Yangiqŭrghon",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512351,
+    "name": "Yangiqo`rg`on",
+    "alternatenames": "Yangikurgan,Yangiqo`rg`on,Yangiqo‘rg‘on,Yangiqurghon,Yangiqŭrghon",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512355,
+    "name": "Yangiqishloq Shaharchasi",
+    "alternatenames": "Yangikishlak,Yangiqishloq,Yangiqishloq Shaharchasi",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512361,
+    "name": "Yangibozor",
+    "alternatenames": "Yangibazar,Yangibozor",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512364,
+    "name": "Yangibozor Qishlog'i",
+    "alternatenames": "Yangibazar,Yangibozor Qishlog'i,Yangibozor Qishlog’i",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512368,
+    "name": "Yangiariq",
+    "alternatenames": "Yangi-bazar,Yangiariq,Yangiaryk",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512372,
+    "name": "Yangiobod",
+    "alternatenames": "Jangiabad,Yangiabad,Янгиабад",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512403,
+    "name": "Vodil",
+    "alternatenames": "Vodil,Vuadil',Vuadil’,Wodil",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512423,
+    "name": "Vobkent Shahri",
+    "alternatenames": "Vabkend,Vabkent,Vobkent Shahri,Wobkent",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512449,
+    "name": "Uychi",
+    "alternatenames": "Uichi,Ujchi,Uychi,Уйчи",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512464,
+    "name": "Urtaowul",
+    "alternatenames": "O'rtaovul,Oʻrtaovul,Urtaaul,Urtaovul,Urtaowul,Ŭrtaowul,Ўртаовул,Уртааул",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512473,
+    "name": "Urganch",
+    "alternatenames": "Novo-Urgench,Ourguentch,UGC,Urganch,Urgench,Urgentj,Yrgench,uleugenchi,urugenchi,Ургенч,ウルゲンチ,우르겐치",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512480,
+    "name": "Dashtobod",
+    "alternatenames": "Dashtobod,Ul'yanovo,Ul’yanovo,Даштобод",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512493,
+    "name": "Uchtepa Qishlog'i",
+    "alternatenames": "Uch-Tyube,Uchtepa,Uchtepa Qishlog'i,Uchtepa Qishlog’i,Учтепа",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512501,
+    "name": "Uchqurghon Shahri",
+    "alternatenames": "Gorod Uchkurgan,Uch-Kurgan,Uchkurgan,Uchqurghon,Uchqurghon Shahri,Uchqŭrghon,Uchqŭrghon Shahri,Уч-Курган,Учкурган",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512502,
+    "name": "Uchko`prik",
+    "alternatenames": "Imeni Molotova,Molotovo,Uchko`prik,Uchko‘prik,Uchkuprik,Uchkupryuk",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512524,
+    "name": "Tuytepa",
+    "alternatenames": "Nurafshon,Toi-Tjube,Toi-Tyube,Tojtepa,Toy-Tyube,Toytepa,Tuytepa,Tŭytepa,Нурафшон,Тойтепа",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512549,
+    "name": "To`rqao`rg`on",
+    "alternatenames": "To`rqao`rg`on,To‘rqao‘rg‘on,Turagurghon,Turakurgan,Turakˌurgon,Tyurya-Kurgan,Tŭragŭrghon,Тўрақўрғон",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512568,
+    "name": "Toshloq",
+    "alternatenames": "Tashlak,Toshloq",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512569,
+    "name": "Tashkent",
+    "alternatenames": "Daskent,Daşkent,Daşkənd,Lithopolis,TAS,Tachkent,Tachkènt,Taixkent,Taschkent,Tashken,Tashkend,Tashkent,Tashkent osh,Tashkenti,Tasjkent,Taskende,Taskent,Taskenta,Taskentas,Taskento,Taszkent,Taxkent,Taŝkento,Taşkent,Taškent,Taškenta,Taškentas,Tașkent,Tochkent,Toshkand,Toshkent,Toshkent shahri,ta shen gan,tasakada,tasakanda,tasakhanda,tashknd,tashqnd,tashukento,taskanda,taskanr,taskantu,taskent,tasyukenteu,thach khen t,tshqnd,tsqnt,Τασκένδη,Ташкен,Ташкент,Ташкент ош,Тошканд,Տաշքենդ,טאשקענט,טשקנט,تاشقند,تاشكند,تاشكەنت,تاشکند,تاشکەند,طشقند,ताशकन्द,ताश्कंद,তাশখন্দ,ਤਾਸ਼ਕੰਦ,தாஷ்கந்து,తాష్కెంట్,ತಾಷ್ಕೆಂಟ್,താഷ്കന്റ്,ทาชเคนต์,ཐ་ཧྲི་ཀན།,ტაშკენტი,ታሽኬንት,タシュケント,塔什干,타슈켄트",
+    "subcountry": "Tashkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512658,
+    "name": "Toshbuloq",
+    "alternatenames": "Tashbulak,Toshbuloq",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512675,
+    "name": "Tomdibuloq",
+    "alternatenames": "Tamdy,Tamdybulak,Tomdibulog,Tomdibuloq",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512699,
+    "name": "Taxtako`pir",
+    "alternatenames": "Takhta-Kusyr,Takhtakupir,Takhtakupyr,Takhtakŭpir,Taxtako`pir,Taxtako‘pir,Tazta-Kupir",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512770,
+    "name": "Sirdaryo",
+    "alternatenames": "Sidare,Sirdarjo,Sirdaryo,Ssyr-Darja,Syr-Dar'inskiy,Syr-Darjinskaja,Syr-Dar’inskiy,Syr-Novorossiyskiy,Syr-Novorossliski,Syrdar'inskaja,Syrdar'ja,Syrdar'ya,Syrdarya,Syrdar’ya,Сирдарё,Сырдарьинская,Сырдарья",
+    "subcountry": "Sirdaryo Region"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512790,
+    "name": "Shovot",
+    "alternatenames": "Shakh-abad,Shavat,Shovot,Showot",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512832,
+    "name": "Shahrixon",
+    "alternatenames": "Imeni Stalina,Moskovskiy,Shahrikhon,Shahrixon,Shakhrikhan,Stalino",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512838,
+    "name": "Shofirkon Shahri",
+    "alternatenames": "Baumana,Khodzha-arif,Shafirkan,Shafrikan,Shafrikent,Shofirkon Shahri",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512934,
+    "name": "Salor",
+    "alternatenames": "Chirchik,Salar,Salor",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512955,
+    "name": "Rishton",
+    "alternatenames": "Imeni Kuybysheva,Kuibyshev,Kuybishewo,Kuybyshe,Kuybyshev,Kuybyshevo,Richtan,Rishdan,Rishtan,Rishton,Ristan,Ristanas,Riştan,Rištanas,li shen dun,rishitan,rshtwn  azbkstan,ryshtan,Риштан,رشتون، ازبکستان,ریشتان,リシタン,里什頓",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512978,
+    "name": "Qo'shko'pir",
+    "alternatenames": "Kosh Kunir,Koshkupyr,Qo'shko'pir,Qo’shko’pir,Qushkupir,Qŭshkŭpir",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512979,
+    "name": "Qo'qon",
+    "alternatenames": "Kokand,Kokandas,Qo'qon,Qo`qon,Qoʻqon,Qo‘qon,Quqon,Qŭqon,kokando,kokanteu,Коканд,コーカンド,코칸트",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1512986,
+    "name": "Piskent",
+    "alternatenames": "Piskent,Pskent,Пскент",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513010,
+    "name": "Poytug`",
+    "alternatenames": "Baytok,Pajtug,Paytok,Paytug,Poytug`,Poytugh,Poytug‘,Пайтуг",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513011,
+    "name": "Payshamba Shahri",
+    "alternatenames": "Pajshanba,Payshamba Shahri,Payshanba,Payshmba,Пайшанба",
+    "subcountry": "Samarqand"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513017,
+    "name": "Parkent",
+    "alternatenames": "Parkent",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513023,
+    "name": "Pop",
+    "alternatenames": "Pap,Pop,Поп",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513038,
+    "name": "Paxtakor Shahri",
+    "alternatenames": "Pakhtakor,Paxtakor,Paxtakor Shahri",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513040,
+    "name": "Paxtaobod",
+    "alternatenames": "Kokankishlak,Koran-Kishlak,Pakhtaabad,Pakhtaobod,Paxtaobod,Quqonqishloq,Qŭqonqishloq",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513064,
+    "name": "Olmaliq",
+    "alternatenames": "Almalik,Almalyk,Almalykas,Almalık,Ałmałyk,Olmaliq,a er ma lei ke,almallikeu,almalyq,almalyq  azbkstan,arumariku,yalmalyq,Алмалик,Алмалык,Олмалиқ,آلمالیق,آلمالیق، ازبکستان,ئالمالیق,アルマリク,阿尔马雷克,알말리크",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513072,
+    "name": "Ohangaron",
+    "alternatenames": "Akhangaran,Akhangaron,Kurama,Ohangaron,Okhangaron,Oҳangaron,Ахангаран,Оҳaнгарон",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513087,
+    "name": "Nurota",
+    "alternatenames": "Nurata,Nurota,Нурота",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513092,
+    "name": "Novyy Turtkul'",
+    "alternatenames": "Novyy Turtkul',Novyy Turtkul’",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513131,
+    "name": "Navoiy",
+    "alternatenames": "Kermene,Kermine,NVI,Nava,Navoi,Navoiy,Navojis,Navojo,Navoy,Navoï,Nawayi,Nawayı,Nawoi,Nawoiy,Nazoy,Nevai,na wo yi,naboi,navo'i,navuai,nwawy,nwayy,nwayy  azbkstan,Навои,Навої,نوائی,نواوي,نوایی,نوایی، ازبکستان,نەڤایی,नवोई,ਨਵੋਈ,ナヴァーイー,纳沃伊,나보이",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513132,
+    "name": "Navbahor",
+    "alternatenames": "Chirkay,Gorskiy,Gorskoye,Navbahor,Navbakhor,Nawbahor",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513157,
+    "name": "Namangan",
+    "alternatenames": "NMA,Namangan,Namanganas,Namangano,Namangán,Nemengan,na ma ngkan,na man gan,namagana,namang-gan,namangan,nmngan,nmnkan,nmnqan,Наманган,Наманған,نمنقان,نمنكان,نمنگان,ਨਮਾਗਾਨ,นามางกาน,ナマンガン,納曼干,나망간",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513241,
+    "name": "Marhamat",
+    "alternatenames": "Marhamat,Markhamat,Markhamat Vtoroy,Myan-Tyube,Russkoe Selo,Russkoye Selo,Мархамат",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513242,
+    "name": "Marhamat",
+    "alternatenames": "Marhamat,Markhamat,Markhamat Pervyy,Мархамат",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513243,
+    "name": "Marg`ilon",
+    "alternatenames": "Marg`ilon,Margelan,Marghilon,Margilan,Margilon,Marg‘ilon,Маргилан,Марғилон",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513245,
+    "name": "Manghit",
+    "alternatenames": "Manga,Manghit,Mangit,Mangyt,Мангит,Манғит",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513271,
+    "name": "Asaka",
+    "alternatenames": "Asaka,Asake,Assake,Leninsk,Zelensk,Асака",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513288,
+    "name": "Qiziltepa",
+    "alternatenames": "Kizil-Tepe,Kyzyl Tepe,Kyzyltepa,Kˌiziltepa,Qiziltepa,Кызылтепа,Қизилтепа",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513327,
+    "name": "Kuyganyor",
+    "alternatenames": "Kujgan-Jar,Kujganjar,Kuygan-Yar,Kuyganyar,Kuyganyor,Куйган-Яр,Куйганяр",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513331,
+    "name": "Quvasoy",
+    "alternatenames": "Kubasay,Kuvasa,Kuvasay,Kuwassai,Quvasoy,Quwasoy",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513364,
+    "name": "Qo`rg`ontepa",
+    "alternatenames": "Kurgan Tyube,Kurgan-Tepe,Kurgantepa,Kyzyl-Tepa,Qo`rg`ontepa,Qo‘rg‘ontepa,Qurghontepa,Qŭrghontepa",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513491,
+    "name": "Yangi Marg`ilon",
+    "alternatenames": "Gorchakovo,Komsomol'skiy,Komsomol’skiy,Stantsiya Gorchakovo,Yangi Marg`ilon,Yangi Marg‘ilon",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513555,
+    "name": "Kirguli",
+    "alternatenames": "Kirgili,Kirguli",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513567,
+    "name": "Qibray",
+    "alternatenames": "Kibrai,Kibray,Qibray",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513577,
+    "name": "Xonqa",
+    "alternatenames": "Khanka,Khanki,Khonqa,Xonqa",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513600,
+    "name": "Xo`jaobod",
+    "alternatenames": "Khodzhaabad,Khodzhavat,Khodzhiabad,Khoji-Abad,Khujaobod,Khŭjaobod,Kojo-Abad,Xo`jaobod,Xo‘jaobod",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513604,
+    "name": "Xiva",
+    "alternatenames": "Chiva,Chiwa,Hiiva,Hiva,Jiva,Khiva,Khivà,Khiwa,Khorezm,Xiva,khywa,khywh,khywt,Ĥiva,Хива,خيوة,خیوا,خیوه",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513650,
+    "name": "Hamza",
+    "alternatenames": "Hamza,Imeni Khamzy Khakimzade,Khamza,Khamza Khakimzada,Khamzy Khakimzade,Vannovskiy",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513655,
+    "name": "Haqqulobod",
+    "alternatenames": "Haqqulobod,Khakkulabad,Khakulabad,Khakˌkˌulobod,Naron,Naryn,Xaqqulobod,Хаққулобод",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513714,
+    "name": "Kosonsoy",
+    "alternatenames": "Kasansay,Kassan-Sai,Kassansay,Kosonsoy",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513733,
+    "name": "Qorao`zak",
+    "alternatenames": "Karauzak,Karauzyak,Qorao`zak,Qorao‘zak,Qorauzak,Qoraŭzak",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513831,
+    "name": "Konimex",
+    "alternatenames": "Kanimekh,Kenimech,Kenimekh,Konimekh,Konimex",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513886,
+    "name": "Jizzax",
+    "alternatenames": "Cizzak,Dishsak,Djizak,Djizaks,Dzhizak,Dzhizzak,Dzizakas,Dzjizak,Dzyzak,Dżyzak,Džizakas,Gizaho,Jizak,Jizzakh,Jizzaq,Jizzax,Zhyzak,dzyzq,ji zha ke,jijaheu,jizafu,jizakha,jyzakh,jyzk,jyzkh,Ĝizaĥo,Джизак,Джиззак,Жызак,Жызақ,דזיזק,جيزاخ,جيزك,جیزخ,جیزک,ਜਿਜ਼ਾਖ,ジザフ,吉扎克,지자흐",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513900,
+    "name": "Iskandar",
+    "alternatenames": "Iskandar,Iskander,Искандар",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513957,
+    "name": "Hazorasp",
+    "alternatenames": "Hazorasp,Khazarasp",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513962,
+    "name": "Gurlan",
+    "alternatenames": "Gurlan,Gurlek,Gurlen,Гурлан",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513966,
+    "name": "Guliston",
+    "alternatenames": "Golodnaya Step',Golodnaya Step’,Goulistan,Guelistan,Gulistan,Gulistanas,Gulistano,Guliston,Gülistan,Mirzachul',Mirzachul’,glstan  azbkstan,gu li si tan,gulisatona,gulistona,gulliseutan,gurisutan,gwlstan,gwlystan,Гулистан,Гулистон,Гулістан,Գուլիստան,گلستان، ازبکستان,گولستان,گولیستان,گوڵستان، ئۆزبەکستان,गुलिस्तोन,ਗੁਲੀਸਤੋਨ,グリスタン,古利斯坦,굴리스탄",
+    "subcountry": "Sirdaryo Region"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513983,
+    "name": "G'ijduvon Shahri",
+    "alternatenames": "Akmal'-Abad,Akmal’-Abad,G'ijduvon Shahri,Ghijduwon,Gidzhduvan,Gijduvan,Gijduvon,Gizhduvan,Gydzh-Duvan,Gydzha-Dovan,G’ijduvon Shahri",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513990,
+    "name": "Gazli",
+    "alternatenames": "Gazli",
+    "subcountry": "Bukhara"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1513996,
+    "name": "G'azalkent",
+    "alternatenames": "G`azalkent,Gasalkent,Gazalkent,Ghazalkent,G‘azalkent,Газалкент",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514008,
+    "name": "G'allaorol Shahri",
+    "alternatenames": "G'allaorol Shahri,G`allaorol,Gallia-Aral,Gallyaaral,Ghallaorol,G‘allaorol,G’allaorol Shahri",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514011,
+    "name": "Gagarin Shahri",
+    "alternatenames": "Erjar,Gagarin,Gagarin Shahri,Yerzhar,Гагарин",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514019,
+    "name": "Fergana",
+    "alternatenames": "FEG,Farg'ona,Farghana,Farghona,Farghāna,Fargona,Fargʻona,Fergan,Fergana,Fergano,Ferganá,Ferghana,Fernkana,Fərqanə,Novyy Margelan,Skobelev,Skobelevo,fei er gan na,ferugana,frghanh,frghanh‎,frghant,fyrghana,peleugana,prgnh,Φεργκάνα,Фарғона,Фергана,Ֆերգանա,פרגנה,فرغانة,فرغانه,فرغانه‎,فرغانہ,فیرغانا,فەرغانە,ഫെർഗാന,フェルガナ,费尔干纳,페르가나",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514027,
+    "name": "Amir Timur",
+    "alternatenames": "Amir Timur,Eski Toshkent,Eski-Tashkent,Iski-Tashkent",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514125,
+    "name": "Do'stlik Shahri",
+    "alternatenames": "Do'stlik,Do'stlik Shahri,Do’stlik,Do’stlik Shahri,Dustlik,Dŭstlik",
+    "subcountry": "Jizzax"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514174,
+    "name": "Dardoq",
+    "alternatenames": "Dardak,Dardoq,Dartak,Дардак",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514178,
+    "name": "Dang`ara",
+    "alternatenames": "Dang`ara,Danghara,Dang‘ara",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514192,
+    "name": "Chust",
+    "alternatenames": "Chust,Chust Shahri,Tschust,Чуст",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514210,
+    "name": "Chirchiq",
+    "alternatenames": "Chirchik,Chirchiq,Circig,Circik,Circikas,Tchirtchik,Tjirtjik,Tschirtschik,chileuchikeu,chiruchiku,chyrchyq,chyrchyq  azbkstan,qi er qi ke,Çirçig,Čirčikas,Чирчик,Чирчиқ,چیرچیق,چیرچیق، ازبکستان,チルチク,奇爾奇克,치르치크",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514215,
+    "name": "Chinoz",
+    "alternatenames": "Chinaz,Chinoz,Cinaz,Tschin,Чиназ,Чиноз",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514225,
+    "name": "Kyzyldzhar",
+    "alternatenames": "Chimgan,Kyzyldzhar,Shimgan,Чимган",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514258,
+    "name": "Chortoq",
+    "alternatenames": "Chartak,Chertak,Chortoq",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514325,
+    "name": "Buloqboshi",
+    "alternatenames": "Bulakbashi,Buloqbashi,Buloqboshi",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514330,
+    "name": "Bo`ka",
+    "alternatenames": "Bo`ka,Bo‘ka,Buka,Bŭka",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514369,
+    "name": "Beshrabot",
+    "alternatenames": "Besh-Rabad,Beshrabot,Beshravat",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514382,
+    "name": "Beshariq",
+    "alternatenames": "Beshariq,Besharyk,Besharykskogo,Imeni Kirova,Kirovo,Kirowo,Бешарыкского",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514387,
+    "name": "Beruniy",
+    "alternatenames": "Beruni,Berunij,Beruniy,Biruni,Biruniy,Shabbaz,Shchabbaz,Sheikh Abaz Vali,Беруний",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514396,
+    "name": "Bektemir",
+    "alternatenames": "Bektemir,Kolkhoz Imeni Akhunbabayeva,Бектемир",
+    "subcountry": "Tashkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514402,
+    "name": "Bekobod",
+    "alternatenames": "Bagevat,Begovat,Begowat,Bekabad,Bekabadas,Bekobod,Bigovat,Bïgovat,bei ke bo de,bekabado,byk abad,Бекабад,Бекобод,Բեկաբադ,بیک آباد,بیک‌آباد، ازبکستان,بێکاباد,ベカバード,貝科博德",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514454,
+    "name": "Baliqchi",
+    "alternatenames": "Baliqchi,Balykchi",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514483,
+    "name": "Bag`dod",
+    "alternatenames": "Bag`dod,Bagdad,Baghdod,Bag‘dod,Serovo",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514486,
+    "name": "Bog'ot",
+    "alternatenames": "Bagat,Bog'ot,Boghot,Bog’ot",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514581,
+    "name": "Angren",
+    "alternatenames": "Angren,Angrenas,Angrenshakhtstroy,Turk,Turn,an ge lian,ang-geulen,angrn  azbkstan,anguren,Ангрен,آنگرن، ازبکستان,ئانگرێن,アングレン,安格連,앙그렌",
+    "subcountry": "Toshkent"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514588,
+    "name": "Andijon",
+    "alternatenames": "AZN,Andican,Andidzhan,Andijan,Andijon,Andiján,Andisjan,Andizan,Andizhan,Andizhan - Andijon,Andizjan,Andiżan,Andižan,an ji yan,andijan,ztnjan,Андижан,ظةنجان,アンディジャン,安集延,안디잔",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514608,
+    "name": "Oltinko`l",
+    "alternatenames": "Altynkul',Altynkul’,Oltinko`l,Oltinko‘l,Oltinkul,Oltinkŭl",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514615,
+    "name": "Oltiariq",
+    "alternatenames": "Altyaryk,Oltiariq",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514683,
+    "name": "Oxunboboyev",
+    "alternatenames": "Akhunbabayev,Okhunboboyew,Ologhjat,Oxunboboyev,Sufi-Kashlak,Sufia,Sufikishlak,Sufix",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514707,
+    "name": "Oqoltin",
+    "alternatenames": "Akaltyn,Komsomolabad,Oqoltin",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1514716,
+    "name": "Oyim",
+    "alternatenames": "Aim,Ojim,Oyim,Аим,Ойим",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1526979,
+    "name": "Quva",
+    "alternatenames": "Kuva,Quva,Quwa,Кува",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538221,
+    "name": "Beruniy Shahri",
+    "alternatenames": "Beruniy Shahri,Gorod Beruni",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538222,
+    "name": "To`rtko`l Shahri",
+    "alternatenames": "Gorod Turtkul',Gorod Turtkul’,To`rtko`l Shahri,To‘rtko‘l Shahri,Turtkul Shahri,Tŭrtkŭl Shahri",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538223,
+    "name": "Bo`ston Shahri",
+    "alternatenames": "Bo`ston Shahri,Bo‘ston Shahri,Buston Shahri,Bŭston Shahri,Gorod Bustan",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538224,
+    "name": "Mang`it Shahri",
+    "alternatenames": "Gorod Mangit,Mang`it Shahri,Manghit Shahri,Mang‘it Shahri",
+    "subcountry": "Karakalpakstan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538225,
+    "name": "Qorovul",
+    "alternatenames": "Karaul,Qorovul,Qorowul",
+    "subcountry": "Xorazm"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538231,
+    "name": "Uchquduq Shahri",
+    "alternatenames": "Gorod Uchkuduk,Uchquduq Shahri",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538232,
+    "name": "Karmana Shahri",
+    "alternatenames": "Gorod Karmana,Karmana Shahri",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538233,
+    "name": "Qiziltepa Shahri",
+    "alternatenames": "Gorod Kyzyltepa,Qiziltepa Shahri",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538234,
+    "name": "Nurota Shahri",
+    "alternatenames": "Gorod Nurata,Nurota Shahri",
+    "subcountry": "Navoiy"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538274,
+    "name": "Kosonsoy Shahri",
+    "alternatenames": "Gorod Kasansay,Kosonsoy Shahri",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538276,
+    "name": "Chortoq Shahri",
+    "alternatenames": "Chortoq Shahri,Gorod Chartak",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538279,
+    "name": "Pop Shahri",
+    "alternatenames": "Gorod Pap,Pop Shahri",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538280,
+    "name": "Turagurghon Shahri",
+    "alternatenames": "Gorod Turakurgan,Turagurghon Shahri,Tŭragŭrghon Shahri",
+    "subcountry": "Namangan"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538293,
+    "name": "Langar",
+    "alternatenames": "Karakushchi,Langar",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538533,
+    "name": "Sultonobod",
+    "alternatenames": "Sultanabad,Sultonobod,Султанабад,Султонобод",
+    "subcountry": "Andijon"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 1538551,
+    "name": "Eskiarab",
+    "alternatenames": "Ehskiarab,Eskiarab,Эскиараб",
+    "subcountry": ""
+  },
+  {
+    "country": "UZ",
+    "geonameid": 10974665,
+    "name": "Tinchlik",
+    "alternatenames": "Hamza,Tinchlik,Vodkhoz,Тинчлик",
+    "subcountry": "Fergana"
+  },
+  {
+    "country": "UZ",
+    "geonameid": 12127991,
+    "name": "Qo'shrabod",
+    "alternatenames": "Qo'shrabod,Qo’shrabod",
+    "subcountry": "Samarqand"
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "country": "CD",
+    "geonameid": 203717,
+    "name": "Yangambi",
+    "alternatenames": "YAN",
+    "subcountry": "Tshopo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 204283,
+    "name": "Watsa",
+    "alternatenames": "Watsa",
+    "subcountry": "Haut-Uele"
+  },
+  {
+    "country": "CD",
+    "geonameid": 204318,
+    "name": "Wamba",
+    "alternatenames": "Wamba",
+    "subcountry": "Haut-Uele"
+  },
+  {
+    "country": "CD",
+    "geonameid": 204405,
+    "name": "Uvira",
+    "alternatenames": "Uvinza,Uvira,Увира",
+    "subcountry": "South Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 204953,
+    "name": "Tshikapa",
+    "alternatenames": "Chikapa,TSH,Tshikapa,qi ka pa,tshykaba,tsuikapa,Чикапа,تشيكابا,ツィカパ,奇卡帕",
+    "subcountry": "Kasai"
+  },
+  {
+    "country": "CD",
+    "geonameid": 205970,
+    "name": "Sake",
+    "alternatenames": "Sake",
+    "subcountry": "Nord Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 207570,
+    "name": "Mwene-Ditu",
+    "alternatenames": "Mvene-Ditu,Mwene-Ditu,Мвене-Диту",
+    "subcountry": "Lomami"
+  },
+  {
+    "country": "CD",
+    "geonameid": 207596,
+    "name": "Mweka",
+    "alternatenames": "MEW,Mueka,Mveka,Mweka,Мвека",
+    "subcountry": "Kasai"
+  },
+  {
+    "country": "CD",
+    "geonameid": 209228,
+    "name": "Mbuji-Mayi",
+    "alternatenames": "MJM,Mbuji-Mayi,Mbuy Mayi,Mbuzhi-Maji,Мбужи-Майи",
+    "subcountry": "Kasaï-Oriental"
+  },
+  {
+    "country": "CD",
+    "geonameid": 210379,
+    "name": "Lusambo",
+    "alternatenames": "LBO,Lusambo,Luzambo,Лусамбо",
+    "subcountry": "Sankuru"
+  },
+  {
+    "country": "CD",
+    "geonameid": 210939,
+    "name": "Luebo",
+    "alternatenames": "Luebo",
+    "subcountry": "Kasai"
+  },
+  {
+    "country": "CD",
+    "geonameid": 211098,
+    "name": "Lubao",
+    "alternatenames": "Lubao,Senteri,Sentery,Sentiry",
+    "subcountry": "Lomami"
+  },
+  {
+    "country": "CD",
+    "geonameid": 211647,
+    "name": "Lodja",
+    "alternatenames": "LJA,Lodja,Lodzh,Loja,Лодж",
+    "subcountry": "Sankuru"
+  },
+  {
+    "country": "CD",
+    "geonameid": 211734,
+    "name": "Lisala",
+    "alternatenames": "LIQ,Lisala,Lisale,Lizala,Лисале",
+    "subcountry": "Mongala"
+  },
+  {
+    "country": "CD",
+    "geonameid": 212360,
+    "name": "Kongolo",
+    "alternatenames": "KOO,Kangolo,Kongolo,Конголо",
+    "subcountry": "Tanganyika"
+  },
+  {
+    "country": "CD",
+    "geonameid": 212730,
+    "name": "Kisangani",
+    "alternatenames": "FKI,Kisan'nkani,Kisangani,Kisanganis,Kisangáni,Singitini,Stanleystad,Stanleyville,ji sang jia ni,kisang-gani,kisangani,Κισανγκάνι,Кисангани,Кісангані,Կիսանգանի,キサンガニ,基桑加尼,키상가니",
+    "subcountry": "Tshopo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 212902,
+    "name": "Kindu",
+    "alternatenames": "KND,Kindu,Kindu-Port-Empain,Port de Kindu,Port-Empain,jin du,kindou,kindu,kndw,Кинду,Кінду,کندو,キンドゥ,金杜,킨두",
+    "subcountry": "Maniema"
+  },
+  {
+    "country": "CD",
+    "geonameid": 213940,
+    "name": "Kasongo",
+    "alternatenames": "Kasongo,Kazongo,Piani Kasongo,Saint Charles,St Charles,Tongoni,Tongoni Kapaya,Касонго",
+    "subcountry": "Maniema"
+  },
+  {
+    "country": "CD",
+    "geonameid": 214481,
+    "name": "Kananga",
+    "alternatenames": "KGA,Kananga,Kanange,Lulua,Luluabourg,Luluaburg,ka nan jia,kanang-ga,kananga,kanangha,Кананга,Կանանգա,كانانغا,カナンガ,卡南加,카낭가",
+    "subcountry": "Kasai-Central"
+  },
+  {
+    "country": "CD",
+    "geonameid": 214575,
+    "name": "Kampene",
+    "alternatenames": "Kampene",
+    "subcountry": "Maniema"
+  },
+  {
+    "country": "CD",
+    "geonameid": 214614,
+    "name": "Kamina",
+    "alternatenames": "KMN,Kamina,Kaminy,Камины",
+    "subcountry": "Haut-Lomami"
+  },
+  {
+    "country": "CD",
+    "geonameid": 214974,
+    "name": "Kalemie",
+    "alternatenames": "Albertstad,Albertville,FMI,Kalemi,Kalemie,Kalemije,Kalemijė,ka lai mi,kallemi,karemi,Калеми,Калемие,Калеміє,カレミ,卡萊米,칼레미",
+    "subcountry": "Tanganyika"
+  },
+  {
+    "country": "CD",
+    "geonameid": 215527,
+    "name": "Kabinda",
+    "alternatenames": "KBN,Kabinda",
+    "subcountry": "Lomami"
+  },
+  {
+    "country": "CD",
+    "geonameid": 215605,
+    "name": "Kabare",
+    "alternatenames": "",
+    "subcountry": "South Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 215668,
+    "name": "Kabalo",
+    "alternatenames": "KBO,Kabalo",
+    "subcountry": "Tanganyika"
+  },
+  {
+    "country": "CD",
+    "geonameid": 215771,
+    "name": "Isiro",
+    "alternatenames": "IRP,Isirio,Isiro,Paulis,Исиро",
+    "subcountry": "Haut-Uele"
+  },
+  {
+    "country": "CD",
+    "geonameid": 215976,
+    "name": "Ilebo",
+    "alternatenames": "Franqui,Ilebo,PFR,Port-Francqui,Илебо",
+    "subcountry": "Kasai"
+  },
+  {
+    "country": "CD",
+    "geonameid": 216281,
+    "name": "Goma",
+    "alternatenames": "GOM,Goma,Ngoma,Nkoma,ge ma,ghwma,goma,gwma,Γκόμα,Гома,غوما,گوما,ゴマ,戈马,고마",
+    "subcountry": "Nord Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 216404,
+    "name": "Gbadolite",
+    "alternatenames": "BDT,Bado,Badolite,Gbadolite,Гбадолите",
+    "subcountry": "Nord-Ubangi"
+  },
+  {
+    "country": "CD",
+    "geonameid": 216449,
+    "name": "Gandajika",
+    "alternatenames": "GDJ,Gandajika",
+    "subcountry": "Lomami"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217389,
+    "name": "Demba",
+    "alternatenames": "Demba",
+    "subcountry": "Kasai-Central"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217562,
+    "name": "Butembo",
+    "alternatenames": "Butembo,RUE,Бутембо",
+    "subcountry": "Nord Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217570,
+    "name": "Buta",
+    "alternatenames": "BZU,But,Buta,Бут",
+    "subcountry": "Bas-Uele"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217637,
+    "name": "Businga",
+    "alternatenames": "Businga",
+    "subcountry": "Nord-Ubangi"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217695,
+    "name": "Bunia",
+    "alternatenames": "BUX,Bunia,Bunija,Bunya,Búnya,bu ni ya,Буниа,Буния,Буніа,布尼亞",
+    "subcountry": "Ituri"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217745,
+    "name": "Bumba",
+    "alternatenames": "BMB,Bumba,Бумба",
+    "subcountry": "Mongala"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217831,
+    "name": "Bukavu",
+    "alternatenames": "BKY,Bukavu,Costermansstad,Costermansville,Букаву",
+    "subcountry": "South Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 217834,
+    "name": "Bukama",
+    "alternatenames": "Bukama",
+    "subcountry": "Haut-Lomami"
+  },
+  {
+    "country": "CD",
+    "geonameid": 218229,
+    "name": "Bongandanga",
+    "alternatenames": "Bongandanga",
+    "subcountry": "Mongala"
+  },
+  {
+    "country": "CD",
+    "geonameid": 218253,
+    "name": "Bondo",
+    "alternatenames": "Bondo",
+    "subcountry": "Bas-Uele"
+  },
+  {
+    "country": "CD",
+    "geonameid": 218680,
+    "name": "Boende",
+    "alternatenames": "BNB,Boende",
+    "subcountry": "Tshuapa"
+  },
+  {
+    "country": "CD",
+    "geonameid": 219057,
+    "name": "Beni",
+    "alternatenames": "BNC,Beni,Бени",
+    "subcountry": "Nord Kivu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 219414,
+    "name": "Basoko",
+    "alternatenames": "Basoko",
+    "subcountry": "Tshopo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 220448,
+    "name": "Aketi",
+    "alternatenames": "Aketi,Port Chaltin",
+    "subcountry": "Bas-Uele"
+  },
+  {
+    "country": "CD",
+    "geonameid": 922704,
+    "name": "Lubumbashi",
+    "alternatenames": "E'ville,Elisabethville,Elizabethstad,Elizabethville,E’ville,FBM,Lubumbashi,Lubumbashi shaary,Lubumbashy,Lubumbasi,Lubumbasis,Lubumbaši,Lubumbašis,Lumumbashi,lu ben ba xi,lubumabasi,lubumbasi,lubumbasi si,lwbmbashy,lwbwmbashy,rubunbashi,Élisabethville,Лубумбаши,Лубумбаши шаары,Лубумбашы,Лубумбаші,לובומבאשי,لوبمباشی,لوبومباشي,لوبومباشی,ਲੂਬੁਮਬਾਸ਼ੀ,ルブンバシ,盧本巴希,루붐바시,루붐바시 시",
+    "subcountry": "Haut-Katanga"
+  },
+  {
+    "country": "CD",
+    "geonameid": 922741,
+    "name": "Likasi",
+    "alternatenames": "Jadotstad,Jadotsville,Jadotville,Likasi,Likasis,li ka xi,likasi,rikashi,Ликаси,Лікасі,リカシ,利卡西,리카시",
+    "subcountry": "Haut-Katanga"
+  },
+  {
+    "country": "CD",
+    "geonameid": 922773,
+    "name": "Kolwezi",
+    "alternatenames": "KWZ,Kolvezi,Kolwezi,Колвези",
+    "subcountry": "Lualaba"
+  },
+  {
+    "country": "CD",
+    "geonameid": 922806,
+    "name": "Kipushi",
+    "alternatenames": "Kipushi,Кипуши",
+    "subcountry": "Haut-Katanga"
+  },
+  {
+    "country": "CD",
+    "geonameid": 923058,
+    "name": "Kambove",
+    "alternatenames": "Kambove",
+    "subcountry": "Haut-Katanga"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2311127,
+    "name": "Tshela",
+    "alternatenames": "Tshela",
+    "subcountry": "Bas-Congo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2311968,
+    "name": "Nioki",
+    "alternatenames": "NIO,Nioki",
+    "subcountry": "Mai-Ndombe"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2312249,
+    "name": "Mushie",
+    "alternatenames": "Mushie",
+    "subcountry": "Mai-Ndombe"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2312393,
+    "name": "Moanda",
+    "alternatenames": "MNB,Moanda,Muanda",
+    "subcountry": "Bas-Congo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2312888,
+    "name": "Mbanza-Ngungu",
+    "alternatenames": "Mbanza-Ngungu,Thystad,Thysville,Мбанза-Нгунгу",
+    "subcountry": "Bas-Congo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2312895,
+    "name": "Mbandaka",
+    "alternatenames": "Bandaka,Cocquilhatville,Coquilhalville,Coquilhatstad,Coquilhatville,MDK,Mbandaka,Mbándáká,Wangata,eumbandaka,mbandaka,mu ban da ka,mubandaka,Мбандака,مبانداکا,ムバンダカ,姆班达卡,음반다카",
+    "subcountry": "Équateur"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2313002,
+    "name": "Matadi",
+    "alternatenames": "MAT,Matadi,Matadis,Matady,Matidi,Matádi,ma ta di,matadi,matady,Матади,Матады,Матаді,מאטדי,ماتادی,マタディ,马塔迪,마타디",
+    "subcountry": "Bas-Congo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2313084,
+    "name": "Mangai",
+    "alternatenames": "Mangai",
+    "subcountry": "Kwilu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2313371,
+    "name": "Lukolela",
+    "alternatenames": "",
+    "subcountry": "Équateur"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2313762,
+    "name": "Libenge",
+    "alternatenames": "LIE,Libenge",
+    "subcountry": "Sud-Ubangi"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2314302,
+    "name": "Kinshasa",
+    "alternatenames": "FIH,Kincasa,Kinchasa,Kinchassa,Kinsas,Kinsasa,Kinsaso,Kinshasa,Kinshase,Kinsjasa,Kinszasa,Kinsásá,Kinxasa,Kinŝaso,Kinşasa,Kinšas,Kinšasa,Kînşasa,Leopoldstad,Leopoldville,Léopoldville,Quinxassa,jin sha sa,jin xia sha,kin cha sa,kinasasa,kinsaca,kinsasa,kinshasa,kinsyasa,knshasa,kynshasa,lei bao cheng,Κινσάσα,Киншаса,Киншасе,Кіншаса,Կինշասա,קינשאזע,קינשאסה,كينشاسا,کنشاسا,کنشاسہ,کینشاسا,किन्शासा,কিনশাসা,ਕਿਨਸ਼ਾਸਾ,கின்ஷாசா,കിൻഷസ,กินชาซา,ཀིན་ཤ་ས།,ကင်ရှာဆာမြို့,კინშასა,ኪንሻሳ,キンシャサ,金夏沙,金沙薩,雷堡城,킨샤사",
+    "subcountry": "Kinshasa"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2314705,
+    "name": "Kikwit",
+    "alternatenames": "KKW,Kicwite,Kikvit,Kikvitas,Kikvite,Kikwit,Kitwit,ji kui te,kikuuito,kikwiteu,Киквит,Киквите,Кіквіт,キクウィト,基奎特,키퀴트",
+    "subcountry": "Kwilu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2315026,
+    "name": "Kasongo-Lunda",
+    "alternatenames": "KGN,Kasongo-Lunda",
+    "subcountry": "Kwango"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2315057,
+    "name": "Kasangulu",
+    "alternatenames": "Kasangulu",
+    "subcountry": "Bas-Congo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2315417,
+    "name": "Inongo",
+    "alternatenames": "INO,Inongo",
+    "subcountry": "Mai-Ndombe"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2315728,
+    "name": "Gemena",
+    "alternatenames": "GMA,Gemena,Gemene,Гемене",
+    "subcountry": "Sud-Ubangi"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2316259,
+    "name": "Bulungu",
+    "alternatenames": "Bulungu",
+    "subcountry": "Kwilu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2316473,
+    "name": "Bosobolo",
+    "alternatenames": "Bosobolo",
+    "subcountry": "Nord-Ubangi"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2316702,
+    "name": "Boma",
+    "alternatenames": "BOA,Boma,Bóma,Mboma,bo ma,boma,Бома,ボーマ,博馬,보마",
+    "subcountry": "Bas-Congo"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2316748,
+    "name": "Bolobo",
+    "alternatenames": "Bolobo",
+    "subcountry": "Mai-Ndombe"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2317397,
+    "name": "Bandundu",
+    "alternatenames": "Bandundu,Bandundu Boelgesi,Bandundu Bölgesi,Bandundu Province,Bandundu tartomany,Bandundu tartomány,Banningville,FDU,Pravincyja Bandundu,Provincia di Bandundu,Provinco Bandundu,Provinsi Bandundu,ban dun du sheng,bandandw,bandoundou zhou,bandundu ju,bandundu pranta,Бандунду,Правінцыя Бандунду,באנדונדו,بانداندو,باندوندو صوبہ,बान्दुन्दु प्रान्त,バンドゥンドゥ州,班顿杜省,반둔두 주",
+    "subcountry": "Kwilu"
+  },
+  {
+    "country": "CD",
+    "geonameid": 2593460,
+    "name": "Masina",
+    "alternatenames": "",
+    "subcountry": "Kinshasa"
+  }
+]

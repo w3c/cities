@@ -1,0 +1,961 @@
+[
+  {
+    "country": "JO",
+    "geonameid": 245915,
+    "name": "Zahar",
+    "alternatenames": "Zahar,Zaḩar,zhr,زحر",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 245939,
+    "name": "Yarqa",
+    "alternatenames": "Yarqa,Yarqā,Yerqa,yrqa,يرقا",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 245989,
+    "name": "Waqqas",
+    "alternatenames": "Wakkas,Waqqas,Waqqāş,wqas,وقاص",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246008,
+    "name": "Wadi Musa",
+    "alternatenames": "Alji,Aljī,El-Gi,Elchi,Elji,Petra,Wadi Musa,Wādī Mūsá,btra,wady mwsy,Петра,بترا,وادي موسى",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246013,
+    "name": "Wadi as Sir",
+    "alternatenames": "Wadi Al Seer,Wadi Sir,Wadi as Sayr,Wadi as Sir,Wadi es Sir,Wadi es Sīr,Wādī as Sayr,Wādī as Sīr,wady alsyr,وادي السير",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246202,
+    "name": "Umm Qays",
+    "alternatenames": "Gadara,Gader,Gādēr,Mukes,Mukus,Um Qeis,Umm Kajs,Umm Qays,Umm Qeis,am qys,Умм Кайс,أم قيس",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246314,
+    "name": "Umm as Summaq",
+    "alternatenames": "Um el Semmaq,Um es Summaq,Um es Summāq,Umm as Summaq,Umm as Summaq ath Thani,Umm as Summāq,Umm as Summāq ath Thānī,am alsmaq,ام السمّاق",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246330,
+    "name": "Umm ar Rasas",
+    "alternatenames": "Um el Resas,Um er Risas,Um er Rişāş,Umm ar Rasas,Umm ar Raşāş,Umm er Risas,Umm er Riṣāṣ,am alrsas,أم الرصاص",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246345,
+    "name": "Umm al Qittayn",
+    "alternatenames": "Um el Quttein,Umm al Qittayn,Umm al Qiţţayn,Umm el Quttein,am alqtyn,أم القطين,أم القطّين",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246371,
+    "name": "Umm al Jimal",
+    "alternatenames": "Khirbat Um el Jimal,Khirbat Um el Jimāl,Khirbat Umm al Jimal,Khirbat Umm al Jimāl,Umm al Jimal,Umm al Jimāl,Umm el Djimal,Umm el Jimal,Umm el Jimâl,am aljmal,أم الجمال",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246384,
+    "name": "Umm al Basatin",
+    "alternatenames": "Um el Hanafish,Umm al Basatin,Umm al Basātīn,Umm al Hanafish,Umm al Ḩanāfīsh,Umm el Hanafish,am albsatyn,أم البساتين",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246474,
+    "name": "Adhruh",
+    "alternatenames": "Adhruh,Adhruḩ,Adruh,Aḑruḩ,Udhruh,Udhruḩ,adhrh,أذرح",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246522,
+    "name": "Tibnah",
+    "alternatenames": "Tibna,Tibnah,Tibne,Tibni,tbnt,تبنة",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246725,
+    "name": "Suf",
+    "alternatenames": "Suf,Sūf,swf,سوف",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 246816,
+    "name": "Ash Shunah al Janubiyah",
+    "alternatenames": "Ash Shunah,Ash Shunah al Janubiyah,Ash Shūnah,Ash Shūnah al Janūbīyah,El Shun,El Shune,Shuna,Shuna Janubiya,Shuna al Janubiya,Shunat Nimrin,Shunet Nimrin,Shûna,Shūnat Nimrīn,Shūnet Nimrīn,alshwnt aljnwbyt,الشونة الجنوبية",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247014,
+    "name": "Samma ar Rawsan",
+    "alternatenames": "As Samma,Aş Şammā,Es Samma,Sama,Sama ar Rusan,Samma,Samma ar Rawsan,Sammā,Sammā ar Rawsān,Samā,Samā ar Rūsān,sma,sma alrwsan,سما,سما الروسان",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247015,
+    "name": "Samma",
+    "alternatenames": "Samma,Sammeh,sma,Şammā,صما",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247021,
+    "name": "Sama as Sirhan",
+    "alternatenames": "Qaryat Sama,Qaryat Samā,Sama,Sama as Sirhan,Samā,Samā as Sirḩān,sma,sma alsrhan,سما,سما السرحان",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247061,
+    "name": "Sal",
+    "alternatenames": "Sal,Sāl,sal,سال",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247068,
+    "name": "Sakib",
+    "alternatenames": "Sakib,sakb,ساكب",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247074,
+    "name": "Sakhrah",
+    "alternatenames": "Sakhra,Sakhrah,skhrt,Şakhrah,صخرة",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247103,
+    "name": "Saham al Kaffarat",
+    "alternatenames": "Saham,Saham al Kaffarat,Sahm,Sahm al Kaffarat,Saḩam,Saḩam al Kaffārāt,Saḩm,Saḩm al Kaffārāt,shm,shm alkfarat,سحم,سحم الكفارات",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247105,
+    "name": "Sahab",
+    "alternatenames": "Sahab,Sakhab,Saḩāb,Sehab,shab,Сахаб,سحاب",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247176,
+    "name": "Sabha",
+    "alternatenames": "Sabha,Sabhah,sbha,Şabḩah,Şabḩā,صبحا",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247273,
+    "name": "Rujm ash Shami al Gharbi",
+    "alternatenames": "Rujm ash Shami,Rujm ash Shami al Gharbi,Rujm ash Shāmī,Rujm ash Shāmī al Gharbī,Rujm el Shami,Rujm esh Shami,Rujm esh Shāmī,rjm alshamy,rjm alshamy alghrby,رجم الشامي,رجم الشامي الغربي",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247336,
+    "name": "Rehab",
+    "alternatenames": "Irhab,Irḩāb,Rahab,Rahāb,Rihab,Riḩāb,arhab,ارحاب",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247340,
+    "name": "Raymun",
+    "alternatenames": "Raymun,Raymūn,Reimun,Reimūn,Rimon",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247496,
+    "name": "Qumaym",
+    "alternatenames": "Qumaym,Qumeim,qmym,قميم",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247659,
+    "name": "Qafqafa",
+    "alternatenames": "Qafqafa,Qafqafā,qfqfa,قفقفا",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247724,
+    "name": "Na`ur",
+    "alternatenames": "Na`ur,Nā‘ūr,ناعور",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247916,
+    "name": "Mulayh",
+    "alternatenames": "Meleih,Mulayh,Mulayḩ,Muleih,Muleiḥ,mlyh,مليح",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 247969,
+    "name": "Al Mughayyir",
+    "alternatenames": "Al Mughayyir,Mughaiyir,Mughayyir,almghyr,mghyr,المغير,مغيّر",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248250,
+    "name": "Malka",
+    "alternatenames": "Malka,Malkah,Malkā,Malqa,Malqá,Melka,mlka,mlkt,ملكا,ملكة",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248293,
+    "name": "Ma`in",
+    "alternatenames": "Ma`ain,Ma`in,Ma`on,Mā‘ain,Mā‘on,Mā‘īn,ماعين",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248370,
+    "name": "Madaba",
+    "alternatenames": "Ma'daba,Madaba,Madeba,Ma’dabā,Medeba,Meideva,Meidevā,Mādabā,Mādeba,madba,mhafzt madba,mydbʼ,Мадаба,מידבא,مأدبا,مادبا,محافظة مادبا",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248382,
+    "name": "Ma'an",
+    "alternatenames": "Ahamant,MPQ,Ma'an,Ma`an,Ma‘ān,معان",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248414,
+    "name": "Kurayyimah",
+    "alternatenames": "Kareime,Kereime,Kuraiyima,Kuraymah,Kurayyimah,Kureima,Kureiyima,Quraymah,krymt,كريمة",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248420,
+    "name": "Kufrinjah",
+    "alternatenames": "Kefrenji,Kefrenjy,Kufrinja,Kufrinjah,Kufrinje,Kufrinji,Kufrinjī,kfrnjt,كفرنجة",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248424,
+    "name": "Al Faysaliyah",
+    "alternatenames": "Al Faysaliyah,Al Fayşalīyah,Kefeir el Wekhyan,Kufayr al Wakhyan,Kufayr al Wakhyān,Kufeir el Wakhyan,Kufeir el Wakhyān,alfyslyt,الفيصلية",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248434,
+    "name": "Kitim",
+    "alternatenames": "Kitim,ktm,كتم",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248525,
+    "name": "Birayn",
+    "alternatenames": "Bi'rayn,Birayn,Birein,Bi’rayn,Bīrayn,Bīrein,Khirbat Bi'rayn,Khirbat Birein,Khirbat Bi’rayn,Khirbat Bīrein,byryn,بيرين",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248549,
+    "name": "Al Murayghah",
+    "alternatenames": "Al Murayghah,Khirbat al Murayghah,Khirbat el Mureigha,Khirbet el Mureigha,almryght,المريغة",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248627,
+    "name": "Kharja",
+    "alternatenames": "Kharja,Kharjā,Kherja,khrja,خرجا",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248719,
+    "name": "Kafr Sawm",
+    "alternatenames": "Kafr Sawm,Kufr Saum,Kufr Som,Kufr as Sawm,kfr swm,كفر سوم",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248734,
+    "name": "Kafr Asad",
+    "alternatenames": "Kafr Asad,Kufr Asad,Kufr Esad,kfr asd,kfrasd,كفر أسد,كفرأسد",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248738,
+    "name": "Kafr Abil",
+    "alternatenames": "Kafr Abil,Kafr Abīl,Kefr Abil,Kufr Abil,Kufr Abîl,kfr abyl,كفر آبيل,كفر أبيل",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248774,
+    "name": "Juraynah",
+    "alternatenames": "Jarima,Jereine,Juraynah,Jureina,Qaryat el Jureina,jrynt,جرينة",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248803,
+    "name": "Judita",
+    "alternatenames": "Jedeita,Judayta,Judaytā,Judeita,Judeitta,Judita,jdyta,جديتا",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248843,
+    "name": "Jawa",
+    "alternatenames": "Jawa,Jāwā,jawa,جاوا",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248875,
+    "name": "Jarash",
+    "alternatenames": "Djerash,Dzherash,Gerasa,Jarash,Jerasa,Jerash,grs,jrsh,Джераш,גרש,جرش",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248923,
+    "name": "`Izra",
+    "alternatenames": "`Azra,`Izra,‘Azrā,‘Izrā",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248940,
+    "name": "`Irjan",
+    "alternatenames": "Irjan,Irjān,`Irjan,عرجان,‘Irjān",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 248946,
+    "name": "Irbid",
+    "alternatenames": "Arbela,Arbēla,Irbid,Irbidas,Irbido,QIR,arbd,ileubideu,irubido,yi er bi de,İrbid,Ірбід,Ирбид,Ирбид қаласы,Իրբիդ,אירביד,إربد,اربد,イルビド,伊爾比德,이르비드",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249095,
+    "name": "Hisban",
+    "alternatenames": "Hesban,Heshbon,Hisban,Husban,hsban,حسبان,Ḩisbān",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249153,
+    "name": "Hawsha",
+    "alternatenames": "Hausha,Hawsha,Hosha,hwsha,حوشا,Ḥaushā,Ḩawshā",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249184,
+    "name": "Hatim",
+    "alternatenames": "Hatem,Hatim,hatm,حاتم,Ḩātim",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249310,
+    "name": "Halawah",
+    "alternatenames": "Halawa,Halawah,hlawt,حلاوة,Ḥalāwa,Ḩalāwah",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249318,
+    "name": "Hakama",
+    "alternatenames": "Hakama,Hakamah,Hakema,hkma,حكما,Ḩakamah,Ḩakamā",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249481,
+    "name": "Fuqu`",
+    "alternatenames": "Faqqu`,Faqqū‘,Faqu,Faqu`,Faqū,Faqū‘,Fuqu`,Fuqū‘,فقوع",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249664,
+    "name": "Dhiban",
+    "alternatenames": "Dhiban,Dhībān,Diban,Diboun,dhyban,ذيبان",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249676,
+    "name": "Dayr Yusuf",
+    "alternatenames": "Dayr Yusuf,Dayr Yūsuf,Deir Yusuf,Deir Yūsuf,dyr ywsf,دير يوسف",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249693,
+    "name": "Dayr `Alla",
+    "alternatenames": "Dayr `Alla,Dayr ‘Allā,Deir `Alla,Deir ‘Alla,دير علا",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249699,
+    "name": "Dayr Abu Sa`id",
+    "alternatenames": "Dayr Abi Sa`id,Dayr Abu Sa`id,Dayr Abī Sa‘īd,Dayr Abū Sa‘īd,Deir Abu Sa`id,Deir Abu Sa‘īd,دير أبي سعيد,دير ابو سعيد",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249842,
+    "name": "Busayra",
+    "alternatenames": "Al Busayrah,Al Buşayrah,Busayra,Busayrah,Buseira,Buşayrah,Buşayrā,El Buseira,El Busera,bsyra,بصيرا",
+    "subcountry": "Tafielah"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249849,
+    "name": "Burma",
+    "alternatenames": "Burma,Burmā,brma,برما",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249930,
+    "name": "Bayt Yafa",
+    "alternatenames": "Bayt Yafa,Bayt Yāfā,Beit Yafa,Beit Yāfā,byt yafa,بيت يافا",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 249933,
+    "name": "Bayt Idis",
+    "alternatenames": "Bayt Idis,Bayt Īdis,Beit Idis,Beit Īdis,byt ayds,بيت إيدس,بيت ايدس",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250052,
+    "name": "Balila",
+    "alternatenames": "Balila,Balīlā,blyla,بليلا",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250057,
+    "name": "Bal`ama",
+    "alternatenames": "Bal`ama,Bal`amah,Bal‘amah,Bal‘amā,Bel`ama,Bel‘ama,بلعما",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250090,
+    "name": "Zarqa",
+    "alternatenames": "Az Zarqa',Az Zarqā’,Ehz-Zarka,Kalaat el Zerka,QZA,Qal'at az Zarqa',Qal‘at az Zarqā’,Zarka,Zarqa,Zerka,jaleuka,zaruka,zha er ka,Зарка,Эз-Зарка,الزرقاء,زرقاء,ザルカ,扎尔卡,자르카",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250094,
+    "name": "Muthallath al Azraq",
+    "alternatenames": "Al Azraq,Azraq,Azraq Ashikah,Azraq Shishan,Azraq ash Shishan,Azraq ash Shīshān,Azraq esh Shishan,Azraq esh Shīshān,Muthallath al Azraq,mthlth alazrq,مثلث الأزرق",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250095,
+    "name": "Al Azraq ash Shamali",
+    "alternatenames": "Al Azraq ash Shamali,Al Azraq ash Shamālī,Azrak,Azraq Druze,Azraq ad Duruz,Azraq ad Durūz,Azraq ed Druz,Azraq ed Drūz,Azraq ed Duruz,Azraq ed Durūz,alazrq alshmaly,Азрак,الأزرق الشمالي",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250106,
+    "name": "`Ayy",
+    "alternatenames": "Aiy,Khirbat `Ai,Khirbat `Aiy,Khirbat ‘Ai,Khirbat ‘Aiy,`Ai,`Aie,`Ay,`Ayy,عي,‘Ai,‘Aie,‘Ay,‘Ayy",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250124,
+    "name": "`Ayn Janna",
+    "alternatenames": "`Ain Janna,`Ain Jenne,`Ayn Jana,`Ayn Janna,`Ayn Jannah,عين جنا,عين جنة,‘Ain Janna,‘Ain Jenne,‘Ayn Jannah,‘Ayn Jannā,‘Ayn Janā",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250142,
+    "name": "`Ayn al Basha",
+    "alternatenames": "Ein al Basha,`Ain el Basha,`Ayn al Basha,عين الباشا,‘Ain el Bāsha,‘Ayn al Bāshā",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250151,
+    "name": "Ayl",
+    "alternatenames": "Ail,Ayl,Aïl,Iyl,ayl,Īyl,ايل",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250152,
+    "name": "Aydun",
+    "alternatenames": "Aidun,Aidūn,Aydun,Aydūn,Eidun,Eidūn,aydwn,ايدون",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250179,
+    "name": "At Turrah",
+    "alternatenames": "At Turrah,Aţ Ţurrah,Et Turra,Eṭ Ṭurra,Turra,altrt,الطرة",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250186,
+    "name": "At Tayyibah",
+    "alternatenames": "At Tayyibah,At Tibah,Aţ Ţayyibah,Aţ Ţībah,Et Taiyiba,Et Taiyibe,Eṭ Ṭaiyiba,Taibe,Taiyiba,Tayyibah,altybt,Ţayyibah,الطيبة",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250187,
+    "name": "Al Khinzirah",
+    "alternatenames": "Al Khinzirah,Al Khinzīrah,At Tayyibah,Aţ Ţayyibah,Khanzira,Khanzire,Khanzîra,Khanzīre,Khinzirah,Khinzīrah,alkhnzyrt,altybt- khnzyrt,الخنزيرة,الطيبة- خنزيرة",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250188,
+    "name": "At Tayyibah",
+    "alternatenames": "At Tayyibah,Aţ Ţayyibah,Et Taiyiba,Et Taiyibe,Taiyiba,altybt,الطيبة",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250198,
+    "name": "At Tafilah",
+    "alternatenames": "At Tafila,At Tafilah,Aţ Ţafīlah,Aṭ Ṭafīla,El Tafile,Et Tafila,Et Tafīla,Tafila,Tafile,Tafileh,Tafīla,Tofel,Tophel,Tufailah,altfylt,Тафила,الطفيلة",
+    "subcountry": "Tafielah"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250235,
+    "name": "As Subayhi",
+    "alternatenames": "As Subayhi,Aş Şubayḩī,Es Subeihi,Sebehi,Subeihi,alsbyhy,الصبيحي",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250258,
+    "name": "As Salt",
+    "alternatenames": "Al-Salt,As Salt,As Salţ,As-Sal't,Es Salt,Ramoth Gil`ad,Rāmoth Gil‘ād,Salt,alslt,Ас-Сальт,السلط",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250267,
+    "name": "Safi",
+    "alternatenames": "As Safi,As Safiyah,Aş Şāfiyah,Aş Şāfī,El Safie,El Safieh,Es Safiye,Es Sāfiye,Es-Safi,Safa,Safi,Sāfī,alsafy,ghwralsafy,Сафи,الصافي,غورالصافي",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250278,
+    "name": "Ash Shunah ash Shamaliyah",
+    "alternatenames": "Ash Shunah,Ash Shunah ash Shamaliyah,Ash Shūnah,Ash Shūnah ash Shamālīyah,Khirbat Shuna,Khirbat Shūna,Khirbat ash Shunah,Khirbat ash Shūnah,Khirbat esh Shuma,Khirbat esh Shuna,Khirbat esh Shūma,Shuna,Shuna Shamaliya,Shuna esh Shamaliya,Shūna,alshwnt alshmalyt,الشونة الشمالية",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250290,
+    "name": "Ash Shawbak",
+    "alternatenames": "Ash Shawbak,Esh Shobek,Shaubak,Shaubak Fort,Shawbak Fort,Shobak,Shobek,alshwbk,Шобак,الشوبك",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250294,
+    "name": "Ash Shajarah",
+    "alternatenames": "Ash Shajarah,Esh Shajara,Shajara,Shajarah,alshjrt,الشجرة",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250317,
+    "name": "Ar Ruwayshid",
+    "alternatenames": "Ar Ruwayshid,alrwyshd,الرويشد",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250321,
+    "name": "Ar Rusayfah",
+    "alternatenames": "Ar Rusayfah,Ar Ruşayfah,Er Refeia,Er Ruseifa,Reseife,Ruseifa,alrsyft,الرصيفة",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250336,
+    "name": "Ar Ramtha",
+    "alternatenames": "Ar Ramtha,Ar Ramthā,El Remteh,Er Remtha,Ramtha,alrmtha,الرمثا",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250345,
+    "name": "Ar Rabbah",
+    "alternatenames": "Ar Rabba,Ar Rabbah,El Rebbe,Er Rabba,Rabba,alrbt,الربة",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250420,
+    "name": "`Anjarah",
+    "alternatenames": "`Anjara,`Anjarah,عنجرة,‘Anjara,‘Anjarah",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250441,
+    "name": "Amman",
+    "alternatenames": "'Amman,AMM,Ama,Aman,Amanas,Amani,Amano,Amans,Amman,Ammana,Ammon,Ammán,Ammān,Ammāna,Amàn,Amán,Amã,Philadelphia,Rabbah,Rabbath Ammon,am'man,am'mana,aman,amana,amani,amman,an man,anman,xam man,yamman,ʻmʼn,ʿman,ʿmʾn,Αμμάν,Аман,Амман,Аммон,Ամման,אמאן,עמאן,ئاممان,امان,عمان,عمان شہر,عمّان,عَمّان,عەممان,ܥܡܐܢ,अम्मान,আম্মান,ਅਮਾਨ,அம்மான்,ಅಮ್ಮಾನ್,അമ്മാൻ,อัมมาน,ཨམ་མན།,ამანი,አማን,‘Ammān,アンマン,安曼,암만",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250461,
+    "name": "Hayy al Quwaysimah",
+    "alternatenames": "Al Quwaysimah,El Quweisima,El Quweisme,Hayy al Quwaysimah,hy alqwysmt,حي القويسمة,Ḩayy al Quwaysimah",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250462,
+    "name": "Al Quwayrah",
+    "alternatenames": "El Quweira,alqwyrt,القويرة",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250480,
+    "name": "Al Qatranah",
+    "alternatenames": "Al Qatrana,Al Qatranah,Al Qaţrāna,Al Qaţrānah,El Qatrana,El Qatrāna,Qatrani,alqtrant,القطرانة",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250487,
+    "name": "Al Qasr",
+    "alternatenames": "Al Qasr,Al Qaşr,Al Qaṣr,El Qaser,El Qaşer,Qasr,Qaşr,alqsr,القصر",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250534,
+    "name": "Ghawr al Mazra`ah",
+    "alternatenames": "Al Mazra`,Al Mazra`a,Al Mazra`ah,Al Mazra‘,Al Mazra‘a,Al Mazra‘ah,El Mazra`,El Mazra`a,El Mazra‘,El Mazra‘a,El Mezra`,El Mezra‘,El Mezre`,El Mezre‘,Ghawr al Mazra`ah,Ghawr al Mazra‘ah,Mazra`,Mazra‘,Mezra,Mezraa,غور المزرعة",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250538,
+    "name": "Al Mazar ash Shamali",
+    "alternatenames": "Al Mazar,Al Mazar ash Shamali,Al Mazār,Al Mazār ash Shamālī,El Mazar,El Mazār,Mazar,Mazâr,Northern Al-Mazar,almzar,almzar alshmaly,المزار,المزار الشمالي",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250540,
+    "name": "Al Mazar al Janubi",
+    "alternatenames": "Al Mazar,Al Mazar al Janubi,Al Mazār,Al Mazār al Janūbī,El Mazar,El Mazār,Mazar,Mazâr,almzar,almzar aljnwby,المزار,المزار الجنوبي",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250544,
+    "name": "Al Mastabah",
+    "alternatenames": "Al Mastabah,Al Maşţabah,El Mastaba,Mastaba,almstbt,المصطبة",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250567,
+    "name": "Manshiyat Bani Hasan",
+    "alternatenames": "Al Manshiyah,Al Manshīyah,El Manshiya,El Manshīya,Manshiyat Bani Hasan,Manshīyat Banī Ḩasan,almnshyt,mnshyt bny hsn,المنشية,منشية بني حسن",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250582,
+    "name": "Mafraq",
+    "alternatenames": "Al Mafraq,Al-Mafrak,Ehl'-Mafrak,El-Fedein,Kalat el Mafrak,Mafrak,Mafrakas,Mafraq,OMF,Qal`at al Mafraq,Qal`at el Mafraq,Qal‘at al Mafraq,Qal‘at el Mafraq,almfrq,ma fu la ke,mafuraku,mapeulakeu,mfrq,mprq,shhr almfrq,Эль-Мафрак,מפרק,المفرق,شهر المفرق,مفرق,マフラク,馬弗拉克,마프라크",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250596,
+    "name": "`Allan",
+    "alternatenames": "`Allan,علان,‘Allān",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250603,
+    "name": "Al Kittah",
+    "alternatenames": "Al Kitta,Al Kittah,Al Kittā,El Kitta,El-Kitte,Kitta,alktt,الكتة",
+    "subcountry": "Jerash"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250623,
+    "name": "Al Karamah",
+    "alternatenames": "Al Karamah,Al Karāmah,El Karama,El Karamah,El Karameh,El Karāma,Karama Camp,Karameh Camp,Keramah,Kersam,alkramt,الكرامة",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250624,
+    "name": "Qir Moav",
+    "alternatenames": "Al Karak,Ehl'-Karak,El Kerak,Karak,Kerak,Kir Moab,Эль-Карак",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250628,
+    "name": "Al Juwayyidah",
+    "alternatenames": "Al Juwaydah,Al Juwayyidah,El Joweide,El Juweiyida,Juweiyida,aljwydt,الجويدة",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250637,
+    "name": "Al Jubayhah",
+    "alternatenames": "Al Jubayhah,El Jebeihe,El Jubeiha,Jubeiha,aljbyht,الجبيهة",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250639,
+    "name": "Al Jizah",
+    "alternatenames": "Al Jizah,Al Jīzah,Jiza,Jizah,Jize,Jîza,Jīzah,Jīze,Ziza,aljyzt,jyzt,الجيزة,جيزة",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250649,
+    "name": "Al Jafr",
+    "alternatenames": "Al Jafr,El Jafr,aljfr,الجفر",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250662,
+    "name": "Al Husayniyah",
+    "alternatenames": "Al Husayniyah,Al Ḩusaynīyah,El Huseiniya,Rujm as Sakhri,Rujm aş Şakhrī,Rujm el-Sekheri,Rujm es Sakhri,Rujm es Ṣakhrī,alhsynyt,الحسينية",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250675,
+    "name": "Al Hisn",
+    "alternatenames": "Al Hisn,Al Ḩişn,El Husn,Husn,alhsn,الحصن",
+    "subcountry": "Irbid"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250686,
+    "name": "Al Hashimiyah",
+    "alternatenames": "Al Hashimiyah,Al Hāshimīyah,El Hashimiya,El Hāshimiya,alhashmyt,الهاشمية",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250688,
+    "name": "Al Hasa",
+    "alternatenames": "Al Hasa,Al Ḩasā,alhsa,الحسا",
+    "subcountry": "Tafielah"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250697,
+    "name": "Al Hamra'",
+    "alternatenames": "Al Hamra',Al Ḩamrā’,El Hamra,El Ḥamra,الحمراء",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250718,
+    "name": "Al Fuhays",
+    "alternatenames": "Al Fuhays,Al Fuḩayş,El Fuheis,Feheis,Fuheis,Fuḥeiṣ,alfhys,الفحيص",
+    "subcountry": "Balqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250738,
+    "name": "Hayy al Bunayyat",
+    "alternatenames": "Al Bunayyat,Al Bunayyat ash Shamaliyah,Al Bunayyāt,Al Bunayyāt ash Shamālīyah,Buneiyat,Buneiyāt,El Buneiyat North,El Buneiyat Shamaliah,Hayy al Bunayyat,hy albnyat,حي البنيات,Ḩayy al Bunayyāt",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250767,
+    "name": "Al `Arid",
+    "alternatenames": "Al `Arid,Al ‘Arīḑ,El `Arid,El ‘Arīd,العريض",
+    "subcountry": "Madaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250774,
+    "name": "Aqaba",
+    "alternatenames": "AQJ,Akaba,Akabe,Al-'Aqabah,Al-‘Aqabah,Aqaba,Qal`at el `Aqaba,`Aqaba,akaba,ya ke ba,Акаба,עקבה,العقبة,عقبه,アカバ,亞喀巴",
+    "subcountry": "Aqaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250799,
+    "name": "'Ajlun",
+    "alternatenames": "Adjlun,Adzhlun,Ajloun,`Ajlun,Аджлун,عجلون,‘Ajlūn",
+    "subcountry": "Ajlun"
+  },
+  {
+    "country": "JO",
+    "geonameid": 250821,
+    "name": "Adir",
+    "alternatenames": "Ader,Adir,adr,أدر",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 251005,
+    "name": "Al Khalidiyah",
+    "alternatenames": "Abu Ghara,Abu Gharah,Abū Ghāra,Abū Ghārah,Al Khalidiyah,Al Khālidīyah,alkhaldyt,الخالدية",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 385027,
+    "name": "Ar Rishah",
+    "alternatenames": "Ar Rishah,Ar Rīshah,alrysht,الريشة",
+    "subcountry": "Aqaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 407169,
+    "name": "Al Muwaqqar",
+    "alternatenames": "Al Muwaqqar,almwqr,الموقر",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 6946409,
+    "name": "Karak City",
+    "alternatenames": "Al-Karak,Karak,Kerak,Карак",
+    "subcountry": "Karak"
+  },
+  {
+    "country": "JO",
+    "geonameid": 7015781,
+    "name": "Al Husayniyah",
+    "alternatenames": "Al Husayniyah,Al Ḩusaynīyah,alhsynyt,الحسينية",
+    "subcountry": "Ma’an"
+  },
+  {
+    "country": "JO",
+    "geonameid": 7031363,
+    "name": "Ad Disah",
+    "alternatenames": "Ad Disah,Ad Dīsah,aldyst,الديسة",
+    "subcountry": "Aqaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 7838895,
+    "name": "Russeifa",
+    "alternatenames": "Rusaifa,Russayfah,ar-Russayfah",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 10640344,
+    "name": "Muthallath Sabha",
+    "alternatenames": "Muthallath Sabha,Muthallath Şabḩā,mthlth sbha,مثلث صبحا",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 10793675,
+    "name": "Tala Bay",
+    "alternatenames": "",
+    "subcountry": "Aqaba"
+  },
+  {
+    "country": "JO",
+    "geonameid": 10861483,
+    "name": "Muthallath Jami`at Al al Bayt",
+    "alternatenames": "Muthallath Jami`at Al al Bayt,Muthallath Jāmi‘at Āl al Bayt,Muthallath al Jami`ah,Muthallath al Jāmi‘ah,مثلث الجامعة,مثلث جامعة آل البيت",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 10861986,
+    "name": "Az Zulayl",
+    "alternatenames": "Ad Dalil,Ad Dulayl,Az Zalil,Az Zulayl,Az̧ Z̧alīl,Az̧ Z̧ulayl,Aḑ Ḑalīl,Aḑ Ḑulayl,aldlyl,alzlyl,الضليل,الظليل",
+    "subcountry": "Zarqa"
+  },
+  {
+    "country": "JO",
+    "geonameid": 10862121,
+    "name": "Al `Abdalli",
+    "alternatenames": "Al `Abdalli,Al ‘Abdallī,العبدلي",
+    "subcountry": "Amman"
+  },
+  {
+    "country": "JO",
+    "geonameid": 10943439,
+    "name": "Dayr al Kahf",
+    "alternatenames": "Dayr al Kahf,Deir el Kahf,Khirbat Dayr al Kahf,Khirbat Deir el Kahf,dyr alkhf,دير الكهف",
+    "subcountry": "Mafraq"
+  },
+  {
+    "country": "JO",
+    "geonameid": 11428685,
+    "name": "Rukban",
+    "alternatenames": "Rakban,Rikban,alrukban,alruqban,الرُّقبان,الرُّكبان",
+    "subcountry": "Mafraq"
+  }
+]

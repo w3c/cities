@@ -1,0 +1,646 @@
+[
+  {
+    "country": "CY",
+    "geonameid": 18918,
+    "name": "Protaras",
+    "alternatenames": "Protaras,Πρωταράς,Протарас",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145952,
+    "name": "Ypsonas",
+    "alternatenames": "Ipsona,Ipsonas,Ypsonas,Ýpsonas,İpsona,Ύψωνας",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145959,
+    "name": "Geroskipou (quarter)",
+    "alternatenames": "Geroskipou,Geroskipou (synoikia),Yerosibo,Yerosibu,Yeroskipos,Yeroşibo,Yeroşibu,Γεροσκήπου,Γεροσκήπου (συνοικία)",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145964,
+    "name": "Geri",
+    "alternatenames": "Geri,Géri,Yeri,Γέρι,Гери",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145971,
+    "name": "Xylotymbou",
+    "alternatenames": "Ksilodimbo,Ksilodimbu,Ksilotimbu,Xylotymbo,Xylotymbou,Xylotymvou,Ξυλοτύμβου",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145972,
+    "name": "Xylofagou",
+    "alternatenames": "Ksilofago,Ksilofagu,Ksilofogo,Xylofagou,Xylofágou,Xylophaghou,Xylophago,Xylophagou,Ξυλοφάγου",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145981,
+    "name": "Tseri",
+    "alternatenames": "Bilen,Seri,Tseri,Tséri,Xeri,Τσέρι",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 145987,
+    "name": "Voroklini",
+    "alternatenames": "Oroklini,Vorglini,Voroglini,Voroklini,Voróklini,Βορόκληνη,Ορόκλινη",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146012,
+    "name": "Tsada",
+    "alternatenames": "Cada,Isada,Tsada,Tsadha,Tsáda,Çada,Τσάδα",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146015,
+    "name": "Troulloi",
+    "alternatenames": "Troulli,Troulloi,Troúlloi,Trulli,Τρούλλοι",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146018,
+    "name": "Troodos",
+    "alternatenames": "Camp Troodos,Trodos,Troodhos Resort,Troodos,Tróodos,Tróödhos Resort,Τρόοδος",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146027,
+    "name": "Trikomo",
+    "alternatenames": "Iskele,Trikomo,Tríkomo,İskele,Τρίκωμο",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146040,
+    "name": "Tersefanou",
+    "alternatenames": "Tersefan,Tersefanou,Tersefánou,Tersephanou,Tersofanu,Τερσεφάνου",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146045,
+    "name": "Tala",
+    "alternatenames": "Dala,Dalâ,Tala,Tala  Cyprus,Tála,Τάλα",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146054,
+    "name": "Strovolos",
+    "alternatenames": "Istrovolos,Istrovulo,Strovilo,Strovolo,Strovolos,Stróvolos,İstrovolos,İstrovulo,Στρόβολος,Строволос",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146069,
+    "name": "Sotira",
+    "alternatenames": "Sotira,Sotíra,Σωτήρα",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146105,
+    "name": "Rizokarpaso",
+    "alternatenames": "Dipkarpas,Dipkarpaz,Dipkurpaz,Rizokarpaso,Rizokarpason,Rizokarpasso,Rizokárpaso,Ριζοκάρπασο",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146107,
+    "name": "Pyrgos",
+    "alternatenames": "Pyrga,Pyrgos",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146110,
+    "name": "Pyla",
+    "alternatenames": "Pila,Pile,Pyla,Pýla,Πύλα",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146112,
+    "name": "Psimolofou",
+    "alternatenames": "Psimolofou,Psomolafa,Psomolof,Psomolopho,Psomolophou,Somolof,Ψιμολόφου",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146114,
+    "name": "Psevdas",
+    "alternatenames": "Pseftas,Psevda,Psevdas,Psevdhas,Psevdás,Ψευδάς",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146137,
+    "name": "Polis",
+    "alternatenames": "Poli,Polis,Polis Chrysochous,Pólis,Πόλις",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146138,
+    "name": "Polemi",
+    "alternatenames": "Polem,Polemi,Polémi,Πολέμι",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146150,
+    "name": "Pissouri",
+    "alternatenames": "Pissouri,Pissoúri,Pissuri,Πισσούρι",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146154,
+    "name": "Frenaros",
+    "alternatenames": "Frenaro,Frenaros,Frennaros,Frénaros,Phrenaros,Φρέναρος",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146175,
+    "name": "Pegeia",
+    "alternatenames": "Dimos Pegeias,Pegeia,Peya,Peyia,Pégeia,Δήμος Πέγειας,Πέγεια",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146183,
+    "name": "Perivolia",
+    "alternatenames": "Bahcalar,Bahceler,Bahçalar,Bahçeler,Bervolya,Perivolia,Perivolya,Perivólia,Περιβόλια",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146187,
+    "name": "Peristerona",
+    "alternatenames": "Peristerona,Peristeróna,Perısterona,Περιστερώνα",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146189,
+    "name": "Pergamos",
+    "alternatenames": "Beyarmudu,Pergama,Pergamos,Pérgamos,Πέργαμος,Пергамос",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146192,
+    "name": "Pera",
+    "alternatenames": "Pera,Péra,Πέρα",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146198,
+    "name": "Pelendri",
+    "alternatenames": "Belendri,Pelendri,Pelendria,Peléndri,Πελένδρι",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146204,
+    "name": "Parekklisha",
+    "alternatenames": "Parekklisha,Parekklisia,Pareklisa,Pareklisha,Pareklişa",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146209,
+    "name": "Paralimni",
+    "alternatenames": "Paralim,Paralimni,Paralímni,Paralımnı,Παραλίμνι",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146214,
+    "name": "Paphos",
+    "alternatenames": "Baf,Gazibaf,Nea Pafos,Nea Paphos,Néa Páfos,PFO,Pafo,Pafos,Pafoso,Paphos,Páfos,Πάφος,Παφος,Пафос",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146216,
+    "name": "Pano Polemidia",
+    "alternatenames": "Pano Polemidhia,Pano Polemidia,Pano Polemidya,Polemidia,Páno Polemídia,Yukari Binatli,Yukari Polemitya,Yukarı Binatlı,Yukarı Polemitya,Πάνω Πολεμίδια",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146225,
+    "name": "Pano Deftera",
+    "alternatenames": "Deftera Pano,Defterá Pano,Pano Deftera,Pano Dheftera,Páno Defterá,Yukari Deftera,Yukarı Deftera,Πάνω Δευτερά",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146245,
+    "name": "Pachna",
+    "alternatenames": "Pachna,Pahna,Pakhna,Páchna,Πάχνα",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146268,
+    "name": "Nicosia",
+    "alternatenames": "An Leafcois,An Leafcóis,Lefkosa,Lefkosha,Lefkosia,Lefkosian,Lefkosía,Lefkoşa,Leucosia,NIC,Nekoseje,Nicosea,Nicosia,Nicosia (Lefkosia),Nicosia - Leukosia,Nicosia - Λευκωσία,Nicosie,Nicoséa,Nicosìa,Nicusia,Nicusìa,Nicòsia,Nicósia,Nikasija,Nikosi,Nikosia,Nikosie,Nikosii,Nikosij,Nikosija,Nikosija osh,Nikosiya,Nikozi,Nikozia,Nikozija,Nikozio,Nikozja,Nikósie,Nikósía,Nikózia,Niqusya,Nėkosėjė,ni ke xi ya,ni kho seiy,nikkeasya,nikkociya,nikojya,nikoshia,nikosi'a,nikosia,nikosiya,nikozia,nykwsya,nykwzya,nyqwsya,nyqwsyh,Λευκωσία,Λευκωσίαν,Лефкоша,Никозия,Никозија,Никоси,Никосий,Никосия,Никосия ош,Нікасія,Нікосія,Նիկոսիա,ניקאסיע,ניקוסיה,نىكوسىيە,نيقوسيا,نيكوسيا,نیکوزیا,نیکوسیا,نیکۆسیا,निकोज्या,निकोसिया,নিকোসিয়া,ਨਿਕੋਸੀਆ,ନିକୋସିଆ,நிக்கோசியா,ನಿಕೋಸಿಯ,നിക്കോഷ്യ,นิโคเซีย,ནེ་ཁོ་ཤི་ཡ།,ნიქოზია,ሌፍኮዚያ,ニコシア,尼科西亚,尼科西亞,니코시아",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146278,
+    "name": "Mouttagiaka",
+    "alternatenames": "Moutayaka,Moutayiaka,Mouttagiaka,Mouttagiáka,Mutayaka,Muthiyaka,Mutlayaka,Mutluyaka,Muttayaka,Μουτταγιάκα",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146283,
+    "name": "Mosfiloti",
+    "alternatenames": "Mosfiloti,Mosfilotí,Mosphiloti,Μοσφιλωτή",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146286,
+    "name": "Morfou",
+    "alternatenames": "Guzelkoy,Guzelyurt,Güzelköy,Güzelyurt,Morfou,Morphou,Mórfou,Omorfo,Μόρφου",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146303,
+    "name": "Mesogi",
+    "alternatenames": "Mesogi,Mesoyi,Mesógi,Μεσόγη",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146311,
+    "name": "Meneou",
+    "alternatenames": "Meneou,Meneu,Menevi,Μενεού",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146318,
+    "name": "Meladeia",
+    "alternatenames": "Malatya,Meladeia,Meladhia,Meladya,Melatya,Meládeia,Melâdya,Μελάδεια",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146347,
+    "name": "Mammari",
+    "alternatenames": "Mammari,Mámmari,Μάμμαρη,Μάμμαρι",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146358,
+    "name": "Lythrodontas",
+    "alternatenames": "Litrodonda,Litrodontas,Litronda,Lythrodhonda,Lythrodhondas,Lythrodonda,Lythrodontas,Lythrodóntas,Λυθροδόντας",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146362,
+    "name": "Lympia",
+    "alternatenames": "Limbia,Limbya,Limya,Lymbia,Lympia,Lýmpia,Olympia,Λύμπια",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146371,
+    "name": "Livadia",
+    "alternatenames": "Leivadia,Livadhia,Livadia,Livadya,Livatia,Livatya,Livádia,Sazlikoy,Sazlıköy,Λιβάδια",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146375,
+    "name": "Liopetri",
+    "alternatenames": "Leopetra,Liopetri,Liopétri,Liyopetri,Lıopetrı,Λιοπέτρι",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146384,
+    "name": "Limassol",
+    "alternatenames": "Lemesos,Lemessus,Lemesós,Leymosun,Limasol,Limasol shaary,Limasolis,Limasolo,Limassol,Limisso,QLI,li ma suo er,li ma sxl,limasol,limasoli,lymaswl,lymswl,rimasoru,Λεμεσός,Лимасол,Лимасол шаары,Лімасол,Լիմասոլ,לימסול,ليماسول,لیماسول,ലിമസ്സോൾ,ลีมาซอล,ლიმასოლი,リマソール,利马索尔,리마솔",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146386,
+    "name": "Leonarisso",
+    "alternatenames": "Leonariso,Leonarisso,Leonárisso,Ziamet,Ziyamet,Λεονάρισσο",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146391,
+    "name": "Lefkonoiko",
+    "alternatenames": "Aksaray,GEC,Gecitkale,Geçitkale,Lefkoniko,Lefkonikon,Lefkonoiko,Lefkonuk,Lefkónoiko,Λευκόνοικο",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146392,
+    "name": "Lefka",
+    "alternatenames": "Lefka,Lefke,Lefke-Karadag,Lefke-Karadağ,Léfka,Λεύκα",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146400,
+    "name": "Larnaca",
+    "alternatenames": "Chittim,Citium,Kition,Kitium,Kittim,Kozan,LCA,Lapithou,Larnaca,Larnaka,Làrnaca,Lárnaca,Lárnaka,Salina,Salines,la na ka,laleunaka,lar na ka,larnaka,larnka,lrnaka,lrnqh,rarunaka,Λάρνακα,Ларнака,Լառնակա,לרנקה,لارناکا,لارنكا,لرناکا,ลาร์นากา,ལར་ན་ཀ།,ლარნაკა,ラルナカ,拉纳卡,라르나카",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146403,
+    "name": "Lapithos",
+    "alternatenames": "Gilderen,Gildirin,Lapithos,Lapitos,Lapta,Lápithos,Lâpta,Λάπηθος",
+    "subcountry": "Keryneia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146412,
+    "name": "Kyrenia",
+    "alternatenames": "Cirenia,Cirénia,Girne,Kerineja,Kerinia,Keryneia,Kerynia,Kerínia,Kerýneia,Kirenia,Kirenija,Kirinija,Kyrenia,Kyrinia pa Kypros,Kyrínia på Kypros,Kérynia,ghrnt,kai li ni ya,kayrnya,kilenia,kirenia,kyrynya,qyrnyh,Κερύνεια,Керинеја,Кирения,Кириния,Кіренія,Կիրենիա,קירניה,غرنة,کایرنیا,کیرینیا,کیرینیہ,კირენია,キレニア,凯里尼亚,키레니아",
+    "subcountry": "Keryneia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146414,
+    "name": "Kyperounta",
+    "alternatenames": "Ciperunda,Kiperunda,Kyperounda,Kyperounta,Kyperoúnta,Κυπερούντα",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146438,
+    "name": "Kornos",
+    "alternatenames": "Khorno,Korno,Kornos,Kórnos,Kόρνος,Κόρνος",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146445,
+    "name": "Kofinou",
+    "alternatenames": "Bakracli,Bakraçli,Gecitkale,Geçitkale,Kato Kophinou,Kofinou,Kofinu,Kofunye,Kofínou,Kophino,Kophinou,Köfünye,Pano Kophina,Pano Kophinou,Páno Kophína,Κοφίνου",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146446,
+    "name": "Konia",
+    "alternatenames": "Konia,Κονιά",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146451,
+    "name": "Kolossi",
+    "alternatenames": "Burciu,Burclu,Burçiu,Burçlu,Kolos,Kolossi,Yunus",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146452,
+    "name": "Koloni",
+    "alternatenames": "Koloni,Yolustu,Yolüstü,Κολώνη",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146455,
+    "name": "Kokkinotrimithia",
+    "alternatenames": "Koccinno-Trimitya,Koccinotrimitya,Kocinodrimitya,Kokino Trimithia,Kokkini Trimithia,Kokkinotrimithia,Kokkinotrimithiá,Kokkinotrimitya,Kokıno Trımıthıa,Koçinodrimitya,Koççinno-Trimitya,Koççinotrimitya,Κοκκινοτριμιθιά",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146461,
+    "name": "Klirou",
+    "alternatenames": "Klirou,Kliru,Klírou,Klırou,Κλήρου",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146469,
+    "name": "Kiti",
+    "alternatenames": "Cite,Kiti,Kiti  Cyprus,Kition,Kíti,Çite,Κίτι",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146472,
+    "name": "Kissonerga",
+    "alternatenames": "Kissonerga,Kissónerga,Κισσόνεργα",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146490,
+    "name": "Chlorakas",
+    "alternatenames": "Chloraka,Chlorakas,Chlórakas,Hiloraka,Hloraka,Khlorakas,Klorakas,Χλώρακας",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146515,
+    "name": "Kato Pyrgos",
+    "alternatenames": "Asagi Pirgo,Aşağı Pirgo,Kato Pirgo,Kato Pyrgos,Káto Pýrgos,Κάτω Πύργος",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146529,
+    "name": "Kato Deftera",
+    "alternatenames": "Asagi Deftera,Aşağı Deftera,Deftera,Dheftera,Kato Deftera,Kato Dheftera,Káto Defterá,Κάτω Δευτερά",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146582,
+    "name": "Kakopetria",
+    "alternatenames": "Kakopetria,Kakopetriya,Kakopetriá,Κακοπετριά",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146617,
+    "name": "Famagusta",
+    "alternatenames": "Ammochostos,Ammochostus,Ammokhostos,Ammóchostos,Ammókhostos,Amokhostos,Fama Augusta,Famagosta,Famagouste,Famagusta,Gazi Magosa,Gazimagusa,Gazimağusa,Magosa,Magusa,Mağusa,fa ma gu si ta,famaghwsta,famagusuta,famagwsta,pamaguseuta,pmgwsth,Αμμόχωστος,Амохостос,Фамагуста,Ֆամագուստա,פמגוסטה,فاماغوستا,فاماگوستا,ფამაგუსტა,ファマグスタ,法马古斯塔,파마구스타",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146628,
+    "name": "Erimi",
+    "alternatenames": "Erimi,Erími,Ερήμη",
+    "subcountry": "Limassol"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146639,
+    "name": "Emba",
+    "alternatenames": "Emba,Empa,Έμπα",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146654,
+    "name": "Dhromolaxia",
+    "alternatenames": "Dromolaksia,Dromolaxia,Mor Menekshe,Mormenekse,Mormenekşe,Δρομολαξιά",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146661,
+    "name": "Deryneia",
+    "alternatenames": "Derinia,Derinkoy,Derinköy,Derinya,Deryneia,Derynia,Derýneia,Dherinia,Yukari Derinya,Yukarı Derinya,Δερύνεια",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146666,
+    "name": "Dali",
+    "alternatenames": "Dali,Dalı,Dhali,Dáli,Idalion,Δάλι",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146692,
+    "name": "Agios Tychon",
+    "alternatenames": "Agios Tychon,Ayandihona,Ayios Tihonos,Ayios Tykhonas,Ayithona,Ágios Týchon,Άγιος Τύχων",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146748,
+    "name": "Ayia Napa",
+    "alternatenames": "Agia Napa,Agija Napa,Agía Nápa,Aja-Napa,Ajia Napa,Ajja-Napa,Aya Napa,Ayia Napa,Aynapa,Aĝia Napa,QNP,a yi na pa,aya napa,ayya napa,Αγία Νάπα,Агия Напа,Айя-Напа,Ая-Напа,Այիա Նապա,איה נאפה,آئیا ناپا,ایا ناپا,აია-ნაპა,阿依納帕",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146761,
+    "name": "Avgorou",
+    "alternatenames": "Avghorou,Avgora,Avgoro,Avgorou,Avgoru,Avgórou,Αυγόρου",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146767,
+    "name": "Achna",
+    "alternatenames": "Achna,Ahna,Akhna,Athna,Duzce,Düzce,Áchna,Άχνα",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146768,
+    "name": "Athienou",
+    "alternatenames": "Athiaenou,Athienou,Athiænou,Athíenou,Atienu,Atiyenu,Kiracikoy,Kiracıköy,Αθίενου,Αθηένου",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146770,
+    "name": "Astromeritis",
+    "alternatenames": "Astromerit,Astromeriti,Astromeritia,Astromeritis,Astromerítis,Αστρομερίτης",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146791,
+    "name": "Ergates",
+    "alternatenames": "Argadez,Argataes,Argates,Argatoes,Argatœs,Argátaes,Ergates,Ergátes,Εργάτες",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146793,
+    "name": "Argaka",
+    "alternatenames": "Argaca,Argaka,Argáka,Arkaka,Αργάκα",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146796,
+    "name": "Aradippou",
+    "alternatenames": "Aradhippou,Aradip,Aradippou,Aradippu,Aradíppou,Αραδίππου",
+    "subcountry": "Larnaka"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146797,
+    "name": "Arediou",
+    "alternatenames": "Aradhiou,Aradiou,Aradyu,Aratyu,Aredhiou,Arediou,Aredioú,Arediu,Aredyu,Αρεδιού",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146834,
+    "name": "Alampra",
+    "alternatenames": "Alambra,Alampra,Alámpra,Αλάμπρα",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146842,
+    "name": "Acheritou",
+    "alternatenames": "Acheritou,Acherítou,Agratur,Aharida,Aharitu,Ahiritu,Akhyritou,Aseritu,Ağratur,Aşeritu,Guvercinlik,Güvercinlik,Kouverjinlik,Αχερίτου",
+    "subcountry": "Ammochostos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 146850,
+    "name": "Akaki",
+    "alternatenames": "Akaca,Akacha,Akaki,Akácha,Akáki,Ακάκι",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 414384,
+    "name": "Meniko",
+    "alternatenames": "Meniko,Menikon,Menıko,Méniko,Μένικο",
+    "subcountry": "Nicosia"
+  },
+  {
+    "country": "CY",
+    "geonameid": 11919534,
+    "name": "Geroskipou",
+    "alternatenames": "Dimos Geroskipou,Geroskipou Municipality,Δήμος Γεροσκήπου",
+    "subcountry": "Pafos"
+  },
+  {
+    "country": "CY",
+    "geonameid": 12060431,
+    "name": "Tsada - Tremithousa - Tala (Borders)",
+    "alternatenames": "",
+    "subcountry": "Pafos"
+  }
+]

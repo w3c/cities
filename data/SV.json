@@ -1,0 +1,702 @@
+[
+  {
+    "country": "SV",
+    "geonameid": 3582790,
+    "name": "Zaragoza",
+    "alternatenames": "Zaragoza",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3582805,
+    "name": "Zacatecoluca",
+    "alternatenames": "Zacateccoluca,Zacatecoluca",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3582835,
+    "name": "Victoria",
+    "alternatenames": "Chocoaique,Victoria,Villa Victoria,Villa Victorias",
+    "subcountry": "Cabañas"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3582883,
+    "name": "Usulutan",
+    "alternatenames": "Ocelotlan,Ousouloutan,Usulutan,Usulutanas,Usulutane,Usulután,awswlwtan,usullutan,usulutana,wu su lu tan,Ουσουλουτάν,Усулутан,Усулутане,אוסולוטאן,اوسولوتآن,उसुलुतान,烏蘇盧坦,우술루탄",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3582918,
+    "name": "Tonacatepeque",
+    "alternatenames": "Tonacatepeque",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3582954,
+    "name": "Texistepeque",
+    "alternatenames": "Texistepeque",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3582987,
+    "name": "Tenancingo",
+    "alternatenames": "Tenancingo",
+    "subcountry": "Cuscatlán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583009,
+    "name": "Tecoluca",
+    "alternatenames": "Tecoluca",
+    "subcountry": "Cuscatlán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583065,
+    "name": "Tacuba",
+    "alternatenames": "Tacuba,Taucba",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583090,
+    "name": "Suchitoto",
+    "alternatenames": "Suchioto,Suchitoto",
+    "subcountry": "Cuscatlán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583096,
+    "name": "Soyapango",
+    "alternatenames": "Sojapangas,Sojapango,Soyapango,Soyopango,Zoyapanco,suo ya pan ge,swyapangw,Сояпанго,Сојапанго,سویاپانگو,索亞潘戈",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583098,
+    "name": "Sonzacate",
+    "alternatenames": "Sonzacate",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583102,
+    "name": "Sonsonate",
+    "alternatenames": "Centzonatl,Ciudad de Sonsonate,Sonsonate,Sonsonatė,snsnath,sonasonate,song suo na te,sonsonate,swnswnth,Σονσονάτε,Сонсонате,סונסונטה,سنسناته,سونسوناتے، ایل سیلواڈور,सोनसोनाते,松索納特,손소나테",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583111,
+    "name": "Sociedad",
+    "alternatenames": "Sociedad",
+    "subcountry": "Morazán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583155,
+    "name": "Sesori",
+    "alternatenames": "Sesori",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583158,
+    "name": "Sensuntepeque",
+    "alternatenames": "Sensuntepeque,Sensuntepque,Sensutepeke,Сенсутепеке",
+    "subcountry": "Cabañas"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583178,
+    "name": "San Vicente",
+    "alternatenames": "San Vicente,San Vincente",
+    "subcountry": "San Vicente"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583183,
+    "name": "Santo Tomas",
+    "alternatenames": "Santo Tomas,Santo Tomás",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583196,
+    "name": "Santiago Nonualco",
+    "alternatenames": "Santiago,Santiago Nonualco",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583199,
+    "name": "Santiago de Maria",
+    "alternatenames": "Santiago,Santiago de Maria,Santiago de María",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583214,
+    "name": "Santa Rosa de Lima",
+    "alternatenames": "Santa Rosa,Santa Rosa de Lima",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583278,
+    "name": "Santa Elena",
+    "alternatenames": "Santa Elena",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583334,
+    "name": "Santa Ana",
+    "alternatenames": "Cihuatehuahcan,Santa Ana,Santa-Ana,Santaana,sanata-ana,santaana,sheng an na,Σάντα Άνα,Санта Ана,Санта-Ана,Սանտա Անա,סנטה אנה,سانتا آنا، ایل سیلواڈور,सानता-आना,サンタ・アナ,聖安娜,산타아나",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583352,
+    "name": "San Sebastian",
+    "alternatenames": "San Sebastian,San Sebastián",
+    "subcountry": "San Vicente"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583361,
+    "name": "San Salvador",
+    "alternatenames": "SAL,Salvador,San Salbador,San Salvado,San Salvador,San Salvadoras,San Salvadori,San Salvadò,San Salwador,San-Sal'vador,San-Salvador,San-Salvadoro,Sansalvadora,Urbs Sancti Salvatoris,can calvator,san salvadwr,san salwadwr,san slfadwr,san-salvadori,sana salavadora,sana salvhadora,sana-salvadora,sansalbadoleu,sansalwadxr,sansarubadoru,sheng sa er wa duo,sn slwwdwr,Σαν Σαλβαδόρ,Сан Салвадор,Сан-Сальвадор,Սան Սալվադոր,סאן סאלוואדאר,סן סלוודור,سان سالوادور,سان سالۋادور,سان سلفادور,سان سلواڈور,सान साल्व्हाडोर,सान-साल्वाडोर,ਸਾਨ ਸਾਲਵਾਦੋਰ,சான் சல்வடோர்,ซันซัลวาดอร์,སན་སལ་ཝ་ཌོར།,სან-სალვადორი,ሳን ሳልቫዶር,サンサルバドル,聖薩爾瓦多,산살바도르",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583379,
+    "name": "San Rafael Oriente",
+    "alternatenames": "San Rafael Oriente,San Rafael de Oriente",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583407,
+    "name": "San Pedro Masahuat",
+    "alternatenames": "San Pedro Masahuat",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583429,
+    "name": "San Pablo Tacachico",
+    "alternatenames": "San Pablo Tacachico,Tacachico",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583446,
+    "name": "San Miguel",
+    "alternatenames": "San Miguel,San Miquel",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583471,
+    "name": "San Martin",
+    "alternatenames": "San Martin,San Martín",
+    "subcountry": "Cuscatlán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583480,
+    "name": "San Marcos",
+    "alternatenames": "San Marcos",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583531,
+    "name": "San Juan Opico",
+    "alternatenames": "Opico,San Juan Opico",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583716,
+    "name": "San Francisco Menendez",
+    "alternatenames": "San Francisco Menendez,San Francisco Menéndez",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583747,
+    "name": "San Francisco",
+    "alternatenames": "Gotera,San Francisco,San Francisco Gotera",
+    "subcountry": "Morazán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583851,
+    "name": "San Antonio del Monte",
+    "alternatenames": "San Antonio del Monte",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583905,
+    "name": "San Alejo",
+    "alternatenames": "San Alejo",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583910,
+    "name": "San Agustin",
+    "alternatenames": "San Agustin,San Agustín",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583937,
+    "name": "Rosario de Mora",
+    "alternatenames": "Rosario de Mora",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3583981,
+    "name": "Quezaltepeque",
+    "alternatenames": "Kesal'tepeke,Quezaltepeque,Quezaltepque,Кесальтепеке",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584003,
+    "name": "Puerto El Triunfo",
+    "alternatenames": "Puerto Del Triunfo,Puerto El Triunfo",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584140,
+    "name": "Pasaquina",
+    "alternatenames": "Pasaguina,Pasaquina",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584156,
+    "name": "Panchimalco",
+    "alternatenames": "Panchimalco",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584190,
+    "name": "Ozatlan",
+    "alternatenames": "Ozatlan,Ozatlán",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584212,
+    "name": "Olocuilta",
+    "alternatenames": "Olocuilta",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584251,
+    "name": "Nuevo Cuscatlan",
+    "alternatenames": "Nuevo Cuscatlan,Nuevo Cuscatlán",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584257,
+    "name": "Santa Tecla",
+    "alternatenames": "Ciudad de Nueva San Salvador,La Ciudad de Nueva San Salvador,Nuehva-San-Sal'vador,Nueva San Salvador,Santa Tecla,Santa Tekla,Santa-Tekla,santatekeulla,sheng te ke la,Σάντα Τέκλα,Нуэва-Сан-Сальвадор,Санта Текла,Санта-Текла,سانتا تکلا، ایل سیلواڈور,聖特克拉,산타테클라",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584260,
+    "name": "Nueva Guadalupe",
+    "alternatenames": "Nueva Guadalupe",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584264,
+    "name": "Nueva Esparta",
+    "alternatenames": "Nueva Esparta",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584266,
+    "name": "Nueva Concepcion",
+    "alternatenames": "Chicunhuexo,Nueva Concepcion,Nueva Concepción",
+    "subcountry": "Chalatenango"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584297,
+    "name": "Nahuizalco",
+    "alternatenames": "Nahuizalco,Nauizalco",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584348,
+    "name": "Moncagua",
+    "alternatenames": "Moncagua",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584384,
+    "name": "Metapan",
+    "alternatenames": "Metapan,Metapán,Metlapan,mei ta pan,mytapan,Метапан,میتاپان,梅塔潘",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584399,
+    "name": "Mejicanos",
+    "alternatenames": "Mejicanos,Mekhikanos,Mexicanos,Мехиканос",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584714,
+    "name": "Lolotique",
+    "alternatenames": "Lolotique",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3584772,
+    "name": "La Union",
+    "alternatenames": "La Union,La Unión,San Carlos de La Union,San Carlos de La Unión",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585157,
+    "name": "La Libertad",
+    "alternatenames": "La Libertad,Puerto La Libertad",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585392,
+    "name": "Jujutla",
+    "alternatenames": "Jujutla",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585395,
+    "name": "Jucuaran",
+    "alternatenames": "Jucuaran,Jucuarán",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585398,
+    "name": "Jucuapa",
+    "alternatenames": "Jucuapa",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585401,
+    "name": "Juayua",
+    "alternatenames": "Juayua,Juayúa",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585427,
+    "name": "Jocoro",
+    "alternatenames": "Jocoro",
+    "subcountry": "Morazán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585438,
+    "name": "Jiquilisco",
+    "alternatenames": "Ilquilisco,Jiquilisco",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585473,
+    "name": "Izalco",
+    "alternatenames": "Isal'ka,Isal'ko,Izalco,Izalko,Yzalco,yi sa er ke,Ісалька,Изалко,Исалько,伊薩爾科",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585480,
+    "name": "Intipuca",
+    "alternatenames": "Intipuca,Intipucá",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585484,
+    "name": "Ilopango",
+    "alternatenames": "Ilopango,Ylopango,Илопанго",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585636,
+    "name": "Guazapa",
+    "alternatenames": "Guasapa,Guazapa",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585640,
+    "name": "Guaymango",
+    "alternatenames": "Guaymango",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585653,
+    "name": "Guatajiagua",
+    "alternatenames": "Guatajiagua",
+    "subcountry": "Morazán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3585856,
+    "name": "El Transito",
+    "alternatenames": "El Transito,El Tránsito",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586021,
+    "name": "El Rosario",
+    "alternatenames": "El Rosario,Rosario de la Paz",
+    "subcountry": "La Paz"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586204,
+    "name": "El Paisnal",
+    "alternatenames": "El Paisnal,Paisnal",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586550,
+    "name": "El Congo",
+    "alternatenames": "El Congo,ai er kong ge,埃爾孔戈",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586814,
+    "name": "Delgado",
+    "alternatenames": "Del'gado,Delgado,Villa Delcado,Villa Delgado,Дельгадо",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586833,
+    "name": "Cuscatancingo",
+    "alternatenames": "Cuscatancingo",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586884,
+    "name": "Corinto",
+    "alternatenames": "Corinto",
+    "subcountry": "Morazán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586917,
+    "name": "Conchagua",
+    "alternatenames": "Conchagua",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586926,
+    "name": "Concepcion de Ataco",
+    "alternatenames": "Ataco,Concepcion de Ataco,Concepción de Ataco",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586930,
+    "name": "Concepcion Batres",
+    "alternatenames": "Concepcion Batres,Concepción Batres",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586977,
+    "name": "Cojutepeque",
+    "alternatenames": "Cojutepeque",
+    "subcountry": "Cuscatlán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586981,
+    "name": "Coatepeque",
+    "alternatenames": "Coatepeque",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586983,
+    "name": "Ciudad Barrios",
+    "alternatenames": "Ciudad Barrios,Villa de Cacahuatique",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3586985,
+    "name": "Ciudad Arce",
+    "alternatenames": "Chilamatal,Ciudad Arce,El Chilamatal",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587018,
+    "name": "Chirilagua",
+    "alternatenames": "Chirilagua",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587037,
+    "name": "Chinameca",
+    "alternatenames": "Chinameca",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587064,
+    "name": "Chapeltique",
+    "alternatenames": "Chapelpique,Chapeltique",
+    "subcountry": "San Miguel"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587086,
+    "name": "Chalchuapa",
+    "alternatenames": "Chalchuapa",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587091,
+    "name": "Chalatenango",
+    "alternatenames": "Calatenangas,Chalatehnanga,Chalatenanga,Chalatenango,Tsalatenan'nko,Xalatenanco,cha la te nan ge,chalatenanago,challatenang-go,shalatnangw  shalatnangw,Čalatenangas,Τσαλατενάνγκο,Чалатенанго,Чалатэнанга,شالاتنانگو، شالاتنانگو,छालातेनानगो,查拉特南戈,찰라테낭고",
+    "subcountry": "Chalatenango"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587157,
+    "name": "Candelaria de La Frontera",
+    "alternatenames": "Candelaria,Candelaria de La Frontera,Candelario",
+    "subcountry": "Santa Ana"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587208,
+    "name": "Cacaopera",
+    "alternatenames": "Cacaopera",
+    "subcountry": "Morazán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587266,
+    "name": "Berlin",
+    "alternatenames": "Berlin,Berlín",
+    "subcountry": "Usulután"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587308,
+    "name": "Ayutuxtepeque",
+    "alternatenames": "Ayutuxtepegue,Ayutuxtepeque",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587317,
+    "name": "Atiquizaya",
+    "alternatenames": "Atiquizaya",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587333,
+    "name": "Armenia",
+    "alternatenames": "Armenia,Guaymoco",
+    "subcountry": "Sonsonate"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587345,
+    "name": "Apopa",
+    "alternatenames": "Apopa",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587349,
+    "name": "Apastepeque",
+    "alternatenames": "Apastepeq,Apastepeque",
+    "subcountry": "San Vicente"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587362,
+    "name": "Antiguo Cuscatlan",
+    "alternatenames": "Antiguo Cuscatlan,Antiguo Cuscatlán,an di guo ku si ka te lan,antygw kwskatlan,انتیگؤ کوسکاتلان,安蒂果庫斯卡特蘭",
+    "subcountry": "La Libertad"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587372,
+    "name": "Anamoros",
+    "alternatenames": "Anamoros,Anamorós",
+    "subcountry": "La Unión"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587426,
+    "name": "Ahuachapan",
+    "alternatenames": "Achuachapan,Ahuachapan,Ahuachapán,Ачуачапан",
+    "subcountry": "Ahuachapán"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587428,
+    "name": "Aguilares",
+    "alternatenames": "Aguilares",
+    "subcountry": "San Salvador"
+  },
+  {
+    "country": "SV",
+    "geonameid": 3587498,
+    "name": "Acajutla",
+    "alternatenames": "Acajutla,Akakhutla,Puerto Acajutla,Акахутла",
+    "subcountry": "Sonsonate"
+  }
+]

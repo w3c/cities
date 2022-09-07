@@ -1,0 +1,625 @@
+[
+  {
+    "country": "KM",
+    "geonameid": 921654,
+    "name": "Ouanani",
+    "alternatenames": "Oanani,Ouanani,Wanani",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921655,
+    "name": "Vouani",
+    "alternatenames": "Voani,Voany,Vouani",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921661,
+    "name": "Vanambouani",
+    "alternatenames": "Vanamboini,Vanambouani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921664,
+    "name": "Tsimbeo",
+    "alternatenames": "Tsembehou,Tsembéhou,Tsimbeo,symbyhw,صيمبيهو",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921674,
+    "name": "Singani",
+    "alternatenames": "Singani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921675,
+    "name": "Sima",
+    "alternatenames": "Sima,syma,سيما",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921687,
+    "name": "Salimani",
+    "alternatenames": "Salimani,Selimani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921703,
+    "name": "Patsi",
+    "alternatenames": "Patsi,Patsy,Wilson",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921711,
+    "name": "Ouzini",
+    "alternatenames": "Ousini,Ouzini",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921713,
+    "name": "Oussivo",
+    "alternatenames": "Ousivo,Oussivo",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921714,
+    "name": "Ouroveni",
+    "alternatenames": "Ouroveni,Ourovéni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921719,
+    "name": "Ouellah",
+    "alternatenames": "",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921721,
+    "name": "Ouani",
+    "alternatenames": "AJN,Oani,Ouani,Ouany,awany,أواني",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921726,
+    "name": "Ongoni",
+    "alternatenames": "Ongoni",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921729,
+    "name": "Ntsoudjini",
+    "alternatenames": "Mitsoudjini,Mitsudje,Mitsuje,Ntsoudjini,Tsudjim,Tsudjin,Tsudjini,Tsujuni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921731,
+    "name": "Ntsaoueni",
+    "alternatenames": "Mitsaoueni,Mtsaoueni,Ntsaoueni,Ntsaouéni,Tsaueni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921745,
+    "name": "Nioumachoua",
+    "alternatenames": "Niomachoi,Nioumachoi,Nioumachoua,Nioumgchoi,Numa Choa",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921746,
+    "name": "Kyo",
+    "alternatenames": "Kyo,Niambahamoro",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921753,
+    "name": "Moutsamoudou",
+    "alternatenames": "Matsamudu,Moutsamoudou,Mutsamudu,mwtsamwdw,موتسامودو",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921756,
+    "name": "Mtsamdou",
+    "alternatenames": "Mtsamdou",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921762,
+    "name": "Mremani",
+    "alternatenames": "Mremani,Mrenani,Mrémani",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921763,
+    "name": "Mramani",
+    "alternatenames": "M'Ramoni,M'ramoni,Mramani,M’Ramoni,M’ramoni",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921764,
+    "name": "Moya",
+    "alternatenames": "Moya",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921772,
+    "name": "Moroni",
+    "alternatenames": "Maroni,Moroni,Moronio,Moronis,Morony,Moròni,Muruni,Móróní,YVA,mo luo ni,mo ro ni,moloni,moroni,muruni,mwrwny,Μορονί,Мароні,Морони,Мороні,Մորոնի,מורוני,موروني,مورونی,مۆرۆنی,मोरोनी,ਮੋਰੋਨੀ,மூறூனீ,โมโรนี,མོ་རོ་ནི།,მორონი,ሞሮኒ,モロニ,莫洛尼,莫羅尼,모로니",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921777,
+    "name": "Mohoro",
+    "alternatenames": "Mohoro",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921783,
+    "name": "Mjimandra",
+    "alternatenames": "M'Jimanda,Mjimandra,Moujimada,M’Jimanda",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921784,
+    "name": "Mjamaoue",
+    "alternatenames": "Jamaue,Jamaué,Mjamaoue,Mjamaoué",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921785,
+    "name": "Mitsoudje",
+    "alternatenames": "Mitsoudje,Mitsoudjé",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921786,
+    "name": "Mitsamiouli",
+    "alternatenames": "Mitsamihouh,Mitsamiouli,Mitsumiuli,Mtamuhuli",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921806,
+    "name": "Mbeni",
+    "alternatenames": "Mbeni,Mbéni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921814,
+    "name": "Marahare",
+    "alternatenames": "Marahabe,Marahabé,Marahare,Maraharé",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921834,
+    "name": "Koni-Djodjo",
+    "alternatenames": "Koni,Koni-Djodjo,kwny,kwny jwjw,كوني,كوني جوجو",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921835,
+    "name": "Koni-Ngani",
+    "alternatenames": "Kone N'Goni,Kone N’Goni,Koni-Ngani",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921838,
+    "name": "Koki",
+    "alternatenames": "Koki",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921847,
+    "name": "Kangani",
+    "alternatenames": "Kangani",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921852,
+    "name": "Ivouani",
+    "alternatenames": "Inani,Iuani,Ivoini,Ivouani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921856,
+    "name": "Itsandra",
+    "alternatenames": "Itsandha,Itsandra",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921858,
+    "name": "Heroumbili",
+    "alternatenames": "Heroumbili,Héroumbili,Iroumbili,Irumbilli",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921870,
+    "name": "Hoani",
+    "alternatenames": "Hoani",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921884,
+    "name": "Foumbouni",
+    "alternatenames": "Fomboni,Foumbouni,Mbagini,Mbajini",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921889,
+    "name": "Fomboni",
+    "alternatenames": "Fomboni,Fumboni,fwmbwny,فومبوني",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921897,
+    "name": "Dziani",
+    "alternatenames": "Dziani",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921902,
+    "name": "Dzahadjou",
+    "alternatenames": "Dzahadjou,Dzahadju,Dzahaja",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921906,
+    "name": "Domoni",
+    "alternatenames": "Deumoni,Domoni,dwmwny,دوموني",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921913,
+    "name": "Djoyezi",
+    "alternatenames": "Djoiezi,Djoyezi,Djoyézi,Mudjiauesi,Mujiauesi",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921918,
+    "name": "Dembeni",
+    "alternatenames": "Debeni,Dembeni,Dembéni,Djembeni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921939,
+    "name": "Chironkamba",
+    "alternatenames": "Chironkamba",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921942,
+    "name": "Chindini",
+    "alternatenames": "Chendini,Chindini,Shendini",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921944,
+    "name": "Chezani",
+    "alternatenames": "Cezani,Chezani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921946,
+    "name": "Chandra",
+    "alternatenames": "Chanda,Chandra",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921948,
+    "name": "Chouani",
+    "alternatenames": "Chadjouni,Chouani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921956,
+    "name": "Bouni",
+    "alternatenames": "Bouni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921957,
+    "name": "Boungoueni",
+    "alternatenames": "Boungoueni,Boungouéni",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921967,
+    "name": "Bimbini",
+    "alternatenames": "Bimbini",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921984,
+    "name": "Bandamadji-Domba",
+    "alternatenames": "Bandamadji,Bandamadri,Bandamadxi,Bandamadzi,Bandamaji",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921992,
+    "name": "Bambao",
+    "alternatenames": "Bambao,Bambao M'Sanga,Bambao M’Sanga",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921996,
+    "name": "Assimpao",
+    "alternatenames": "Assimpao",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 921998,
+    "name": "Antsahe",
+    "alternatenames": "Antsahe,Antsahé",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1090583,
+    "name": "Mtakoudja",
+    "alternatenames": "Mtakoudja",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1090640,
+    "name": "Ziroudani",
+    "alternatenames": "Ziroudani",
+    "subcountry": "Mohéli"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1090919,
+    "name": "Kavani",
+    "alternatenames": "",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1090930,
+    "name": "Bandajou",
+    "alternatenames": "Bandajou",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1090960,
+    "name": "Chitrouni",
+    "alternatenames": "Chitrouni",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091076,
+    "name": "Hajoho",
+    "alternatenames": "Hajoho",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091088,
+    "name": "Barakani",
+    "alternatenames": "Barakani",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091102,
+    "name": "Harembo",
+    "alternatenames": "Harembo",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091117,
+    "name": "Mirontsi",
+    "alternatenames": "Mirontsi,myrwntsy,ميرونتسي",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091121,
+    "name": "Paje",
+    "alternatenames": "",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091159,
+    "name": "Limbi",
+    "alternatenames": "Limbi",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091370,
+    "name": "Lingoni",
+    "alternatenames": "Lingoni",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091390,
+    "name": "Magnassini-Nindri",
+    "alternatenames": "Magnassini-Nindri",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091401,
+    "name": "Adda-Doueni",
+    "alternatenames": "Adda-Doueni,Adda-Douéni,ada dwyny,ada-dwyny,أدا دويني,ادا-دوئنی",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091436,
+    "name": "Daji",
+    "alternatenames": "Daji",
+    "subcountry": "Anjouan"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091674,
+    "name": "Ouhozi",
+    "alternatenames": "Ouhozi",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091711,
+    "name": "Mandza",
+    "alternatenames": "Mandza",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091712,
+    "name": "Douniani",
+    "alternatenames": "Douniani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091713,
+    "name": "Koua",
+    "alternatenames": "",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091828,
+    "name": "Hantsindzi",
+    "alternatenames": "Hantsindzi",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091868,
+    "name": "Itsandzeni",
+    "alternatenames": "Itsandzeni,Itsandzéni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091870,
+    "name": "Bambadjani",
+    "alternatenames": "Bambadjani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1091996,
+    "name": "Mnoungou",
+    "alternatenames": "Mnoungou",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092041,
+    "name": "Vanadjou",
+    "alternatenames": "Vanadjou",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092065,
+    "name": "Bahani",
+    "alternatenames": "Bahani",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092169,
+    "name": "Tsidje",
+    "alternatenames": "Tsidje,Tsidjé",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092341,
+    "name": "Mvouni",
+    "alternatenames": "Mvouni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092343,
+    "name": "Mavingouni",
+    "alternatenames": "Mavingouni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092396,
+    "name": "Selea",
+    "alternatenames": "Selea,Séléa",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092516,
+    "name": "Madjeoueni",
+    "alternatenames": "Madjeoueni,Madjeouéni",
+    "subcountry": "Grande Comore"
+  },
+  {
+    "country": "KM",
+    "geonameid": 1092529,
+    "name": "Nioumamilima",
+    "alternatenames": "Nioumamilima",
+    "subcountry": "Grande Comore"
+  }
+]

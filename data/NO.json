@@ -1,0 +1,3796 @@
+[
+  {
+    "country": "NO",
+    "geonameid": 777019,
+    "name": "Vardo",
+    "alternatenames": "VAW,Vard'o,Varde,Vardo,Vardø,Vardő,Varggat,Vuorea,Vuoreija,Várggát,Варде,Вардьо",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 777032,
+    "name": "Vuonnabahta",
+    "alternatenames": "Varangerboti,Varangerbotn,Vuodnabatta,Vuonnabahta,Варангерботи",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 777073,
+    "name": "Vadso",
+    "alternatenames": "Cahcesuolu,VDS,Vadse,Vadso,Vadso kommun,Vadsø,Vadsø kommun,Vesisaari,Čáhcesuolu,Вадсе",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 777381,
+    "name": "Storslett",
+    "alternatenames": "Hansinkenttae,Hansinkenttä,Storslet,Storslett",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 777682,
+    "name": "Skjervoy",
+    "alternatenames": "Skjarvoy,Skjarvöy,Skjervo,Skjervoy,Skjervö,Skjervøy,Skjoervo,Skjoervø",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 778346,
+    "name": "Olderdalen",
+    "alternatenames": "Dalvesvaggi,Dálvesvággi,Olderdal,Olderdalen,Talosvankka",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 778362,
+    "name": "Oksfjord",
+    "alternatenames": "Aksovuotna,Aksuvuodna,Akšuvuodna,Oksfjord,Ákšovuotna,Øksfjord",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 778707,
+    "name": "Mehamn",
+    "alternatenames": "MEH,Mehamn,Mehavn,Mekhamn,Мехамн",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 778829,
+    "name": "Lyngseidet",
+    "alternatenames": "Lyngseidet,Lyngsejdet",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779082,
+    "name": "Lakselv",
+    "alternatenames": "LKL,Lakeselv,Laksehl'v,Lakselv,Leavdnja,Lemmijoki,la ke sai er fu,laksylw,Лакселв,Лаксэльв,لاکسیلو,拉克塞爾夫",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779146,
+    "name": "Kvalsund",
+    "alternatenames": "Falesnuorri,Fálesnuorri,Kommun Kvalsund,Kvalsund,Kvalsundi vald,Kvalsunds kommun,Kvalsunn,Rahkkeravju,Rakkeravjo,Ráhkkerávju,kabhalasunda,ke wa er song,Квалсунн,কভালসুন্ড,克瓦爾松",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779261,
+    "name": "Kjollefjord",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779303,
+    "name": "Kirkenes",
+    "alternatenames": "Circenes,Girkonjarga,Girkonjárga,KKN,Khirkenes,Kirkenes,Kirkenesas,Kirkkoniemi,kirukenesu,kyrkns,sileukeneseu,xi er ke nei si,Κίρκενες,Ћирћенес,Киркенес,Кіркенес,Хиркенес,کیرکنس,キルケネス,希尔克内斯,시르케네스",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779330,
+    "name": "Kautokeino",
+    "alternatenames": "Guov'dagaei'dno,Guov'dagæi'dno,Guovdagaeidno,Guovdagaeino,Guovdageaidnu,Guovdageaidnu Kautokeino,Guovdageaidnu vald,Guovdageainnu suohkan,Guovdageajdnu,Guovdagæidno,Guovdagæino,Kautokeini,Kautokeino,Kautokeino kommun,Kautokeino kommuna,Kjoutukejnu,Kommun Kautokeino,Koutokeino,QKX,gu'obhadage'idanu kautake'ino,kai yu tu kai nu,kautokeino,Гуовдагеайдну,Кёутукейну,গুওভডাগেইডনু কৌটকেইনো,カウトケイノ,凱于圖凱努",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779350,
+    "name": "Karasjohka",
+    "alternatenames": "Karasjohka,Karasjok,Kárášjohka,QKK,Карасйок",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779554,
+    "name": "Honningsvag",
+    "alternatenames": "HVG,Honingsvogas,Honnesvahki,Honnesváhki,Honningsvaag,Honningsvag,Honningsvåg,Hönningsvaag,Khoningsvog,Khonningsvog,Sondre Honningsvaag,Sondre Honningsvag,Söndre Honningsvåg,hnyngswag,hong ning si wo ge,honingusuvuogu,Хонингсвог,Хоннингсвог,هنینگسواگ,ホニングスヴォーグ,洪寧斯沃格",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779622,
+    "name": "Avanuorri",
+    "alternatenames": "Avanuorri,Havosund,Havoysund,Havøsund,Havøysund,Khavesunn,Ávanuorri,Хавесунн",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 779683,
+    "name": "Hammerfest",
+    "alternatenames": "HFT,Hammarfeasta,Hammerfest,Hammerfest koezseg,Hammerfest község,Hammerfesti vald,Hámmárfeasta,Khamerfest,Khammerfest,Kommun Hammerfest,ham'meraphista,hamrfst,hanmerufesuto,heng mo fei si,hmrpst,Хамерфест,Хаммерфест,המרפסט,هامرفست,হাম্মেরফিস্ট,ハンメルフェスト,亨墨菲斯",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 780524,
+    "name": "Burfjord",
+    "alternatenames": "Burfjord",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 780643,
+    "name": "Bjornevatn",
+    "alternatenames": "Bjornevand,Bjornevatn,Bjornvandet,Björnevand,Björnvandet,Bjørnevatn,Kruuvakylae,Kruuvakylä",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 780687,
+    "name": "Berlevag",
+    "alternatenames": "BVG,Bearalvahki,Bearalváhki,Berlevaag,Berlevag,Berlevog,Berlevåg,Берлевог",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 780717,
+    "name": "Batsfjord",
+    "alternatenames": "BJF,Bahcavuotna,Batsfjord,Batsfjordi vald,Batsfjords kommun,Botsf'ord,Báhcavuotna,Båtsfjord,Båtsfjordi vald,Båtsfjords kommun,Kommun Batsfjord,Kommun Båtsfjord,batasphajorda,bo ci fei you er,botsufiyoru,Ботсфьорд,বটস্ফজোর্ড,ボツフィヨール,博茨菲尤爾",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 847633,
+    "name": "Alta",
+    "alternatenames": "ALF,Alattio,Alta,Alta vald,Kommun Alta,a er ta,alta,aruta,Áltá,Алта,ألتا,التا,アルタ,阿尔塔,알타",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 847634,
+    "name": "Rypefjord",
+    "alternatenames": "Rypefjord",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131178,
+    "name": "Strai",
+    "alternatenames": "Strai,Ytre Strai",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131189,
+    "name": "Skalevik",
+    "alternatenames": "Skaalevig,Ytre Skalevik,Ytre Skålevik",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131246,
+    "name": "Ytre Arna",
+    "alternatenames": "Ytre Arna",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131329,
+    "name": "Voss",
+    "alternatenames": "Kommun Voss,Reino de Voss,Vos,Voss,Voss kommun,Vossavangen,Vossevangen,Vossi vald,bhosa,boseu,vuosu,wo si,Вос,Восс,ভোস,ヴォス,沃斯,보스",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131449,
+    "name": "Volda",
+    "alternatenames": "Hallkjellsvik,Hallkjelsvik,Kommun Volda,Volda,Volda kommun,Volden,bholada,wo er da,Волда,ভোলডা,沃爾達",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131538,
+    "name": "Vinstra",
+    "alternatenames": "Vinstra,XKZ",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131653,
+    "name": "Vikoyri",
+    "alternatenames": "Vikora,Vikoyri,Vikøra,Vikøyri",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131683,
+    "name": "Vikesa",
+    "alternatenames": "Vigesa,Vigesaa,Vigeså,Vikesa,Vikeså",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131684,
+    "name": "Vikersund",
+    "alternatenames": "Vikersund,Vikesund,vuikerusun,Викерсунд,ヴィケルスン",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131781,
+    "name": "Vik",
+    "alternatenames": "Vik,Vik i Helgeland",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131824,
+    "name": "Vigrestad",
+    "alternatenames": "Vigrestad",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131848,
+    "name": "Vigeland",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3131901,
+    "name": "Vevelstad",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132051,
+    "name": "Vestbygd",
+    "alternatenames": "Vestbygd,Vestbygda,Vestbygden",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132058,
+    "name": "Vestby",
+    "alternatenames": "Kommun Vestby,Vestbju,Vestby,Vestby kommun,bestaba'i,wei si te bi,Вестбю,বেস্টবাই,韋斯特比",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132176,
+    "name": "Verdal",
+    "alternatenames": "Vaerdalsoren,Verdalsora,Verdalsoren,Verdalsoyra,Verdalsören,Verdalsöyra,Verdalsøra,Værdalsören,XXG",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132208,
+    "name": "Vennesla",
+    "alternatenames": "Vennesla,Vennesla kommun,XXE",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132428,
+    "name": "Vatne",
+    "alternatenames": "Vatne",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132644,
+    "name": "Varhaug",
+    "alternatenames": "Varhaug",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132720,
+    "name": "Vanse",
+    "alternatenames": "Lista,Vanse",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132735,
+    "name": "Vangsvika",
+    "alternatenames": "Vangsvik,Vangsvika",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132852,
+    "name": "Valle",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132864,
+    "name": "Valldal",
+    "alternatenames": "Valdal,Valldal",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3132893,
+    "name": "Valer",
+    "alternatenames": "Vaaler,Valbyen,Valer,Valer i Solor,Vålbyen,Våler,Våler i Solør",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133053,
+    "name": "Vagamo",
+    "alternatenames": "Vagamo,Vågåmo",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133145,
+    "name": "Utsira",
+    "alternatenames": "Utsira,Utsira kommun,Utsire",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133314,
+    "name": "Ulvik",
+    "alternatenames": "Ulvik,Ulvik i Hardanger",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133349,
+    "name": "Ulsteinvik",
+    "alternatenames": "Ul'stejnvik,Ulstajnvik,Ulsteinvik,Ulsteinvikas,Ulstejnvik,yu er si tai yin wei ke,Улстайнвик,Улстејнвик,Ульстейнвик,于爾斯泰因維克",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133402,
+    "name": "Ulefoss",
+    "alternatenames": "Ulefoss",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133425,
+    "name": "Uggdal",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133448,
+    "name": "Tysvaer",
+    "alternatenames": "Kommun Tysvaer,Kommun Tysvær,Tjusver,Tysvaer,Tysvaers kommun,Tysvær,Tysværs kommun,di si wei er,ta'isabayera,Тюсвер,টাইসবায়ের,蒂斯韋爾",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133464,
+    "name": "Tysse",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133498,
+    "name": "Tynset",
+    "alternatenames": "Kommun Tynset,Tjunset,Tonset,Tynset,Tynsets kommun,Tönset,ZMX,ta'inaseta,ting se,Тюнсет,টাইনসেট,廷瑟",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133663,
+    "name": "Tveit",
+    "alternatenames": "Tveid,Tveit i Kristiansand",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133681,
+    "name": "Tvedestrand",
+    "alternatenames": "Kommun Tvedestrand,Tvedestran,Tvedestrand,Tvedestrandi vald,Tvedestrands kommun,Tvedestrann,tabhedestranda,te wei de si te lan,Тведестран,Тведестранн,টভেডেস্ট্রান্ড,特韋德斯特蘭",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133819,
+    "name": "Innbygda",
+    "alternatenames": "Trysil",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133880,
+    "name": "Trondheim",
+    "alternatenames": "Drontheim,Kaupangen,Kommun Trondheim,Nidaros,Nidrosia,THrandheimur,TRD,Troandin,Trondheim,Trondheimas,Trondhjem,Trondkhajm,Trondkhejm,Trongejm,Tronheima,Tronkhejm,Trontchaim,Truondheims,Truondhėims,te long he mu,teulonheim,thrx nd hem,toronhaimu,toronheimu,tronad'ehima,troneim,trwndhaym,trwndhyym,Þrándheimur,Τροντχαιμ,Τρόντχαιμ,Τρόντχαϊμ,Тронгейм,Трондхайм,Трондхејм,Тронхейм,טרונדהיים,تروندهايم,تروندهایم,ٹرونڈہائم,ট্রোনডেহিম,ทรอนด์เฮม,ტრონჰეიმი,トロンハイム,トロンヘイム,特隆赫姆,트론헤임",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133895,
+    "name": "Tromso",
+    "alternatenames": "Kommun Tromso,Kommun Tromsø,Romsa,TOS,Troms'o,Tromse,Tromsieg,Tromsjo,Tromso,Tromsoe,Tromsoe kommun,Tromsonda,Tromssa,Tromsö,Tromsö kommun,Tromsø,Tromsīeg,Trumse,Trumsė,te luo mu se,teulomsoe,thrm sex,toromuso,tromasa,tromso,trwmsa,trwmsh,trwmsw,Тромсе,Тромсьо,Тромсё,טרומסה,ترومسا,ترومسو,ٹرومسو,ट्रोम्सो,ট্রোমসা,ทรมเซอ,ტრომსე,トロムソ,特罗姆瑟,트롬쇠",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3133983,
+    "name": "Trofors",
+    "alternatenames": "Trofors",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134011,
+    "name": "Treungen",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134016,
+    "name": "Tretten",
+    "alternatenames": "Tretten",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134070,
+    "name": "Tranby",
+    "alternatenames": "Tranby",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134327,
+    "name": "Tonstad",
+    "alternatenames": "Sirdal,Siredalen,Tonstad,Tonstead",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134331,
+    "name": "Tonsberg",
+    "alternatenames": "Cjonsberg,Kommun Tonsberg,Kommun Tønsberg,T'onsberg,Tensberg,Tionsbergas,Tjonsberg,Toensberg,Tonsberg,Tönsberg,Tønsberg,XKW,tanasabarga,teng si bei ge,toenseubeleugeu,tonsuberugu,twnsbyrgh,Тенсберг,Тьонсберг,Тёнсберг,Цёнсберг,تونسبيرغ,ٹانسبرگ,টানসবার্গ,トンスベルグ,滕斯贝格,퇸스베르그",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134349,
+    "name": "Tomter",
+    "alternatenames": "Tomter",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134357,
+    "name": "Tomra",
+    "alternatenames": "Tomra,Tomra i Romsdal,Tomren",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134404,
+    "name": "Tolga",
+    "alternatenames": "Tolga,Tolgen",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134429,
+    "name": "Tofte",
+    "alternatenames": "Tofte,Tofte i Hurum",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134521,
+    "name": "Tjome",
+    "alternatenames": "Tjome,Tjome kommun,Tjøme,Tjøme kommun",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134552,
+    "name": "Tjeldsto",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134599,
+    "name": "Tingvatn",
+    "alternatenames": "Tingpatn,Tingvatn,Tingvatne",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134658,
+    "name": "Terrak",
+    "alternatenames": "Terraak,Terrak,Terråk",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134776,
+    "name": "Tau",
+    "alternatenames": "Tau",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134827,
+    "name": "Tangvall",
+    "alternatenames": "Tangvall,Tufteland",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134865,
+    "name": "Tananger",
+    "alternatenames": "Tananger",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3134993,
+    "name": "Syfteland",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135020,
+    "name": "Svolvaer",
+    "alternatenames": "SVJ,Svol'ver,Svolvaer,Svolver,Svolvær,si wo er wei er,Сволвер,Свольвер,斯沃尔韦尔",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135124,
+    "name": "Svelvik",
+    "alternatenames": "Svelvik,Svelvik kommun,Свелвик",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135132,
+    "name": "Svelgen",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135137,
+    "name": "Sveio",
+    "alternatenames": "Sveio,Sveio kommun",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135377,
+    "name": "Sunndalsora",
+    "alternatenames": "Sundalsoren,Sundalsören,Sunndalsora,Sunndalsoyra,Sunndalsöyra,Sunndalsøra,sun da er se la,孫達爾瑟拉",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135601,
+    "name": "Stryn",
+    "alternatenames": "Kommun Stryn,Nedstryn,Strjun,Stryn,Stryni vald,Stryns kommun,si te lin,strayana,Стрюн,স্ট্রয়ন,斯特林",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135726,
+    "name": "Straumen",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135728,
+    "name": "Straumen",
+    "alternatenames": "Straumen,Strommen,Strömmen",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135739,
+    "name": "Straume",
+    "alternatenames": "Straume,Stromme,Strömme",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3135813,
+    "name": "Stranda",
+    "alternatenames": "Stranda,Stranden",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136023,
+    "name": "Storsteinnes",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136618,
+    "name": "Storebo",
+    "alternatenames": "Storabo,Storabø,Storebo,Storebö",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136690,
+    "name": "Stokmarknes",
+    "alternatenames": "SKN,Stokkmarknes,Stokmarknes",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136725,
+    "name": "Stokke",
+    "alternatenames": "Stokke,Stokke kommun",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136765,
+    "name": "Stjordalshalsen",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136903,
+    "name": "Steinshamn",
+    "alternatenames": "Steinshamn",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3136947,
+    "name": "Steinkjer",
+    "alternatenames": "Steinkjer,Stenkjaer",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137091,
+    "name": "Stavern",
+    "alternatenames": "Fredriksvaern,Fredriksvern,Fredriksværn,Stavern",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137115,
+    "name": "Stavanger",
+    "alternatenames": "SVG,Stafangur,Stavanger,Stavangera,Stavenger,sutavuangeru,Ставангер,スタヴァンゲル",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137169,
+    "name": "Stange",
+    "alternatenames": "Stange,Stange Stasjonsby",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137245,
+    "name": "Spydeberg",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137304,
+    "name": "Spetalen",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137390,
+    "name": "Sorumsand",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137405,
+    "name": "Sortland",
+    "alternatenames": "Kommun Sortland,Sortlan,Sortland,Sortlands kommun,Sortlann,Suorta,sortalenda,sorutoran,su te lan,Сортлан,Сортланд,Сортланн,সোর্টলেন্ড,ソルトラン,苏特兰",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137469,
+    "name": "Sorland",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137863,
+    "name": "Solfjellsjoen",
+    "alternatenames": "Solfjellsjoen,Solfjellsjøen",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137942,
+    "name": "Sola",
+    "alternatenames": "Haaland,Haland,Håland,Kommun Sola,Sola,Sola koezseg,Sola kommun,Sola község,Sola vald,Sole,sola,su la,Сола,সোলা,蘇拉",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137971,
+    "name": "Sogne",
+    "alternatenames": "Sogne,Sogne kommun,Søgne,Søgne kommun",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3137973,
+    "name": "Sogndalsfjora",
+    "alternatenames": "Sogndalsfjaera,Sogndalsfjora,Sogndalsfjæra,Sogndalsfjøra",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138076,
+    "name": "Snaase",
+    "alternatenames": "Snaase,Snaasen,Snasa,Snåase,Snåsa",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138304,
+    "name": "Slemmestad",
+    "alternatenames": "Slemmestad",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138423,
+    "name": "Skui",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138429,
+    "name": "Skudeneshavn",
+    "alternatenames": "Skudeneshavn,Skudeneskhavn,Skudneshavn,Скуденесхавн",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138479,
+    "name": "Skreia",
+    "alternatenames": "Skreia",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138532,
+    "name": "Skotterud",
+    "alternatenames": "Skotterud",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138624,
+    "name": "Skoppum",
+    "alternatenames": "Skoppum,XUR",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138701,
+    "name": "Skogn",
+    "alternatenames": "Skogn",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138713,
+    "name": "Skoger",
+    "alternatenames": "Skoger",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138747,
+    "name": "Skodje",
+    "alternatenames": "Skodje",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138955,
+    "name": "Skjeberg",
+    "alternatenames": "Skjeberg",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3138976,
+    "name": "Skjaerhalden",
+    "alternatenames": "Skjaerhalden,Skjaerhallen,Skjaerholla,Skjaerhollen,Skjærhalden,Skjærhallen,Skjærholla,Skjærhollen",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139075,
+    "name": "Skien",
+    "alternatenames": "Kommun Skien,SKE,Seins,Shien,Shijen,Shyen,Sienas,Skien,Skieni vald,shien,sien,skayn,skiyena,xi en,Šienas,Šėins,Шиен,Шијен,Шыен,Шієн,سکائن,স্কিয়েন,シーエン,希恩,시엔",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139081,
+    "name": "Ski",
+    "alternatenames": "Kommun Ski,Shi,Si,Ski,Ski kommun,YVS,ski,xi,Ši,Ши,স্কি,希",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139148,
+    "name": "Skaun",
+    "alternatenames": "Kommun Skaun,Skauan,Skaun,Skauns kommun,Skjoun,sakauna,si kai yu en,Скёун,সকৌন,斯凱于恩",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139244,
+    "name": "Skarnes",
+    "alternatenames": "Skarnes,Skarnes Stasjonsby",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139431,
+    "name": "Skaland",
+    "alternatenames": "Skaland",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139516,
+    "name": "Sjovegan",
+    "alternatenames": "Sjovegan,Sjøvegan",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139530,
+    "name": "Skjonhaug",
+    "alternatenames": "Sjonhaug,Sjønhaug",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139557,
+    "name": "Sjoholt",
+    "alternatenames": "Sjoholt,Sjøholt,Soholt,Söholt",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139597,
+    "name": "Sistranda",
+    "alternatenames": "Sistranda,Sistranden",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139676,
+    "name": "Siljan",
+    "alternatenames": "Siljan",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139765,
+    "name": "Setermoen",
+    "alternatenames": "Saetermoen,Sætermoen",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139819,
+    "name": "Sem",
+    "alternatenames": "Sem",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139826,
+    "name": "Selvik",
+    "alternatenames": "Selvik",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3139894,
+    "name": "Seljord",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140056,
+    "name": "Sauda",
+    "alternatenames": "Sauda,Sauda kommun",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140084,
+    "name": "Sarpsborg",
+    "alternatenames": "Kommun Sarpsborg,Sarpsborg,Sarpsborgas,Sarpsborgs kommun,Sarpsbuorgs,XKQ,sa er pu si bao,saleubseuboleugeu,sarpasaborga,sarpsbwrg,sarupusuborugu,Сарпсборг,سارپسبورگ,সার্পসবোর্গ,サルプスボルグ,萨尔普斯堡,사릅스보르그",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140112,
+    "name": "Sandvika",
+    "alternatenames": "Sandviken,Sandvikja",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140128,
+    "name": "Sandvika",
+    "alternatenames": "Sandvik,Sandvika,Sandviken,Sannvika,Sanvika,sang wei ka,sndwyka,Санвика,Сандвика,Саннвика,سندویکا,桑維卡",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140301,
+    "name": "Sandnessjoen",
+    "alternatenames": "SSJ,Sandnessheen,Sandnessjoen,Sandnessjøen,Sannessh'oen,Sannesshjoehn,Санднессйоен,Санднесшеен,Саннесшьоен,Саннесшёэн",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140321,
+    "name": "Sandnes",
+    "alternatenames": "Sandnes,Sandnes kommun",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140390,
+    "name": "Sandefjord",
+    "alternatenames": "Kommun Sandefjord,Sandefjord,Sandefjord kommuna,Sandefjordas,Sandefjordi vald,Sanef'or,Sannef'ord,Sannefiord,ZYS,sanadephajarda,sang de er fu de,sannepioleu,Сандефјорд,Санефьор,Саннефьорд,Саннефіорд,সানডেফজর্ড,桑德尔福德,산네피오르",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140396,
+    "name": "Sande",
+    "alternatenames": "Sande,Sande i Sunnfjord",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140398,
+    "name": "Sande",
+    "alternatenames": "Kommun Sande,Sande,Sande i Vestfold,Sande kommun,Sande kommune i Vestfold,Sande vald,Sanne,sang ne,Санне,桑訥",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140431,
+    "name": "Sandane",
+    "alternatenames": "SDN,Sandane,Sandene,Сандане",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140452,
+    "name": "Sand",
+    "alternatenames": "Nord Odalen,Nord-Odal,Sand",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140573,
+    "name": "Sagvag",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140621,
+    "name": "Saeveland",
+    "alternatenames": "Saeveland,Saevelandsvik,Sevland,Sæveland",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140636,
+    "name": "Saetre",
+    "alternatenames": "Saetre,Saetre i Hurum,Setre,Sætre,Sætre i Hurum",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3140825,
+    "name": "Rygge",
+    "alternatenames": "Rjugge,Рюгге",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141032,
+    "name": "Rubbestadneset",
+    "alternatenames": "Rubben,Rubbestadneset",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141061,
+    "name": "Royrvik",
+    "alternatenames": "Royrvik,Røyrvik",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141107,
+    "name": "Royken",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141156,
+    "name": "Rotnes",
+    "alternatenames": "Rotnes",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141214,
+    "name": "Rost",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141292,
+    "name": "Rosendal",
+    "alternatenames": "Rosendal",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141310,
+    "name": "Rorvik",
+    "alternatenames": "RVK,Rjorvik,Rorvik,Rørvik,Рёрвик",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141332,
+    "name": "Roros",
+    "alternatenames": "Kommun Roros,Kommun Røros,Plassje,R'oros,RRS,Reros,Rerusas,Rjorus,Roros,Roros kommun,Rorosi vald,Rorus,Røros,Røros kommun,Rørosi vald,lei luo si,rarosa,rerosu,riorusi,rrws,Рерос,Рорус,Рьорос,Рёрус,ררוס,রারোস,რიორუსი,レーロース,勒羅斯",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141469,
+    "name": "Rollag",
+    "alternatenames": "Rollag,Rollang,Rolloug",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141548,
+    "name": "Rognan",
+    "alternatenames": "Rognan,ZXM",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141671,
+    "name": "Roa",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141682,
+    "name": "Rjukan",
+    "alternatenames": "R'jukan,Rjukan,liukan,you kan,Рьюкан,Рюкан,Рјукан,尤坎,리우칸",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141747,
+    "name": "Risor",
+    "alternatenames": "Kommun Risor,Kommun Risør,Ris'or,Risjor,Risor,Risori vald,Risors kommun,Risør,Risøri vald,Risørs kommun,li se er,risara,Рисьор,Рисёр,রিসার,里瑟爾",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141866,
+    "name": "Rindal",
+    "alternatenames": "Rindal,Rindal pa Nordmore,Rindal på Nordmøre,Rindalen",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3141982,
+    "name": "Rena",
+    "alternatenames": "Rena,XKE",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142060,
+    "name": "Reinsvoll",
+    "alternatenames": "Reinsvoll",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142061,
+    "name": "Rensvik",
+    "alternatenames": "Reinsvik,Rensvik",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142127,
+    "name": "Reine",
+    "alternatenames": "Rejne,Reyne,lei ne,renu,ryyn,Рейне,Рејне,Ռեյնե,رئین,レーヌ,雷讷",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142228,
+    "name": "Raufoss",
+    "alternatenames": "ZMQ",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142371,
+    "name": "Ranemsletta",
+    "alternatenames": "Ranemsletta",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142396,
+    "name": "Randaberg",
+    "alternatenames": "Randaberg,Randaberg kommun,Randaberg pa Jaeren,Randaberg på Jaeren",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142502,
+    "name": "Ramberg",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142520,
+    "name": "Rakkestad",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142539,
+    "name": "Raholt",
+    "alternatenames": "Raholt,Råholt",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142623,
+    "name": "Prestfoss",
+    "alternatenames": "Prestfoss",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142626,
+    "name": "Prestestranda",
+    "alternatenames": "Prestestrand,Prestestranda",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142657,
+    "name": "Porsgrunn",
+    "alternatenames": "Kommun Porsgrunn,Porsgrun,Porsgrund,Porsgrunn,Porsgrunni vald,Porsgrunns kommun,Posgriunas,Poshgrun,Pošgriūnas,Pushgrjon,XKP,bo shen ge lun,poleuseugeulun,porsagruna,Порсгрун,Порсгрунн,Пошгрун,Пушгрён,পোর্সগ্রুন,波什格伦,포르스그룬",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3142754,
+    "name": "Oystese",
+    "alternatenames": "Oystese,Oysteso,Öystesö",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143034,
+    "name": "Farnes",
+    "alternatenames": "Farnes,Ovre Aardal,Ovre Ardal,Øvre Aardal,Øvre Årdal",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143120,
+    "name": "Otta",
+    "alternatenames": "Otta,XOR",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143237,
+    "name": "Osoyro",
+    "alternatenames": "Oosoren,Oosøren,Osora,Osoren,Osoyri,Osøra,Osøren,Osøyri",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143244,
+    "name": "Oslo",
+    "alternatenames": "Asloa,Christiania,Kristiania,OSL,Ohoro,Osla,Oslas,Oslo,Oslo osh,Oslu,Osló,ajalo,ao si lu,asalo,aslw,awslw,osalo,oseullo,oslea,oslo,osuro,xxslo,ywslw,Òslo,Ósló,Ōhoro,Όσλο,Осла,Осло,Осло ош,Օսլո,אוסלו,أوسلو,ئوسلو,ئۆسلۆ,اسلو,اوسلو,ܐܘܣܠܘ,ओस्लो,অজলো,ওসলো,ਓਸਲੋ,ଅସଲୋ,ஒஸ்லோ,ഓസ്ലൊ,ออสโล,ཨོ་སི་ལོ།,အော့စလိုမြို့,ოსლო,ኦስሎ,オスロ,奥斯陆,奧斯陸,오슬로",
+    "subcountry": "Oslo"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143303,
+    "name": "Os",
+    "alternatenames": "Os,Os i Hedmark,Os i Osterdalen,Os i Østerdalen,Os im Osterdalen,Os im Østerdalen,Os w Hedmark",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143368,
+    "name": "Ornes",
+    "alternatenames": "Ornes,Ørnes",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143423,
+    "name": "Orkanger",
+    "alternatenames": "Orkanger,Оркангер",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143427,
+    "name": "Orje",
+    "alternatenames": "Orje,Ørje",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143513,
+    "name": "Oppdal",
+    "alternatenames": "Kommun Oppdal,Opdal,Oppdal,Oppdali vald,Oppdals kommun,ao pu da er,oppadala,Опдал,Оппдал,ওপ্পডাল,奧普達爾",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143628,
+    "name": "Olen",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3143830,
+    "name": "Odda",
+    "alternatenames": "Odda,Odda kommun,Odde,Одда",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144075,
+    "name": "Notodden",
+    "alternatenames": "NTB,Notodden,Nutodden,Нутодден",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144110,
+    "name": "Norheimsund",
+    "alternatenames": "Nordheimsund,Norheimsund",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144113,
+    "name": "Noresund",
+    "alternatenames": "Nore Sundet",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144369,
+    "name": "Nordfjordeid",
+    "alternatenames": "Nordfjordeidet",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144534,
+    "name": "Nodeland",
+    "alternatenames": "Naadeland,Nadeland,Nodeland,Noteland,Nådeland",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144661,
+    "name": "Nesna",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144733,
+    "name": "Nesbyen",
+    "alternatenames": "Nesbyen,XUL",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144953,
+    "name": "Naustdal",
+    "alternatenames": "Naustdal,Naustdal i Sunnfjord",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3144987,
+    "name": "Narvik",
+    "alternatenames": "Kommun Narvik,NVK,Narviika,Narvik,Narvikas,Narviks kommun,Narwik,na er wei ke,naleubikeu,narbhika,naruvuiku,nrwwyq,Νάρβικ,Нарвик,Нарвік,Նարվիկ,נרוויק,নার্ভিক,ナルヴィク,纳尔维克,나르비크",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145021,
+    "name": "Namsskogan",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145023,
+    "name": "Namsos",
+    "alternatenames": "Kommun Namsos,Namsos,Namsus,Njaarke,OSY,na mu suo si,namasosa,namsos,namsoseu,namsws,namusosu,Намсос,Намсус,نامسوس,নামসোস,ナムソス,納姆索斯,남소스",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145080,
+    "name": "Naerbo",
+    "alternatenames": "Naerbo,Narbo,Narbø,Nærbø",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145094,
+    "name": "Mysen",
+    "alternatenames": "Mysen",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145148,
+    "name": "Myre",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145171,
+    "name": "Myra",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145357,
+    "name": "Mosterhamn",
+    "alternatenames": "Moster,Mosterham,Mosterhamn,Mosterhavn",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145375,
+    "name": "Moss",
+    "alternatenames": "Kommun Moss,Mos,Mosas,Moss,Moss kommun,Mossi vald,XKM,mo si,mosa,moseu,mosi,mws,mws  nrwzh,Мос,Мосс,מוס,موس,موس، نروژ,মোস,მოსი,莫斯,모스",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145386,
+    "name": "Mosjoen",
+    "alternatenames": "MJF,Mosjoen,Mosjøen,Mush'oen,Mushjoehn,mo she en,Мушьоен,Мушёэн,莫舍恩",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145573,
+    "name": "Moldjord",
+    "alternatenames": "Moldjord,Moldjorden",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145580,
+    "name": "Molde",
+    "alternatenames": "Kommun Molde,MOL,Molde,Molde kommun,Moldė,Mole,Muolde,Muoldė,mo er de,molade,molde,morude,mwldh,Молде,Моле,مولده,مولڈے,মোলডে,モルデ,莫尔德,몰데",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145589,
+    "name": "Fyresdal",
+    "alternatenames": "Fyresdal,Kyrkjebygdi,Moland",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145614,
+    "name": "Mo i Rana",
+    "alternatenames": "MQN,Mo,Mo i Rana,Mu i Ran,Mu i Rana,Mu-i-Rana,mo cheng,moilana,mw ay rana,Мо и Рана,Му и Рана,Му-и-Рана,مو إي رانا,モー・イ・ラーナ,摩城,모이라나",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145617,
+    "name": "Moi",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145649,
+    "name": "Moen",
+    "alternatenames": "Moen,Moen i Malselv,Moen i Målselv",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145689,
+    "name": "Moelv",
+    "alternatenames": "Moelv,Moelven,XUJ",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145716,
+    "name": "Mo",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145757,
+    "name": "Mjondalen",
+    "alternatenames": "Mjondalen,Mjøndalen",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3145922,
+    "name": "Midsund",
+    "alternatenames": "Midsund,Midsund kommun,Misund",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146023,
+    "name": "Meraker",
+    "alternatenames": "Kommun Meraker,Kommun Meråker,Maraker,Maråker,Meraaker,Meraker,Merakers kommun,Meroker,Meråker,Meråkers kommun,Muorahka,Muorahká,mei luo ke,merokora,Мерокер,মেরোকোর,梅羅克",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146049,
+    "name": "Melsomvik",
+    "alternatenames": "Melsomvik",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146125,
+    "name": "Melhus",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146160,
+    "name": "Melbu",
+    "alternatenames": "Melbu",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146270,
+    "name": "Maura",
+    "alternatenames": "Maura",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146315,
+    "name": "Masfjorden",
+    "alternatenames": "Masfjorden,Masfjorden kommun,Masfjordnes",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146451,
+    "name": "Manger",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146463,
+    "name": "Mandal",
+    "alternatenames": "Kommun Mandal,Mandal,Mandali vald,Mandalis,Mandals kommun,man da er,manadala,mandal,mandaru,Мандал,মানডাল,マンダール,曼达尔,만달",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146470,
+    "name": "Malvik",
+    "alternatenames": "Malvik,Malvik kommun,Малвик",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146487,
+    "name": "Maloy",
+    "alternatenames": "Maaloey,Maloy,Maloya,Mol'oj,Moldo,Moldö,Molej,Moljoj,Måløy,Måløya,mo lu,Молеј,Мольой,Молёй,莫呂",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146508,
+    "name": "Malm",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146631,
+    "name": "Lysaker",
+    "alternatenames": "XUI",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146684,
+    "name": "Lyngdal",
+    "alternatenames": "Lyngdal,Lyngdal kommun",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146811,
+    "name": "Lunde",
+    "alternatenames": "Lunde,Lunde i Telemark",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146831,
+    "name": "Lundamo",
+    "alternatenames": "Lund,Lundamo,Lunde,Lundemo",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146897,
+    "name": "Loten",
+    "alternatenames": "Loiten,Loten,Löiten,Løten",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146942,
+    "name": "Lopsmarka",
+    "alternatenames": "Laupsmarka,Lopsmarka,Lopsmarken,Löpsmarken,Løpsmarka",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3146978,
+    "name": "Lonevag",
+    "alternatenames": "Lonevaag,Lonevag,Lonevåg",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147026,
+    "name": "Fossbergom",
+    "alternatenames": "Fossbergom,Lom,Loms kommun,Лом",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147102,
+    "name": "Lodingen",
+    "alternatenames": "Lodingen,Loedingen,Lødingen",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147104,
+    "name": "Loding",
+    "alternatenames": "Loding,Løding",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147441,
+    "name": "Lindas",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147465,
+    "name": "Lillestrom",
+    "alternatenames": "Lilestr'om,Lilestrem,Lilestriomas,Lillestrem,Lillestrjom,Lillestrom,Lillestrøm,li lei si te luo mu,Лилестрем,Лилестрьом,Лиллестрём,Ліллестрем,利勒斯特罗姆",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147467,
+    "name": "Lillesand",
+    "alternatenames": "Lillesand,Lillesand kommun,Lillesann,Лиллесанн",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147474,
+    "name": "Lillehammer",
+    "alternatenames": "Lelehameris,Lilechamer,Lilehameris,Lilekhamer,Lillegammer,Lillehammer,Lillehammere,Lillehammers kommun,Lillekhammer,Lėlehameris,XXL,li lei ha mo er,lillehamera,lillehammeleu,lylhamr,rirehanmeru,Λιλεχάμερ,Лилехамер,Лиллехаммер,Лілехамер,Ліллегаммер,לילהאמר,للیہیمر,ليلهامر,لیلهامر,লিল্লেহামের,リレハンメル,利勒哈默尔,릴레함메르",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147498,
+    "name": "Liknes",
+    "alternatenames": "Liknes",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147698,
+    "name": "Levanger",
+    "alternatenames": "Kommun Levanger,Levanger,Levangers kommun,Lievenge,XUH,lai wang e er,lebang-eleu,lebhanera,Левангер,লেভাঙের,莱旺厄尔,레방에르",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147720,
+    "name": "Lervik",
+    "alternatenames": "Lervik",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147747,
+    "name": "Lensvik",
+    "alternatenames": "Lensvik,Lensviken",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147763,
+    "name": "Lena",
+    "alternatenames": "Lena",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147769,
+    "name": "Leland",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147788,
+    "name": "Leknes",
+    "alternatenames": "Leknes",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147822,
+    "name": "Leirvik",
+    "alternatenames": "Leirvik",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3147854,
+    "name": "Leirsund",
+    "alternatenames": "Leirsund",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148002,
+    "name": "Lauvsnes",
+    "alternatenames": "Lauvsnes",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148129,
+    "name": "Larvik",
+    "alternatenames": "Kommun Larvik,Larvik,Larvikas,Larviki vald,Larviks kommun,XKK,la er wei ke,laleubikeu,larabhika,raruvuiku,Ларвик,Ларвік,লারভিক,ラルヴィク,拉尔维克,라르비크",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148133,
+    "name": "Larsnes",
+    "alternatenames": "Larnes,Larsnes",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148138,
+    "name": "Larkollen",
+    "alternatenames": "Larkollen,Laurkollen",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148346,
+    "name": "Langevag",
+    "alternatenames": "Langevaag,Langevag,Langevåg",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148354,
+    "name": "Langesund",
+    "alternatenames": "Langesund",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148569,
+    "name": "Laerdalsoyri",
+    "alternatenames": "Laerdal,Lærdal",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148602,
+    "name": "Kyrksaeterora",
+    "alternatenames": "Kirksaeteroren,Kirksaeterören,Kyrksaeterora,Kyrkseterora,Kyrkseterøra,Kyrksæterøra",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3148726,
+    "name": "Kviteseid",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149239,
+    "name": "Krokstadora",
+    "alternatenames": "Krokstadora,Krokstadoren,Krokstadören,Krokstadøra",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149312,
+    "name": "Kristiansund",
+    "alternatenames": "KSU,Kristiansund,Kristiansund Nord,Kristiansund kommun,Kristiansunn,Кристиансунн",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149318,
+    "name": "Kristiansand",
+    "alternatenames": "Christiansand,KRS,Krisjansanna,Krisjānsanna,Kristiansand,Kristiansand S,Kristiansand Sor,Kristiansand Sør,Kristiansann,Kryscijansan,ke li si di an sang,Кристиансанд,Кристиансанн,Крысціянсан,כריסטיאנסנד,克里斯蒂安桑",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149412,
+    "name": "Kragero",
+    "alternatenames": "Kommun Kragero,Kommun Kragerø,Krager'o,Kragerjo,Kragero,Kragero kommun,Kragero vald,Kragerø,Kragerø kommun,Kragerø vald,ke la ge lei,kragera,Крагерьо,Крагерё,ক্রাগেরা,克拉格勒",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149492,
+    "name": "Korgen",
+    "alternatenames": "Korgen",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149510,
+    "name": "Koppang",
+    "alternatenames": "Koppang",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149512,
+    "name": "Kopervik",
+    "alternatenames": "Kopervik,ke po wei ke,Копервик,科珀維克",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149525,
+    "name": "Konsmo",
+    "alternatenames": "Konsmo",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149533,
+    "name": "Kongsvinger",
+    "alternatenames": "Kommun Kongsvinger,Kongsvinger,Kongsvingeris,XZD,kansabhinajera,kong si wen e er,kongseubing-eleu,Конгсвингер,কঙ্সভিনজের,孔斯温厄尔,콩스빙에르",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149563,
+    "name": "Kongsberg",
+    "alternatenames": "Kongsberg,Kongsberg kommun,XKB,Конгсберг",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149577,
+    "name": "Kolvereid",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149640,
+    "name": "Kolbotn",
+    "alternatenames": "Kolbotn,Kollbotn",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149720,
+    "name": "Knarvik",
+    "alternatenames": "Knarrevik,Knarrvik,Knarrviki,Knarvik",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149726,
+    "name": "Knappstad",
+    "alternatenames": "Knappstad,Knapstad",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149727,
+    "name": "Knappskog",
+    "alternatenames": "Knappskog",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149813,
+    "name": "Klofta",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3149864,
+    "name": "Kleppesto",
+    "alternatenames": "Kleppesto,Kleppestø",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150002,
+    "name": "Kjopsvik",
+    "alternatenames": "Gasluokta,Gásluokta,Kjonsvik,Kjopsvik,Kjönsvik,Kjøpsvik",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150261,
+    "name": "Kirkenaer",
+    "alternatenames": "Kirkenaer,Kirkenaer i Solor,Kirkenær,Kirkenær i Solør",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150437,
+    "name": "Karlshus",
+    "alternatenames": "Carlshuus,Karlsbunden,Karlshus,Rade,Råde",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150639,
+    "name": "Kabelvag",
+    "alternatenames": "Kabelvaag,Kabelvag,Kabelvåg",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150699,
+    "name": "Judaberg",
+    "alternatenames": "Judaberg",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150742,
+    "name": "Jorpeland",
+    "alternatenames": "Jorpeland,Jørpeland",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150805,
+    "name": "Jondal",
+    "alternatenames": "Jondal,Jondal kommun",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150842,
+    "name": "Jevnaker",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150851,
+    "name": "Jessheim",
+    "alternatenames": "Jeskhajm,Jesseim,Jesskhejm,Йессхейм,Йесхайм",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3150911,
+    "name": "Jaren",
+    "alternatenames": "Jaren",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151001,
+    "name": "Isdalsto",
+    "alternatenames": "Isdalssto,Isdalsstø,Isdalsto,Isdalstø",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151056,
+    "name": "Inndyr",
+    "alternatenames": "Indyr,Inndyr",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151265,
+    "name": "Hyllestad",
+    "alternatenames": "Hyllestad,Hyllestad kommun",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151272,
+    "name": "Hylkje",
+    "alternatenames": "Hylkje",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151288,
+    "name": "Hvittingfoss",
+    "alternatenames": "Hvittingfoss,Vittingfos,Vittingfoss",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151452,
+    "name": "Hundorp",
+    "alternatenames": "Hundorp",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151574,
+    "name": "Hoyanger",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151676,
+    "name": "Hovden",
+    "alternatenames": "Hovde,Hovden,Hovden I Setesdal",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151719,
+    "name": "Hov",
+    "alternatenames": "Hov,Hov i Land",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151770,
+    "name": "Horten",
+    "alternatenames": "Horten,Hortenas,Hortens kommun,Khorten,Khuten,Kommun Horten,holeuten,hortena,huo er teng,hwrtn,Хортен,Хутен,هورتن,হোর্টেন,霍尔滕,호르텐",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151882,
+    "name": "Hopen",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151917,
+    "name": "Honefoss",
+    "alternatenames": "Hionefosas,Honefoss,Hønefoss,Kh'onefos,Khenefos,Khjonefoss,he ne fu si,hoeneposeu,hwnfws,Хенефос,Хьонефос,Хёнефосс,هونفوس,赫讷福斯,회네포스",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3151942,
+    "name": "Hommelvik",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152132,
+    "name": "Holmestrand",
+    "alternatenames": "Holmestrand,Holmestrand kommun,XUG",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152308,
+    "name": "Hol",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152327,
+    "name": "Hokksund",
+    "alternatenames": "Hokksund",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152548,
+    "name": "Hjelset",
+    "alternatenames": "Hjellset,Hjelset",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152862,
+    "name": "Herre",
+    "alternatenames": "Herre",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152884,
+    "name": "Hermansverk",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152989,
+    "name": "Hemsedal",
+    "alternatenames": "Khemsedal',Хемседаль",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3152995,
+    "name": "Hemnesberget",
+    "alternatenames": "Hemnesberget",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153364,
+    "name": "Heggenes",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153517,
+    "name": "Hauknes",
+    "alternatenames": "Hauknes",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153623,
+    "name": "Haugesund",
+    "alternatenames": "Gaugesun,HAU,Haugesiundas,Haugesund,Khaugesun,Khaugezund,Khavesund,Khjougesunn,Kommun Haugesund,hai yu ge song,haugesun,haugesunda,he-ugesun,Гаугесун,Хавесунд,Хаугезунд,Хаугесун,Хёугесунн,হৌগেসুন্ড,ハウゲスン,海于格松,헤우게순",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153694,
+    "name": "Hauge i Dalane",
+    "alternatenames": "Hauge",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153823,
+    "name": "Harstad",
+    "alternatenames": "EVE,HRD,Harsta,Harstad,Hárštá,Kharstad,Харстад",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153861,
+    "name": "Hareid",
+    "alternatenames": "Hareid,Indre Hareid,Midtre Hareid,Ytre Hareid",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153869,
+    "name": "Hardbakke",
+    "alternatenames": "Hardbakke",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3153910,
+    "name": "Hansnes",
+    "alternatenames": "Hansnes",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154000,
+    "name": "Hamnvik",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154084,
+    "name": "Hamar",
+    "alternatenames": "Gamar,HMR,Hamar,Hamaras,Hamars,Hammaria,Hámar,Khamar,Kommun Hamar,ha ma er,hamaleu,hamar,hamara,hamaru,Гамар,Хамар,هامار,ہمار,হামার,ハーマル,哈马尔,하마르",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154209,
+    "name": "Halden",
+    "alternatenames": "Fredrikshald,Halden,Khalden,XKD,Халден",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154321,
+    "name": "Hagavik",
+    "alternatenames": "Hagavik",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154441,
+    "name": "Gvarv",
+    "alternatenames": "Gvarv",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154539,
+    "name": "Gullhaug",
+    "alternatenames": "Guldhaug,Gullaug,Gullhaug",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154639,
+    "name": "Gryllefjord",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154704,
+    "name": "Grua",
+    "alternatenames": "Grua",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3154907,
+    "name": "Grong",
+    "alternatenames": "Grong,XKG",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155041,
+    "name": "Grimstad",
+    "alternatenames": "Grimsta,Grimstad,Grimstadi vald,Kommun Grimstad,ge li mu si ta,geulimseutadeu,grimastada,gurimusutaddo,Гримста,Гримстад,গ্রিমস্টাড,グリムスタッド,格里姆斯塔,그림스타드",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155152,
+    "name": "Gravdal",
+    "alternatenames": "Gravdal",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155196,
+    "name": "Gratangen",
+    "alternatenames": "Gratangen",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155247,
+    "name": "Granvin",
+    "alternatenames": "Granvin,Granvin kommun",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155422,
+    "name": "Gol",
+    "alternatenames": "GLL,Gol,Gol kommun",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155487,
+    "name": "Glomfjord",
+    "alternatenames": "Glaamen,Glamfjord,Glomfjord,Glåmfjord",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155536,
+    "name": "Gladstad",
+    "alternatenames": "Gladstad",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155567,
+    "name": "Justvik",
+    "alternatenames": "Gjusvig",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155573,
+    "name": "Gjovik",
+    "alternatenames": "Gjoevik,Gjovik,Gjoviki vald,Gjoviks kommun,Gjövik,Gjøvik,Gjøviki vald,Gjøviks kommun,Jevik,Jjovik,Jovik,Jovikas,Kommun Gjovik,Kommun Gjøvik,gajabhika,yebikeu,yue wei ke,Јевик,Йовик,Йёвик,গজাভিক,约维克,예비크",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155676,
+    "name": "Gjerstad",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3155913,
+    "name": "Geilo",
+    "alternatenames": "Geilo,Gejlo,Gielo,Gjelo,Гейло",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156470,
+    "name": "Frogner",
+    "alternatenames": "Frogner",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156521,
+    "name": "Frekhaug",
+    "alternatenames": "Frekhaug",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156529,
+    "name": "Fredrikstad",
+    "alternatenames": "Frederikstad,Fredrikstad,XKF,furedorikusuta,Фредрикстад,フレドリクスタ",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156642,
+    "name": "Fossby",
+    "alternatenames": "Fosby,Fossby",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156680,
+    "name": "Fosnavag",
+    "alternatenames": "Forsnevaag,Fosnavag,Fosnavåg",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156804,
+    "name": "Forde",
+    "alternatenames": "FDE,Forde,Fords,Førde",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156868,
+    "name": "Folldal",
+    "alternatenames": "Foldal,Folldal",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3156980,
+    "name": "Floro",
+    "alternatenames": "FRO,Flore,Floro,Florø,Flur'o,Flurjo,Kinn,flwra  shhr,fu lu lei,Флоре,Флурьо,Флурё,فلورا، شهر,弗盧勒",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157090,
+    "name": "Flekkefjord",
+    "alternatenames": "Flekef'or,Flekkef'ord,Flekkefjord,Flekkefjords kommun,Kommun Flekkefjord,fu lai ke fei you er,furekkefiyoru,phlekkephajorda,Флекефьор,Флеккефьорд,ফ্লেক্কেফজোর্ড,フレッケフィヨール,弗萊克菲尤爾",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157162,
+    "name": "Flateby",
+    "alternatenames": "Flateby",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157238,
+    "name": "Fla",
+    "alternatenames": "Fla,Flaa,Flå",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157436,
+    "name": "Fitjar",
+    "alternatenames": "Fitjar,Fitjar kommun",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157549,
+    "name": "Finnsnes",
+    "alternatenames": "Finnsnes,Finsnes,fen si nei si,Финнснес,Финснес,芬斯內斯",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157656,
+    "name": "Fillan",
+    "alternatenames": "Fillan",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157679,
+    "name": "Fevik",
+    "alternatenames": "Fevig,Fevik",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157686,
+    "name": "Fetsund",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157766,
+    "name": "Fedje",
+    "alternatenames": "Fedje,Fedje kommun",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157781,
+    "name": "Fauske",
+    "alternatenames": "Fauske,Фауске",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157799,
+    "name": "Farsund",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157889,
+    "name": "Fagerstrand",
+    "alternatenames": "Fagerstrand",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157897,
+    "name": "Fagernes",
+    "alternatenames": "Coalbmi,Fagernes,Fagernesas,Fajernes,VDB,fa ge nei si,Čoalbmi,Фагернес,Фајернес,法格內斯",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157977,
+    "name": "Evjen",
+    "alternatenames": "Evjen",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157982,
+    "name": "Evje",
+    "alternatenames": "Evje",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3157994,
+    "name": "Evenskjer",
+    "alternatenames": "Evenskjaer,Evenskjer,Evenskjær,Skearri,Vierva,Viervá",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158015,
+    "name": "Etne",
+    "alternatenames": "Etne,Etne kommun,Etnesjoen,Etnesjøen",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158046,
+    "name": "Espeland",
+    "alternatenames": "Espeland",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158300,
+    "name": "Elverum",
+    "alternatenames": "Ehl'verum,Elverum,Elverumi vald,Kommun Elverum,XUC,ai er wo lu mu,elabheruma,Елверум,Эльверум,এলভেরুম,埃尔沃吕姆",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158444,
+    "name": "Eivindvik",
+    "alternatenames": "Eivindvik,Eivinvik,Ejvindvik",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158558,
+    "name": "Eikelandsosen",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158578,
+    "name": "Eike",
+    "alternatenames": "Eike",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158608,
+    "name": "Eidsvoll",
+    "alternatenames": "Eidsvold,Eidsvoll,Eidsvoll kommun",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158615,
+    "name": "Eidsvag",
+    "alternatenames": "Eidsvaag,Eidsvag,Eidsvåg",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158668,
+    "name": "Eidfjord",
+    "alternatenames": "Ehjdf'ord,Eidfjord,Eidfjord i Hardanger,Eidfjords kommun,Ejdf'ord,Kommun Eidfjord,Oyfjord,ai de fei you er,idaphajorda,Öyfjord,Ейдфьорд,Эйдфьорд,ইদফজোর্ড,埃德菲尤爾",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158697,
+    "name": "Eide",
+    "alternatenames": "Eide,Eide kommun,Eide pa Nordmore,Eide på Nordmøre",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158792,
+    "name": "Egersund",
+    "alternatenames": "Ajersun,Egersund,Ejersund,XRD,agshn,ai ge er song,aygrswnd,Айерсун,Ејерсунд,اگشن,ایگرسوند,埃格尔松",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3158960,
+    "name": "Drobak",
+    "alternatenames": "Dr'obak,Drebak,Drjobak,Drobak,Drøbak,de lei ba ke,drwbak,Дребак,Дрьобак,Дрёбак,دروباك,德勒巴克",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159016,
+    "name": "Drammen",
+    "alternatenames": "Dramen,Dramenas,Dramens,Drammen,Kommun Drammen,Ntramen,XND,de la men,deulammen,doranmen,dram men,dramena,dramn,Ντράμεν,Драмен,Драммен,דראמן,درامن,ڈرامن,ড্রামেন,ดรัมเมน,ドランメン,德拉门,드람멘",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159049,
+    "name": "Dovre",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159107,
+    "name": "Dombas",
+    "alternatenames": "Dombaas,Dombas,Dombås,XGP,du mu ao si,杜姆奥斯",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159143,
+    "name": "Dokka",
+    "alternatenames": "Dokka",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159400,
+    "name": "Dalen",
+    "alternatenames": "Dalen,Dalen i Telemark",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159433,
+    "name": "Dale",
+    "alternatenames": "Dale,Dale i Sunnfjord,Fjaler",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159438,
+    "name": "Dale",
+    "alternatenames": "Dale,Dale i Bruvik,Dalekvam",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159582,
+    "name": "Bygland",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159822,
+    "name": "Bryne",
+    "alternatenames": "Bryne,XOB",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159894,
+    "name": "Brumunddal",
+    "alternatenames": "Brumunddal,Brumunddalen,ZVB",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159905,
+    "name": "Bruflat",
+    "alternatenames": "Bruflat,Etnedalen",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3159954,
+    "name": "Bronnoysund",
+    "alternatenames": "BNN,Br'on'ojsun,Brjonnjojsunn,Bronno,Bronnoy,Bronnoysund,Brønnø,Brønnøy,Brønnøysund,bu lun ni,Брьоньойсун,Брённёйсунн,布倫尼",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160082,
+    "name": "Svortland",
+    "alternatenames": "Bremnes,Svortland",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160100,
+    "name": "Brekstad",
+    "alternatenames": "Brekkstad,Brekstad,Brokstad,Брекстад",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160310,
+    "name": "Brattvag",
+    "alternatenames": "Brattvag,Brattvåg,Bratvaag",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160491,
+    "name": "Botngard",
+    "alternatenames": "Botngaard,Botngard",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160630,
+    "name": "Borkenes",
+    "alternatenames": "Borkenes",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160846,
+    "name": "Bogen",
+    "alternatenames": "Bogen,Bogen i Ofoten,Randa,Ránda",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160881,
+    "name": "Bodo",
+    "alternatenames": "BOO,Badaddjo,Bode,Bodo,Bodo vald,Bodoe,Bodö,Bodø,Bodø vald,Bodė,Bud'o,Bude,Budejju,Budjo,Budzjo,Budė,Bådåddjo,Būdē,Kommun Bodo,Kommun Bodø,bo de,boda,bodo,bodoe,bwdw,bwdw  nrwzh,Боде,Бодо,Буде,Будзё,Будьо,Будё,بودو,بودو، نروژ,بوڈو,বোডা,ボードー,博德,보되",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3160911,
+    "name": "Bo",
+    "alternatenames": "Bo,Bo i Telemark,Bø,Bø i Telemark",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161059,
+    "name": "Blakstad",
+    "alternatenames": "Blakkstad,Blakstad",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161346,
+    "name": "Bjorkelangen",
+    "alternatenames": "Bjorkelangen,Bjørkelangen",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161456,
+    "name": "Bjerkvik",
+    "alternatenames": "Bjerkvik,Bjorkvang,Bjorkvik,Bjørkvang,Bjørkvik",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161532,
+    "name": "Birkeland",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161622,
+    "name": "Berkak",
+    "alternatenames": "Berkaak,Berkak,Berkåk",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161724,
+    "name": "Berger",
+    "alternatenames": "Berger,Berger i Vestfold",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161732,
+    "name": "Bergen",
+    "alternatenames": "BGO,Bargen,Berga,Bergen,Bergen (Hordaland Fylke),Bergena,Bergenas,Bergeno,Bergn,Bernken,Birgon,Bjoergvin,Björgvin,baragena,bargana,bei er gen,beleugen,bergeni,berugen,brghn,brgn,perkan,Μπέργκεν,Берген,ברגן,برغن,برگن,बार्गन,বারগেন,பேர்கன்,แบร์เกน,ბერგენი,ベルゲン,卑爾根,베르겐",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3161969,
+    "name": "Batnfjordsora",
+    "alternatenames": "Batnfjordsora,Batnfjordsoren,Batnfjordsören,Batnfjordsøra,Battenfjordsoren,Battenfjordsören",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162032,
+    "name": "Barkaker",
+    "alternatenames": "Barkaaker,Barkaker,Barkåker",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162108,
+    "name": "Ballangen",
+    "alternatenames": "Balak,Balangen,Balat,Ballangen,Ballangeni vald,Ballangens kommun,Bálat,Bálák,Kommun Ballangen,ba lang en,ballanena,barangen,Баланген,Балланген,বাল্লাঙেন,バランゲン,巴朗恩",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162116,
+    "name": "Balestrand",
+    "alternatenames": "Balestrand,Balestrands kommun,Balestrann,Kommun Balestrand,ba lei si te lan,balestranda,Балестранн,বালেস্ট্রান্ড,巴勒斯特蘭",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162199,
+    "name": "Bagn",
+    "alternatenames": "Bagn",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162272,
+    "name": "Austrheim",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162385,
+    "name": "Aursmoen",
+    "alternatenames": "Aurskog,Urskog",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162412,
+    "name": "Aure",
+    "alternatenames": "Aure,Aure kommun,Ehure,Kommun Aure,ai yu lei,aure,Ауре,Эуре,ঔরে,艾于勒",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162475,
+    "name": "Auli",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162651,
+    "name": "Askim",
+    "alternatenames": "Ashim,Askim,Askimi vald,Kommun Askim,a xi mu,asim,askima,Ашим,আস্কিম,阿希姆,아심",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162657,
+    "name": "Asker",
+    "alternatenames": "Asker,Asker koezseg,Asker kommuna,Asker község,Askeri vald,Askeris,Askers kommun,Kommun Asker,XGU,a si ke er,asakera,aseukeleu,asuke,Аскер,আসকের,アスケー,阿斯克尔,아스케르",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162668,
+    "name": "Ask",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162682,
+    "name": "Asgardstrand",
+    "alternatenames": "Aasgaardstrand,Asgardstrand,Åsgårdstrand",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162795,
+    "name": "Aas",
+    "alternatenames": "Aas,As,Ås",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162797,
+    "name": "As",
+    "alternatenames": "Aas,As,Ås",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162884,
+    "name": "Aros",
+    "alternatenames": "Aros,Åros",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162903,
+    "name": "Arnes",
+    "alternatenames": "Aarnes,Arnes,Årnes",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162906,
+    "name": "Arnes",
+    "alternatenames": "Aarnes",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162924,
+    "name": "Indre Arna",
+    "alternatenames": "Arna,Indre Arna",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162955,
+    "name": "Arendal",
+    "alternatenames": "Arehndal,Arendal,Arendale,Arendales,Arendali vald,Arendalis,Arendals kommun,Arendalės,Kommun Arendal,XGD,a lun da er,alendal,arenadala,arendaru,arndal,Ārendāle,Арендал,Арэндал,أرندال,ارنڈل,আরেনডাল,アーレンダール,阿伦达尔,아렌달",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3162970,
+    "name": "Ardalstangen",
+    "alternatenames": "Ardalstangen,Årdalstangen",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163079,
+    "name": "Aneby",
+    "alternatenames": "Aaneby,Aneby,Åneby",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163146,
+    "name": "Andenes",
+    "alternatenames": "ANX,Andenes,an de nei si,andyns,Анденес,اندینس,安德內斯",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163155,
+    "name": "Andalsnes",
+    "alternatenames": "Anbalsnes,Andalsnes,Ondalsnes,ondarusunesu,weng da er si nei si,Åndalsnes,Ондалснес,オンダルスネス,翁達爾斯內斯",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163198,
+    "name": "Amot",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163215,
+    "name": "Amli",
+    "alternatenames": "Amli,Amli kommun,Amli vald,Kommun Amli,Kommun Åmli,Omli,amali,ao mu li,Åmli,Åmli kommun,Åmli vald,Омли,আমলি,奧姆利",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163269,
+    "name": "Alvdal",
+    "alternatenames": "Alvdal,Alvdal kommun,XJA",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163379,
+    "name": "Algard",
+    "alternatenames": "Aalgaard,Algard,Ålgård",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163392,
+    "name": "Alesund",
+    "alternatenames": "AES,Aalesund,Alasund,Alesund,Estrecio Anguilla,Kommun Alesund,Kommun Ålesund,Olesiundas,Olesun,Olesund,Olesunn,alesunda,ao lei song,ollesun,oresun,Álasund,Ålesund,Олесун,Олесунд,Олесунн,অলেসুন্ড,オーレスン,奥勒松,올레순",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163394,
+    "name": "Alen",
+    "alternatenames": "Aalen,Alen,Ålen",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163410,
+    "name": "Al",
+    "alternatenames": "Aal,Al,Ali vald,Als kommun,Kommun Al,Kommun Ål,Ol,Uolis,ala,ao er,oru,Ål,Åli vald,Åls kommun,Ол,অল,オール,奧爾",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163443,
+    "name": "Akrehamn",
+    "alternatenames": "Aakrehamn,Akrahamn,Akrehamn,Akrehavn,Åkrahamn,Åkrehamn",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163506,
+    "name": "Agotnes",
+    "alternatenames": "Agotnes,Ågotnes",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3163608,
+    "name": "A i Afjord",
+    "alternatenames": "A,A i Afjord,A i Aford,Afjord,Afjord kommun,Ao,As,Å,Å i Åfjord,Å i Åford,Åfjord,Åfjord kommun,Åo",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3205608,
+    "name": "Vormedal",
+    "alternatenames": "Vormedal",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3207861,
+    "name": "Tingvoll",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3226622,
+    "name": "Oppeid",
+    "alternatenames": "Oppeid",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3227582,
+    "name": "Hommersak",
+    "alternatenames": "Hommarsak,Hommarsåk,Hommersak,Hommersåk",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3227904,
+    "name": "Vikevag",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3229577,
+    "name": "Aroysund",
+    "alternatenames": "Aroysund,Aroysundet,Årøysund,Årøysundet",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3232860,
+    "name": "Myre",
+    "alternatenames": "Mjure,Мюре",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3336585,
+    "name": "Nesoddtangen",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3336587,
+    "name": "Askoy",
+    "alternatenames": "Askjoj,Askoy,Askoy kommun,Askoy vald,Askøy,Askøy kommun,Askøy vald,Kommun Askoy,Kommun Askøy,a si ke yu,asakaya,Аскёй,আসকায়,阿斯克于",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3336588,
+    "name": "Orsta",
+    "alternatenames": "Ehrsta,HOV,Joshha,Kommun Orsta,Kommun Ørsta,Orsta,arsta,e shen ta,Ørsta,Йоща,Эрста,আর্স্টা,厄什塔",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3336590,
+    "name": "Ryggebyen",
+    "alternatenames": "Ryggebyen",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3336591,
+    "name": "Vedavagen",
+    "alternatenames": "Veavagen,Veavågen,Vedavagen,Vedavågen",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 3345453,
+    "name": "Vestnes",
+    "alternatenames": "Vestnes,Vestnes kommun",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6545362,
+    "name": "Fjellfoten",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6545367,
+    "name": "Neskollen",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6639661,
+    "name": "Kinsarvik",
+    "alternatenames": "Kinsarvik,Кинсарвик",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6693002,
+    "name": "Sjolyststranda",
+    "alternatenames": "",
+    "subcountry": "Oslo"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6695932,
+    "name": "Skei",
+    "alternatenames": "Skei I Jolster,Skei I Jølster",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6697344,
+    "name": "Ytrebygda",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6697345,
+    "name": "Sandsli",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6940426,
+    "name": "Frydenberg",
+    "alternatenames": "",
+    "subcountry": "Oslo"
+  },
+  {
+    "country": "NO",
+    "geonameid": 6951004,
+    "name": "Stjordal",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7280466,
+    "name": "Frosta",
+    "alternatenames": "Frosta,Фроста",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7288344,
+    "name": "Vik",
+    "alternatenames": "Vik,Вик",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7288345,
+    "name": "Sogndal",
+    "alternatenames": "Kommun Sogndal,SOG,Sogdal',Sogndal,Sogndalis,sognadala,song da er,Согдаль,Согндал,সোগ্নডাল,松達爾",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626135,
+    "name": "Romskog",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626136,
+    "name": "Meieribyen",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626137,
+    "name": "Kirkebygda",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626138,
+    "name": "Elvestad",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626251,
+    "name": "Forsand",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626323,
+    "name": "Fjerdingby",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626324,
+    "name": "Kirkebygda",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626325,
+    "name": "Kjenn",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626326,
+    "name": "Teigebyen",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626327,
+    "name": "Hurdal",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626328,
+    "name": "Flisa",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626329,
+    "name": "Bergset",
+    "alternatenames": "Bergset,Berset",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626330,
+    "name": "Engerdal",
+    "alternatenames": "Ehngerdal,Engerdal,Engerdals kommun,Kommun Engerdal,en e da er,engeradala,Энгердал,এঙ্গেরডাল,恩厄達爾",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626331,
+    "name": "Lesja",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626332,
+    "name": "Bismo",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626334,
+    "name": "Ringebu",
+    "alternatenames": "Ringebu,XUQ",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626335,
+    "name": "Segalstad bru",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626336,
+    "name": "Slidre",
+    "alternatenames": "",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626337,
+    "name": "Vang",
+    "alternatenames": "Kommun Vang,Vang,Vang i Valdres,Vangi vald,Vangs kommun,bham,fangh,wang,wng  aplnd,Ванг,فانغ,ونگ، اپلند,ভাং,旺",
+    "subcountry": "Innlandet"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626338,
+    "name": "Vik",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626339,
+    "name": "Troim",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626340,
+    "name": "Hol",
+    "alternatenames": "Hol,Hols kommun,Huoles,Huolės,Khul',Kommun Hol,hola,huo er,Хуль,হোল,霍爾",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626341,
+    "name": "Lierbyen",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626342,
+    "name": "Lampeland",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626343,
+    "name": "Rodberg",
+    "alternatenames": "",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626345,
+    "name": "Revetal",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626346,
+    "name": "Andebu",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626347,
+    "name": "Borgheim",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626349,
+    "name": "Sauland",
+    "alternatenames": "",
+    "subcountry": "Vestfold og Telemark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626350,
+    "name": "Blakstad",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626351,
+    "name": "Birketveit",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626352,
+    "name": "Helland",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626353,
+    "name": "Kyrkjebygda",
+    "alternatenames": "",
+    "subcountry": "Agder"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626354,
+    "name": "Kleppe",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626355,
+    "name": "Hjelmelandsvagen",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626356,
+    "name": "Sand",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626357,
+    "name": "Ydstebohamn",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626358,
+    "name": "Bokn",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626359,
+    "name": "Aksdal",
+    "alternatenames": "",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626360,
+    "name": "Skogsvagen",
+    "alternatenames": "Skogsvag,Skogsvåg",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626361,
+    "name": "Straume",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626362,
+    "name": "Aurlandsvangen",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626363,
+    "name": "Gaupne",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626364,
+    "name": "Askvoll",
+    "alternatenames": "",
+    "subcountry": "Vestland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626365,
+    "name": "Hornindal",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626366,
+    "name": "Fiska",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626367,
+    "name": "Stordal",
+    "alternatenames": "Stordal,Stordalen",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626368,
+    "name": "Sykkylven",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626369,
+    "name": "Valderoy",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626370,
+    "name": "Falkhytta",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626371,
+    "name": "Elnesvagen",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626372,
+    "name": "Bruhagen",
+    "alternatenames": "",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626373,
+    "name": "Surnadal",
+    "alternatenames": "Kommun Surnadal,Surnadal,Surnadals kommun,suranadala,xu na da er,Сурнадал,সুরনাডাল,敘納達爾",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626374,
+    "name": "Liaboen",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626375,
+    "name": "Rissa",
+    "alternatenames": "Arnset,Rissa,li sa,ris'sa,rysa,Årnset,Рисса,ريسا,রিস্সা,里薩",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626376,
+    "name": "Roan",
+    "alternatenames": "Kommun Roan,Roan,Roans kommun,Ruan,lu an,rwan,Руан,روان,魯安",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626377,
+    "name": "Steinsdalen",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626378,
+    "name": "Meldal",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626379,
+    "name": "Storen",
+    "alternatenames": "si te lun,斯特倫",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626380,
+    "name": "Borsa",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626381,
+    "name": "Klaebu",
+    "alternatenames": "Klaebu,Klaebu kommun,Klebu,Klæbu,Klæbu kommun,Kommun Klaebu,Kommun Klæbu,ke lai bi,klayebu,Клебу,ক্লায়েবু,克萊比",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626382,
+    "name": "Mebonden",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626384,
+    "name": "Leksvik",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626386,
+    "name": "Namdalseid",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626388,
+    "name": "Hoylandet",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626389,
+    "name": "Joa",
+    "alternatenames": "",
+    "subcountry": "Trøndelag"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626391,
+    "name": "Silvalen",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626393,
+    "name": "Hattfjelldal",
+    "alternatenames": "Aarporte,Arbordi,Hattfjelldal,Hattfjelldals kommun,Khattf'ell'dal,Kommun Hattfjelldal,ha te fei ye er da er,hattephajeladala,Árbordi,Хаттфьелльдал,হাট্টেফজেলডাল,哈特菲耶爾達爾",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626395,
+    "name": "Luroy",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626396,
+    "name": "Husoya",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626397,
+    "name": "Vagaholmen",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626398,
+    "name": "Leinesfjorden",
+    "alternatenames": "",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626400,
+    "name": "Leknes",
+    "alternatenames": "LKN",
+    "subcountry": "Nordland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626402,
+    "name": "Tennevoll",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626403,
+    "name": "Sorreisa",
+    "alternatenames": "Arjesraisa,Orjjes-Raisa,Orjješ-Ráisa,Sorreisa,Sørreisa,Årjesraisa",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626404,
+    "name": "Brostadbotn",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626405,
+    "name": "Hatteng",
+    "alternatenames": "Hahtta,Hatteng,Hattu,Háhtta",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626406,
+    "name": "Breivikbotn",
+    "alternatenames": "Breidvikbotn,Breivikbotn",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 7626407,
+    "name": "Tana bru",
+    "alternatenames": "",
+    "subcountry": "Troms og Finnmark"
+  },
+  {
+    "country": "NO",
+    "geonameid": 8468896,
+    "name": "Ulsteinvik weather pws station",
+    "alternatenames": "Ulsteinvik veret,Ulsteinvik weather,ulsteinvik vaeret,ulsteinvik været",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 8504433,
+    "name": "Billingstad",
+    "alternatenames": "Billingstad",
+    "subcountry": "Viken"
+  },
+  {
+    "country": "NO",
+    "geonameid": 9404010,
+    "name": "Nordstranda",
+    "alternatenames": "Nordstranda",
+    "subcountry": "Møre og Romsdal"
+  },
+  {
+    "country": "NO",
+    "geonameid": 11748571,
+    "name": "Lyefjell",
+    "alternatenames": "Lye",
+    "subcountry": "Rogaland"
+  },
+  {
+    "country": "NO",
+    "geonameid": 12450785,
+    "name": "Ensjo",
+    "alternatenames": "",
+    "subcountry": "Oslo"
+  }
+]

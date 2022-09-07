@@ -1,0 +1,989 @@
+[
+  {
+    "country": "LU",
+    "geonameid": 2959959,
+    "name": "Wormeldange",
+    "alternatenames": "Wormeldange,Wormeldingen,Wuermeldeng",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2959968,
+    "name": "Winseler",
+    "alternatenames": "Gemeng Wanseler,Vinseler,Vinzeler,Wanseler,Winseler,wynzlr,Винзелер,Вінселер,وینزلر",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2959971,
+    "name": "Wincrange",
+    "alternatenames": "Wenerange,Wincrange,Wintger",
+    "subcountry": "Clervaux"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2959972,
+    "name": "Wilwerwiltz",
+    "alternatenames": "Wilwerwiltz,Wilwerwilz",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2959977,
+    "name": "Wiltz",
+    "alternatenames": "Vil'c,Vilc,Vilcas,Wiltz,Wilz,Wolz,wyltz,Вилц,Вильц,Вільц,ویلتز",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2959989,
+    "name": "Weiswampach",
+    "alternatenames": "Weiswampach",
+    "subcountry": "Clervaux"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2959996,
+    "name": "Weiler-la-Tour",
+    "alternatenames": "Weiler-la-Tour",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960007,
+    "name": "Wasserbillig",
+    "alternatenames": "Wasserbillig",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960008,
+    "name": "Warken",
+    "alternatenames": "Waarken,Warken",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960010,
+    "name": "Walferdange",
+    "alternatenames": "Walfer,Walferdange,Walferdingen",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960013,
+    "name": "Waldbredimus",
+    "alternatenames": "Waldbredimus",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960014,
+    "name": "Waldbillig",
+    "alternatenames": "Waldbillig",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960017,
+    "name": "Wahl",
+    "alternatenames": "Wahl,Wal",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960019,
+    "name": "Vichten",
+    "alternatenames": "Vichten,Viichten",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960021,
+    "name": "Vianden",
+    "alternatenames": "Veianen,Vianden,Vijandehn,Vijanden,wei an deng,wyandn,Вианден,Вијанден,Віанден,Віяндэн,ویاندن,維安登",
+    "subcountry": "Vianden"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960022,
+    "name": "Useldange",
+    "alternatenames": "Useldange,Useldeng",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960026,
+    "name": "Uebersyren",
+    "alternatenames": "Iwwersiren,Uebersyren",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960027,
+    "name": "Tuntange",
+    "alternatenames": "Tenten,Tuntange,Tuntingen,Tënten",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960030,
+    "name": "Troisvierges",
+    "alternatenames": "Elwen,Gemeng Elwen,Gemeng Ëlwen,Troavjerzh,Troisvierges,Truav'erzh,Truaverzh,Ulflingen,torowavuieruju,trwawyrzh,Ëlwen,Троавјерж,Труавьерж,Труавєрж,ترواویرژ,トロワヴィエルジュ",
+    "subcountry": "Clervaux"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960042,
+    "name": "Tetange",
+    "alternatenames": "Teiteng,Tetange,Tetingen,Téiteng,Tétange",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960045,
+    "name": "Tandel",
+    "alternatenames": "Tandel",
+    "subcountry": "Vianden"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960054,
+    "name": "Strassen",
+    "alternatenames": "Strassen",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960058,
+    "name": "Steinsel",
+    "alternatenames": "Steinsel",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960061,
+    "name": "Steinfort",
+    "alternatenames": "Steinfort,Stengefort",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960063,
+    "name": "Stadtbredimus",
+    "alternatenames": "Stadtbredimus",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960067,
+    "name": "Soleuvre",
+    "alternatenames": "Soleuvre,Zolver,Zolwer",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960070,
+    "name": "Septfontaines",
+    "alternatenames": "Septfontaines,Siebenborn,Simmern",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960082,
+    "name": "Schuttrange",
+    "alternatenames": "Schuttrange",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960084,
+    "name": "Schrassig",
+    "alternatenames": "Schraasseg,Schrassig",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960085,
+    "name": "Schouweiler",
+    "alternatenames": "Schouweiler,Schuller",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960102,
+    "name": "Schifflange",
+    "alternatenames": "Scheffleng,Schifflange,Schëffleng",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960104,
+    "name": "Schieren",
+    "alternatenames": "Schieren",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960107,
+    "name": "Schengen",
+    "alternatenames": "Convenio de Schengen,Gemeng Schengen,Schengen,Sengen,Sengenas,Shengen,shen gen,shengen,shengeni,shngn lwkzambwrg,shynjn,sngn,syeng-gen,Şengen,Šengenas,Шенген,שנגן,شنگن لوکزامبورگ,شينجن,ෂෙන්ගන්,შენგენი,シェンゲン,申根,神根,솅겐",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960115,
+    "name": "Sanem",
+    "alternatenames": "Sanem,Sassenheim,Suessem",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960117,
+    "name": "Sandweiler",
+    "alternatenames": "Gemeng Sandweiler,Sandvajler,Sandvejler,Sandweiler,sndwaylr,Сандвайлер,Сандвейлер,سندوایلر",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960120,
+    "name": "Saeul",
+    "alternatenames": "Saeul,Sell,Sëll",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960123,
+    "name": "Rumelange",
+    "alternatenames": "Rumelange,Rumelingen",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960127,
+    "name": "Rosport",
+    "alternatenames": "Rosport",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960133,
+    "name": "Rollingen",
+    "alternatenames": "Rolleng,Rollingen",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960135,
+    "name": "Roeser",
+    "alternatenames": "Gemeng Reiser,Gemeng Réiser,Reiser,Rezer,Roeser,Réiser,rwzr,Резер,روزر",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960143,
+    "name": "Rodange",
+    "alternatenames": "Rodange",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960154,
+    "name": "Remich",
+    "alternatenames": "Rehmikh,Reimech,Rejmekh,Remich,Remichas,Remikh,Réimech,lei mi xi,rmysh,Ремих,Реміх,Рејмех,Рэміх,رمیش,雷米希",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960156,
+    "name": "Reisdorf",
+    "alternatenames": "Reisdorf,Reisduerf",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960160,
+    "name": "Redange-sur-Attert",
+    "alternatenames": "Redange,Redange-sur-Attert,Redange/Attert,Redingen,Reiden,Réiden",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960164,
+    "name": "Reckange-sur-Mess",
+    "alternatenames": "Reckange,Reckange-sur-Mess,Reckange-sur-Messe,Reckeng op der Mess,Reckingen",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960167,
+    "name": "Rambrouch",
+    "alternatenames": "Gemeng Rammerech,Rambrouch,Rambruch,Rambrukh,Rambrush,Rammerech,rambrwk,Рамбрух,Рамбруш,رامبروک",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960168,
+    "name": "Putscheid",
+    "alternatenames": "Petscht,Putscheid,Pëtscht",
+    "subcountry": "Vianden"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960174,
+    "name": "Pontpierre",
+    "alternatenames": "Pontpierre,Steebrecken,Steebrécken,Steinbrucken,Steinbruecken,Steinbrücken",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960187,
+    "name": "Petange",
+    "alternatenames": "Gemeng Peiteng,Gemeng Péiteng,Peiteng,Petange,Petanzas,Petanzh,Petanžas,Petingen,Péiteng,Pétange,ptanzh,Петанж,پتانژ",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960197,
+    "name": "Olm",
+    "alternatenames": "Ollem,Olm",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960207,
+    "name": "Obercorn",
+    "alternatenames": "Oberkorn",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960216,
+    "name": "Nommern",
+    "alternatenames": "Nommern",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960228,
+    "name": "Niedercorn",
+    "alternatenames": "Nidderkuer,Niederkorn",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960231,
+    "name": "Niederanven",
+    "alternatenames": "Gemeng Nidderaanwen,Nidderanven,Nidehranven,Nideranven,Niederanven,nydranwn,Нидеранвен,Нідеранвен,Нідэранвен,نیدرآنون",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960250,
+    "name": "Muellendorf",
+    "alternatenames": "Melleref,Muellendorf,Mullendorf,Mëllerëf,Müllendorf",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960252,
+    "name": "Moutfort",
+    "alternatenames": "Moutfort,Mutfert,Mutfort",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960257,
+    "name": "Mondorf-les-Bains",
+    "alternatenames": "Bad Mondorf,Bains,Gemeng Munneref,Mondorf le Benas,Mondorf-le-Ben,Mondorf-les-Bains,Munneref,mondorp-le-beni,mwndwrf,Мондорф-ле-Бен,موندورف,მონდორფ-ლე-ბენი",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960258,
+    "name": "Mondercange",
+    "alternatenames": "Mondercange,Monnerich",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960259,
+    "name": "Mompach",
+    "alternatenames": "Mompach",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960270,
+    "name": "Mertzig",
+    "alternatenames": "Mertzig,Merzig",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960271,
+    "name": "Mertert",
+    "alternatenames": "Mertert",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960276,
+    "name": "Mersch",
+    "alternatenames": "Gemeng Miersch,Mersas,Mersch,Mersh,Meršas,Miersch,Morsche,mei er shi,mrsh,Мерш,مرش,梅尔施",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960277,
+    "name": "Merl",
+    "alternatenames": "Maerel,Merl,Märel",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960283,
+    "name": "Medernach",
+    "alternatenames": "Medernach",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960296,
+    "name": "Manternach",
+    "alternatenames": "Manternach",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960299,
+    "name": "Mamer",
+    "alternatenames": "Gemeng Mamer,Mamer,Mameris,ma mo,mamr,Мамер,مامر,马默",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960316,
+    "name": "Luxembourg",
+    "alternatenames": "Bandar Luxembourg,Ciudad de Luxemburgo,Ciutat de Luxemburg,Dinas Lwcsembwrg,LUX,Letzebuerg,Letzeburg,Liksanbou,Liuksemburgas,Ljuksemburg,Louxemvourgo,Lucemburk,Lucilinburhuc,Lucsamburg,Lucsemburg,Lueksemburg,Lueksemburq,Luessemburgh,Luksambuur,Luksemboarch,Luksembourg,Luksemburg,Luksemburga,Luksemburgo,Luksemburgu,Luksembùrg,Luksimbur,Lungsod ng Luksemburgo,Lusenburgo,Lussemborgh,Lussemburgo,Lussemburgu,Lussimbork veye,Luxemboerg,Luxemborg,Luxemborj,Luxembourg,Luxembourg by,Luxemburg,Luxemburgo,Luxemburgum,Luxembuurich,Luxembôrg,Luxembörg,Luxenburgo,Lëtzebuerg,Lúksemboarch,Lúxemborg,Lüksemburg,Lüksemburq,Lüssemburgh,Rakapuo,Rakapuō,Stad Letzebuerg,Stad Lëtzebuerg,Stadt Luxemburg,Ville de Luxembourg,lak sem beirk,lakcampark,lakjhembarga,lksmbrg,lu sen bao cheng,lu sen bao shi,lugsembuleukeu,luksemaburga,luksemburgi,lwksmbwrgh,lwkzambwrg,lwqsmbwrg,rukusenburuku,Λουξεμβούργο,Луксембург,Люксембург,Лүксембург,Լյուքսեմբուրգ,לוקסמבורג,لوكسمبورغ,لوکزامبورگ,لوکسەمبورگ,ليۇكسېمبۇرگ شەھىرى,لکسمبرگ,लक्झेंबर्ग,লুক্সেমবুর্গ,லக்சம்பர்க்,ลักเซมเบิร์ก,ལུ་སེམ་བའུརག,ლუქსემბურგი,ሉክሰምበርግ,ルクセンブルク,盧森堡城,盧森堡市,룩셈부르크",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960322,
+    "name": "Lorentzweiler",
+    "alternatenames": "Lorentzweiler,Lorenzweiler",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960328,
+    "name": "Lintgen",
+    "alternatenames": "Lintgen",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960335,
+    "name": "Leudelange",
+    "alternatenames": "Leudelange",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960337,
+    "name": "Lenningen",
+    "alternatenames": "Lenningen",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960350,
+    "name": "Larochette",
+    "alternatenames": "Fels,Larochette",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960358,
+    "name": "Lamadelaine",
+    "alternatenames": "Lamadelaine,Lamadeleine,Rolleng,Rollingen,Rolléng",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960363,
+    "name": "Kopstal",
+    "alternatenames": "Kopstal",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960367,
+    "name": "Koerich",
+    "alternatenames": "Gemeng Kaeerch,Gemeng Käerch,Kaeerch,Kerikh,Kjorikh,Kjorykh,Koerich,Korich,Käerch,Körich,kwyrysh,Керіх,Кёрих,Кёрых,کوئریش",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960380,
+    "name": "Kirchberg",
+    "alternatenames": "Kierchbierg,Kirchberg,Luxembourg-Kirchberg",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960389,
+    "name": "Kehlen",
+    "alternatenames": "Kehlen",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960391,
+    "name": "Kayl",
+    "alternatenames": "Gemeng Keel,Kajl',Kayl,Keel,Kejl,Kelis,kyl  lwkzambwrg,Кайль,Кейл,کیل، لوکزامبورگ",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960400,
+    "name": "Junglinster",
+    "alternatenames": "Junglinster",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960410,
+    "name": "Itzig",
+    "alternatenames": "Itzig,Izeg",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960429,
+    "name": "Hosingen",
+    "alternatenames": "Hosingen",
+    "subcountry": "Clervaux"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960453,
+    "name": "Hobscheid",
+    "alternatenames": "Habscht,Hobscheid",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960457,
+    "name": "Hesperange",
+    "alternatenames": "Hesperange",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960468,
+    "name": "Helmsange",
+    "alternatenames": "Helmsange,Helmsingen,Helsem",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960472,
+    "name": "Heisdorf",
+    "alternatenames": "Heeschdref,Heeschdrëf,Heisdorf,Heisdorf-sur-Alzette",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960481,
+    "name": "Heffingen",
+    "alternatenames": "Heffingen",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960485,
+    "name": "Hautcharage",
+    "alternatenames": "Hautcharage,Oberkerschen,Uewerkaeerjeng,Uewerkäerjeng",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960510,
+    "name": "Grosbous",
+    "alternatenames": "Grosbous",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960515,
+    "name": "Grevenmacher",
+    "alternatenames": "Grehvenmakher,Greivemaacher,Greiwemaacher,Grevenmacher,Grevenmacheris,Grevenmakher,Gréivemaacher,Gréiwemaacher,Grėvenmacheris,ge lei wen ma he,geulebenmaheo,grbnmkr,grwnmakhr,gurevuenmaha,Гревенмахер,Грэвенмахер,גרבנמכר,گرونماخر,グレーヴェンマハ,格雷文马赫,그레벤마허",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960532,
+    "name": "Gonderange",
+    "alternatenames": "Gonderange,Gonderingen,Gonnereng",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960534,
+    "name": "Goesdorf",
+    "alternatenames": "Geisdref,Goesdorf,Gosdorf,Gosdorf bei Wilz,Géisdref,Gösdorf,Gösdorf bei Wilz",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960549,
+    "name": "Garnich",
+    "alternatenames": "Garnech,Garnich",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960556,
+    "name": "Frisange",
+    "alternatenames": "Freiseng,Frisange,Fréiseng",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960568,
+    "name": "Flaxweiler",
+    "alternatenames": "Flaxweiler,Fluessweller",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960571,
+    "name": "Fischbach",
+    "alternatenames": "Fischbach",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960577,
+    "name": "Niederfeulen",
+    "alternatenames": "Feulen,Neiderfeulen,Niederfeulen",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960584,
+    "name": "Fentange",
+    "alternatenames": "Fentange,Fenteng,Fentingen",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960589,
+    "name": "Ettelbruck",
+    "alternatenames": "Ehtehl'bruk,Ehttel'brjuk,Etelbrek,Etelbriukas,Ettel'brjuk,Ettelbreck,Ettelbruck,Ettelbrueck,Ettelbréck,Ettelbrück,Ettlebruk,Gemeng Ettelbreck,Gemeng Ettelbréck,atl brwk,aytlbrwk,Етелбрек,Еттельбрюк,Эттельбрюк,Этэльбрук,إيتلبروك,اتل بروک,ایٹل برک",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960595,
+    "name": "Esch-sur-Sure",
+    "alternatenames": "Ehsh-sjur-Sjur,Escch-sur-Sure,Esch,Esch-Sauer,Esch-sur-Sure,Esch-sur-Sûre,Esh-sjur-Sur,Gemeng Esch-Sauer,ash-swr-swr,Еш-сюр-Сур,Эш-сюр-Сюр,اش-سور-سور",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960596,
+    "name": "Esch-sur-Alzette",
+    "alternatenames": "Ehsh-sjur-Al'zet,Ehsh-sjur-Al'zett,Ehsh-sjur-Alzette,Es-syr-Alzet,Esas prie Alzeto,Esch,Esch an der Alzette,Esch-Uelzecht,Esch-an-der-Alzette,Esch-an-der-Alzig,Esch-sur-Alzette,Esh sir Alzet,Esh-sjur-Al'zett,Ešas prie Alzeto,a er ze te he pan ai shi,ash-swr-alzt,eshu=shuru=aruzetto,esyuswileualjeteu,Ες-συρ-Αλζέτ,Еш сир Алзет,Еш-сюр-Альзетт,Эш-сюр-Алзетте,Эш-сюр-Альзет,Эш-сюр-Альзетт,اش-سور-الزت,エシュ＝シュル＝アルゼット,阿尔泽特河畔埃施,에슈쉬르알제트",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960601,
+    "name": "Erpeldange",
+    "alternatenames": "Erpeldange,Erpeldange-sur-Sure,Erpeldange-sur-Sûre",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960616,
+    "name": "Ell",
+    "alternatenames": "Ell",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960618,
+    "name": "Eischen",
+    "alternatenames": "Eischen",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960630,
+    "name": "Echternach",
+    "alternatenames": "Echternach,Echternachas,Echternak,Ehkhtehrnakh,Ehkhternakh,Ekhternakh,Iechternach,akhtrnakh,ashtrnakh,ehitanaha,ehiteonaheu,Ехтернах,Эхтернах,Эхтэрнах,اخترناخ,اشترناخ,ეხტერნახი,エヒタナハ,에히터나흐",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960634,
+    "name": "Dudelange",
+    "alternatenames": "Diddeleng,Didelanzh,Diudelanzas,Diudelanžas,Djudelanzh,Dudelange,Dudelingen,Duedelingen,Dzjudzelanzh,Düdelingen,Gemeng Diddeleng,dwdlanzh,Дзюдзеланж,Диделанж,Дюделанж,دودلانژ",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960648,
+    "name": "Dippach",
+    "alternatenames": "Dippach",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960651,
+    "name": "Differdange",
+    "alternatenames": "Deifferdeng,Diferdanzas,Diferdanžas,Differdange,Differdanzh,Differdingen,Dziferdanzh,Déifferdeng,Gemeng Deifferdeng,Gemeng Déifferdeng,di fu dang ri,dyfrdanzh,Дзіферданж,Дифферданж,Діфферданж,دیفردانژ,迪弗當日",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960657,
+    "name": "Diekirch",
+    "alternatenames": "Diekirch,Dikirkh,Dikrech,District de Diekirch,Dykirchas,Dzikirkh,di ji xi,dykyrsh,dyqyrk,Дзікірх,Дикирх,Дікірх,דיקירך,ديكيرش,دیکیرش,迪基希",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960665,
+    "name": "Dalheim",
+    "alternatenames": "Dalheim",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960672,
+    "name": "Crauthem",
+    "alternatenames": "Crauthem,Krautem,Krauthem",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960673,
+    "name": "Contern",
+    "alternatenames": "Contern",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960675,
+    "name": "Consdorf",
+    "alternatenames": "Consdorf,Kalkesbach (Consdorf)",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960680,
+    "name": "Colmar",
+    "alternatenames": "Colmar,Colmar-Berg",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960684,
+    "name": "Clervaux",
+    "alternatenames": "Clerf,Clervaux,Cliarref,Cliärref,Gemeng Klierf,Kamuna Klervo,Klerf,Klervo,Klierf,klrww,Камуна Клерво,Клерво,کلروو",
+    "subcountry": "Clervaux"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960687,
+    "name": "Clemency",
+    "alternatenames": "Clemency,Kuentzig,Kuntzig,Küntzig",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960697,
+    "name": "Capellen",
+    "alternatenames": "Capellen,Kapellen",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960699,
+    "name": "Canach",
+    "alternatenames": "Canach,Kanech",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960720,
+    "name": "Bridel",
+    "alternatenames": "Briddel,Bridel",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960732,
+    "name": "Bous",
+    "alternatenames": "Bous",
+    "subcountry": "Remich"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960734,
+    "name": "Bourscheid",
+    "alternatenames": "Bourscheid,Bourscheid-Plage,Burscheid",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960737,
+    "name": "Boulaide",
+    "alternatenames": "Bauschleiden,Boulaide",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960747,
+    "name": "Boevange-sur-Attert",
+    "alternatenames": "Boevange,Boevange-sur-Attert,Boewingen,Bovange,Bowen an der Attert",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960757,
+    "name": "Biwer",
+    "alternatenames": "Biwer,Biwerbach",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960759,
+    "name": "Bissen",
+    "alternatenames": "Bissen",
+    "subcountry": "Mersch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960774,
+    "name": "Betzdorf",
+    "alternatenames": "Betzdorf",
+    "subcountry": "Grevenmacher"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960775,
+    "name": "Bettendorf",
+    "alternatenames": "Bettendorf,Bettenduerf",
+    "subcountry": "Diekirch"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960777,
+    "name": "Bettembourg",
+    "alternatenames": "Beetebuerg,Betehmbur,Betemburas,Betembūras,Bettambur,Bettembourg,Bettemburg,Gemeng Beetebuerg,btmbwrg,Беттамбур,Беттембург,Бетэмбур,Բետտամբուր,بتمبورگ",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960780,
+    "name": "Bettborn",
+    "alternatenames": "Bettborn",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960782,
+    "name": "Bertrange",
+    "alternatenames": "Bertrange",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960791,
+    "name": "Bergem",
+    "alternatenames": "Bergem,Biergem",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960795,
+    "name": "Bereldange",
+    "alternatenames": "Baereldeng,Bereldange,Bereldingen,Bäreldeng,Béreldange",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960796,
+    "name": "Berdorf",
+    "alternatenames": "Berdorf",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960800,
+    "name": "Belvaux",
+    "alternatenames": "Beles,Belvaux,Bieles",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960806,
+    "name": "Beckerich",
+    "alternatenames": "Beckerich",
+    "subcountry": "Redange"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960807,
+    "name": "Bech",
+    "alternatenames": "Bech,Bekh,Gemeng Bech,bk,bykh,Бех,بک,بیخ",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960809,
+    "name": "Beaufort",
+    "alternatenames": "Beaufort,Beefort,Befort",
+    "subcountry": "Echternach"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960811,
+    "name": "Bavigne",
+    "alternatenames": "Bavigne,Boeven,Boewen",
+    "subcountry": "Wiltz"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960815,
+    "name": "Bascharage",
+    "alternatenames": "Bascharage,Niederkerschen",
+    "subcountry": "Capellen"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960823,
+    "name": "Aspelt",
+    "alternatenames": "Aspelt,Uespelt",
+    "subcountry": "Esch-sur-Alzette"
+  },
+  {
+    "country": "LU",
+    "geonameid": 2960832,
+    "name": "Alzingen",
+    "alternatenames": "Altzingen,Alzeng,Alzingen",
+    "subcountry": "Luxembourg"
+  },
+  {
+    "country": "LU",
+    "geonameid": 6696266,
+    "name": "Senningerberg",
+    "alternatenames": "Sennengerbierg",
+    "subcountry": "Luxembourg"
+  }
+]

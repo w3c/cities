@@ -1,0 +1,807 @@
+[
+  {
+    "country": "KE",
+    "geonameid": 178040,
+    "name": "Yala",
+    "alternatenames": "Yala,Yala Station",
+    "subcountry": "Siaya"
+  },
+  {
+    "country": "KE",
+    "geonameid": 178073,
+    "name": "Wundanyi",
+    "alternatenames": "Wundanyi",
+    "subcountry": "Taita Taveta"
+  },
+  {
+    "country": "KE",
+    "geonameid": 178077,
+    "name": "Wote",
+    "alternatenames": "Wote",
+    "subcountry": "Makueni"
+  },
+  {
+    "country": "KE",
+    "geonameid": 178093,
+    "name": "Witu",
+    "alternatenames": "Witu",
+    "subcountry": "Lamu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 178202,
+    "name": "Webuye",
+    "alternatenames": "Broderick Falls,Webuye",
+    "subcountry": "Bungoma"
+  },
+  {
+    "country": "KE",
+    "geonameid": 178443,
+    "name": "Wajir",
+    "alternatenames": "El Sadi,Uadzhir,Vadzhir,Vadziras,Vadžiras,WJR,Wajeer,Wajir,vajiri,wa ji er,wajiru,wajyr,wajyr  knya,Ваджир,Уаджир,واجیر,واجیر، کنیا,ვაჯირი,ワジール,瓦吉爾",
+    "subcountry": "Wajir"
+  },
+  {
+    "country": "KE",
+    "geonameid": 178522,
+    "name": "Voi",
+    "alternatenames": "Voi,boi,voi,wwy,Вои,ووی,ვოი,ボイ",
+    "subcountry": "Taita Taveta"
+  },
+  {
+    "country": "KE",
+    "geonameid": 179330,
+    "name": "Thika",
+    "alternatenames": "Dhika,Thika,Tik,Тик",
+    "subcountry": "Nairobi Area"
+  },
+  {
+    "country": "KE",
+    "geonameid": 179525,
+    "name": "Taveta",
+    "alternatenames": "Taveta",
+    "subcountry": "Taita Taveta"
+  },
+  {
+    "country": "KE",
+    "geonameid": 179634,
+    "name": "Takaungu",
+    "alternatenames": "Takaungu",
+    "subcountry": "Kilifi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 179888,
+    "name": "Sotik",
+    "alternatenames": "Chamagel,Chemagal,Chemagel,Sotik",
+    "subcountry": "Bomet"
+  },
+  {
+    "country": "KE",
+    "geonameid": 180389,
+    "name": "Shimoni",
+    "alternatenames": "Shimoni",
+    "subcountry": "Kwale"
+  },
+  {
+    "country": "KE",
+    "geonameid": 180646,
+    "name": "Sawa Sawa",
+    "alternatenames": "Sawa Sawa,Sawasawa",
+    "subcountry": "Kwale"
+  },
+  {
+    "country": "KE",
+    "geonameid": 180868,
+    "name": "Sagana",
+    "alternatenames": "Sagana",
+    "subcountry": "Kirinyaga"
+  },
+  {
+    "country": "KE",
+    "geonameid": 180992,
+    "name": "Rumuruti",
+    "alternatenames": "Rumuruti",
+    "subcountry": "Laikipia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 181032,
+    "name": "Ruiru",
+    "alternatenames": "Ruiru,lu yi lu,ruiru,rwyrw,rwyrw  knya,Руиру,رویرو,رویرو، کنیا,რუირუ,魯依魯",
+    "subcountry": "Kiambu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 181135,
+    "name": "Rongai",
+    "alternatenames": "Rongai",
+    "subcountry": "Nakuru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 181501,
+    "name": "Pumwani",
+    "alternatenames": "Pumuani,Pumwani",
+    "subcountry": "Nairobi Area"
+  },
+  {
+    "country": "KE",
+    "geonameid": 181702,
+    "name": "Oyugis",
+    "alternatenames": "Oyugis",
+    "subcountry": "Homa Bay"
+  },
+  {
+    "country": "KE",
+    "geonameid": 181735,
+    "name": "Othaya",
+    "alternatenames": "Othaya",
+    "subcountry": "Nyeri"
+  },
+  {
+    "country": "KE",
+    "geonameid": 182498,
+    "name": "Ogembo",
+    "alternatenames": "Ogembo",
+    "subcountry": "Kisii"
+  },
+  {
+    "country": "KE",
+    "geonameid": 182701,
+    "name": "Nyeri",
+    "alternatenames": "N'eri,NYE,Njeri,Njeris,Nyeri,Nyiri,ni ye li,nieli,nieri,nyry  knya,nyyry,Њери,Ньери,نیئری,نیری، کنیا,ნიერი,ニエリ,尼耶利,니에리",
+    "subcountry": "Nyeri"
+  },
+  {
+    "country": "KE",
+    "geonameid": 182880,
+    "name": "Nyamira",
+    "alternatenames": "Nyamira",
+    "subcountry": "Nyamira"
+  },
+  {
+    "country": "KE",
+    "geonameid": 183027,
+    "name": "Nyahururu",
+    "alternatenames": "Nyahururu,Nyahururu Falls,Thompsons Falls,Thomson's Falls,Thomson’s Falls,Thorason's Falls,Thorason’s Falls",
+    "subcountry": "Laikipia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 183595,
+    "name": "Ngong",
+    "alternatenames": "Ngong",
+    "subcountry": "Kajiado"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184367,
+    "name": "Naro Moru",
+    "alternatenames": "Naro Moru",
+    "subcountry": "Nyeri"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184379,
+    "name": "Narok",
+    "alternatenames": "Narok",
+    "subcountry": "Narok"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184433,
+    "name": "Nanyuki",
+    "alternatenames": "NYK,Nanjuki,Nanyuki,na niu ji,nanywky,nanywky  knya,Нанюки,نانیوکی,نانیوکی، کنیا,ნანიუკი,納紐基",
+    "subcountry": "Laikipia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184471,
+    "name": "Nandi Hills",
+    "alternatenames": "",
+    "subcountry": "Nandi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184546,
+    "name": "Nambare",
+    "alternatenames": "Nambale,Nambare",
+    "subcountry": "Busia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184622,
+    "name": "Nakuru",
+    "alternatenames": "NUU,Nakuru,na ku lu,nakulu,nakuru,nakwrw,nakwrw  knya,Накуру,ناکورو,ناکورو، کنیا,ნაკურუ,ナクル,纳库鲁,나쿠루",
+    "subcountry": "Nakuru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184707,
+    "name": "Naivasha",
+    "alternatenames": "Naivasa,Naivasha,Naivaša,Najvasha,nai wa sha,naivasha,naywasha  knya,Найваша,نایواشا، کنیا,ნაივაშა,奈瓦沙",
+    "subcountry": "Nakuru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184745,
+    "name": "Nairobi",
+    "alternatenames": "NBO,Nairoba,Nairobi,Nairobia,Nairobis,Nairobo,Nairoby,Nairobî,Nairompi,Nairòbi,Nairóbi,Najrobi,Najrobo,Nayrobi,Nayroobi,Naíróbí,Naýrobi,na'irobi,nai luo bi,nailobi,nairobi,nairopi,nayreabi,nayrwby,nei luo bi,nirobi,nyrwby,nyyrwby,Ναϊρόμπι,Найроби,Найробі,Најроби,Նայրոբի,נייראבי,ניירובי,نايروبى,نایروبی,نایرۆبی,نيروبي,نیروبی,नैरोबी,নাইরোবি,ਨੈਰੋਬੀ,நைரோபி,ನೈರೋಬಿ,നയ്റോബി,ไนโรบี,ནའི་རོ་བི།,နိုင်ရိုဘီမြို့,ნაირობი,ናይሮቢ,ナイロビ,内罗毕,奈洛比,나이로비",
+    "subcountry": "Nairobi Area"
+  },
+  {
+    "country": "KE",
+    "geonameid": 184921,
+    "name": "Mwingi",
+    "alternatenames": "Mwingi",
+    "subcountry": "Kitui"
+  },
+  {
+    "country": "KE",
+    "geonameid": 185014,
+    "name": "Mwatate",
+    "alternatenames": "Mwatate",
+    "subcountry": "Taita Taveta"
+  },
+  {
+    "country": "KE",
+    "geonameid": 185579,
+    "name": "Murang'a",
+    "alternatenames": "Fort Hall,Murang'a,Murang’a",
+    "subcountry": "Murang'A"
+  },
+  {
+    "country": "KE",
+    "geonameid": 185702,
+    "name": "Mumias",
+    "alternatenames": "Mumias",
+    "subcountry": "Kakamega"
+  },
+  {
+    "country": "KE",
+    "geonameid": 185939,
+    "name": "Muhoroni",
+    "alternatenames": "Muhoroni",
+    "subcountry": "Kisumu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 186101,
+    "name": "Mtito Andei",
+    "alternatenames": "Mtito Andei,Mutitu Andei",
+    "subcountry": "Makueni"
+  },
+  {
+    "country": "KE",
+    "geonameid": 186180,
+    "name": "Moyale",
+    "alternatenames": "Fort Harrington,Moyale,OYL,Port Harrington,mo ya lei,moyalle,moyare,モヤレ,摩亞雷,모얄레",
+    "subcountry": "Marsabit"
+  },
+  {
+    "country": "KE",
+    "geonameid": 186301,
+    "name": "Mombasa",
+    "alternatenames": "MBA,Mambasa,Mombaaso,Mombaca,Mombasa,Mombaso,Mombassa,Mombaça,Mombása,Mompasa,Mvita,meng ba sa,mmbasa,momabaka,mombasa,monbasa,mwmbasa,mwmbsh,Μομπάσα,Мамбаса,Момбаса,מומבסה,ممباسا,مومباسا,मोम्बासा,মোমবাকা,მომბასა,モンバサ,蒙巴萨,몸바사",
+    "subcountry": "Mombasa"
+  },
+  {
+    "country": "KE",
+    "geonameid": 186315,
+    "name": "Molo",
+    "alternatenames": "Molo,Моло",
+    "subcountry": "Nakuru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 186731,
+    "name": "Migori",
+    "alternatenames": "Migori",
+    "subcountry": "Migori"
+  },
+  {
+    "country": "KE",
+    "geonameid": 186827,
+    "name": "Meru",
+    "alternatenames": "Mero,Meru,Mery,Меры",
+    "subcountry": "Meru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187113,
+    "name": "Mbale",
+    "alternatenames": "Mbale",
+    "subcountry": "Vihiga"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187231,
+    "name": "Maua",
+    "alternatenames": "Maua",
+    "subcountry": "Meru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187585,
+    "name": "Marsabit",
+    "alternatenames": "Marsabit,RBT",
+    "subcountry": "Marsabit"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187661,
+    "name": "Mariakani",
+    "alternatenames": "Mariakani",
+    "subcountry": "Kilifi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187725,
+    "name": "Maralal",
+    "alternatenames": "Maralal",
+    "subcountry": "Samburu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187733,
+    "name": "Maragua",
+    "alternatenames": "Maragua,Maragua Station,Maragwa",
+    "subcountry": "Murang'A"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187896,
+    "name": "Mandera",
+    "alternatenames": "Madera,Mandera,Mandere,NDE,Мандере",
+    "subcountry": "Mandera"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187968,
+    "name": "Malindi",
+    "alternatenames": "MYD,Malindi,Malindis,Melinde,ma lin di,malindi,mallindi,malyndy,malyndy  knya,marindi,Малинди,Малінді,ماليندي,مالیندی,مالیندی، کنیا,მალინდი,マリンディ,馬林迪,말린디",
+    "subcountry": "Kilifi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 187977,
+    "name": "Malikisi",
+    "alternatenames": "Malakisi,Malikisi",
+    "subcountry": "Bungoma"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188025,
+    "name": "Malaba",
+    "alternatenames": "Malaba,Singapur",
+    "subcountry": "Busia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188080,
+    "name": "Makueni Boma",
+    "alternatenames": "Makueni,Makueni Boma",
+    "subcountry": "Makueni"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188408,
+    "name": "Magadi",
+    "alternatenames": "Magadi",
+    "subcountry": "Kajiado"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188492,
+    "name": "Machakos",
+    "alternatenames": "Machakos,Machakosskij,Makhakos,Masaku,ma cha ke si,machakoseu,machakosu,machakws,machakws  knya,Махакос,Мачакос,Мачакосский,ماچاکوس,ماچاکوس، کنیا,მაჩაკოსი,マチャコス,马查科斯,마차코스",
+    "subcountry": "Machakos"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188617,
+    "name": "Kipkelion",
+    "alternatenames": "Kipkelion,Lumbwa,Lumowa",
+    "subcountry": "Kericho"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188657,
+    "name": "Lugulu",
+    "alternatenames": "Busia,Lugulu",
+    "subcountry": "Busia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188714,
+    "name": "Luanda",
+    "alternatenames": "Luanda,Lwanda",
+    "subcountry": "Busia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 188981,
+    "name": "Londiani",
+    "alternatenames": "Londiani",
+    "subcountry": "Kericho"
+  },
+  {
+    "country": "KE",
+    "geonameid": 189189,
+    "name": "Lokichokio",
+    "alternatenames": "LKG,Loki,Lokichiogio,Lokichoggio,Lokichogio,Lokichokio,Lokiehoggio,Lokkichoggio",
+    "subcountry": "Turkana"
+  },
+  {
+    "country": "KE",
+    "geonameid": 189280,
+    "name": "Lodwar",
+    "alternatenames": "LOK,Lodvar,Lodvaras,Lodwar,lodvari,luo de wa er,lwdwar,Лодвар,لودوار,ლოდვარი,洛德瓦爾",
+    "subcountry": "Turkana"
+  },
+  {
+    "country": "KE",
+    "geonameid": 189367,
+    "name": "Litein",
+    "alternatenames": "Litein",
+    "subcountry": "Kericho"
+  },
+  {
+    "country": "KE",
+    "geonameid": 189386,
+    "name": "Limuru",
+    "alternatenames": "Limuru",
+    "subcountry": "Kiambu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 189741,
+    "name": "Lamu",
+    "alternatenames": "Amu,Antiga Cidade de Lamu,LAU,Lama,Lamu,la mu,lamu,lamw,ramu,Лама,Ламу,לאמו,لامو,ლამუ,ラム,拉穆,라무",
+    "subcountry": "Lamu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 190108,
+    "name": "Kwale",
+    "alternatenames": "Kwale,kua lei,夸勒",
+    "subcountry": "Kwale"
+  },
+  {
+    "country": "KE",
+    "geonameid": 190544,
+    "name": "Konza",
+    "alternatenames": "Konza",
+    "subcountry": "Machakos"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191038,
+    "name": "Kitui",
+    "alternatenames": "Kitui",
+    "subcountry": "Kitui"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191220,
+    "name": "Kitale",
+    "alternatenames": "KTL,Kitale,Kitalė,ji ta lai,kitare,kytalh  knya,Китале,کیتاله، کنیا,کیتالے,კიტალე,キタレ,基塔萊",
+    "subcountry": "Trans Nzoia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191245,
+    "name": "Kisumu",
+    "alternatenames": "KIS,Kisumo,Kisumu,Lady Whitehouse,Port Florence,Winam,ji su mu,kisumu,kyswmw  knya,kyzymw,Кисуму,Кісуму,كيزيمو,کیسومو، کنیا,კისუმუ,キスム,基蘇木,키수무",
+    "subcountry": "Kisumu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191299,
+    "name": "Kisii",
+    "alternatenames": "Kisii,Kisii town,ji xi,kysy  knya,kysyy  kynya,کیسی، کنیا,کیسیی، کینیا,კისიი,基西",
+    "subcountry": "Kisii"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191675,
+    "name": "Kipini",
+    "alternatenames": "Kipini",
+    "subcountry": "Tana River"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191833,
+    "name": "Kinango",
+    "alternatenames": "",
+    "subcountry": "Kwale"
+  },
+  {
+    "country": "KE",
+    "geonameid": 191837,
+    "name": "Kihancha",
+    "alternatenames": "Kihancha,Kinancha",
+    "subcountry": "Migori"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192067,
+    "name": "Kilifi",
+    "alternatenames": "Kilifi,ji li fei,kylyfy,kylyfy  knya,Килифи,کیلیفی,کیلیفی، کنیا,კილიფი,基利菲",
+    "subcountry": "Kilifi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192126,
+    "name": "Kikuyu",
+    "alternatenames": "Gikuyu,Kikuyu",
+    "subcountry": "Kiambu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192202,
+    "name": "Kijabe",
+    "alternatenames": "Kijabe",
+    "subcountry": "Nakuru"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192710,
+    "name": "Kiambu",
+    "alternatenames": "Kiambu,Kiambuu,Киамбу",
+    "subcountry": "Kiambu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192859,
+    "name": "Kerugoya",
+    "alternatenames": "Kerugoya,Keruguya",
+    "subcountry": "Kirinyaga"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192869,
+    "name": "Keroka",
+    "alternatenames": "Keroka",
+    "subcountry": "Nyamira"
+  },
+  {
+    "country": "KE",
+    "geonameid": 192900,
+    "name": "Kericho",
+    "alternatenames": "KEY,Kericho",
+    "subcountry": "Kericho"
+  },
+  {
+    "country": "KE",
+    "geonameid": 193627,
+    "name": "Karuri",
+    "alternatenames": "Karuri",
+    "subcountry": "Murang'A"
+  },
+  {
+    "country": "KE",
+    "geonameid": 193985,
+    "name": "Kapsowar",
+    "alternatenames": "Kapsowar,Marakwet",
+    "subcountry": "Elegeyo-Marakwet"
+  },
+  {
+    "country": "KE",
+    "geonameid": 194038,
+    "name": "Kapsabet",
+    "alternatenames": "Kapsabet,Nandi",
+    "subcountry": "Nandi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 194160,
+    "name": "Kapenguria",
+    "alternatenames": "Kap-Nguria,Kapenguria",
+    "subcountry": "West Pokot"
+  },
+  {
+    "country": "KE",
+    "geonameid": 194406,
+    "name": "Kangundo",
+    "alternatenames": "Kangundo,Kangundu",
+    "subcountry": "Machakos"
+  },
+  {
+    "country": "KE",
+    "geonameid": 194451,
+    "name": "Kangema",
+    "alternatenames": "Kangema",
+    "subcountry": "Murang'A"
+  },
+  {
+    "country": "KE",
+    "geonameid": 195272,
+    "name": "Kakamega",
+    "alternatenames": "GGM,Kakamega,Kakamege,ka ka mei jia,kakamga  knya,Какамега,Какамеге,کاکامگا، کنیا,კაკამეგა,卡卡梅加",
+    "subcountry": "Kakamega"
+  },
+  {
+    "country": "KE",
+    "geonameid": 195298,
+    "name": "Kajiado",
+    "alternatenames": "Kajiado,Ol Kejuado",
+    "subcountry": "Kajiado"
+  },
+  {
+    "country": "KE",
+    "geonameid": 195821,
+    "name": "Kabarnet",
+    "alternatenames": "Kabarnet",
+    "subcountry": "Baringo"
+  },
+  {
+    "country": "KE",
+    "geonameid": 196185,
+    "name": "Iten",
+    "alternatenames": "Iten",
+    "subcountry": "Elegeyo-Marakwet"
+  },
+  {
+    "country": "KE",
+    "geonameid": 196231,
+    "name": "Isiolo",
+    "alternatenames": "Isiolo,Исиоло",
+    "subcountry": "Isiolo"
+  },
+  {
+    "country": "KE",
+    "geonameid": 196742,
+    "name": "Homa Bay",
+    "alternatenames": "Homa,Homa Bay",
+    "subcountry": "Homa Bay"
+  },
+  {
+    "country": "KE",
+    "geonameid": 196752,
+    "name": "Hola",
+    "alternatenames": "Galole,HOA,Hola",
+    "subcountry": "Tana River"
+  },
+  {
+    "country": "KE",
+    "geonameid": 197514,
+    "name": "Gazi",
+    "alternatenames": "Gasi,Gaze,Gazi",
+    "subcountry": "Kwale"
+  },
+  {
+    "country": "KE",
+    "geonameid": 197745,
+    "name": "Garissa",
+    "alternatenames": "GAS,Gaarisa,Garisa,Garissa,galisa,garisa,garissa,garysa,garysa  knya,gharysa,jia li sa,Гариса,Гарисса,Гарісса,גאריסה,غاريسا,گاریسا,گاریسا، کنیا,გარისა,ガリッサ,加里萨,가리사",
+    "subcountry": "Garissa"
+  },
+  {
+    "country": "KE",
+    "geonameid": 198476,
+    "name": "Embu",
+    "alternatenames": "Ehmba,Ehmbu,Embu,Kirimari,ambw  knya,embu,en bu,Ембу,Эмба,Эмбу,امبو، کنیا,عمبو، کینیا,ემბუ,恩布",
+    "subcountry": "Embu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 198629,
+    "name": "Eldoret",
+    "alternatenames": "EDL,Ehldoret,Eldoret,Eldoretas,Olderet,Olteret,ai er duo lei te,aldwrt,aldwrt  knya,eldoleteu,erudoretto,xel do ret,Елдорет,Элдорет,الدورت,الدورت، کنیا,เอลโดเรต,ელდორეტი,エルドレット,埃爾多雷特,엘도레트",
+    "subcountry": "Uasin Gishu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 198636,
+    "name": "Eldama Ravine",
+    "alternatenames": "Eldama,Eldama Ravine,Shimoni",
+    "subcountry": "Baringo"
+  },
+  {
+    "country": "KE",
+    "geonameid": 199284,
+    "name": "Chuka",
+    "alternatenames": "Chuka",
+    "subcountry": "Tharaka - Nithi"
+  },
+  {
+    "country": "KE",
+    "geonameid": 199604,
+    "name": "Chepareria",
+    "alternatenames": "Cheberia,Chepareria",
+    "subcountry": "West Pokot"
+  },
+  {
+    "country": "KE",
+    "geonameid": 199971,
+    "name": "Butere",
+    "alternatenames": "Butere",
+    "subcountry": "Kakamega"
+  },
+  {
+    "country": "KE",
+    "geonameid": 199989,
+    "name": "Busia",
+    "alternatenames": "Busia",
+    "subcountry": "Busia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 200061,
+    "name": "Port Victoria",
+    "alternatenames": "Bunyala,Port Bunyala,Port Victoria",
+    "subcountry": "Busia"
+  },
+  {
+    "country": "KE",
+    "geonameid": 200067,
+    "name": "Bungoma",
+    "alternatenames": "Bungoma,Бунгома",
+    "subcountry": "Bungoma"
+  },
+  {
+    "country": "KE",
+    "geonameid": 200304,
+    "name": "Bondo",
+    "alternatenames": "Bondo",
+    "subcountry": "Siaya"
+  },
+  {
+    "country": "KE",
+    "geonameid": 200308,
+    "name": "Sotik Post",
+    "alternatenames": "Sotik Post",
+    "subcountry": "Bomet"
+  },
+  {
+    "country": "KE",
+    "geonameid": 200575,
+    "name": "Baringo",
+    "alternatenames": "",
+    "subcountry": "Baringo"
+  },
+  {
+    "country": "KE",
+    "geonameid": 200787,
+    "name": "Athi River",
+    "alternatenames": "Athi River",
+    "subcountry": "Machakos"
+  },
+  {
+    "country": "KE",
+    "geonameid": 201229,
+    "name": "Ahero",
+    "alternatenames": "Ahero",
+    "subcountry": "Kisumu"
+  },
+  {
+    "country": "KE",
+    "geonameid": 383388,
+    "name": "Siaya",
+    "alternatenames": "Siaya",
+    "subcountry": "Siaya"
+  },
+  {
+    "country": "KE",
+    "geonameid": 7931933,
+    "name": "Ol Kalou",
+    "alternatenames": "",
+    "subcountry": "Nyandarua"
+  },
+  {
+    "country": "KE",
+    "geonameid": 8629608,
+    "name": "Bungoma",
+    "alternatenames": "",
+    "subcountry": "Bungoma"
+  },
+  {
+    "country": "KE",
+    "geonameid": 11764747,
+    "name": "Kathwana",
+    "alternatenames": "",
+    "subcountry": "Tharaka - Nithi"
+  }
+]

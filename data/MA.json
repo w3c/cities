@@ -1,0 +1,1822 @@
+[
+  {
+    "country": "MA",
+    "geonameid": 2461874,
+    "name": "Smara",
+    "alternatenames": "Asmara,Es-Semara,Es-Smara,Esmara,SMW,Semara,Smar,Smara,alsmart,seumala,si ma la,smarh,sumara,Смара,Смара қаласы,סמארה,السمارة,سماره,スマラ,斯马拉,스마라",
+    "subcountry": "Laâyoune-Sakia El Hamra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2525874,
+    "name": "Zoumi",
+    "alternatenames": "Zoumi,Zumi",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2525973,
+    "name": "Zinat",
+    "alternatenames": "Ercouiene,Ercoulene,Jinat,Sinat,Zinat",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526159,
+    "name": "Saddina",
+    "alternatenames": "Saddina,Zatdina",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526239,
+    "name": "Setti Fatma",
+    "alternatenames": "Sette Fatna,Setti Fadma,Setti Fatma,Sti Fadma,Sti-Fadma,Zaouia Sti Fatma,Сти-Фадма",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526359,
+    "name": "Zawyat ech Cheikh",
+    "alternatenames": "Zaouia ech Cheikh,Zaouia ech Cheïkh,Zavijja ash Shejkh,Zawyat ech Cheikh,Zawyat ech Cheïkh,Zouiat ech Cheikh,Zouiat ech Cheïkh,Завийя аш Шейх",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526435,
+    "name": "Zaio",
+    "alternatenames": "Toumiat Zaio,Toumiat Zaïo,Tumiat,Tumiat Zaio,Zaio,Zaïo",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526452,
+    "name": "Zagora",
+    "alternatenames": "OZG,Zagora,Загора",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526459,
+    "name": "Zag",
+    "alternatenames": "Zag",
+    "subcountry": "Guelmim-Oued Noun"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526488,
+    "name": "Youssoufia",
+    "alternatenames": "Louis Gentil,Youssoufia",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526924,
+    "name": "Touama",
+    "alternatenames": "El Touama,Oulad Touama,Touama",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2526981,
+    "name": "Tmourghout",
+    "alternatenames": "Tamoughout,Tamourhout,Tamrghoute,Tmourghout,Tmourhout",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527055,
+    "name": "Tiztoutine",
+    "alternatenames": "Tistoutine,Tistutin,Tiztoutine",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527089,
+    "name": "Tiznit",
+    "alternatenames": "Tiznit,Tiznitas,ti zi ni te,tznyt,Тизнит,تزنيت,تزنیت,提茲尼特",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527184,
+    "name": "Tizguine",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527271,
+    "name": "Tit Mellil",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527366,
+    "name": "Tissa",
+    "alternatenames": "El Arbaa de Tissa,L'Arba de Tissa,L’Arba de Tissa,Tissa,Village de Tissa",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527645,
+    "name": "Tirhanimine",
+    "alternatenames": "",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527695,
+    "name": "Tiout",
+    "alternatenames": "Agadir Tiout,Tiout,Tioute",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527749,
+    "name": "Tiouli",
+    "alternatenames": "",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2527915,
+    "name": "Tinghir",
+    "alternatenames": "Tineghir,Tinerhir,Tinghir,Tinrhir",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528013,
+    "name": "Timoulilt",
+    "alternatenames": "Souk-Tnine de Timoulilt,Timouillit,Timoulilt",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528129,
+    "name": "Timezgana",
+    "alternatenames": "Et Tnine de Timesgana,Timezgana",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528130,
+    "name": "Timezgadiouine",
+    "alternatenames": "Timesgadioume,Timezgadiouine",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528258,
+    "name": "Tilmi",
+    "alternatenames": "",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528650,
+    "name": "Tifni",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528659,
+    "name": "Tiflet",
+    "alternatenames": "",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2528910,
+    "name": "Tetouan",
+    "alternatenames": "TTU,Tehtuan,Tetouan,Tetouán,Tetuan,Tetuanas,Tetuano,Tetuao,Tetuán,Tetuão,Tétouan,de tu an,teto'una,tetouan,tetuan,ttwan,Τετουάν,Тетуан,Тетуан қаласы,Тэтуан,תטואן,تطوان,तेतोउन,თეტუანი,テトゥアン,得土安,테투안",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529013,
+    "name": "Temara",
+    "alternatenames": "Kasba Temara,Temara",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529019,
+    "name": "Telouet",
+    "alternatenames": "Dar Kaid el Glaoui,Telouet,Telouete,Telouète,Teluet",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529133,
+    "name": "Tazouta",
+    "alternatenames": "Taouchet Tazouta,Tazouta",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529245,
+    "name": "Taznakht",
+    "alternatenames": "Tazenakht,Tazenskht,Taznakht",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529251,
+    "name": "Tazemmourt",
+    "alternatenames": "Tazemmourt,Tazemmourte",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529286,
+    "name": "Tazarine",
+    "alternatenames": "El Kelaa n'Tazarine,El Kelaa n’Tazarine,Tazarine,Tazarine-des-Zerarda,Tazzarine",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529317,
+    "name": "Taza",
+    "alternatenames": "Taza,ta zha,tazh,tazt,Таза,Таза қаласы,תאזה,تازة,تازه,تازہ,塔扎",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529362,
+    "name": "Tata",
+    "alternatenames": "Tata,Tatta",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529621,
+    "name": "Tarsouat",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529649,
+    "name": "Taroudant",
+    "alternatenames": "Taroudannt,Taroudant,Tarudant,Tarudantas,Tarudante,ta lu dan te,tarwdant,Тарудант,تارودانت,塔魯丹特",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529656,
+    "name": "Teroual",
+    "alternatenames": "Taroual,Teroual,Terual",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529872,
+    "name": "Targuist",
+    "alternatenames": "Targvist,Таргвист",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2529923,
+    "name": "Tarfaya",
+    "alternatenames": "Cabo Juby,Cabo Yubi,Cap Juby,Talfaia,Tarfaia,Tarfaja,Tarfaya,Villa Bens,tarufaya,trfayh,trfayt,Тарфая,طرفاية,طرفایه,タルファヤ",
+    "subcountry": "Laâyoune-Sakia El Hamra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530048,
+    "name": "Taourirt",
+    "alternatenames": "",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530148,
+    "name": "Taounza",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530155,
+    "name": "Taounate",
+    "alternatenames": "Taounat,Taounate,Taunat,Tawnat,Таунат",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530160,
+    "name": "Taouloukoult",
+    "alternatenames": "Taoulokoult,Taouloukoult,Zaouia Taouloukoult",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530188,
+    "name": "Taouima",
+    "alternatenames": "Taouima,Tauima",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530241,
+    "name": "Tan-Tan",
+    "alternatenames": "TTA,Tan-Tan,Tantan,Tantanas,tantan,Тан-Тан,طانطان,タンタン",
+    "subcountry": "Guelmim-Oued Noun"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530335,
+    "name": "Tangier",
+    "alternatenames": "TNG,Tanger,Tangeri,Tangero,Tangier,Tangiers,Tanzher,Tanĝero,Tingis,Tànger,Tánger,Tânger,tan ji ya,tnjt,Тангер,Танжер,طنجة,坦幾亞",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530395,
+    "name": "Tanalt",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530516,
+    "name": "Tamorot",
+    "alternatenames": "Tamorot,Tamorote,Zoco es Sebtz de Tamorot",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530843,
+    "name": "Tamanar",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530906,
+    "name": "Talzemt",
+    "alternatenames": "Talzemt,Talzent",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2530978,
+    "name": "Talmest",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2531014,
+    "name": "Taliouine",
+    "alternatenames": "Taliouine,Talioune",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2531480,
+    "name": "Tahla",
+    "alternatenames": "El Ayba Tahalla,Tahala,Tahla",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2531877,
+    "name": "Tafraout",
+    "alternatenames": "Tafraout,Tafraoute,Tafraut",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2531994,
+    "name": "Tadrart",
+    "alternatenames": "Tadrart,Tanrart",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532195,
+    "name": "Tabouda",
+    "alternatenames": "Tabouda,Tabouda de l'Ouerrha,Tabouda de l’Ouerrha",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532214,
+    "name": "Tabia",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532230,
+    "name": "Tabia",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532270,
+    "name": "Tabant",
+    "alternatenames": "Tabannt,Tabant",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532394,
+    "name": "Souq Larb'a al Gharb",
+    "alternatenames": "El Arba du Gharb,El Arba du Rharb,El Arbaa du Rharb,El Arboa du Rharb,Souk-el-Arba-du-Gharb,Souq Larb'a al Gharb,Souq Larb’a al Gharb",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532542,
+    "name": "Senada",
+    "alternatenames": "Sanadat,Senada,Snada",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532628,
+    "name": "Skoura",
+    "alternatenames": "Skoura,Skoura des Ahl el Oust",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532797,
+    "name": "Sidi Yahya Ou Saad",
+    "alternatenames": "Sidi Yahya Ou Saad,Sidi Yahya Ou Saoua,Sidi yahya ou saoud",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532822,
+    "name": "Sidi Yahia El Gharb",
+    "alternatenames": "Sidi Yahia El Gharb,Sidi Yahia al Gharb,Sidi Yahia del Garb,Sidi Yahia el Rharb,Sidi Yahya du Rharb,Sidi Yanya du Rharb,Sidi Yaya du Rhanb,Sïdi Yaya du Rhanb",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532918,
+    "name": "Sidi Smai'il",
+    "alternatenames": "Sidi Smai'il,Sidi Smail,Sidi Smaine,Sidi Smai’il,Sidi Smaïl,Sidi Smaïne,Sidi-Smain,Sidi-Smaïn,Zaouia Sidi Smain",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2532945,
+    "name": "Sidi Slimane",
+    "alternatenames": "Sidi Slamain,Sidi Sliman,Sidi Slimane,Sidi-Slimane,Сиди-Слимане",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2533158,
+    "name": "Sidi Redouane",
+    "alternatenames": "Redouane,Sidi Redouane,Sidi Reduan",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2533178,
+    "name": "Sidi Rahhal",
+    "alternatenames": "Sidi Rahal,Sidi Rahhal,Zaouia Sidi Rahal,Zaouia Sidi Rahhal,Zaouia Sidi Rahkal",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2533191,
+    "name": "Sidi Qacem",
+    "alternatenames": "Petitjean,Pettijean,Sidi Kacem,Sidi Qacem,Sidi Qasim,Sīdī Qāsim,sdy qasm,سدي قاسم",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2533339,
+    "name": "Sidi Moussa",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2534315,
+    "name": "Sidi Lamine",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2534496,
+    "name": "Sidi Jaber",
+    "alternatenames": "Sidi Jaber,Sidi Jabeur",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2534515,
+    "name": "Sidi Ifni",
+    "alternatenames": "Ifni,SII,Sidi Ifni,Sidi Ifnis,Sidi-Ifni,Sidifni,sidiipeuni,sydy afny,Сиди Ифни,Сиди-Ифни,سيدي إفني,시디이프니",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2534572,
+    "name": "Sidi Harazem",
+    "alternatenames": "Douar Sidi Harazem,Sidi Harazem",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2535477,
+    "name": "Sidi Bousber",
+    "alternatenames": "Sidi Bousber,Sidi Bousbeur",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2535534,
+    "name": "Sidi Bou Othmane",
+    "alternatenames": "Sidi Bou Othmane,Sidi Bou Otmane,Sidi Bu Osman,Sidi Bu Osmán",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2536074,
+    "name": "Sidi Bennour",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2536370,
+    "name": "Sidi Amar",
+    "alternatenames": "Ait Ben Amar,Aït Ben Amar,Dechra Sidi Amar,Sidi Amar,Sidi Ammar",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537320,
+    "name": "Sidi Abdallah",
+    "alternatenames": "Ouled Abdellah,Sidi Abdallah",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537406,
+    "name": "Settat",
+    "alternatenames": "Azettad,Aẓeṭṭaḍ,Sattat,Setatas,Settat,sai ta te,setateu,sltat,stat,Сеттат,سطات,سلطات,სეტატი,塞塔特,세타트",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537469,
+    "name": "Selouane",
+    "alternatenames": "Selouane,Zelaun,Zelouan,Zelouane,Zeluan,Zeluán",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537545,
+    "name": "Sefrou",
+    "alternatenames": "Sefrou,Sefru,Sefrú",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537763,
+    "name": "Sale",
+    "alternatenames": "Sala,Sale,Sali,Sallee,Salé,Sla,Slà,sla,Сале,سلا",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537802,
+    "name": "Saidia",
+    "alternatenames": "Saida,Saidia,Saidia du Kiss,Saidija,Saïda,Saïdia,Saïdia du Kiss,Саидия",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537881,
+    "name": "Safi",
+    "alternatenames": "Asafi,Asfi,SFI,Safi,Safim,Safí,Sáfí,asfy,asfy  mraksh,sa fei,safi,sapi,Сафи,Сафі,Սաֆի,סאפי,آسفي,اسفی,اسفی، مراکش,საფი,ⴰⵙⴼⵉ,サフィ,薩非,사피",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2537965,
+    "name": "Rouadi",
+    "alternatenames": "",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538027,
+    "name": "Recani",
+    "alternatenames": "Recani,Reçani,Risani,Rissani,Рисани",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538028,
+    "name": "Rislane",
+    "alternatenames": "Rislane,Rislane Thata",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538099,
+    "name": "Ghouazi",
+    "alternatenames": "Ghouazi,Rhouazi",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538332,
+    "name": "Reggada",
+    "alternatenames": "Er Reggada,Reggada,Souk-el-Had de Reggada,alrgadt,alrkadt,alrqadt,الرقادة,الركادة,الرگادة",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538385,
+    "name": "Ratba",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538475,
+    "name": "Rabat",
+    "alternatenames": "RBA,Raba,Rabat,Rabata,Rabatas,Rabato,Rabatum,Rabot,Rabāt,Rabāta,Rampat,Rbat,Rbaṭ,alrbat,la ba,la ba te,labateu,raba t,rabat,rabata,rabato,rabota,rapat,rbat,Ραμπάτ,Рабат,Ռաբատ,ראבאט,רבאט,الرباط,رابات,ربات,رباط,ڕەبات,रबाट,रबात,রাবাত,ਰਬਾਤ,ରବୋଟ,ரபாத்,ราบัต,ར་བ་ཐ།,ར་བ་ཐེ།,რაბატი,ራባት,ラバト,剌八,拉巴特,라바트",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538652,
+    "name": "Ourtzagh",
+    "alternatenames": "Ourtzagh,Ourtzarh",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2538898,
+    "name": "Oulmes",
+    "alternatenames": "Oulmes,Oulmes-Les Thermes,Oulmès,Oulmès-Les Thermes,Ul'mes,awlmas,wlmas,Ульмес,أولماس,ولماس",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2539134,
+    "name": "Oulad Teima",
+    "alternatenames": "Oulad Teima,Oulad Teïma,Ouled Teima",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2539139,
+    "name": "Oulad Tayeb",
+    "alternatenames": "Ulad Tajib,Улад Тайиб",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2539936,
+    "name": "Oulad Daoud",
+    "alternatenames": "Douar Oulad Daoud,Oulad Daoud",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540207,
+    "name": "Oulad Ayad",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540468,
+    "name": "Oukaimedene",
+    "alternatenames": "Oukaimden,Oukaimeden,Oukaimedene,Oukaïmden,Oukaïmeden,Oukaïmedene,Oukkainrdem,Ukajmden,Укаймден",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540483,
+    "name": "Oujda-Angad",
+    "alternatenames": "OUD,Oudja,Oudjda,Ouja,Oujda,Oujda-Angad,Ucda,Udzda,Udzhda,Udžda,Ugda,Ujda,Uĝda,Wadzda,Wadżda,Wejda,ujida,wgdh,wjdh,wjdt,wjdt-anjad,wjdt-ankad,wu ji da,Уджда,Уджда қаласы,Уџда,וגדה,وجدة,وجدة-أنجاد,وجدة-أنكاد,وجده,وجدہ,ウジダ,乌季达,우지다",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540554,
+    "name": "Ouijjane",
+    "alternatenames": "Ouijjane,Souk-Sebt-Ouijjane",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540689,
+    "name": "Oued Zem",
+    "alternatenames": "Wadi Zam,Wādī Zam,wad zm,wady zm,واد زم,وادي زم",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540698,
+    "name": "Oued Laou",
+    "alternatenames": "Oued Lahou,Oued Lao,Oued Laou,Oued Lou,Uad Lau,wady lw,وادي لو",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540716,
+    "name": "Oued Amlil",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540810,
+    "name": "Ouezzane",
+    "alternatenames": "Ouazzane,Ouezzane,Quazzane,Uazan,Uazán,Wazzan",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2540850,
+    "name": "Ouarzazat",
+    "alternatenames": "OZZ,Ouarzazat,Ouarzazate,Ouarzazte,Ouorzazate,Uarzazat,Uarzazatas,Varzazat,Warzazat,Warzāzāt,wrzazat,wrzzat,Варзазат,Уарзазат,ورزازات,ورززات",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541068,
+    "name": "Oualidia",
+    "alternatenames": "El Oualidia,Kasba Oualidia,Koudia Oualidia,Oualidiya,Qasbah al Walidiyah,Qaşbah al Walīdīyah,Qualidia,Ualidija,Уалидия",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541210,
+    "name": "Zawyat an Nwacer",
+    "alternatenames": "Nouaceur,Nouaseur,Nwacer,Nwaçer,Zawyat an Nwacer,Zawyat an Nwaçer",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541479,
+    "name": "Nador",
+    "alternatenames": "NDR,Nador,Nadora,Nadoras,Nnadur,Nnaḍur,Nādora,Villa Nador,alnazwr,na zu er,nad xr,nadoleu,nazwr,Надор,الناظور,ناظور,นาดอร์,納祖爾,나도르",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541779,
+    "name": "Moulay Yacoub",
+    "alternatenames": "Moulay Yacoub,Moulay Yakoub,Muley Yacub",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541830,
+    "name": "Moulay Brahim",
+    "alternatenames": "Moulay Brahim,Zaouia Moulay Brahim,Zaouiat Moulay Brahim",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541840,
+    "name": "Moulay Bouchta",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2541906,
+    "name": "Moulay Abdallah",
+    "alternatenames": "Tett",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542013,
+    "name": "Al Aaroui",
+    "alternatenames": "Al Aaroui,Mont Arrouit,Mont-Aroui,Mont-Arruit,Monte 'Arrouit,Monte Arruit,Monte ’Arrouit",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542051,
+    "name": "Mohammedia",
+    "alternatenames": "Al Muhammadiyah,Al Muḩammadīyah,Al-Muhammadijja,Fadalah,Faḑālah,Fdala,Fedala,Fedalah,Fedhala,Mohamedija,Mohamedio,Mohammadia,Mohammedia,Mohammédia,Mokhammedija,Muhammediye,Məhəmmədiyyə,Sedala,alhrawyyn,almhmdyt,mhmdyh,mohamedia,mu han mo di ye,Мохаммедия,المحمدية,الهراويين,محمدیه,محمدیہ,穆罕默迪耶,모하메디아",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542147,
+    "name": "Missour",
+    "alternatenames": "Misour,Missour",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542227,
+    "name": "Midelt",
+    "alternatenames": "Midelt",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542230,
+    "name": "Midar",
+    "alternatenames": "Arba Laazib Midar,Azib de Midar,El Arba de Midar,Midar,Soko Arbaa Laazib Midar,Мидар",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542715,
+    "name": "Meknes",
+    "alternatenames": "MEK,Mekinez,Meknes,Meknès,mei ke nei si,mekunesu,mknas,mqns,Мекнес,מקנס,مكناس,مکناس,ⴰⵎⴽⵏⴰⵙ,メクネス,梅克内斯",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542826,
+    "name": "Mediouna",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542866,
+    "name": "Mechraa Bel Ksiri",
+    "alternatenames": "Ksiri,Mechra Belqsiri,Mechra al Ksiri,Mechra-bel-Kairi,Mechraa Bel Ksiri,Mechrá Belqsiri",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542898,
+    "name": "Mdiq",
+    "alternatenames": "Al Mediq,El Medik,El Rincon,M'dia,M'dik,M'diq,Mdic,Mdik,Mdiq,M’dia,M’dik,M’diq,Ricon el Medik,Rincon,Rincon de El Medik,Rincon de Medik,Rincon del Medik,Rincon el Madik,Rincón de Medik,Rincón del Medik,Rincón el Madik,Мдик",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542957,
+    "name": "Matmata",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542987,
+    "name": "Martil",
+    "alternatenames": "Martil,Rio Martin,Rio Martine,Río Martín,Wad Martin,Wād Martīn",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2542997,
+    "name": "Marrakesh",
+    "alternatenames": "Marakes,Marakesh,Marakeso,Marakeŝo,Marakeš,Maraksh,Marrakech,Marrakes,Marrakesch,Marrakesh,Marrakesz,Marraqueix,Marraquexe,Marràqueix,Marrákes,Marrákeš,Merrakex,Morocco City,RAK,ma la ke shen,marakeshu,mraksh,Маракеш,Марракеш,مراكش,ⴰⵎⵓⵔⴰⴽⵓⵛ,マラケシュ,马拉喀什",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2543231,
+    "name": "Madagh",
+    "alternatenames": "Madagh,Madarh",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2543394,
+    "name": "Ifrane",
+    "alternatenames": "Ifran,Ifrane,Lfrane,Ифран",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2543549,
+    "name": "Larache",
+    "alternatenames": "Al `Ara'ish,Al ‘Arā’īsh,Al-Araisz,El Aaraich,El Araish,Larache,Larasas,Larash,Larasha,Laraso,Laraxe,Laraŝo,Larašas,Larraix,Lavache,araishu,la la shen,la rach,lalasyu,Лараш,Лараша,לראצה,العرائش,عرائش,عرایش,ลารัช,アライシュ,拉臘什,라라슈",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2543667,
+    "name": "Lalla Mimouna",
+    "alternatenames": "Lal-la Mimuna,Lalla Mimouna,Lalla miouna-adachra",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544001,
+    "name": "Ksar El Kebir",
+    "alternatenames": "Alcazarquebir,Alcazarquivir,Alcazquivir,El Ksar El Kbir,El Ksar El Kebir,Ksar El Kebir",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544248,
+    "name": "Khouribga",
+    "alternatenames": "Khouribga,Khouribja,Kouriga,Kourigha,khrybkt,خريبكة",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544333,
+    "name": "Khenifra",
+    "alternatenames": "Chenifra,Chunajfira,Jenifra,Khenifra,Khénifra,Xnifra,hai ni fu la,khnyfrh,khnyfrt,Хенифра,خنيفرة,خنیفره,خنیفرہ,海尼夫拉",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544510,
+    "name": "Kerrouchen",
+    "alternatenames": "Kerrouchen,Kerrouchene",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544571,
+    "name": "Kenitra",
+    "alternatenames": "Al Qunaytirah,Al Qunayţirah,Al-Kunajtira,Kenitra,Kenitro,Khenifra,Kénitra,Lyautey,Mina Hassan Tani,NNA,Port Laoti,Port-Lyautey,Ville de Kenitra,alqnytrt,gai ni te la,keniteula,kenitora,qnytrh,Кенитра,Кенитра қаласы,Кенітра,אל-קניטרה,القنيطرة,قنیطره,კენიტრა,ケニトラ,蓋尼特拉,케니트라",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544720,
+    "name": "Kasba Tadla",
+    "alternatenames": "Kasba Tadla,Kasbah Tadla,Tadla",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544815,
+    "name": "Kariat Arkmane",
+    "alternatenames": "El Arba,El Arbaa,El Arbaa Soko,El Arbâa,Karia Arkeman,Karia d'Arkemane,Karia da Arkeman,Karia de Arkeman,Karia de Arkenan,Karia de Arkenán,Karia d’Arkemane,Karia-Arakmane-Afso,Kariat Arekmam,Kariat Arkmane,Kariat akmane,Kariet Arkmane,Soko el Arbaa,Souk-el-Arbaa,Souk-el-Arbâa,Zoco el Arbaa",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544821,
+    "name": "Karia Ba Mohamed",
+    "alternatenames": "Karia Ba Mohamed,Karia Ba Mohammed",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2544968,
+    "name": "Jorf",
+    "alternatenames": "Djorf,Jorf,Oulad Rhanem ej Jorf",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2545017,
+    "name": "Jerada",
+    "alternatenames": "Djerada,Dzherada,Jerada,Джерада",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2545346,
+    "name": "Itzer",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2545436,
+    "name": "Isseksi",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2545957,
+    "name": "Inezgane",
+    "alternatenames": "Imezgane,Inezgane,Insgane",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2546081,
+    "name": "Imider",
+    "alternatenames": "Imider,Imiter",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2546187,
+    "name": "Imilchil",
+    "alternatenames": "Assif-Melloul,Enilchil,Imilchil",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2546627,
+    "name": "Iguidi",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2546917,
+    "name": "Ifrane",
+    "alternatenames": "Ifran,Ifranas,Ifrane,afran,ipeulan,yi fu lan,Ифран,איפראן,إفران,افران,伊夫兰,이프란",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2547782,
+    "name": "Hassi Berkane",
+    "alternatenames": "Hasi Berkane,Hassi Berkane",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548313,
+    "name": "Zerkten",
+    "alternatenames": "Had Zerektene,Had-Zerekten,Zerekten,Zerektene,Zerkten",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548320,
+    "name": "Had Kourt",
+    "alternatenames": "El Had Kourt,Had Kourt,Had-Hourt,Had-Kurt",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548343,
+    "name": "Oulad Frej",
+    "alternatenames": "El Had,Had Oulad Frej,Had Ouled Frej Centre,Had des Oulad Frej,Oulad Frej,Souk el Had",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548420,
+    "name": "Guisser",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548489,
+    "name": "Guercif",
+    "alternatenames": "Garsif,Guercif",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548503,
+    "name": "Guenfouda",
+    "alternatenames": "Guenfouda,Guenfuda,Guennfouda",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548526,
+    "name": "Guelmim",
+    "alternatenames": "GLN,Gelmima,Gelmimas,Gelmīma,Goulimine,Guelmim,Gulimin,Kulmim,Kulmīm,gai lei min,gelmim,gerumin,gulimimi,klmym,nglmym,Гулимин,Гулимин қаласы,Гулімін,كلميم,کلمیم,ڭلميم,გულიმიმი,ゲルミン,蓋勒敏,겔밈",
+    "subcountry": "Guelmim-Oued Noun"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548623,
+    "name": "Goulmima",
+    "alternatenames": "Goulmima,Goulmina,Guelmina,Kulmima,Kulmīma,klmymt,كلميمة",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548713,
+    "name": "Galaz",
+    "alternatenames": "Galaz,Golaz",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548818,
+    "name": "Fnidek",
+    "alternatenames": "Castillejos,Fnidek,Fnideq,Fnides,Los Castillejos,Фнидек",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548830,
+    "name": "Al Fqih Ben Calah",
+    "alternatenames": "Al Fqih Ben Calah,Al Fqih Ben Çalah,Fkih Ben Salah,Fquih Ben Salah",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548851,
+    "name": "Figuig (Centre)",
+    "alternatenames": "Figuiq,Markaz Fikik,Markaz Fikīk,mrkz fkyk,مركز فكيك",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548855,
+    "name": "Fifi",
+    "alternatenames": "",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548869,
+    "name": "Fezna",
+    "alternatenames": "",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548880,
+    "name": "Fes al Bali",
+    "alternatenames": "Fes al Bali,Fes le Vieux,Fes-l'Ancien,Fès al Bali,Fès le Vieux,Fès-l’Ancien,Medina,Old Fes",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2548885,
+    "name": "Fes",
+    "alternatenames": "FEZ,Fes,Fez,Fès,fas,fezu,Фес,فاس,フェズ",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2549076,
+    "name": "Ezzhiliga",
+    "alternatenames": "",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2549263,
+    "name": "Essaouira",
+    "alternatenames": "Amegdul,As Suwayrah,As-Sawira,As-Sawíra,As-Shawirah,Aş Şuwayrah,ESU,Ehs-Suvejra,Ehssuehjra,Es Suira,Es-Suvejra,Esauira,Essaouira,Essauira,Magador,Medino de Esauiro,Medino de Esaŭiro,Mogadar,Mogador,Savira,Suira,Suvayr,Szavira,Szavíra,alswyrt,as-Sawira,as-Ṣawīra,el-suvaira,es'sa'ura,esau-ila,essauira,mwghadwr,mwkadwr,suo wei la,swyrh,Ес-Сувейра,Эс-Сувейра,Эссуэйра,אסואירה,الصويرة,صویره,صویرہ,موغادور,موكادور,एस्साउरा,ელ-სუვაირა,エッサウィラ,索维拉,에사우이라",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2549356,
+    "name": "Arfoud",
+    "alternatenames": "Arfoud,Ehrfud,Erfoud,Эрфуд",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2549750,
+    "name": "El Ksiba",
+    "alternatenames": "El Ksiba,Ksiba",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2549981,
+    "name": "Kelaat Mgouna",
+    "alternatenames": "El Kelaa,El Kelaa des Mgouna,Kelaat Mgouna,Kelaat Mguna,Qala'at Mgouna,Qala’at Mgouna,Келаат Мгуна",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2550078,
+    "name": "El Jadid",
+    "alternatenames": "Al Jadida,Al Yadida,Al-Djadida,Al-Dzadida,Al-Dżadida,Al-Džadída,Castilho Real,Dzadida,Džadida,Ehl'-Dzhadida,Ehl'-Dzhadzida,El Jadid,El Jadida,El-Jadida,El-Yadida,Mazagan,Mazagao,Mazaghan,Mazagão,Mazargan,aljdydh,aljdydt,el-jadida,ela jadida,eljadida,jie di dai,xælcha di da,Мазарґан,Эль-Джадзіда,Эль-Джадида,אל-גדידה,الجديدة,الجدیده,الجدیدہ,एल जदिदा,แอลฌาดีดา,ელ-ჯადიდა,アル・ジャディーダ,杰迪代,엘자디다",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2550252,
+    "name": "El Hajeb",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2550684,
+    "name": "Ouaoula",
+    "alternatenames": "Arba de Ouaouila,Arba-Ouaoula,El Arba Ouaoula,El Arba d'Aauala,El Arba d’Aauala,Ouaoula",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2550806,
+    "name": "El Aioun",
+    "alternatenames": "Aioun Sidi Mellouk,Al 'Youn,Al ’Youn,El Aioun,El Aioun Sidi Mellouk,El Aïoun,El Aïoun Sidi Mellouk",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2550898,
+    "name": "Imzouren",
+    "alternatenames": "Ain Zoren,Amzourhen-Khemis-Mrabten,Amzourhèn-Khémis-Mrabtèn,Aïn Zorèn,Eimoren,Einzoren,Einzorene,Imsouren,Imzouren,Imzourene,Imzoûrene,Izourene",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552306,
+    "name": "Derdara",
+    "alternatenames": "Dardara,Derdara",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552317,
+    "name": "Demnate",
+    "alternatenames": "Demnat,Demnate,Demnot",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552407,
+    "name": "Debdou",
+    "alternatenames": "Dabdou,Debdau,Debdou,Debdu,Debdú,Dubdu,dbdw,דבדו,دبدو",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552531,
+    "name": "Riah",
+    "alternatenames": "Dar Riah,Douar Riah,Riah",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552545,
+    "name": "Dar Ould Zidouh",
+    "alternatenames": "Dar Oulad Zidouh,Dar Ould Zidouh,Dar-Oould-Zidouh",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552615,
+    "name": "Dar Bouazza",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2552886,
+    "name": "Dar Chaoui",
+    "alternatenames": "Dar Chaoui,Dar Chaui,Dar Xaui,Dar ech Chaui,Der Xaui,Xauia",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2553303,
+    "name": "Chichaoua",
+    "alternatenames": "Chichaoua,Chichaua,Mzala Chichaoua",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2553455,
+    "name": "Chefchaouen",
+    "alternatenames": "Chaouen,Chaouèn,Chauen,Chechaouen,Chechaouene,Chechaouèn,Chefchaouen,Chefchaouene,Chichaouene,Ech Chaouene,Scheschauen,Shefshauen,Ville de Chechaouen,Ville de Chechaouèn,Xauen,Xexauen,shfshawn,Шефшауен,شفشاون",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2553604,
+    "name": "Casablanca",
+    "alternatenames": "Ad Dar al Bayda,Ad Dar al Bayda',Ad Dār al Bayḑā’,Anafi,Anfa,CMN,Casa Branca,Casablanca,Casabranca,Dar-el-Beida,Dar-uel-Beyda,Darul Baidha,Dâr-ül-Beydâ,Ed Dar el Baida,Ed Dār el Baida,Kasablank,Kasablanka,Kasablankae,Kazablanka,Kazablanko,Kazamplan'ka,Tigemmi Tamellalt,White House,ad-Dar al-Baydaʼ,ad-Dar al-baydaʾ,ad-Dār al-Bayḍāʼ,ad-Dār al-bayḍāʾ,aldar albydaʾ,anfa,dar albydaʾ,daralbyda,ka sa bu lan ka,ka sab l xng ka,kacapilanka,kasabalanka,kasabeullangka,kasablanka,kasaburanka,kazablanka,qzblnqh,Καζαμπλάνκα,Казабланка,Касабланкæ,Касабланка,Կասաբլանկա,קזבלנקה,أنفا,الدار البيضاء,دار البیضاء,دارالبیضا,كازابلانكا,کازابلانکا,کاسابلانکا,कासाब्लांका,কাসাব্লাংকা,ਕਾਸਾਬਲਾਂਕਾ,காசாபிளாங்கா,కాసాబ్లాంకా,ಕಾಸಾಬ್ಲಾಂಕಾ,കാസബ്ലങ്ക,กาซาบล็องกา,ກາຊາບັງກາ,ကာဆာဘလန်ကာမြို့,კასაბლანკა,ⴰⵏⴼⴰ,カサブランカ,卡萨布兰卡,카사블랑카",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2553654,
+    "name": "Bzou",
+    "alternatenames": "Bezou,Bzou,Bzou Aghbalou",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2553694,
+    "name": "Brikcha",
+    "alternatenames": "Brickcha,Brikcha,Douar Brikcha",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2553751,
+    "name": "Bouznika",
+    "alternatenames": "Bouzhika,Bouznika,Bouzniqa,Buznike,Kasba bou Znika,Бузнике",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2554006,
+    "name": "Bouskoura",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2554281,
+    "name": "Boumia",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2554389,
+    "name": "Boulemane",
+    "alternatenames": "Boulemane,Boulmane",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2554409,
+    "name": "Boulaouane",
+    "alternatenames": "Boulaouane,Guaouar Boulaouane,Kasba Bou Laouane,Kasha Bou Laouane",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2554997,
+    "name": "Boudinar",
+    "alternatenames": "Ain Boudinar,Boudinar,Budinar",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2555157,
+    "name": "Bouarfa",
+    "alternatenames": "Bordj de Bou Arfa,Bou Arfa,Bouafra,Buarfa,UAR",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2555262,
+    "name": "Bouabout",
+    "alternatenames": "Bouabout,Bouaboute",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2555372,
+    "name": "Bigoudine",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2555395,
+    "name": "Bhalil",
+    "alternatenames": "Bahlil,Behalil,Bhalil",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2555467,
+    "name": "Berkane",
+    "alternatenames": "Berkan,Berkane,Berkawe,Berkán,Birkani,bai er kan,brkan,Беркан,بركان,برکان,拜爾坎",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2555745,
+    "name": "Beni Mellal",
+    "alternatenames": "Ayt Mellal,BEM,Bani Mallal,Beni Melal,Beni Melalis,Beni Mellal,Beni-Mellal,Beni-Mellal',Beni-Mellal-Centre,Béni Mellal,Béni-Mellal,bei ni mai la lei,benimellal,bny mlal,bny mll,Бени-Меллаль,בני מלל,بني ملال,بنی ملال,بنی‌ملال,貝尼邁拉勒,베니멜랄",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556272,
+    "name": "Berrechid",
+    "alternatenames": "Barrechid,Berrechid,Bev-rechid",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556377,
+    "name": "Bab Taza",
+    "alternatenames": "Bab Tasa,Bab Taza,Bab Tazza",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556464,
+    "name": "Azrou",
+    "alternatenames": "Azrou,Azru,Azrú,ai zi lu,azrw,Азру,أزرو,ازرو,艾茲魯",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556570,
+    "name": "Azilal",
+    "alternatenames": "Arilal,Asila,Asilal,Azilal",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556629,
+    "name": "Azgour",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556657,
+    "name": "Azemmour",
+    "alternatenames": "Azamor,Azemmour,Azimur,Azzegour",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556835,
+    "name": "Assoul",
+    "alternatenames": "Assoul,Assoul Ksar",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2556991,
+    "name": "Assads",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557055,
+    "name": "Asilah",
+    "alternatenames": "Arcila,Arcilas,Arsila,Arzila,Arzilah,Arzīlah,Asila,Asilah,Asilakh,Assila,Assilah,Augusta Zilil,Aṣīla,Colonia Augusti Iulia Constantia Zilil,Ville d'Arcila,Ville d’Arcila,ashira,asilla,asylh,asylt,sylt,Асила,Асилах,أصيلة,اصیله,صيلة,アシラー,아실라",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557347,
+    "name": "Argana",
+    "alternatenames": "Agana,Argana",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557391,
+    "name": "Arbaoua",
+    "alternatenames": "Arbaoua,Arbaua",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557415,
+    "name": "Arazane",
+    "alternatenames": "Arazane,Arazene",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557500,
+    "name": "Aourir",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557533,
+    "name": "Aoulouz",
+    "alternatenames": "Aoulouz,Dar Caid,Dar Caïd",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557595,
+    "name": "Aoufous",
+    "alternatenames": "Aoufous,Aoufouss,Centre d'Aoufous,Centre d’Aoufous",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2557995,
+    "name": "Amouguer",
+    "alternatenames": "Amouguear,Amouguer",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558052,
+    "name": "Amizmiz",
+    "alternatenames": "Amimiz,Amismiz,Amizmiz",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558118,
+    "name": "Amerzgane",
+    "alternatenames": "Amarzgane,Amerzgane,Anergane",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558122,
+    "name": "Amersid",
+    "alternatenames": "",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558337,
+    "name": "Amalou",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558398,
+    "name": "Alnif",
+    "alternatenames": "",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558415,
+    "name": "Almis Marmoucha",
+    "alternatenames": "Almis Marmoucha,Almis de Marmucha,Almis des Marmoucha,Mermoucha-Centre",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558470,
+    "name": "Khemisset",
+    "alternatenames": "Al Khmissat,Khemisset,Kimisset",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558545,
+    "name": "Al Hoceima",
+    "alternatenames": "AHU,Al Hoceima,Al Hoceïma,Al Huceima,Al Husaymat,Al Ḩusaymāt,Al-Hoceima,Al-Husajma,Alhacemas,Alhucemas,Villa Alhucemas,Villa Sanjurjo,alhsymt,hsymh,الحسيمة,حسیمه",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558633,
+    "name": "Aknoul",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2558768,
+    "name": "Ajdir",
+    "alternatenames": "",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2559366,
+    "name": "Anergui",
+    "alternatenames": "Ait Ouanergui,Anergui,Aït Ouanergui",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2560813,
+    "name": "Ain Leuh",
+    "alternatenames": "Ain Leuh,Ajn Ljokh,Aïn Leuh,Айн Лёх",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2560922,
+    "name": "Ain Beni Mathar",
+    "alternatenames": "Ain Beni Mathar,Ajn Bni Matar,Aïn Beni Mathar,Beni Mattar Ahel Ras-el-Ain,Berguent,Ras el Ain des Beni Mathar,Ras el Aïn des Beni Mathar,Айн Бни Матар",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561124,
+    "name": "Ahfir",
+    "alternatenames": "Ahfir,Martimprey du Kiss",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561290,
+    "name": "Aguelmous",
+    "alternatenames": "Aguelmous,Aguelmouss",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561539,
+    "name": "Agdz",
+    "alternatenames": "Agdz,Agoz,Ksar Agdz",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561614,
+    "name": "Agadir Melloul",
+    "alternatenames": "Agadir Jdid,Agadir Melloul",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561668,
+    "name": "Agadir",
+    "alternatenames": "AGA,Agadair,Agadir,Agadir - akadyr,Agadir - اكادير,Agadir Ighir,Agadiras,Agádír,Ankantir,Irhir,Santa Cruz,a jia di er,agadileu,agadira,agadiru,agadyr,aghadyr,akadyr,aݣadyr,Αγκαντίρ,Агадир,Агадір,אגאדיר,أغادير,أكادير,أگادیر,أݣادير,اغادیر,اگادیر,अगादिर,アガディール,阿加迪尔,아가디르",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561957,
+    "name": "Adassil",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2561978,
+    "name": "Adar",
+    "alternatenames": "Adar,Addar",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2562055,
+    "name": "Skhirate",
+    "alternatenames": "Ac Ckhirat,Aç Çkhirat,Kasba Skira,Minaret de Skhirat,Skhirat,Skhirate",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2562202,
+    "name": "Abadou",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2565241,
+    "name": "Mellila",
+    "alternatenames": "",
+    "subcountry": "Casablanca-Settat"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2565258,
+    "name": "Tidili Mesfioua",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2565267,
+    "name": "Mhamid",
+    "alternatenames": "Mhamid,Mkhamid,Мхамид",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2568012,
+    "name": "Taghazout",
+    "alternatenames": "Taghazout,Tarhazoute",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2568400,
+    "name": "Tamri",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2569052,
+    "name": "Smimou",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2571059,
+    "name": "Tizgane",
+    "alternatenames": "",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2571909,
+    "name": "Bouarouss",
+    "alternatenames": "Bou Arous,Bouarouss",
+    "subcountry": "Fès-Meknès"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2571932,
+    "name": "Azla",
+    "alternatenames": "",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2572146,
+    "name": "Boukhalef",
+    "alternatenames": "Boukhalef,Tanger Boukhalef",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 2596325,
+    "name": "Jebel Tiskaouine",
+    "alternatenames": "",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 6546693,
+    "name": "Boujniba",
+    "alternatenames": "Boujniba,Boujniba (Commune Urbaine),Boujniba (MU),ابي الجعد (البلدية)",
+    "subcountry": "Béni Mellal-Khénifra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 7280528,
+    "name": "Errachidia",
+    "alternatenames": "Al-Rashidiyya,Ar-Raszidijja,ERH,Ehr-Rashidija,Er Rachidia,Er-Rachidia,Er-Rachidía,Errachidia,Imtɣeren,Ksar es-Souk,Rachidia,Rasidija,Rašidija,Rāšīdīja,alrshydyt,alrshydyt‎,ar-Rachidiya,ar-Rachīdīya,la xi di ye,Эр-Рашидия,א-רשידיה,الرشيدية,الرشيدية‎,الرشیدیہ,拉希迪耶",
+    "subcountry": "Drâa-Tafilalet"
+  },
+  {
+    "country": "MA",
+    "geonameid": 8504942,
+    "name": "Sidi Abdallah Ghiat",
+    "alternatenames": "",
+    "subcountry": "Marrakesh-Safi"
+  },
+  {
+    "country": "MA",
+    "geonameid": 8542188,
+    "name": "Dakhla",
+    "alternatenames": "Dajla,Dakhla,Villa Cisneros,aldakhlt‎,الداخلة‎",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 8739768,
+    "name": "Mosquee",
+    "alternatenames": "",
+    "subcountry": "Oriental"
+  },
+  {
+    "country": "MA",
+    "geonameid": 9645312,
+    "name": "Akhfennir",
+    "alternatenames": "",
+    "subcountry": "Laâyoune-Sakia El Hamra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 9645313,
+    "name": "Gueltat Zemmour",
+    "alternatenames": "",
+    "subcountry": "Laâyoune-Sakia El Hamra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 10916940,
+    "name": "Zawit Al Bour",
+    "alternatenames": "",
+    "subcountry": "Souss-Massa"
+  },
+  {
+    "country": "MA",
+    "geonameid": 10920963,
+    "name": "Sale Al Jadida",
+    "alternatenames": "",
+    "subcountry": "Rabat-Salé-Kénitra"
+  },
+  {
+    "country": "MA",
+    "geonameid": 10955770,
+    "name": "Cap Negro II",
+    "alternatenames": "Cabo Negro,Cap Negro II,Kabo Negro,Кабо Негро",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 10958491,
+    "name": "Bni Bouayach",
+    "alternatenames": "Bni Bojazh,Bni Bouayach,Бни Бояж",
+    "subcountry": "Tanger-Tetouan-Al Hoceima"
+  },
+  {
+    "country": "MA",
+    "geonameid": 11071896,
+    "name": "Imlili",
+    "alternatenames": "amlyly,إمليلي,امليلي",
+    "subcountry": "Dakhla-Oued Ed-Dahab"
+  }
+]

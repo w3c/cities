@@ -1,0 +1,5763 @@
+[
+  {
+    "country": "PT",
+    "geonameid": 2261486,
+    "name": "Zambujeira do Mar",
+    "alternatenames": "Zambujeira do Mar",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261572,
+    "name": "Vimeiro",
+    "alternatenames": "Vimeiro,Vimieiro",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261577,
+    "name": "Vila Vicosa",
+    "alternatenames": "Vila Vicosa,Vila Viçosa",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261582,
+    "name": "Vila Verde",
+    "alternatenames": "Vila Verde,Vila Verde dos Francos",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261584,
+    "name": "Vila Velha de Rodao",
+    "alternatenames": "Rodao,Vila Velha de Rodam",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261598,
+    "name": "Vila Real de Santo Antonio",
+    "alternatenames": "Bila Real nte Santo Antonio,Vila Real de San Antonio,Vila Real de San António,Vila Real de Santo Antonio,Vila Real de Santo António,Βίλα Ρεάλ ντε Σάντο Αντόνιο",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261617,
+    "name": "Vila Nova de Milfontes",
+    "alternatenames": "Vila Nova de Milfontes",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261620,
+    "name": "Vila Nova da Barquinha",
+    "alternatenames": "Barquinha,Vila Nova da Barquinha",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261639,
+    "name": "Vila Franca de Xira",
+    "alternatenames": "Vila Franca de Xira",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261643,
+    "name": "Vila Flor",
+    "alternatenames": "Vila Flor",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261648,
+    "name": "Vila do Bispo",
+    "alternatenames": "Vila do Bispo,Vila-du-Bishpu,Villa do Bispo,Вила-ду-Бишпу",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261649,
+    "name": "Vila de Rei",
+    "alternatenames": "Vila de Rei,Vila do Rei",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261654,
+    "name": "Vila Cha de Ourique",
+    "alternatenames": "Vila Cha de Ourique,Vila Chã de Ourique",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261658,
+    "name": "Vila Baleira",
+    "alternatenames": "Vila de Porto Santo",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261673,
+    "name": "Vieira de Leiria",
+    "alternatenames": "Vieira,Vieira de Leiria",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261675,
+    "name": "Vidigueira",
+    "alternatenames": "Vidigueira",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261687,
+    "name": "Vidais",
+    "alternatenames": "Vidaes,Vidais",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261694,
+    "name": "Viana do Alentejo",
+    "alternatenames": "Viana do Alentejo",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261697,
+    "name": "Vialonga",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261698,
+    "name": "Vestiaria",
+    "alternatenames": "Vestiaria",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261732,
+    "name": "Ventosa",
+    "alternatenames": "Ventosa",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261740,
+    "name": "Vendas Novas",
+    "alternatenames": "Vendas Novas",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2261760,
+    "name": "Venda do Pinheiro",
+    "alternatenames": "Venda do Pinheiro",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262092,
+    "name": "Vale de Santarem",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262189,
+    "name": "Vale de Figueira",
+    "alternatenames": "Vale de Figueira",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262373,
+    "name": "Vale da Amoreira",
+    "alternatenames": "Vale da Amoreira",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262432,
+    "name": "Valado de Frades",
+    "alternatenames": "Valado,Valado de Frades,Valado dos Frades",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262461,
+    "name": "Urra",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262465,
+    "name": "Unhos",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262478,
+    "name": "Turquel",
+    "alternatenames": "Turquel",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262481,
+    "name": "Tunes",
+    "alternatenames": "Tunes",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262540,
+    "name": "Tramagal",
+    "alternatenames": "Tramagal",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262544,
+    "name": "Trafaria",
+    "alternatenames": "Trafaria",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262581,
+    "name": "Torres Vedras",
+    "alternatenames": "Lapangan Terbang Santa Cruz,Tores Vedrasas,Torres Vedras,Torresh,Torresh-Vedrash,Torrish-Vedrash,Turres Veteres,tuo lei si wei de la shen,twrs wdras,Торреш,Торреш-Ведраш,Торриш-Ведраш,تورس ودراس,ტორეშ-ვედრაში,托雷斯韋德拉什",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262582,
+    "name": "Torres Novas",
+    "alternatenames": "Torres Novas",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262644,
+    "name": "Tomar",
+    "alternatenames": "Sellium,Tomar,tomara,tomaru,tuo ma er,twmar,twmʼr,tʼomari,Томар,טומאר,تومار,तोमर,ტომარი,トマール,托馬爾",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262687,
+    "name": "Terrugem",
+    "alternatenames": "Terrugem",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262744,
+    "name": "Tavira",
+    "alternatenames": "Tabira,Tavira,Tavira Municipality,ta wei la,tavuira,tawyra,Ταβίρα,Тавира,Тавіра,تاویرا,ტავირა,タヴィラ,塔維拉",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262815,
+    "name": "Souto da Carpalhosa",
+    "alternatenames": "Souto,Souto da Carpalhosa",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262865,
+    "name": "Sobreda",
+    "alternatenames": "Sobreda",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262867,
+    "name": "Sobralinho",
+    "alternatenames": "Sobralinho",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262871,
+    "name": "Sobral de Monte Agraco",
+    "alternatenames": "Sobral,Sobral de Monte Agraco,Sobral de Monte Agraço",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262912,
+    "name": "Sintra",
+    "alternatenames": "Cintra,Sintra,shintora,sing tra,sinteula,sintʼra,siൻtra,syntra,syntrh,xin te la,Σίντρα,Синтра,Сінтра,Սինտրա,סינטרה,سينترا,سینترا,സിൻട്ര,ซิงตรา,სინტრა,シントラ,辛特拉,신트라",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262917,
+    "name": "Sines",
+    "alternatenames": "SIE,Sines,Sines Municipality,Sinesh,Sinish,sayns  prtghal,shinesu,sinesi,xi ni shen,Синес,Синиш,Сінеш,ساینس، پرتغال,სინესი,シーネス,锡尼什",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262926,
+    "name": "Silves",
+    "alternatenames": "Cilpes,Shilb,Silves",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262944,
+    "name": "Silveira",
+    "alternatenames": "Silveira",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262957,
+    "name": "Sesimbra",
+    "alternatenames": "Cezimbra,Sesimbra,Сесимбра",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262963,
+    "name": "Setubal",
+    "alternatenames": "Caetobriga,Setoumpal,Setubal,Setubala,Setubalis,Setúbal,sai tu ba er,setoubaru,setubal,stwbal,stwbl,sux tu bal,sytwbal,Σετούμπαλ,Сетубал,סטובל,ستوبال,سيتوبال,سیتوبال,ซือตูบัล,სეტუბალი,ሴቱባል,セトゥーバル,塞图巴尔,세투발",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2262987,
+    "name": "Serta",
+    "alternatenames": "Serta,Sertã",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263025,
+    "name": "Serra de El-Rei",
+    "alternatenames": "Serra d'Elrei,Serra de El-Rei,Serra d’Elrei",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263049,
+    "name": "Serpa",
+    "alternatenames": "Serpa,Серпа",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263071,
+    "name": "Senhora da Luz",
+    "alternatenames": "Luz,Senhora da Luz",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263115,
+    "name": "Seixal",
+    "alternatenames": "Seixal",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263166,
+    "name": "Sarilhos Pequenos",
+    "alternatenames": "Sarilhos Pequenos",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263172,
+    "name": "Sardoal",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263190,
+    "name": "Sao Vicente do Paul",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263197,
+    "name": "Sao Vicente",
+    "alternatenames": "San-Visente,San-Visenti,Sao Vicente,São Vicente,sheng wei sen te,Сан-Висенте,Сан-Висенти,Сан-Вісенте,聖維森特",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263207,
+    "name": "Sao Teotonio",
+    "alternatenames": "San Teotonio,San Teotónio,Sao Teotonio,Sao Theotonio,São Teotónio,São Theotonio",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263228,
+    "name": "Sao Roque",
+    "alternatenames": "Sao Roque,São Roque",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263245,
+    "name": "Sao Pedro da Cadeira",
+    "alternatenames": "Sao Pedro da Cadeira,São Pedro da Cadeira",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263262,
+    "name": "Sao Miguel de Rio Torto",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263275,
+    "name": "Sao Martinho do Porto",
+    "alternatenames": "Sao Martinho,Sao Martinho de Porto,Sao Martinho do Porto,São Martinho,São Martinho de Porto,São Martinho do Porto",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263284,
+    "name": "Sao Martinho",
+    "alternatenames": "Sao Martinho,São Martinho",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263286,
+    "name": "Sao Marcos da Serra",
+    "alternatenames": "Sao Marcos da Serra,São Marcos da Serra",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263298,
+    "name": "Sao Luis",
+    "alternatenames": "Sao Luis,Sao Luiz,São Luis,São Luiz",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263311,
+    "name": "Sao Juliao",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263320,
+    "name": "Sao Jorge",
+    "alternatenames": "Sao Jorge,São Jorge",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263322,
+    "name": "Sao Joao dos Montes",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263326,
+    "name": "Sao Joao da Talha",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263327,
+    "name": "Sao Joao das Lampas",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263352,
+    "name": "Sao Domingos de Rana",
+    "alternatenames": "Domingos De Rana,Sao Domingos,Sao Domingos de Rana,São Domingos,São Domingos de Rana",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263377,
+    "name": "Sao Bras de Alportel",
+    "alternatenames": "Alportel,San-Brash-de-Alportel,San-Brash-di-Alportel,Sao Bras de Alportel,Sao Braz,Sao Braz d'Alportel,Sao Braz de Aportel,São Braz,São Braz de Aportel,São Braz d’Alportel,São Brás de Alportel,sheng bu la shen di a er bo te er,Сан-Браш-де-Алпортел,Сан-Браш-ди-Алпортел,聖布拉什迪阿爾波特爾",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263393,
+    "name": "Sao Bartolomeu de Messines",
+    "alternatenames": "Messines,Sao Bartolomeo de Messines,Sao Bartolomeu de Messines,São Bartolomeo de Messines,São Bartolomeu de Messines",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263401,
+    "name": "Sao Bartolomeu",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263426,
+    "name": "Santo Antonio da Charneca",
+    "alternatenames": "Santo Antonio da Charneca,Santo António da Charneca",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263434,
+    "name": "Santo Antao do Tojal",
+    "alternatenames": "Santo Antao,Santo Antao de Tojal,Santo Antao do Tojal,Santo Antão,Santo Antão de Tojal,Santo Antão do Tojal",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263438,
+    "name": "Santo Andre",
+    "alternatenames": "Santo Andre,Santo André",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263439,
+    "name": "Santo Andre",
+    "alternatenames": "Santo Andre (Setubal),Santo André (Setúbal)",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263458,
+    "name": "Santiago do Cacem",
+    "alternatenames": "Santiago do Cacem,Santiago do Cacém,Sao Tiago de Cacem,Sao Tiago do Cacem,São Tiago de Caçem,São Tiago do Cacém",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263480,
+    "name": "Santarem",
+    "alternatenames": "Santarem,Santaren,Santarém,Scalabis,Σανταρέμ,Сантарен",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263491,
+    "name": "Santana",
+    "alternatenames": "Santana,Сантана",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263508,
+    "name": "Santa Margarida da Coutada",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263518,
+    "name": "Santa Luzia",
+    "alternatenames": "Santa Luzia",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263523,
+    "name": "Santa Iria da Azoia",
+    "alternatenames": "Santa Iria,Santa Iria da Azoia,Santa Iria da Azóia,Santa Iria de Azoia",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263540,
+    "name": "Santa Cruz",
+    "alternatenames": "Santa Cruz,Santa Cruz (Madeira),Santa Krouz,Santa-Krush,Santa-Kruzh,santa krwz  madyra,santakeuluseu,sheng ke lu si,Σάντα Κρουζ,Санта-Круж,Санта-Круш,سانتا کروز، مادیرا,სანტა-კრუში,聖克魯斯,산타크루스",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263547,
+    "name": "Santa Catarina da Serra",
+    "alternatenames": "Santa Catarina,Santa Catarina da Serra,Santa Catharina,Santa Catharina da Serra",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263558,
+    "name": "Santa Barbara de Nexe",
+    "alternatenames": "Santa Barbara de Nexe,Santa Bárbara de Nexe",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263584,
+    "name": "Samouco",
+    "alternatenames": "Samouco",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263586,
+    "name": "Samora Correia",
+    "alternatenames": "Samora Correia",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263596,
+    "name": "Salvaterra de Magos",
+    "alternatenames": "Salvaterra de Magos",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263600,
+    "name": "Salvada",
+    "alternatenames": "Salvada",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263609,
+    "name": "Salir de Matos",
+    "alternatenames": "Salir de Matos,Salir dos Matos",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263650,
+    "name": "Sagres",
+    "alternatenames": "Sagres,Sagresh,Сагреш",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263667,
+    "name": "Sacavem",
+    "alternatenames": "Sacaben,Sacabis,Sacabén,Sakavain,Sakavem,Sakaven,Sakaven',Sakavena,Sakavenas,sa ka wen,sakavuen,sakawm,shqban,Σακαβέμ,Сакавен,Сакавень,ساکاوم,شقبان,საკავენი,サカヴェン,萨卡文",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263732,
+    "name": "Rosairinho",
+    "alternatenames": "Rosairinho,Rosario,Rosário",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263823,
+    "name": "Rio Maior",
+    "alternatenames": "Rio Maior",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263827,
+    "name": "Rio de Mouro",
+    "alternatenames": "Rio de Mouro",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263905,
+    "name": "Ribeira Brava",
+    "alternatenames": "Ribeira Brava,Ribeira Mpraba,Ριβέιρα Μπράβα",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263923,
+    "name": "Riachos",
+    "alternatenames": "Riachos",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263974,
+    "name": "Reguengos de Monsaraz",
+    "alternatenames": "Reguengos,Reguengos de Monsaraz",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2263982,
+    "name": "Reguengo",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264009,
+    "name": "Redondo",
+    "alternatenames": "Redondo",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264087,
+    "name": "Ramada",
+    "alternatenames": "Ramada",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264169,
+    "name": "Quinta do Anjo",
+    "alternatenames": "Quinta da Anjo,Quinta do Anjo",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264268,
+    "name": "Queluz",
+    "alternatenames": "Kelush,Queluz,Келуш",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264270,
+    "name": "Queijas",
+    "alternatenames": "Queijas",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264299,
+    "name": "Quarteira",
+    "alternatenames": "Quarteira",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264314,
+    "name": "Proenca-a-Nova",
+    "alternatenames": "Proenca-a-Nova,Proença-a-Nova",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264330,
+    "name": "Praia do Ribatejo",
+    "alternatenames": "Praia do Ribatejo,Praja-du-Ribatezhu,Прайа-ду-Рибатежу,Прая-ду-Рибатежу",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264341,
+    "name": "Pragal",
+    "alternatenames": "Pragal",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264351,
+    "name": "Povoa e Meadas",
+    "alternatenames": "Nossa Senhora da Graca de Povoa e Meadas,Nossa Senhora da Graça de Póvoa e Meadas",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264357,
+    "name": "Povoa de Santo Adriao",
+    "alternatenames": "Povoa de Santo Adriao,Póvoa de Santo Adrião",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264359,
+    "name": "Povoa de Santa Iria",
+    "alternatenames": "Povoa,Povoa Santa Iria,Povoa de Martinho,Povoa de Santa Iria,Povoa do Tojal,Povua-de-Santa-Irija,Póvoa,Póvoa Santa Iria,Póvoa de Santa Iria,Póvoa do Tojal,Повуа-де-Санта-Ирия",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264403,
+    "name": "Porto Salvo",
+    "alternatenames": "Porto Salvo",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264412,
+    "name": "Porto Moniz",
+    "alternatenames": "Porto Moniz,Porto do Moniz,Portu-Monish,Pôrto do Moniz,Порту-Мониш",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264427,
+    "name": "Porto de Mos",
+    "alternatenames": "Porto de Mos,Porto de Mós",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264440,
+    "name": "Porto da Cruz",
+    "alternatenames": "Porto da Cruz",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264442,
+    "name": "Porto Covo",
+    "alternatenames": "Portu-Kovu,Порту-Кову",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264456,
+    "name": "Portimao",
+    "alternatenames": "PRM,Portiman,Portimao,Portimão,Vila Nova de Portimao,Vila Nova de Portimão,Портиман",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264503,
+    "name": "Portel",
+    "alternatenames": "Portel,Porteles Joao Baptista,Porteles João Baptista",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264508,
+    "name": "Portalegre",
+    "alternatenames": "Portalegre,bwrtalyghry,bwrtalyjry,prtalgrh,pwrtalygrے,Порталегре,بورتاليجري,بورتاليغري,پرتالگره,پورتالیگرے",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264519,
+    "name": "Porches",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264526,
+    "name": "Pontinha",
+    "alternatenames": "Pontinha",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264527,
+    "name": "Pontevel",
+    "alternatenames": "Pontevel,Pontével",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264538,
+    "name": "Ponte de Sor",
+    "alternatenames": "Ponte de Sor,Ponte de Sôr",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264557,
+    "name": "Ponta do Sol",
+    "alternatenames": "Ponta do Sol,Ponta nto Sol,Πόντα ντο Σολ",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264575,
+    "name": "Pombal",
+    "alternatenames": "Pombal,Помбал",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264644,
+    "name": "Poceirao",
+    "alternatenames": "Poceirao,Poceirão",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264691,
+    "name": "Pinheiro Grande",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264718,
+    "name": "Pinhal Novo",
+    "alternatenames": "Pinhal Novo",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264736,
+    "name": "Piedade",
+    "alternatenames": "Cova da Piedade,Piedade",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264811,
+    "name": "Pero Pinheiro",
+    "alternatenames": "Pero Pinheiro",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264900,
+    "name": "Pera",
+    "alternatenames": "Pera,Pêra",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264923,
+    "name": "Peniche",
+    "alternatenames": "Peniche",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264933,
+    "name": "Penedo Gordo",
+    "alternatenames": "",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2264988,
+    "name": "Pego",
+    "alternatenames": "Pego",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265000,
+    "name": "Pedrogao Grande",
+    "alternatenames": "Pedrogao,Pedrogao Grande,Pedrogao-o-Grande,Pedrogão,Pedrógão Grande,Pedrógão-o-Grande",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265120,
+    "name": "Pataias",
+    "alternatenames": "Pataias",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265169,
+    "name": "Parede",
+    "alternatenames": "Parede",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265180,
+    "name": "Parchal",
+    "alternatenames": "Parchal,Parshal,Паршал",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265223,
+    "name": "Palmela",
+    "alternatenames": "Palmela",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265300,
+    "name": "Paialvo",
+    "alternatenames": "Paialvo",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265315,
+    "name": "Paderne",
+    "alternatenames": "Paderne",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265326,
+    "name": "Paco de Arcos",
+    "alternatenames": "Paco d'Arcos,Paço d'Arcos",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265386,
+    "name": "Ourique",
+    "alternatenames": "Ourique",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265388,
+    "name": "Ourem",
+    "alternatenames": "Ourem,Ourém",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265394,
+    "name": "Ota",
+    "alternatenames": "Ota,Otta",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265422,
+    "name": "Olival Basto",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265432,
+    "name": "Olivais",
+    "alternatenames": "Olivaes,Olivais,Santa Maria dos Olivais,Santa-Marija-dush-Olivajsh,Santa-Marija-duz-Olivajsh,Санта-Мария-дуз-Оливайш,Санта-Мария-душ-Оливайш",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265434,
+    "name": "Olhos de Agua",
+    "alternatenames": "Olhos d'Agua",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265437,
+    "name": "Olho Marinho",
+    "alternatenames": "Olho Marinho",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265447,
+    "name": "Olhao",
+    "alternatenames": "Olhao,Olhão",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265450,
+    "name": "Oleiros",
+    "alternatenames": "Oleiros",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265464,
+    "name": "Oeiras",
+    "alternatenames": "Oeiras",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265467,
+    "name": "Odivelas",
+    "alternatenames": "Odivelas,awdywlas,اودیولاس",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265472,
+    "name": "Odemira",
+    "alternatenames": "",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265485,
+    "name": "Obidos",
+    "alternatenames": "Obidos,Obidush,Ompidos,ao bi du shen,obiduseu,xxbi duch,Óbidos,ʼwbydws,Όμπιδος,Обидуш,Обідуш,אובידוש,ออบีดุช,奧比杜什,오비두스",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265494,
+    "name": "Nossa Senhora do Monte",
+    "alternatenames": "Monte,Nossa Senhora do Monte,Монте",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265525,
+    "name": "Nisa",
+    "alternatenames": "Nisa,Niza",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265537,
+    "name": "Neves",
+    "alternatenames": "",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265552,
+    "name": "Nazare",
+    "alternatenames": "Nazare,Nazaré,na zha lei,najale,nazare,Ναζαρέ,Назаре,ナザレ,納扎雷,나자레",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265591,
+    "name": "Nadadouro",
+    "alternatenames": "Nadadouro",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265680,
+    "name": "Mourao",
+    "alternatenames": "Mourao,Mourão",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265686,
+    "name": "Moura",
+    "alternatenames": "Mora,Moura,mo la,mora,Мора,Моура,მორა,莫拉",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265726,
+    "name": "Moscavide e Portela",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265762,
+    "name": "Mora",
+    "alternatenames": "Amora,Mora",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265788,
+    "name": "Montijo",
+    "alternatenames": "Montijo,Montikho,Монтихо",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265841,
+    "name": "Monte Redondo",
+    "alternatenames": "Monte Redondo",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265844,
+    "name": "Monte Real",
+    "alternatenames": "Monte Real",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265888,
+    "name": "Montemor-o-Novo",
+    "alternatenames": "Montemor-o-Novo",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265914,
+    "name": "Monte Gordo",
+    "alternatenames": "Monte Gorde,Monte Gordo",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2265927,
+    "name": "Monte Estoril",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266234,
+    "name": "Montargil",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266235,
+    "name": "Montalvo",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266240,
+    "name": "Montalvinho",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266249,
+    "name": "Monsanto",
+    "alternatenames": "Monsanto,Монсанто",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266259,
+    "name": "Monforte",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266268,
+    "name": "Monchique",
+    "alternatenames": "Monchique",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266272,
+    "name": "Moncarapacho",
+    "alternatenames": "Moncarapacho",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266298,
+    "name": "Moita dos Ferreiros",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266319,
+    "name": "Moita",
+    "alternatenames": "Moita",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266380,
+    "name": "Mira",
+    "alternatenames": "Mira,Mira d'Aire,Mira d’Aire",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266388,
+    "name": "Minde",
+    "alternatenames": "Mind,Minde",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266389,
+    "name": "Minas de Sao Domingos",
+    "alternatenames": "Mina de Sao Domingos,Mina de São Domingos,Minas de Sao Domingos,Minas de São Domingos,Sao Domingos,São Domingos",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266411,
+    "name": "Milharado",
+    "alternatenames": "Milharado",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266415,
+    "name": "Milagres",
+    "alternatenames": "",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266425,
+    "name": "Mexilhoeira Grande",
+    "alternatenames": "Mexilhoeira,Mexilhoeira Grande",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266442,
+    "name": "Mertola",
+    "alternatenames": "Mertola,Mértola,martlt,mei er tu la,merutora,Мертола,مارتلة,メルトラ,梅爾圖拉",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266464,
+    "name": "Mem Martins",
+    "alternatenames": "Mem Martim,Mem Martins",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266501,
+    "name": "Meia Via",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266523,
+    "name": "Meca",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266621,
+    "name": "Massama",
+    "alternatenames": "Massama,Massamá",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266633,
+    "name": "Marvao",
+    "alternatenames": "Marvan,Марван",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266680,
+    "name": "Marmelete",
+    "alternatenames": "Marmelete,Мармелете",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266702,
+    "name": "Marinhais",
+    "alternatenames": "Marinhais",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266703,
+    "name": "Marinha Grande",
+    "alternatenames": "Marinha Grande",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266762,
+    "name": "Manta Rota",
+    "alternatenames": "Manta Rota",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266777,
+    "name": "Malveira",
+    "alternatenames": "Malveira",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266865,
+    "name": "Mafra",
+    "alternatenames": "Mafra",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266882,
+    "name": "Madalena",
+    "alternatenames": "Madalena",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266895,
+    "name": "Machico",
+    "alternatenames": "Machico",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266909,
+    "name": "Maceirinha",
+    "alternatenames": "",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266914,
+    "name": "Maceira",
+    "alternatenames": "Maceira",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266924,
+    "name": "Macao",
+    "alternatenames": "Macao,Mação",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266938,
+    "name": "Luz",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266961,
+    "name": "Lourinha",
+    "alternatenames": "Lourinha,Lourinhã",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266974,
+    "name": "Lourical",
+    "alternatenames": "Lourical,Louriçal",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266977,
+    "name": "Loures",
+    "alternatenames": "Loures,Loyres,Λόυρες",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266983,
+    "name": "Loureira",
+    "alternatenames": "",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2266988,
+    "name": "Loule",
+    "alternatenames": "Lola,Loule,Loulé,Лола",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267057,
+    "name": "Lisbon",
+    "alternatenames": "Felicitas Julia,Felicitas Julia Olissipo,LIS,Liospoin,Liospóin,Lisabon,Lisabona,Lisboa,Lisbon,Lisbona,Lisbonne,Lisbono,Lisbonum,Lisimba,Lisimbã,Lissabon,Lisszabon,Lizboa,Lizbon,Lizbona,Olisipo,Olissipo,li si ben,lisabana,lisaboni,lisbana,lisbxn,liseubon,lshbwnt,lysabwn,lysbwn,risubon,Λισαβώνα,Лисабон,Лиссабон,Лісабон,Լիսբոնա,ליסבון,لشبونة,لىسابون,لیسبون,ܠܫܒܘܢܐ,लिस्बन,লিসবন,ลิสบอน,ལ་ས་བན།,ལི་སི་བཱོན།,ლისაბონი,ሊዝቦን,リスボン,里斯本,리스본",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267067,
+    "name": "Linda-a-Velha",
+    "alternatenames": "Linda a Velha,Linda-a-Velha",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267095,
+    "name": "Leiria",
+    "alternatenames": "Leiria,Lejrija,QLR,Vieira de Leiria,lyyryh,Λεϊρία,Лейрия,לייריה",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267112,
+    "name": "Lavradio",
+    "alternatenames": "Lavradio",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267131,
+    "name": "Laranjeiro",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267141,
+    "name": "Laranjeiro",
+    "alternatenames": "",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267226,
+    "name": "Lagos",
+    "alternatenames": "Lacobriga,Lagos,Lagos (Distrito de Faro)",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267254,
+    "name": "Lagoa",
+    "alternatenames": "Lagoa",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267310,
+    "name": "Juncal",
+    "alternatenames": "Juncal",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267427,
+    "name": "Idanha-a-Nova",
+    "alternatenames": "Idan'ja-a-Nova,Idanha-a-Nova,xin yi da ni ya,Іданья-а-Нова,Иданья-а-Нова,新伊達尼亞",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267489,
+    "name": "Guia",
+    "alternatenames": "Guia",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267538,
+    "name": "Grandola",
+    "alternatenames": "Grandola,Grândola,ge lan du la,Грандола,格蘭杜拉",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267624,
+    "name": "Golega",
+    "alternatenames": "Golega,Golegã",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267681,
+    "name": "Gaviao",
+    "alternatenames": "Gaviao,Gavião",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267792,
+    "name": "Fuzeta",
+    "alternatenames": "Fuseta",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267827,
+    "name": "Funchal",
+    "alternatenames": "FNC,Funchal,Funsala,Funsalis,Funshal,Funšala,Funšalis,Phountsal,feng sha er,fnchal  prtgal,fung chal,funsharu,fwnchal,fwnshal,phunkala,punshali,punsyal,pwnsl,Φουντσάλ,Фуншал,פונשל,فنچال ،پرتگال,فونشال,فونچال,फुंकल,ฟุงชาล,ფუნშალი,フンシャル,丰沙尔,푼샬",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267832,
+    "name": "Fronteira",
+    "alternatenames": "Fronteira",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267937,
+    "name": "Foz do Arelho",
+    "alternatenames": "Foz do Arelho",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2267962,
+    "name": "Fortios",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268126,
+    "name": "Fontanelas",
+    "alternatenames": "Fontanelas",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268188,
+    "name": "Figueiro dos Vinhos",
+    "alternatenames": "Figueiro dos Vinhos,Figueiró dos Vinhos",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268246,
+    "name": "Ferrel",
+    "alternatenames": "Ferrel,Ferrol",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268250,
+    "name": "Ferreiras",
+    "alternatenames": "Ferreiras",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268251,
+    "name": "Ferreira do Zezere",
+    "alternatenames": "Ferreira do Zezere,Ferreira do Zêzere",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268252,
+    "name": "Ferreira do Alentejo",
+    "alternatenames": "Ferreira do Alentejo,Ferrejra-du-Alentezhu,fei lei la du a lian te ru,Феррейра-ду-Алентежу,費雷拉杜阿連特茹",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268282,
+    "name": "Ferragudo",
+    "alternatenames": "Ferragudo",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268313,
+    "name": "Fazendas de Almeirim",
+    "alternatenames": "Fazendas de Almeirim",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268326,
+    "name": "Fatima",
+    "alternatenames": "Fatima,Fatimae,Fàtima,Fátima,Phatima,fatima,fatmt,fatyma,hua de ma,patima,phatima,phattima,Φάτιμα,Фатимæ,Фатима,Фатіма,فاتیما,فاطمة,فاطیما,ফাটিমা,ഫാത്തിമ,ファティマ,花地瑪,파티마",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268339,
+    "name": "Faro",
+    "alternatenames": "FAO,Faro,Faru,Фару",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268358,
+    "name": "Famoes",
+    "alternatenames": "Famoes,Famões",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268360,
+    "name": "Famalicao",
+    "alternatenames": "Famalicao,Famalicão",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268382,
+    "name": "Faja da Ovelha",
+    "alternatenames": "Faia da Ovelha,Faja da Ovelha,Fajã da Ovelha,Fazhan-da-Ovel'ja,Фажан-да-Овелья",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268388,
+    "name": "Faial",
+    "alternatenames": "Faial",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268406,
+    "name": "Evora",
+    "alternatenames": "Aebura,Ebora,Ehvora,Elbora,Erbora,Evora,Yabura/Yabora/Yabra,Ébora,Évora,Эвора",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268411,
+    "name": "Estremoz",
+    "alternatenames": "Estremoz",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268419,
+    "name": "Estreito da Calheta",
+    "alternatenames": "Ehshtrejtu-da-Kal'eta,Эштрейту-да-Кальета",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268436,
+    "name": "Estoril",
+    "alternatenames": "Ehshtoril,Eshhoril,Eshturil,Estoril,Estorilis,Estoris,Estorís,Estroil,Eštoril,ashtwryl,astwryl,eshtʼorili,esutoriru,iseutolil,Εστορίλ,Есторил,Ештуріл,Ещорил,Эшторил,إستوريل,اشتوریل,ეშტორილი,エストリル,이스토릴",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268437,
+    "name": "Estombar",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268438,
+    "name": "Estoi",
+    "alternatenames": "Estoi,Estói",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268563,
+    "name": "Ericeira",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268575,
+    "name": "Entroncamento",
+    "alternatenames": "Entrocamento,Entroncamento",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268615,
+    "name": "Elvas",
+    "alternatenames": "Elvas",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268746,
+    "name": "Curral das Freiras",
+    "alternatenames": "Curral das Freiras,Kurral-dash-Frejrash,Куррал-даш-Фрейраш",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268789,
+    "name": "Cuba",
+    "alternatenames": "Cuba",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268916,
+    "name": "Costa de Caparica",
+    "alternatenames": "",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2268946,
+    "name": "Coruche",
+    "alternatenames": "Coruche",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269041,
+    "name": "Corroios",
+    "alternatenames": "Corroios",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269088,
+    "name": "Constancia",
+    "alternatenames": "",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269108,
+    "name": "Conceicao",
+    "alternatenames": "Conceicao,Conceicao de Tavira,Conceição,Conceição de Tavira,Fonte Conceicao",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269114,
+    "name": "Comporta",
+    "alternatenames": "Comporta",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269142,
+    "name": "Colares",
+    "alternatenames": "Colares",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269280,
+    "name": "Charneca",
+    "alternatenames": "Charneca",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269282,
+    "name": "Charneca de Caparica",
+    "alternatenames": "Charneca,Charneca de Caparica,Sharneka,Шарнека",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269413,
+    "name": "Cercal",
+    "alternatenames": "Cercal,Cercal do Alentejo",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269429,
+    "name": "Cela",
+    "alternatenames": "Cela",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269449,
+    "name": "Caxias",
+    "alternatenames": "Caxias",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269494,
+    "name": "Castro Verde",
+    "alternatenames": "Castro Verde,Castro Verde Municipality,Kashtru-Verdi,Каштру-Верди,Каштру-Верді",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269496,
+    "name": "Castro Marim",
+    "alternatenames": "Castro Marim",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269508,
+    "name": "Castelo de Vide",
+    "alternatenames": "Castello de Vide,Kashtelu-de-Vide,Каштелу-де-Виде",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269514,
+    "name": "Castelo Branco",
+    "alternatenames": "Castelo Branco,Kashtelu-Branku,Каштелу-Бранку",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269556,
+    "name": "Castanheira do Ribatejo",
+    "alternatenames": "Castanheira,Castanheira do Ribatejo",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269557,
+    "name": "Castanheira de Pera",
+    "alternatenames": "Castanheira,Castanheira de Pera,Castanheira de Pêra",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269594,
+    "name": "Cascais",
+    "alternatenames": "CAT,Cascaes,Cascais,Kashkajsh,Kaskais,Kaskaisas,Kaškaišas,ka si kai shen,kasukaisu,Κασκάις,Каскаис,Кашкайш,カスカイス,卡斯凯什",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2269946,
+    "name": "Carvoeiro",
+    "alternatenames": "Carvoeiro,Karvoejro,Карвоейро",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270023,
+    "name": "Cartaxo",
+    "alternatenames": "Cartaxo",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270059,
+    "name": "Carreira",
+    "alternatenames": "",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270084,
+    "name": "Carregado",
+    "alternatenames": "Carregado",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270157,
+    "name": "Carnaxide",
+    "alternatenames": "Carnaxide,Karnashide,Карнашиде",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270184,
+    "name": "Carcavelos",
+    "alternatenames": "Carcavelos",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270211,
+    "name": "Caranguejeira",
+    "alternatenames": "Caranguejeira",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270229,
+    "name": "Caparica",
+    "alternatenames": "Caparica",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270258,
+    "name": "Canico",
+    "alternatenames": "Canico,Caniço",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270266,
+    "name": "Canical",
+    "alternatenames": "Canical,Caniçal,Kanisal,Канисал,Канісал",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270273,
+    "name": "Canhas",
+    "alternatenames": "Canhas",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270290,
+    "name": "Canecas",
+    "alternatenames": "Canecas,Caneças",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270336,
+    "name": "Campo Maior",
+    "alternatenames": "Campo Maior",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270357,
+    "name": "Campelos",
+    "alternatenames": "Campelos",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270361,
+    "name": "Campanario",
+    "alternatenames": "Campanario,Campanário",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270377,
+    "name": "Camarate",
+    "alternatenames": "Camarate,Camrate,Kamarate,Камарате",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270380,
+    "name": "Camara de Lobos",
+    "alternatenames": "Camara de Lobos,Câmara de Lobos,Kamara nte Lompos,Kamara-de-Lobos,Kamara-de-Lobush,Kamara-di-Lobush,ka ma la-de luo bu shen,kamara dlwbws,kamara dy lwbws,Καμάρα ντε Λόμπος,Камара-де-Лобос,Камара-де-Лобуш,Камара-ди-Лобуш,كامارا دي لوبوس,کامارا دلوبوس,კამარა-დი-ლობუში,卡馬拉-德洛布什",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270386,
+    "name": "Camacha",
+    "alternatenames": "Camacha,Kamasha,Камаша",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270408,
+    "name": "Calheta",
+    "alternatenames": "Calheta,Kal'eta,ka lie ta,kallyeta,qlyyth,Кальета,Кальєта,קלייטה,卡列塔,칼례타",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270437,
+    "name": "Caldas da Rainha",
+    "alternatenames": "Caldad da Rainha,Caldas da Rainha,Kaldas da Raina,Kaldash-da-Rain'ja,kaldas daraynya,Калдас да Раиња,Калдаш-да-Раинья,کالداس داراینیا,კალდაშ-და-რაინია,カルダス・ダ・ライーニャ",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270475,
+    "name": "Cadaval",
+    "alternatenames": "Cadaval",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270479,
+    "name": "Cadafais",
+    "alternatenames": "Cadafaes,Cadafais",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270486,
+    "name": "Cacilhas",
+    "alternatenames": "Cacilhas",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270503,
+    "name": "Cacem",
+    "alternatenames": "Cacem,Cacém",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270581,
+    "name": "Cabeca Gorda",
+    "alternatenames": "Cabeca Gorda,Cabeça Gorda",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270607,
+    "name": "Cabanas de Torres",
+    "alternatenames": "Cabanas de Torres",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270649,
+    "name": "Bucelas",
+    "alternatenames": "Bucelas,Bucellas",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270755,
+    "name": "Borba",
+    "alternatenames": "Borba,Borda,Борба",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270770,
+    "name": "Bombarral",
+    "alternatenames": "Bombarral,Rombarral",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270774,
+    "name": "Boliqueime",
+    "alternatenames": "Boliqueime",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270813,
+    "name": "Bobadela",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270814,
+    "name": "Boavista dos Pinheiros",
+    "alternatenames": "Boavista dos Pinheiros",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270825,
+    "name": "Boa Vista",
+    "alternatenames": "",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270843,
+    "name": "Boaventura",
+    "alternatenames": "Boaventura",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270927,
+    "name": "Beringel",
+    "alternatenames": "Beringel",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270930,
+    "name": "Bensafrim",
+    "alternatenames": "Bensafrim",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270935,
+    "name": "Benedita",
+    "alternatenames": "Benedita,Benedito",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270940,
+    "name": "Benavente",
+    "alternatenames": "Benavente",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270961,
+    "name": "Bemfica",
+    "alternatenames": "Bemfica,Bemfica do Ribatejo,Benfica",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270962,
+    "name": "Benfica",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270981,
+    "name": "Belas",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2270985,
+    "name": "Beja",
+    "alternatenames": "BYJ,Beja,Conistorgis",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271001,
+    "name": "Beato Antonio",
+    "alternatenames": "Beato,Beato Antonio,Beato António",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271006,
+    "name": "Batalha",
+    "alternatenames": "Batal'ja,Batalha,Batalja,Mpatalia,ba ta li ya,batalaha,batarya,Μπατάλια,Баталья,Баталя,বাটালহা,バターリャ,巴塔利亞",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271071,
+    "name": "Barreiro",
+    "alternatenames": "Barreiro,Barrejru,ba lei lu,Баррейру,巴雷鲁",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271096,
+    "name": "Barrancos",
+    "alternatenames": "Barrancos",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271140,
+    "name": "Barcarena",
+    "alternatenames": "Barcarena",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271296,
+    "name": "Azinhaga",
+    "alternatenames": "Azinhaga,Azinhega",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271337,
+    "name": "Azambuja",
+    "alternatenames": "Azambuja,Azambuzha,a zan bu ya,Азамбужа,阿贊布雅",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271340,
+    "name": "Avis",
+    "alternatenames": "Avis,Aviz",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271348,
+    "name": "Avelar",
+    "alternatenames": "Avelar",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271350,
+    "name": "Aveiras de Cima",
+    "alternatenames": "Aveiras de Cima",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271354,
+    "name": "Atouguia da Baleia",
+    "alternatenames": "Atouguia,Atouguia da Baleia",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271388,
+    "name": "Atalaia",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271438,
+    "name": "Arruda dos Vinhos",
+    "alternatenames": "Arruda,Arruda dos Vinhos",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271448,
+    "name": "Arronches",
+    "alternatenames": "Arronches",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271473,
+    "name": "Arrentela",
+    "alternatenames": "Arrentela,Arrentella,Аррентела",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271483,
+    "name": "Arranho",
+    "alternatenames": "Arranho,Arranhó",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271488,
+    "name": "Arraiolos",
+    "alternatenames": "Arraiolos",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271542,
+    "name": "Armacao de Pera",
+    "alternatenames": "Armacao de Pera,Armação de Pêra",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271598,
+    "name": "Arco da Calheta",
+    "alternatenames": "Arco da Calheta,Arco da Calheta  Madeira,Arku-da-Kal'eta,Арку-да-Кальета",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271623,
+    "name": "Apelacao",
+    "alternatenames": "Apelacao,Apelação",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271650,
+    "name": "Ansiao",
+    "alternatenames": "Anciao,Ancião,Ansiao,Ansião",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271680,
+    "name": "Amora",
+    "alternatenames": "Amora",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271682,
+    "name": "Amor",
+    "alternatenames": "Amor",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271712,
+    "name": "Amiaes de Baixo",
+    "alternatenames": "Amiaes de Baixo,Amiais de Baixo,Amiães de Baixo,Amiãis de Baixo",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271772,
+    "name": "Amadora",
+    "alternatenames": "Amadora,Αμαδόρα,Амадора",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271775,
+    "name": "Alvorninha",
+    "alternatenames": "Alvorninha",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271782,
+    "name": "Alvor",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271789,
+    "name": "Alvito",
+    "alternatenames": "Alvito",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271814,
+    "name": "Alvaiazere",
+    "alternatenames": "Alvaiazere,Alvaiázere",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271823,
+    "name": "Altura",
+    "alternatenames": "Altura",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271841,
+    "name": "Alter do Chao",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271860,
+    "name": "Alqueidao da Serra",
+    "alternatenames": "",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271878,
+    "name": "Alpiarca",
+    "alternatenames": "Alpiarca,Alpiarça",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271905,
+    "name": "Almograve",
+    "alternatenames": "Almograve,Алмограве",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271912,
+    "name": "Almodovar",
+    "alternatenames": "Almodovar,Almodôvar",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271926,
+    "name": "Almeirim",
+    "alternatenames": "Almeirim",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271945,
+    "name": "Almargem",
+    "alternatenames": "Almargem,Almargem do Bispo",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271947,
+    "name": "Almancil",
+    "alternatenames": "Almancil,Almansil,Алмансил",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271961,
+    "name": "Almada",
+    "alternatenames": "Almada,Almanta,Αλμάντα,Алмада",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271965,
+    "name": "Aljustrel",
+    "alternatenames": "Aljustrel",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271966,
+    "name": "Aljubarrota",
+    "alternatenames": "Aljubarrota",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271968,
+    "name": "Aljezur",
+    "alternatenames": "Aljezur",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271970,
+    "name": "Alhos Vedros",
+    "alternatenames": "Alhos Vedros",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271975,
+    "name": "Alhandra",
+    "alternatenames": "Alhandra",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271977,
+    "name": "Algueirao",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271980,
+    "name": "Algoz",
+    "alternatenames": "Algoz",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2271985,
+    "name": "Alges",
+    "alternatenames": "Alges,Algés",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272010,
+    "name": "Alferrarede",
+    "alternatenames": "Alferrarede",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272013,
+    "name": "Alfeizerao",
+    "alternatenames": "Alfeizerao,Alfeizerão",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272036,
+    "name": "Alenquer",
+    "alternatenames": "Alenquer",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272045,
+    "name": "Alegrete",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272056,
+    "name": "Aldeia Nova",
+    "alternatenames": "Aldeia Nova,Aldeia Nova de Sao Bento,Aldeia Nova de São Bento,Sao Bento,São Bento",
+    "subcountry": "Beja"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272091,
+    "name": "Aldeia de Paio Pires",
+    "alternatenames": "Aldea de Paio Pires,Aldeia de Paio Pires,Paio Pires",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272130,
+    "name": "Alcoutim",
+    "alternatenames": "Alcoutim",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272143,
+    "name": "Alcoentre",
+    "alternatenames": "Alcoentre",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272144,
+    "name": "Alcochete",
+    "alternatenames": "Alcochete",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272147,
+    "name": "Alcobaca",
+    "alternatenames": "Alcobaca,Alcobaça,Alkobasa,a er ke ba sa,alakobaka,alkwbaka,alkwbasa,Алкобаса,Ալկոբասա,آلکوباسا,ألكوباكا,আলকোবাকা,阿爾科巴薩",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272185,
+    "name": "Alcantarilha",
+    "alternatenames": "Alcantarilha",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272188,
+    "name": "Alcanhoes",
+    "alternatenames": "Alcanhoes,Alcanhões",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272189,
+    "name": "Alcanena",
+    "alternatenames": "Alcanena,Alkanena,a er ka nei na,alkanyna,Алканена,الکانینا,阿尔卡内纳",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272190,
+    "name": "Alcanede",
+    "alternatenames": "Alcanede",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272197,
+    "name": "Alcains",
+    "alternatenames": "Alcains",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272212,
+    "name": "Alcacer do Sal",
+    "alternatenames": "Alcacer da Sal,Alcacer do Sal,Alcácer da Sal,Alcácer do Sal,Alkaser-du-Sal,Beuibum,Beuipum,Bevipo,Cantnipo,Eviam,Evion,Keition,Ketivion,Ketouibon,Ketovibon,Ketovion,alkasr dw sal,alkasr dwsal,Алкасер-ду-Сал,آلکاسر دوسال,الكاسر دو سال,ალკასერ-დუ-სალი,アルカセル・ド・サル",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272215,
+    "name": "Alcabideche",
+    "alternatenames": "Alcabideche,Alkabideshe,Aloabideche,Aloabidèche,Алкабидеше",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272222,
+    "name": "Albufeira",
+    "alternatenames": "Albufeira,Albufejra,albwfyra,Албуфейра,آلبوفیرا",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272242,
+    "name": "Alandroal",
+    "alternatenames": "Alandroal",
+    "subcountry": "Évora"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272260,
+    "name": "Alagoa",
+    "alternatenames": "",
+    "subcountry": "Portalegre"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272341,
+    "name": "Agua de Pena",
+    "alternatenames": "Agua de Pena,Água de Pena",
+    "subcountry": "Madeira"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272378,
+    "name": "A dos Francos",
+    "alternatenames": "A dos Francos",
+    "subcountry": "Leiria"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272379,
+    "name": "A dos Cunhados",
+    "alternatenames": "A dos Cunhados,Aldeia dos Cunhados",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272446,
+    "name": "Abrigada",
+    "alternatenames": "Abrigada",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2272447,
+    "name": "Abrantes",
+    "alternatenames": "Abrantes,Abrantish,Abrantysh,a bu lan te shen,abrants,aburantesu,Абрантиш,Абрантыш,Абрантіш,آبرانتس,ابرانتس,აბრანტეში,アブランテス,阿布兰特什",
+    "subcountry": "Santarém"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732233,
+    "name": "Vouzela",
+    "alternatenames": "Vouzela",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732240,
+    "name": "Vizela",
+    "alternatenames": "Sao Faustino,São Faustino,Vizela,Визела",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732241,
+    "name": "Vizela",
+    "alternatenames": "Sao Jorge,São Jorge,Vizela,Визела",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732265,
+    "name": "Viseu",
+    "alternatenames": "VSE,Viseu,Vizeu,Vizeu Celorico,Визеу",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732286,
+    "name": "Vinhais",
+    "alternatenames": "Vin'jajsh,Vinhaes,Vinhais,wei ni ai shen,Виньяйш,Віньяйш,维尼艾什",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732289,
+    "name": "Vimioso",
+    "alternatenames": "Vimioso",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732312,
+    "name": "Vilela",
+    "alternatenames": "Vilela",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732326,
+    "name": "Vila Verde",
+    "alternatenames": "Vila Verde",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732345,
+    "name": "Vila Seca",
+    "alternatenames": "Vila Seca,Vila Secca",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732404,
+    "name": "Vilarinho",
+    "alternatenames": "Vilarinho",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732438,
+    "name": "Vila Real",
+    "alternatenames": "Bila Real,Bila Rial,VRL,Vila Real,Vila Realas,Vila-Real,lei a er cheng,vila-reali,wyla ryal,Βίλα Ρεάλ,Вила Реал,Вила-Реал,ویلا رئال,ვილა-რეალი,ヴィラ・レアル,雷阿爾城",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732444,
+    "name": "Vilar do Paraiso",
+    "alternatenames": "Vilar do Paraiso,Vilar do Paraíso",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732469,
+    "name": "Vilar de Figos",
+    "alternatenames": "Vilar de Figos",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732475,
+    "name": "Vilar de Andorinho",
+    "alternatenames": "Andorinho,Vilar de Andorinha,Vilar de Andorinho,Villar d'Andorinha,Villar d'Andorinho,Villar d’Andorinha,Villar d’Andorinho",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732516,
+    "name": "Vila Praia de Ancora",
+    "alternatenames": "Ancora,Praia de Ancora,Praia de Âncora,Vila Praia de Ancora,Vila Praia de Âncora,Âncora",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732517,
+    "name": "Vila Pouca de Aguiar",
+    "alternatenames": "Vila Pouca de Aguiar",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732539,
+    "name": "Vila Nova de Paiva",
+    "alternatenames": "Barrellas,Vila Nova de Paiva",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732544,
+    "name": "Vila Nova de Gaia",
+    "alternatenames": "Bila Noba nte Nkaia,Gaia,Portus Cale,Vila Nova de Gaia,Vila-Nova-de-Gajja,Βίλα Νόβα ντε Γκάια,Вила-Нова-де-Гайя",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732546,
+    "name": "Vila Nova de Foz Coa",
+    "alternatenames": "Vila Nova de Foz Coa,Vila Nova de Foz Côa,Villa Nova de Foscoa,Villa Nova de Foscôa",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732547,
+    "name": "Vila Nova de Famalicao",
+    "alternatenames": "Famalicao,Famalicão,Vila Nova de Famalicao,Vila Nova de Famalicão,Vila Nova de Tamalicao,Vila Nova de Tamalicão",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732551,
+    "name": "Vila Nova da Telha",
+    "alternatenames": "Vila Nova da Telha",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732555,
+    "name": "Vila Nova de Cerveira",
+    "alternatenames": "Vila Nova da Cereira,Vila Nova da Cerveira,Vila Nova de Cerveira,Vila Nova do Cerveira",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732597,
+    "name": "Vila Mea",
+    "alternatenames": "Vila Mea,Vila Mea de Cima,Vila Meã,Vila Meã de Cima",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732626,
+    "name": "Vila Frescainha",
+    "alternatenames": "Sao Martinho,Sao Martinho Vila Frescainha,São Martinho,São Martinho Vila Frescainha,Vila Frescainha",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732649,
+    "name": "Vila do Conde",
+    "alternatenames": "Bila nto Konte,Vila do Conde,Vila do Conde Municipality,Vila do Konde,Vila do Kondė,Vila-du-Konde,Vila-du-Kondi,kong di zhen,wyla dw kndh,Βίλα ντο Κόντε,Вила-ду-Конде,Вила-ду-Конди,ویلا دو کنده,ვილა-დუ-კონდე,孔迪镇",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732669,
+    "name": "Vila Cova",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732705,
+    "name": "Vila Cha",
+    "alternatenames": "Vila Cha,Vila Chã",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732712,
+    "name": "Vilaca",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732748,
+    "name": "Vieira do Minho",
+    "alternatenames": "Vieira,Vieira do Minho",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732773,
+    "name": "Viana do Castelo",
+    "alternatenames": "Viana do Castelo,Vianna do Castello",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732916,
+    "name": "Varzea",
+    "alternatenames": "Varzea,Várzea",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732965,
+    "name": "Valpacos",
+    "alternatenames": "Valpacos,Valpassos,Valpaços",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732978,
+    "name": "Valongo",
+    "alternatenames": "Valonga,Valongo,Valongu,Валонгу",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2732980,
+    "name": "Valongo",
+    "alternatenames": "Valongo",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733018,
+    "name": "Valenca",
+    "alternatenames": "Valenca,Valença",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733038,
+    "name": "Valega",
+    "alternatenames": "Valega,Válega",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733153,
+    "name": "Vale de Cambra",
+    "alternatenames": "Vale de Cambra,Vila de Vale de Cambra",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733249,
+    "name": "Valbom",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733262,
+    "name": "Valadares",
+    "alternatenames": "Valadares",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733269,
+    "name": "Vairao",
+    "alternatenames": "Vairao,Vairão",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733272,
+    "name": "Vagos",
+    "alternatenames": "Vagos",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733304,
+    "name": "Urgeses",
+    "alternatenames": "Urgeses",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733352,
+    "name": "Trofa",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733372,
+    "name": "Treixedo",
+    "alternatenames": "Treixedo",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733422,
+    "name": "Travanca",
+    "alternatenames": "",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733439,
+    "name": "Trancoso",
+    "alternatenames": "Trancoso",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733488,
+    "name": "Torre de Moncorvo",
+    "alternatenames": "Moncorvo,Torre de Moncorvo",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733533,
+    "name": "Tondela",
+    "alternatenames": "Tondela,tong de la,twndla,Тондела,توندلا,ტონდელა,通德拉",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733553,
+    "name": "Tocha",
+    "alternatenames": "",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733584,
+    "name": "Terras de Bouro",
+    "alternatenames": "Terras de Bouro",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733601,
+    "name": "Teloes",
+    "alternatenames": "Teloes,Telões",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733628,
+    "name": "Teixoso",
+    "alternatenames": "Teixoso",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733649,
+    "name": "Tebosa",
+    "alternatenames": "Tebosa",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733660,
+    "name": "Tavarede",
+    "alternatenames": "Tavarede",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733669,
+    "name": "Tarouca",
+    "alternatenames": "Tarouca",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733716,
+    "name": "Tabuaco",
+    "alternatenames": "Taboaco,Taboaço,Tabuaco,Tabuaço",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733720,
+    "name": "Tabua",
+    "alternatenames": "Taboa,Tabua,Táboa,Tábua",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733812,
+    "name": "Souto",
+    "alternatenames": "",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733851,
+    "name": "Soure",
+    "alternatenames": "Perbandaran Soure,Sori,Soure,Soure Municipality,saure,Σούρε,Сори,সৌরে",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733902,
+    "name": "Sobreira",
+    "alternatenames": "Sobreira",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733941,
+    "name": "Sobrado",
+    "alternatenames": "Sobrado",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733963,
+    "name": "Cinfaes",
+    "alternatenames": "Cinfaes,Cinfães,Sinfaes,Sinfais,Sinfães,Sinfãis",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2733992,
+    "name": "Silvalde",
+    "alternatenames": "",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734024,
+    "name": "Sever do Vouga",
+    "alternatenames": "Sever,Sever do Vouga",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734028,
+    "name": "Serzedo",
+    "alternatenames": "Serzedo",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734029,
+    "name": "Serzedo",
+    "alternatenames": "Serzedo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734032,
+    "name": "Serzedelo",
+    "alternatenames": "Cerzedelo,Serzedelo",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734069,
+    "name": "Seroa",
+    "alternatenames": "Seroa",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734074,
+    "name": "Sernancelhe",
+    "alternatenames": "Sernancelhe",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734081,
+    "name": "Sermonde",
+    "alternatenames": "Sermonde",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734106,
+    "name": "Sequeira",
+    "alternatenames": "Sequeira",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734140,
+    "name": "Senhora da Hora",
+    "alternatenames": "Senhora da Hora",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734156,
+    "name": "Sendim",
+    "alternatenames": "Sendim,Sendin",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734164,
+    "name": "Semelhe",
+    "alternatenames": "Semelhe",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734170,
+    "name": "Selho",
+    "alternatenames": "Sao Cristovao,Selho,São Cristóvão",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734215,
+    "name": "Seia",
+    "alternatenames": "Seia",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734246,
+    "name": "Satao",
+    "alternatenames": "Satam,Satao,Sátão,Vila da Igreja,Vila de Igreja",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734338,
+    "name": "Sao Roque",
+    "alternatenames": "Sao Roque,São Roque",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734339,
+    "name": "Coronado",
+    "alternatenames": "Coronado,Sao Romao do Coronado,São Romão do Coronado",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734346,
+    "name": "Sao Romao",
+    "alternatenames": "Sao Romao,São Romão",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734351,
+    "name": "Sao Pedro do Sul",
+    "alternatenames": "Santo Pedro do Sul,Sao Pedro do Sul,São Pedro do Sul",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734359,
+    "name": "Sao Pedro de Alva",
+    "alternatenames": "Sao Pedro de Alva,São Pedro de Alva",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734363,
+    "name": "Sao Pedro da Cova",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734395,
+    "name": "Sao Miguel do Couto",
+    "alternatenames": "Sao Miguel do Couto,São Miguel do Couto",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734434,
+    "name": "Sao Mamede de Infesta",
+    "alternatenames": "San-Mamed-de-Infeshta,Santo Mamede de Infesta,Sao Mamede,Sao Mamede da Infesta,Sao Mamede de Infesta,São Mamede,São Mamede da Infesta,São Mamede de Infesta,Сан-Мамед-де-Инфешта",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734473,
+    "name": "Sao Joao de Ver",
+    "alternatenames": "Sao Joao de Ver,São João de Ver",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734479,
+    "name": "Sao Joao de Areias",
+    "alternatenames": "Sao Joao de Areias,São João de Areias",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734483,
+    "name": "Sao Joao da Pesqueira",
+    "alternatenames": "Sao Joao da Pesqueira,São João da Pesqueira",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734484,
+    "name": "Sao Joao da Madeira",
+    "alternatenames": "San-Zhuan-da-Madejra,Santo Joao da Madeira,Santo João da Madeira,Sao Joao da Madeiro,Sao Joao de Madeira,São João da Madeiro,São João de Madeira,Сан-Жуан-да-Мадейра",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734493,
+    "name": "Sao Joao",
+    "alternatenames": "Sao Joao,São João",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734523,
+    "name": "Sao Felix da Marinha",
+    "alternatenames": "Marinha,Sao Felix da Marinha,São Félix da Marinha",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734570,
+    "name": "Santo Tirso",
+    "alternatenames": "Santo Tirso",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734578,
+    "name": "Santo Izidoro",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734585,
+    "name": "Santo Antonio dos Olivais",
+    "alternatenames": "Santo Antonio dos Olivais,Santo António dos Olivais",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734667,
+    "name": "Santa Marta de Penaguiao",
+    "alternatenames": "Santa Marta de Penaguiao,Santa Marta de Penaguião,Santa Martha de Penaguiao,Santa Martha de Penaguião",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734729,
+    "name": "Santa Cruz do Bispo",
+    "alternatenames": "Santa Cruz do Bispo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734736,
+    "name": "Santa Cruz",
+    "alternatenames": "",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734747,
+    "name": "Santa Comba Dao",
+    "alternatenames": "Santa Comba Dao,Santa Comba Dão",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734759,
+    "name": "Santa Clara",
+    "alternatenames": "",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734788,
+    "name": "Sangalhos",
+    "alternatenames": "Sangalhos",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734797,
+    "name": "Sanfins",
+    "alternatenames": "Sanfins",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734803,
+    "name": "Sandim",
+    "alternatenames": "Sandim",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734809,
+    "name": "Sande",
+    "alternatenames": "Sande",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734836,
+    "name": "Samil",
+    "alternatenames": "",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734858,
+    "name": "Salreu",
+    "alternatenames": "Salreu",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734925,
+    "name": "Sabugal",
+    "alternatenames": "Sabugal,sa bu jia er,sabwgal,Сабугал,سابوگال,سبگل بلدیہ,薩布加爾",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2734928,
+    "name": "Sabrosa",
+    "alternatenames": "Sabrosa",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735012,
+    "name": "Ronfe",
+    "alternatenames": "Ronfe,Roufe",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735083,
+    "name": "Rio Tinto",
+    "alternatenames": "Rio Tinto,Rio Tinto i Portugal,Riu-Tintu,li ao ting tuo,ryw tyntw,Риу-Тинту,ریو تینتو,რიო-ტინტო,里奧廷托",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735088,
+    "name": "Rio Meao",
+    "alternatenames": "Rio Meao,Rio Meão",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735093,
+    "name": "Rio Mau",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735095,
+    "name": "Rio Mau",
+    "alternatenames": "Rio Mau",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735116,
+    "name": "Rio de Loba",
+    "alternatenames": "Rio de Loba",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735167,
+    "name": "Ribeirao",
+    "alternatenames": "Ribeirao,Ribeirão",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735172,
+    "name": "Ribeira de Pena",
+    "alternatenames": "Ribeira da Pena,Ribeira de Pena",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735220,
+    "name": "Riba de Ave",
+    "alternatenames": "Riba de Ave",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735243,
+    "name": "Resende",
+    "alternatenames": "Resende,Rezende",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735258,
+    "name": "Rendufe",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735340,
+    "name": "Refojos de Basto",
+    "alternatenames": "Refojos de Basto",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735366,
+    "name": "Recarei",
+    "alternatenames": "Recarei",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735377,
+    "name": "Rebordosa",
+    "alternatenames": "Rebordosa,Rebordoza",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735383,
+    "name": "Rebordoes",
+    "alternatenames": "Rebordoes,Rebordões",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735418,
+    "name": "Real",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735752,
+    "name": "Prado",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735787,
+    "name": "Povoa de Varzim",
+    "alternatenames": "Poboa nte Barzim,Povoa de Varzim,Povua de Varzinas,Povua-di-Varzin,Póvoa de Varzim,Villa Euracini,bo wa-di wa er jin,pwwa dwarzym,Πόβοα ντε Βαρζίμ,Повоа де Варзим,Повуа-ди-Варзин,پووا دوارزیم,პოვუა-დე-ვარშინი,波瓦-迪瓦爾津",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735803,
+    "name": "Povoa de Lanhoso",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2735943,
+    "name": "Porto",
+    "alternatenames": "OPO,Oporto,Porto,Portu,Portus Cale,bo tu,bwrtw,poruto,pwrtw,Πορτο,Πόρτο,Порто,Порту,פורטו,بورتو,پورتو,პორტუ,ポルト,波圖",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736041,
+    "name": "Ponte de Lima",
+    "alternatenames": "Ponte de Lima,Ponte do Lima,Понте де Лима",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736057,
+    "name": "Ponte da Barca",
+    "alternatenames": "Ponte da Barca,Ponte de Barca,Ponte-da-Barka,Ponti-da-Barka,Puonte de la Barca,peng di da ba er ka,Понте-да-Барка,Понти-да-Барка,蓬蒂達巴爾卡",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736067,
+    "name": "Ponte",
+    "alternatenames": "Ponte",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736124,
+    "name": "Poiares",
+    "alternatenames": "Poiares,Vila Nova de Poiares",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736183,
+    "name": "Pinhel",
+    "alternatenames": "Pinhel",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736316,
+    "name": "Peso da Regua",
+    "alternatenames": "Peso da Regua,Peso da Regua Municipality,Peso da Régua,Peso da Régua Municipality,Peso de la Regua,Peso de la Régua,Pezu-da-Regua,Regoa,Regua,Régua,psw da rgwa,Пезу-да-Регуа,پسو دا رگوا,პეზუ-და-რეგუა",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736327,
+    "name": "Perozinho",
+    "alternatenames": "Perosinho,Perozinho",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736337,
+    "name": "Perelhal",
+    "alternatenames": "Parelhal,Perelhal",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736391,
+    "name": "Perafita",
+    "alternatenames": "Perafita",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736429,
+    "name": "Penela",
+    "alternatenames": "Penela",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736434,
+    "name": "Penedono",
+    "alternatenames": "Penedono",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736461,
+    "name": "Penamacor",
+    "alternatenames": "Penamacor",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736469,
+    "name": "Penafiel",
+    "alternatenames": "Arrifana de Sousa,Penafiel,Penafjelis,Penaphiel,pei na fei ye er,Πεναφιέλ,Пенафиел,პენაფიელი,佩納菲耶爾",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736473,
+    "name": "Penacova",
+    "alternatenames": "Penacova",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736520,
+    "name": "Pedroucos",
+    "alternatenames": "Pedroucos,Pedrouços",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736521,
+    "name": "Pedroso",
+    "alternatenames": "Pedroso",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736643,
+    "name": "Paredes de Coura",
+    "alternatenames": "Parade de Coura,Parades de Coura,Paredes de Coura",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736657,
+    "name": "Paredes",
+    "alternatenames": "Paredes",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736666,
+    "name": "Pardilho",
+    "alternatenames": "Pardilho,Pardilhó",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736792,
+    "name": "Pampilhosa",
+    "alternatenames": "Pampilhosa,Pampilhosa do Bobao,Pampilhosa do Bobão,Pampilhosa do Botao,Pampilhosa do Botão",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736793,
+    "name": "Pampilhosa da Serra",
+    "alternatenames": "Pampilhosa,Pampilhosa da Serra,Pampiliosa nta Sera,Παμπιλιόσα ντα Σέρα",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736883,
+    "name": "Pacos de Ferreira",
+    "alternatenames": "Pacos de Ferreira,Pasos nte Phereira,Paços de Ferreira,Πάσος ντε Φερέϊρα",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736884,
+    "name": "Pacos de Brandao",
+    "alternatenames": "Pacos de Brandao,Paços de Brandão",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2736930,
+    "name": "Ovar",
+    "alternatenames": "Ovar,Овар",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737033,
+    "name": "Oliveirinha",
+    "alternatenames": "Oliveirinha",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737037,
+    "name": "Oliveira do Mondego",
+    "alternatenames": "Oliveira do Mondego",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737038,
+    "name": "Oliveira do Hospital",
+    "alternatenames": "Olibeira nto Ospital,Oliveira do Hospital,Olivejra-du-Oshpital,ao li wei la du ao shen pi ta er,awlywyra dw haspytal,Ολιβέιρα ντο Όσπιταλ,Оливейра-ду-Ошпитал,اولیویرا دو هاسپیتال,ოლივეირა-დუ-ოშპიტალი,奧利韋拉杜奧什皮塔爾",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737039,
+    "name": "Oliveira do Douro",
+    "alternatenames": "Oliveira do Douro",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737042,
+    "name": "Oliveira do Bairro",
+    "alternatenames": "Oliveira de Bairro,Oliveira do Bairro",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737043,
+    "name": "Oliveira de Frades",
+    "alternatenames": "Oliveira de Frades",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737046,
+    "name": "Oliveira de Azemeis",
+    "alternatenames": "Oliveira de Azemeis,Oliveira de Azeméis,Olivejra-di-Azemejsh,Оливейра-ди-Аземейш",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737053,
+    "name": "Oliveira",
+    "alternatenames": "Oliveira",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737064,
+    "name": "Olival",
+    "alternatenames": "Olival",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737088,
+    "name": "Oia",
+    "alternatenames": "Oia,Oiã",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737137,
+    "name": "Nogueira da Regedoura",
+    "alternatenames": "Nogueira,Nogueira da Regedoura",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737150,
+    "name": "Nogueira",
+    "alternatenames": "Nogueira",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737184,
+    "name": "Nelas",
+    "alternatenames": "Nelas",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737194,
+    "name": "Negrelos",
+    "alternatenames": "Negrelos,Sao Tome,São Tomé",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737198,
+    "name": "Negreiros",
+    "alternatenames": "Negreiros",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737234,
+    "name": "Murtosa",
+    "alternatenames": "Murtosa",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737256,
+    "name": "Murca",
+    "alternatenames": "Murca,Murça",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737268,
+    "name": "Mozelos",
+    "alternatenames": "",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737343,
+    "name": "Mosteiro",
+    "alternatenames": "",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737375,
+    "name": "Mortagua",
+    "alternatenames": "Mortagua,Mortágua",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737393,
+    "name": "Moreira de Conegos",
+    "alternatenames": "Moreira de Conegos",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737398,
+    "name": "Moreira",
+    "alternatenames": "Moreira",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737399,
+    "name": "Moreira",
+    "alternatenames": "Moreira",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737437,
+    "name": "Montemor-o-Velho",
+    "alternatenames": "Montemor-o-Vel'ju,Montemor-o-Velho,Montemor-u-Vel'ju,jiu meng te mo er,Монтемор-о-Велью,Монтемор-у-Велью,მონტემორ-უ-ველიუ,舊蒙特莫爾",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737502,
+    "name": "Montalegre",
+    "alternatenames": "Montalegre",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737515,
+    "name": "Mondim de Basto",
+    "alternatenames": "Mondim,Mondim de Basto",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737523,
+    "name": "Moncao",
+    "alternatenames": "Moncao,Monsao,Monsão,Monção",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737581,
+    "name": "Moimenta da Beira",
+    "alternatenames": "Moimenta da Beira,Moimenta do Beira",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737599,
+    "name": "Mogadouro",
+    "alternatenames": "",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737639,
+    "name": "Mirandela",
+    "alternatenames": "Mirandela,Mirandella,Мирандела",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737640,
+    "name": "Miranda do Douro",
+    "alternatenames": "Miranda,Miranda de l Douro,Miranda del Douro,Miranda del Duero,Miranda do Doras,Miranda do Douro,Miranda l Douro,Miranda-du-Doru,miranda-du-doru,myranda dwdwywrw,Миранда-ду-Дору,Міранда-ду-Дору,میراندا دودوئورو,მირანდა-დუ-დორუ,ミランダ・ド・ドウロ",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737641,
+    "name": "Miranda do Corvo",
+    "alternatenames": "Miranda do Corvo,Miranta nto Korbo,Μιράντα ντο Κόρβο",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737651,
+    "name": "Mira",
+    "alternatenames": "Dunas de Mira,Mira",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737662,
+    "name": "Mindelo",
+    "alternatenames": "Mindelo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737669,
+    "name": "Milheiros de Poiares",
+    "alternatenames": "Milheiros de Poiares,Milheirós de Poiares",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737671,
+    "name": "Milheiros",
+    "alternatenames": "Milheiros,Milheirós",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737711,
+    "name": "Mesao Frio",
+    "alternatenames": "Mesao Frio,Mesão Frio",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737723,
+    "name": "Merelim",
+    "alternatenames": "Merelim,Sao Paio,São Paio",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737737,
+    "name": "Melres",
+    "alternatenames": "Melres",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737769,
+    "name": "Meinedo",
+    "alternatenames": "Meinedo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737798,
+    "name": "Meda",
+    "alternatenames": "Meda,Mêda",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737809,
+    "name": "Mealhada",
+    "alternatenames": "Mealhada",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737810,
+    "name": "Meadela",
+    "alternatenames": "Meadela",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737824,
+    "name": "Matosinhos",
+    "alternatenames": "Matosinhos,Matosinhos Municipality,Matozin'jush,Matozinhos,Matozinjosas,matwsynws,Матозиньюш,ماتوسینوس,მატოზინიუში",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737897,
+    "name": "Mariz",
+    "alternatenames": "Mariz",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737904,
+    "name": "Marinhas",
+    "alternatenames": "Marinhas",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737914,
+    "name": "Margaride",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737921,
+    "name": "Marco de Canavezes",
+    "alternatenames": "Marco de Cana,Marco de Canaveses,Marco de Canavezes",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737936,
+    "name": "Manteigas",
+    "alternatenames": "Manteigas,Mantejgas,Мантейгас",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2737949,
+    "name": "Mangualde",
+    "alternatenames": "Mangualde,Mangualdi,mangualdi,mangwlad,Мангуалде,Мангуалди,مانگولاد,მანგუალდი",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738014,
+    "name": "Maia",
+    "alternatenames": "Maia,Majja,Майя",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738038,
+    "name": "Madalena",
+    "alternatenames": "Madalena",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738050,
+    "name": "Macieira de Rates",
+    "alternatenames": "Macieira,Macieira de Rates",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738052,
+    "name": "Macieira de Cambra",
+    "alternatenames": "Macieira de Cambra",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738082,
+    "name": "Macedo de Cavaleiros",
+    "alternatenames": "Macedo de Cavaleiros",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738106,
+    "name": "Lustosa",
+    "alternatenames": "Lustosa",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738108,
+    "name": "Luso",
+    "alternatenames": "Luso,Lusu,Лусу",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738138,
+    "name": "Lousada",
+    "alternatenames": "Lousada,Louzada",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738154,
+    "name": "Lousa",
+    "alternatenames": "Lousa,Lousã,Louza,Louzã,Λούζα",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738159,
+    "name": "Lourosa",
+    "alternatenames": "Lourosa,Louroza",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738208,
+    "name": "Lorvao",
+    "alternatenames": "Lorvao,Lorvão",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738210,
+    "name": "Loriga",
+    "alternatenames": "Loriga",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738221,
+    "name": "Lordelo",
+    "alternatenames": "Lordello,Lordelo",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738224,
+    "name": "Lordelo",
+    "alternatenames": "Lordelo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738277,
+    "name": "Lobao",
+    "alternatenames": "Lobao,Lobão",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738347,
+    "name": "Leca do Bailio",
+    "alternatenames": "Leca do Bailio,Leca do Balio,Leca do Belio,Leça do Bailio,Leça do Balio",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738348,
+    "name": "Leca da Palmeira",
+    "alternatenames": "Leca,Leca da Palmeira,Leca de Palmeira,Leça,Leça da Palmeira,Leça de Palmeira",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738360,
+    "name": "Lavra",
+    "alternatenames": "Lavra",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738362,
+    "name": "Lavos",
+    "alternatenames": "Lavos",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738459,
+    "name": "Lamego",
+    "alternatenames": "Lamego",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738479,
+    "name": "Lamas",
+    "alternatenames": "Lamas",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738551,
+    "name": "Lago",
+    "alternatenames": "Lago",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738643,
+    "name": "Jovim",
+    "alternatenames": "Jovim,Juvim",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738658,
+    "name": "Joane",
+    "alternatenames": "Joane",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738707,
+    "name": "Ilhavo",
+    "alternatenames": "Ilhavo,Ílhavo",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738737,
+    "name": "Gulpilhares",
+    "alternatenames": "Gulpilhares",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738742,
+    "name": "Guisande",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738752,
+    "name": "Guimaraes",
+    "alternatenames": "Gimarajnsh,Guimaraes,Guimarais,Guimarães,Guimarãis,Nkimaraes,Γκιμαράες,Гимарайнш",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738766,
+    "name": "Guifoes",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738772,
+    "name": "Gueral",
+    "alternatenames": "Gueral",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738785,
+    "name": "Guarda",
+    "alternatenames": "Guarda,guaruda,Гуарда,グアルダ",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738803,
+    "name": "Grijo",
+    "alternatenames": "Grijo,Grijó",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738925,
+    "name": "Gondomar",
+    "alternatenames": "Gondomar,Гондомар",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738928,
+    "name": "Gondizalves",
+    "alternatenames": "Gondizalves",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738974,
+    "name": "Gois",
+    "alternatenames": "Gois,Góis",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2738983,
+    "name": "Godim",
+    "alternatenames": "Godim",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739034,
+    "name": "Gemunde",
+    "alternatenames": "Gemunde",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739079,
+    "name": "Gandra",
+    "alternatenames": "Gandra",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739080,
+    "name": "Gandra",
+    "alternatenames": "Gandra,Гандра",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739118,
+    "name": "Galegos",
+    "alternatenames": "Galegos,Santa Maria",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739152,
+    "name": "Gafanha",
+    "alternatenames": "Gafanha,Gafanha da Nazare,Gafanha da Nazaré",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739153,
+    "name": "Gafanha da Encarnacao",
+    "alternatenames": "Gafanha da Encarnacao,Gafanha da Encarnação",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739187,
+    "name": "Fundao",
+    "alternatenames": "Fundao,Fundão",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739199,
+    "name": "Frossos",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739222,
+    "name": "Freixo de Espada a Cinta",
+    "alternatenames": "Freisco de Espada a Cinta,Freisco de Espada à Cinta,Freixo de Espada Cinta,Freixo de Espada a Cinta,Freixo de Espada a Cinta Municipality,Freixo de Espada à Cinta,Freixo de Espada à Cinta Municipality,Freixo de Espado a Cinta,Frejshu-di-Ehshpada-a-Sinta,Frejshu-di-Eshpada-a-Sinta,Фрейшу-ди-Эшпада-а-Синта,Фрейшу-ді-Ешпада-а-Сінта",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739285,
+    "name": "Freamunde",
+    "alternatenames": "Freamunde,Фреамунде",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739286,
+    "name": "Frazao",
+    "alternatenames": "Frazao,Frazão",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739329,
+    "name": "Fradelos",
+    "alternatenames": "Fradellos,Fradelos",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739333,
+    "name": "Foz do Sousa",
+    "alternatenames": "Foz do Sousa",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739336,
+    "name": "Foz do Douro",
+    "alternatenames": "Foz,Foz de Douro,Foz do Douro,Sao Joao da Foz,São João da Foz",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739349,
+    "name": "Fornos de Algodres",
+    "alternatenames": "Fornos,Fornos d'Algodres,Fornos de Algodres,Fornos d’Algodres",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739566,
+    "name": "Figueiro",
+    "alternatenames": "Figueiro,Figueiró",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739589,
+    "name": "Figueira de Castelo Rodrigo",
+    "alternatenames": "Figejra-di-Kashtelu-Rodrigu,Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo Municipality,Фигейра-ди-Каштелу-Родригу",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739590,
+    "name": "Figueira da Foz",
+    "alternatenames": "Figeira da Fosas,Figeira de Foz,Figejra-da-Fosh,Figueira da Foz,Figueira da Foz Municipality,Figueira de la Foc,Figueira de la Foç,Phinkeira nta Phous,fei gai la-da fu shen,fygwyra dafwsh,pigeiladaposeu,pigeira-da-poshi,Φιγκέιρα ντα Φους,Фигеира де Фоз,Фигейра-да-Фош,فیگوئرا دافوش,ფიგეირა-და-ფოში,菲蓋拉-達福什,피게이라다포스",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739613,
+    "name": "Fiaes",
+    "alternatenames": "Fiaes,Fiais,Fiães,Fiãis",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739633,
+    "name": "Ferreiros",
+    "alternatenames": "Ferreiros",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739636,
+    "name": "Ferreiros",
+    "alternatenames": "Ferreiros",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739656,
+    "name": "Ferreira",
+    "alternatenames": "Ferreira",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739693,
+    "name": "Felgueiras",
+    "alternatenames": "Felgueiras,Phelnkeiras,Φέλγκεϊρας",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739723,
+    "name": "Feira",
+    "alternatenames": "Feira,Santa Maria da Feira",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739736,
+    "name": "Favaios",
+    "alternatenames": "Favaios",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739751,
+    "name": "Faria",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739755,
+    "name": "Apulia e Fao",
+    "alternatenames": "Fao,Fão",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739756,
+    "name": "Fanzeres",
+    "alternatenames": "Fanzeres,Fânzeres",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739788,
+    "name": "Fafe",
+    "alternatenames": "Fafe,Фафе",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739829,
+    "name": "Estela",
+    "alternatenames": "Estela",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739837,
+    "name": "Estarreja",
+    "alternatenames": "Ehshtarrezha,Eshtarrezha,Estarreja,Starreija,ai si ta lei ya,astarzha,Ештаррежа,Эштаррежа,استارژا,ეშტარეჟა,埃斯塔雷雅",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739848,
+    "name": "Esposende",
+    "alternatenames": "Esposende,Espozende",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739851,
+    "name": "Esporoes",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739868,
+    "name": "Espinho",
+    "alternatenames": "Ehshpin'ju,Espinho,Espinio,Espinjas,esupinyo,Εσπίνιο,Эшпинью,エスピーニョ",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739905,
+    "name": "Espargo",
+    "alternatenames": "Espargo",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739915,
+    "name": "Esmoriz",
+    "alternatenames": "Esmoris",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739920,
+    "name": "Esgueira",
+    "alternatenames": "",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739968,
+    "name": "Ervedosa do Douro",
+    "alternatenames": "Ervedosa do Douro",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2739997,
+    "name": "Ermesinde",
+    "alternatenames": "Ehrmezinde,Ermesinde,Ermezinde,Эрмезинде",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740031,
+    "name": "Eixo",
+    "alternatenames": "Eixo",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740159,
+    "name": "Darque",
+    "alternatenames": "Darque",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740174,
+    "name": "Custoias",
+    "alternatenames": "Custoias",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740221,
+    "name": "Cucujaes",
+    "alternatenames": "Couto de Cocujaes,Couto de Cocujães,Cucujaes,Cucujães",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740274,
+    "name": "Cristelo",
+    "alternatenames": "",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740313,
+    "name": "Covilha",
+    "alternatenames": "COV,Covilha,Covilhã,Kovil'jan,Ковильян",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740519,
+    "name": "Cortegaca",
+    "alternatenames": "Cortegaca,Cortegaça",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740593,
+    "name": "Condeixa-a-Nova",
+    "alternatenames": "Condeixa,Condeixa-a-Nova",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740637,
+    "name": "Coimbra",
+    "alternatenames": "CBP,Coimbra,Coímbra,Coïmbra,Koimbra,Koimbro,Koimpra,Koímbra,ke ying bu la,koinbura,Κόιμπρα,Коимбра,コインブラ,科英布拉",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740761,
+    "name": "Chaves",
+    "alternatenames": "CHV,Chaves",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740767,
+    "name": "Chavao",
+    "alternatenames": "Chavao,Chavão",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740885,
+    "name": "Celorico de Basto",
+    "alternatenames": "Celorico de Basto",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740886,
+    "name": "Celorico da Beira",
+    "alternatenames": "Celorico,Celorico da Beira",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740974,
+    "name": "Castro Daire",
+    "alternatenames": "Castro Daire",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2740992,
+    "name": "Casteloes de Cepeda",
+    "alternatenames": "Casteloes de Cepeda,Castelões de Cepeda",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741001,
+    "name": "Castelo de Paiva",
+    "alternatenames": "Castelo de Paiva",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741266,
+    "name": "Carvalhosa",
+    "alternatenames": "Carvalhosa",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741405,
+    "name": "Carregal do Sal",
+    "alternatenames": "",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741431,
+    "name": "Carrazeda de Anciaes",
+    "alternatenames": "Carrazeda de Anciaes,Carrazeda de Anciães",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741506,
+    "name": "Carapinheira",
+    "alternatenames": "Carapinheira",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741547,
+    "name": "Cantanhede",
+    "alternatenames": "Cantanhede",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741551,
+    "name": "Canidelo",
+    "alternatenames": "Canidello,Canidelo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741566,
+    "name": "Canelas",
+    "alternatenames": "Canelas",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741583,
+    "name": "Candoso",
+    "alternatenames": "Candoso,Santiago",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741612,
+    "name": "Canas de Senhorim",
+    "alternatenames": "Canas,Canas de Senhorim,Canas de Senhorin,Cannas de Senhorin",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741637,
+    "name": "Campo de Besteiros",
+    "alternatenames": "",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741648,
+    "name": "Campo",
+    "alternatenames": "Campo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741649,
+    "name": "Campo",
+    "alternatenames": "Campo",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741724,
+    "name": "Calendario",
+    "alternatenames": "Calendario,Calendário",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741728,
+    "name": "Caldelas",
+    "alternatenames": "Caldelas",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741738,
+    "name": "Caldas de Vizela",
+    "alternatenames": "Caldas de Vizela,Sao Miguel,São Miguel",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741742,
+    "name": "Taipas",
+    "alternatenames": "Caldas das Taipas,Taipas",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741865,
+    "name": "Cabeceiras de Basto",
+    "alternatenames": "Cabeceiras de Basto,Kabesejrash-di-Bashtu,ka bei sai la shen de ba shen tu,Кабесейраш-ди-Башту,Кабесейраш-ді-Башту,卡貝塞拉什德巴什圖",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741897,
+    "name": "Cabanas de Viriato",
+    "alternatenames": "Cabanas de Viriato",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741961,
+    "name": "Buarcos",
+    "alternatenames": "Buarcos",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2741985,
+    "name": "Brito",
+    "alternatenames": "Brito",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742024,
+    "name": "Branca",
+    "alternatenames": "Branca",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742027,
+    "name": "Braganca",
+    "alternatenames": "BGC,Braganca,Bragance,Bragança,Браганца",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742032,
+    "name": "Braga",
+    "alternatenames": "BGZ,Bracara Augusta,Braga,Mpranka,braga,buraga,Μπράγκα,Брага,براگا,ブラガ",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742051,
+    "name": "Bougado",
+    "alternatenames": "Bougado",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742090,
+    "name": "Boticas",
+    "alternatenames": "Boticas",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742283,
+    "name": "Belver",
+    "alternatenames": "Belver",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742285,
+    "name": "Belmonte",
+    "alternatenames": "Belmonte",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742297,
+    "name": "Beiriz de Baixo",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742309,
+    "name": "Beduido",
+    "alternatenames": "Beduido",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742330,
+    "name": "Barrosas",
+    "alternatenames": "Barrosas,Santa Eulalia,Santa Eulália",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742406,
+    "name": "Barqueiros",
+    "alternatenames": "Barqueiros",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742416,
+    "name": "Barcelos",
+    "alternatenames": "Barcelos,Barselos,Barselosas,Barselush,ba sai lu shen,barselosa,barselushi,barslws,barsylws,baruserosu,Барселос,Барселуш,بارسلوس,بارسيلوس,বার্সেলোস,ბარსელუში,バルセロス,巴塞卢什",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742458,
+    "name": "Baltar",
+    "alternatenames": "Baltar",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742478,
+    "name": "Balazar",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742504,
+    "name": "Baiao",
+    "alternatenames": "Baiao,Baião",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742506,
+    "name": "Baguim do Monte",
+    "alternatenames": "Baguim,Baguim do Monte",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742557,
+    "name": "Azenha",
+    "alternatenames": "Azenha",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742565,
+    "name": "Avintes",
+    "alternatenames": "Avintes",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742577,
+    "name": "Aves",
+    "alternatenames": "Aves",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742578,
+    "name": "Aver-o-Mar",
+    "alternatenames": "A ver-o-mar,Abre Mar,Aver-o-Mar",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742595,
+    "name": "Aveleda",
+    "alternatenames": "Aveleda",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742611,
+    "name": "Aveiro",
+    "alternatenames": "Abeiro,Aveiro,Avejru,ZAV,Αβέιρο,Авейру",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742617,
+    "name": "Avanca",
+    "alternatenames": "Avanca",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742649,
+    "name": "Assafarge",
+    "alternatenames": "Assafarge",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742661,
+    "name": "Arvore",
+    "alternatenames": "Arvore,Árvore",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742681,
+    "name": "Arrifana",
+    "alternatenames": "Arrifana",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742700,
+    "name": "Arouca",
+    "alternatenames": "Arouca",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742702,
+    "name": "Aroes",
+    "alternatenames": "Aroes,Arões,Sao Romao,São Romão",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742731,
+    "name": "Armamar",
+    "alternatenames": "Armamar",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742750,
+    "name": "Argoncilhe",
+    "alternatenames": "Argoncilhe",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742752,
+    "name": "Argivai",
+    "alternatenames": "Argivai",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742757,
+    "name": "Arganil",
+    "alternatenames": "Arganil,a jia ni er,Арганил,阿加尼爾",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742765,
+    "name": "Areosa",
+    "alternatenames": "Areosa,Areoza,Ariosa",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742796,
+    "name": "Arcozelo",
+    "alternatenames": "Arcozello,Arcozelo,Argaselo",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742804,
+    "name": "Arcos de Valdevez",
+    "alternatenames": "Arcos de Valdevez,Arcos de Vale de Vez,Arcos de Valle de Vez",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742808,
+    "name": "Arcos",
+    "alternatenames": "Arcos",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742811,
+    "name": "Arcos",
+    "alternatenames": "Arcos",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742827,
+    "name": "Arazede",
+    "alternatenames": "Araxede,Arazede",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742833,
+    "name": "Aradas",
+    "alternatenames": "Aradas",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742837,
+    "name": "Apulia",
+    "alternatenames": "Apulia,Apúlia",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742868,
+    "name": "Anta",
+    "alternatenames": "Anta",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742904,
+    "name": "Anca",
+    "alternatenames": "",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742908,
+    "name": "Anadia",
+    "alternatenames": "Anadia,Anadie,Anadija,anadia,anadya,Анадия,Анадія,آنادیا,ანადია",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742912,
+    "name": "Amorim",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742958,
+    "name": "Amares",
+    "alternatenames": "Amares",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2742965,
+    "name": "Amarante",
+    "alternatenames": "Amarante",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743038,
+    "name": "Alpendurada",
+    "alternatenames": "",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743067,
+    "name": "Alijo",
+    "alternatenames": "Alijo,Alijó,Alizho,Алижо,Аліжо",
+    "subcountry": "Vila Real"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743076,
+    "name": "Alhadas",
+    "alternatenames": "Alhadas",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743095,
+    "name": "Alfena",
+    "alternatenames": "Alfena",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743097,
+    "name": "Alfarelos",
+    "alternatenames": "Al'farelosh',Alfarelos,Альфарелошь",
+    "subcountry": "Coimbra"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743101,
+    "name": "Alfandega da Fe",
+    "alternatenames": "Alfandega da Fe,Alfândega da Fé",
+    "subcountry": "Bragança"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743177,
+    "name": "Aldeia de Joanes",
+    "alternatenames": "Aldeia de Joanes",
+    "subcountry": "Castelo Branco"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743233,
+    "name": "Albergaria-a-Velha",
+    "alternatenames": "Albergaria,Albergaria-a-Velha",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743283,
+    "name": "Aguiar da Beira",
+    "alternatenames": "Agiar-da-Bejra,Aguiar da Beira,Aguiar da Beira Municipality,Агиар-да-Бейра",
+    "subcountry": "Guarda"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743292,
+    "name": "Agueda",
+    "alternatenames": "Ageda,Agueda,Agueda Municipality,a ge da,ageda,agwyda,Águeda,Águeda Municipality,Агеда,آگوئدا,აგედა,阿格達",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743298,
+    "name": "Agucadoura",
+    "alternatenames": "Agucadeira,Agucadoira,Agucadoura,Aguçadeira,Aguçadoira,Aguçadoura",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743304,
+    "name": "Aguas Santas",
+    "alternatenames": "Aguas Santas,Águas Santas",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743315,
+    "name": "Agua Longa",
+    "alternatenames": "Agua Longa,Água Longa",
+    "subcountry": "Porto"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743325,
+    "name": "Aguada de Cima",
+    "alternatenames": "Aguada de Cima",
+    "subcountry": "Aveiro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743407,
+    "name": "Adaufe",
+    "alternatenames": "Adaufe,Adaúfe",
+    "subcountry": "Braga"
+  },
+  {
+    "country": "PT",
+    "geonameid": 2743428,
+    "name": "Abraveses",
+    "alternatenames": "Abraveses",
+    "subcountry": "Viseu"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372472,
+    "name": "Vila Franca do Campo",
+    "alternatenames": "Vila Franca do Campo,Villa Franca do Campo",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372485,
+    "name": "Velas",
+    "alternatenames": "Velas,Velasas,Velash,Velašas,Vellas,Villa das Vellas,bellaseu,wei la si,Велаш,韋拉斯,벨라스",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372562,
+    "name": "Senhora do Rosario",
+    "alternatenames": "Nossa Senhora Rosario,Senhora do Rosario,Senhora do Rosário,Senhora do Rozario",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372583,
+    "name": "Sao Vicente",
+    "alternatenames": "Sao Vicente,Sao Vicente Ferreira,São Vicente,São Vicente Ferreira",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372588,
+    "name": "Sao Sebastiao",
+    "alternatenames": "",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372589,
+    "name": "Sao Roque do Pico",
+    "alternatenames": "San Roque,San-Roke-du-Piku,Sao Roque,Sao Roque do Pico,São Roque,São Roque do Pico,Сан-Роке-ду-Пику",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372591,
+    "name": "Sao Roque",
+    "alternatenames": "Sao Roque,São Roque",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372600,
+    "name": "Sao Mateus",
+    "alternatenames": "Sao Mateus,Sao Mateus da Calheta,Sao Matheus,Sao Matheus da Calheta,São Mateus,São Mateus da Calheta,São Matheus,São Matheus da Calheta",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372621,
+    "name": "Sao Bartolomeu",
+    "alternatenames": "Sao Bartholomeu,Sao Bartolomeu,São Bartholomeu,São Bartolomeu",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372643,
+    "name": "Santa Cruz das Flores",
+    "alternatenames": "FLW,Santa Cruz,Santa Cruz Flores,Santa Cruz das Flores,Santa Kruz das Floresas,Santa Kruz das Florešas,Santa-Krush-dash-Florish,Vila de Santa Cruz,santakeuluseudaseupeulloleuseu,sheng ke lu shen da shen fu luo li shen,Санта-Круш-даш-Флориш,聖克魯什達什弗洛里什,산타크루스다스플로르스",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372644,
+    "name": "Santa Cruz da Graciosa",
+    "alternatenames": "Santa Cruz,Santa Cruz da Graciosa,Santa Kruz da Grasioza,Santa-Krush-da-Grasioza,santakeuluseudageulasioja,sheng ke lu shen da ge la xi ao sa,Санта-Круш-да-Грасиоза,聖克魯什達格拉西奧薩,산타크루스다그라시오자",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372653,
+    "name": "Santa Barbara",
+    "alternatenames": "Santa Barbara,Santa Bárbara",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372677,
+    "name": "Rosto de Cao",
+    "alternatenames": "Rosto de Cao,Rosto de Cão,Rosto do Cao,Rosto do Cão",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372691,
+    "name": "Ribeirinha",
+    "alternatenames": "",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372698,
+    "name": "Ribeira Seca",
+    "alternatenames": "Ribeira Seca",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372700,
+    "name": "Ribeira Seca",
+    "alternatenames": "Ribeira Seca,Ribeira Secca",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372701,
+    "name": "Ribeira Seca",
+    "alternatenames": "Ribeira Seca",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372707,
+    "name": "Ribeira Grande",
+    "alternatenames": "Ribeira Grande",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372709,
+    "name": "Ribeira Grande",
+    "alternatenames": "QEG,Ribeira Grande,Ribejra-Grande,Ribejra-Grandi,da li bei la,hibeilageulandeu,ribeira-grande,rybyra ghrandy,rybyra grandh,Рибейра-Гранди,Рібейра-Гранде,ريبيرا غراندي,ریبیرا گرانده,რიბეირა-გრანდე,大里貝拉,히베이라그란드",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372730,
+    "name": "Relva",
+    "alternatenames": "Relva",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372745,
+    "name": "Rabo de Peixe",
+    "alternatenames": "Rabo de Peixe,Ribo de Peixe",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372760,
+    "name": "Praia da Vitoria",
+    "alternatenames": "Praia,Praia da Victoria,Praia da Vitoria,Praia da Vitória,Vila da Praia da Victoria,Vila da Praia da Vitoria,Vila da Praia da Vitória",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372767,
+    "name": "Povoacao",
+    "alternatenames": "Povoacao,Povoacao do Campo,Povoação",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372769,
+    "name": "Porto Martins",
+    "alternatenames": "Porto Martins",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372770,
+    "name": "Porto Judeu",
+    "alternatenames": "Port Judea,Porto Judeu",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372781,
+    "name": "Ponta Garca",
+    "alternatenames": "Ponta Garca,Ponta Garça,Ponta da Garca",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372863,
+    "name": "Mosteiros",
+    "alternatenames": "Mosteiros",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372901,
+    "name": "Maia",
+    "alternatenames": "Maia",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372908,
+    "name": "Madalena",
+    "alternatenames": "Magdalena",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372952,
+    "name": "Lajes",
+    "alternatenames": "Lagens,Lajens,Lajes,TER",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372953,
+    "name": "Lajes",
+    "alternatenames": "Lagens,Lagens do Pico,Lages-do-Pico,Lajes,Lajes do Pico,Villa das Lagens",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372954,
+    "name": "Lajes das Flores",
+    "alternatenames": "Floresh,Lagens,Lagens das Flores,Lajens das Flores,Lajes das Flores,Lazhish-dash-Florish,la ri shen da shen fu luo li shen,lajeuseudaseupeulloleuseu,Лажиш-даш-Флориш,Флореш,拉日什達什弗洛里什,라즈스다스플로르스",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372965,
+    "name": "Lagoa",
+    "alternatenames": "Alagoa,Lagoa,la gu a,lagoa,Лагоа,לגואה,拉古阿,라고아",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3372988,
+    "name": "Horta",
+    "alternatenames": "HOR,Horta,Orta,ao er ta,awrta,hwrth,oleuta,Орта,הורטה,اورتا,ორტა,奧爾塔,오르타",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373025,
+    "name": "Furnas",
+    "alternatenames": "Furnash,puleunaseu hwasan,Фурнаш,푸르나스 화산",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373051,
+    "name": "Fonte Bastardo",
+    "alternatenames": "Fonte Bastardo,Fonte do Bastardo,Fonte do Bustardo",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373070,
+    "name": "Feteira",
+    "alternatenames": "Feteira,Fetejra,Фетейра",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373078,
+    "name": "Fenais da Luz",
+    "alternatenames": "Fenaes da Luz,Fenais da Luz",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373079,
+    "name": "Fenais da Ajuda",
+    "alternatenames": "Fenaes d'Ajuda,Fenaes d'Ajuda Achadinha,Fenaes d’Ajuda,Fenaes d’Ajuda Achadinha,Fenais d'Ajuda,Fenais da Ajuda,Fenais d’Ajuda",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373099,
+    "name": "Faja de Baixo",
+    "alternatenames": "Faja de Baixo,Fajã de Baixo",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373200,
+    "name": "Castelo Branco",
+    "alternatenames": "Castello Branco,Castelo Branco",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373251,
+    "name": "Calheta",
+    "alternatenames": "Calheta,Calhetas,Kal'eta,ka lie ta,kallyeta,Кальета,卡列塔,칼례타",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373260,
+    "name": "Cais do Pico",
+    "alternatenames": "",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373269,
+    "name": "Cabouco",
+    "alternatenames": "Cabouco",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373300,
+    "name": "Biscoitos",
+    "alternatenames": "Biscoitos,Biscoutos,Bishkojtush,Sao Pedro Biscoutos,São Pedro Biscoutos,Бишкойтуш",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373329,
+    "name": "Arrifes",
+    "alternatenames": "Arrafes,Arrifes",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373347,
+    "name": "Angustias",
+    "alternatenames": "Angushtiash,Angustias,Angústias,Ангуштиаш",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373348,
+    "name": "Angra do Heroismo",
+    "alternatenames": "Angra,Angra do Eroizmo,Angra do Heroismas,Angra do Heroismo,Angra do Heroišmas,Angra do Heroísmo,Angra du Ehroizhmu,Angra-du-Ehroishmu,Ankra nto Eroismo,Aнгра ду Эроижму,angra dw hrwyysmw,angra-du-eroizhmu,ying xiong gang,Άγκρα ντο Ερόϊσμο,Ангра до Ероизмо,Ангра-ду-Эроишму,آنگرا دو هروئیسمو,ანგრა-დუ-ეროიჟმუ,アングラ・ド・エロイズモ,英雄港",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 3373377,
+    "name": "Agua de Pau",
+    "alternatenames": "Agua de Pau,Água de Pau",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6545006,
+    "name": "Vilamoura",
+    "alternatenames": "Vilamoura,Vilamura,Виламура",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6559436,
+    "name": "Vila Nova De Cacela",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6559488,
+    "name": "Quinta Do Conde",
+    "alternatenames": "",
+    "subcountry": "District of Setúbal"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6620294,
+    "name": "Prior Velho",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6697257,
+    "name": "Valenza",
+    "alternatenames": "Valenca,Valensa,Valenza,Valença,Валенса",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6930153,
+    "name": "Alfragide",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6930162,
+    "name": "Alvalade",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6941014,
+    "name": "Ponta Delgada",
+    "alternatenames": "PDL,Ponta Delgada,Ponta Delgada (Azores),Ponta Ntelgada,Ponta-Dehlgada,Ponta-Delgada,Pontae-Delgadae,bwnta dylghada,peng ta de er jia da,pontadelgada,pwnta dlgada,pwnth dlgdh,Πόντα Ντελγάδα,Понтæ-Делгадæ,Понта Делгада,Понта-Делгада,Понта-Дэлгада,פונטה דלגדה,بونتا ديلغادا,پونتا دلگادا,ปงตาแดลกาดา,პონტა-დელგადა,ポンタ・デルガダ,蓬塔德爾加達,폰타델가다",
+    "subcountry": "Azores"
+  },
+  {
+    "country": "PT",
+    "geonameid": 6946668,
+    "name": "Santos-o-Velho",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 7117100,
+    "name": "Vila",
+    "alternatenames": "",
+    "subcountry": "Viana do Castelo"
+  },
+  {
+    "country": "PT",
+    "geonameid": 7576664,
+    "name": "Cabanas de Tavira",
+    "alternatenames": "",
+    "subcountry": "Faro"
+  },
+  {
+    "country": "PT",
+    "geonameid": 7909711,
+    "name": "Santo Isidoro",
+    "alternatenames": "",
+    "subcountry": "Lisbon"
+  },
+  {
+    "country": "PT",
+    "geonameid": 11808241,
+    "name": "Azeitao",
+    "alternatenames": "",
+    "subcountry": "District of Setúbal"
+  }
+]

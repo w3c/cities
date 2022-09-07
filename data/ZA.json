@@ -1,0 +1,2417 @@
+[
+  {
+    "country": "ZA",
+    "geonameid": 936374,
+    "name": "Roodepoort",
+    "alternatenames": "Roodepoort,Roodeport-Maraisburg",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 936953,
+    "name": "Zoar",
+    "alternatenames": "Zoar",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 937136,
+    "name": "Zeerust",
+    "alternatenames": "Zeerust",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 937246,
+    "name": "Zastron",
+    "alternatenames": "Zastron",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 938457,
+    "name": "Wolmaransstad",
+    "alternatenames": "Wolmaransstad,Wolmaranstad",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 938694,
+    "name": "White River",
+    "alternatenames": "White River,Witrivier",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 939270,
+    "name": "Witbank",
+    "alternatenames": "EMalahleni,Ehmalakhleni,Emalahleni,Vitbank,Vitbankas,Witbank,wei te ban ke,Вітбанк,Эмалахлени,Эмалахлені,وٹبینک,威特班克",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 939608,
+    "name": "Winburg",
+    "alternatenames": "Winburg",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 939676,
+    "name": "Willowmore",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 939702,
+    "name": "Williston",
+    "alternatenames": "Williston",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 940186,
+    "name": "Whittlesea",
+    "alternatenames": "Whittlesea",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 940316,
+    "name": "Westonaria",
+    "alternatenames": "Vestonarija,Westonaria,Вестонария",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 940424,
+    "name": "Wesselsbron",
+    "alternatenames": "Wesselsbron",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 940909,
+    "name": "Welkom",
+    "alternatenames": "Velkom,Velkomas,WEL,Welkom,uerukomu,wei er ke mu,Велком,Վելկոմ,ウェルコム,韋爾科姆",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 941923,
+    "name": "Wartburg",
+    "alternatenames": "Wartburg",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 941931,
+    "name": "Warrenton",
+    "alternatenames": "Warrenton",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 941966,
+    "name": "Warmbaths",
+    "alternatenames": "Warmbad,Warmbaths",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 942206,
+    "name": "Arniston",
+    "alternatenames": "Arniston,Waenhuiskrans",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 942470,
+    "name": "Vryheid",
+    "alternatenames": "VYD,Vryheid",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 942511,
+    "name": "Vryburg",
+    "alternatenames": "Frejburg,Frejburga,VRU,Vryburg,fu lei bao,Фрейбург,Фрейбурга,弗雷堡",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 942683,
+    "name": "Vredefort",
+    "alternatenames": "Vredefort",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 942701,
+    "name": "Vrede",
+    "alternatenames": "Vrede",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 943032,
+    "name": "Volksrust",
+    "alternatenames": "Volkrust,Volksrust",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 943882,
+    "name": "Virginia",
+    "alternatenames": "Virdzhinija,Virginia,Вирджиния",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 943937,
+    "name": "Villiers",
+    "alternatenames": "Villiers",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 943960,
+    "name": "Viljoenskroon",
+    "alternatenames": "Viljoenskroon",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 944024,
+    "name": "Victoria West",
+    "alternatenames": "Victoria West,Victoria-Wes",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 944385,
+    "name": "Vereeniging",
+    "alternatenames": "Feriniging,Ferinikhing,Vereeniging,Vereniging,Verenigingas,Verenigingo,ferinihingu,fu li ni xin,fyrynjngh,fyrynkhn,peleinihing,wrynygyng,Веренигинг,Феринихинг,Ферінігінг,فيرينجنغ,فيرينخن,ورینیگینگ,フェリーニヒング,弗里尼欣,페레이니힝",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 944531,
+    "name": "Ventersdorp",
+    "alternatenames": "Ventersdorp",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 944540,
+    "name": "Ventersburg",
+    "alternatenames": "Ventersburg",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 944774,
+    "name": "Van Wyksvlei",
+    "alternatenames": "Van Wyksvlei",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 944986,
+    "name": "Vanderbijlpark",
+    "alternatenames": "Fanderbajpark,Fanderbejlpark,Vanderbijlpark,fan de bai er pa ke,fandrbyjlbark,phandarabilaparka,wandrbjlpark,wndrbyjlprk,Фандербајпарк,Фандербейлпарк,فاندربيجلبارك,واندربجلپارک,وندربیجلپرک,फांडरबीलपार्क,范德拜爾帕克",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 945813,
+    "name": "Utrecht",
+    "alternatenames": "Utrecht",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 945945,
+    "name": "Upington",
+    "alternatenames": "Apington,UTN,Upington,eopingteon,wu ping tong,Апингтон,烏平通,어핑턴",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 946058,
+    "name": "Mthatha",
+    "alternatenames": "Mthatha,UTT,Umtata,umutata,wu mu ta ta,Умтата,متھاتھا,ウムタタ,烏姆塔塔",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 946128,
+    "name": "eMkhomazi",
+    "alternatenames": "Umkomaas,eMkhomazi",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 946257,
+    "name": "Ulundi",
+    "alternatenames": "Owlundi,ULD,Ulundi,ullundi,urundi,wu lun di,Улунди,Улунді,Ուլունդի,ウルンディ,烏倫迪,울룬디",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 946877,
+    "name": "Uitenhage",
+    "alternatenames": "Ehjtenkhakhe,Ejtenkhakhe,Jutunkhakh,Kariega,Uitenhage,awytnhag,oitenhahe,Ейтенхахе,Эйтенхахе,Ютънхах,اویتنهاگ,オイテンハーヘ",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 946973,
+    "name": "Tzaneen",
+    "alternatenames": "LTA,Tzaneen,cha nen,zanyn,Тзанеен,زانین,察嫩",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 947666,
+    "name": "Tugela Ferry",
+    "alternatenames": "Tugela Ferry",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 948099,
+    "name": "Trompsburg",
+    "alternatenames": "Trompsburg",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 949026,
+    "name": "Thulamahashi",
+    "alternatenames": "Thulamahashi",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 949224,
+    "name": "Thohoyandou",
+    "alternatenames": "THY,Thohoyandou,Thohoyanḓou,Tkhokhojandou,suo he yan du,Тхохояндоу,تھوہویانڈو,索赫燕杜",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 949282,
+    "name": "Theunissen",
+    "alternatenames": "Tenissen,Theunissen,Тениссен",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 949683,
+    "name": "Thabazimbi",
+    "alternatenames": "Thabazimbi",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 949703,
+    "name": "Thaba Nchu",
+    "alternatenames": "TCU,Thaba Nchu,Thabantsjoe",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 949880,
+    "name": "Tembisa",
+    "alternatenames": "Tembisa",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 950002,
+    "name": "Taung",
+    "alternatenames": "Taung,Taungs",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 950037,
+    "name": "Tarkastad",
+    "alternatenames": "Tarkastad",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 950709,
+    "name": "Swellendam",
+    "alternatenames": "Republiken Swellendam,Shvelendam,Svellendam,Swellendam,si wei lun dan,Свеллендам,Швелендам,斯韋倫丹",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 951441,
+    "name": "Sundumbili",
+    "alternatenames": "Sundumbili",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 951650,
+    "name": "Stutterheim",
+    "alternatenames": "Stutterheim",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 952192,
+    "name": "Stilfontein",
+    "alternatenames": "Stilfontein",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 952734,
+    "name": "KwaDukuza",
+    "alternatenames": "KwaDukuza,Stanger,Stanger Station",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 952747,
+    "name": "Standerton",
+    "alternatenames": "Standerston,Standerton",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 952865,
+    "name": "Springs",
+    "alternatenames": "Springs",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 953781,
+    "name": "Soweto",
+    "alternatenames": "Mpanzaville,Souehto,Soueto,Sovetas,Soveto,Soweto,soueto,soweto,suo wei tuo,swwtw,swytw,Σοβέτο,Совето,Соуэто,סווטו,سويتو,სოვეტო,ソウェト,索韦托,소웨토",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 954161,
+    "name": "Somerset East",
+    "alternatenames": "Somerset East,Somerset-Oos",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 955313,
+    "name": "Siyabuswa",
+    "alternatenames": "Siyabuswa",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 956507,
+    "name": "Senekal",
+    "alternatenames": "Senekal",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 956767,
+    "name": "Secunda",
+    "alternatenames": "Secunda,Sekunda,ZEC,Секунда",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 956878,
+    "name": "Scottburgh",
+    "alternatenames": "Scottburg,Scottburgh,Scottsburgh",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 956907,
+    "name": "Schweizer-Reneke",
+    "alternatenames": "Schweizer-Reineke,Schweizer-Reneke",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 957487,
+    "name": "Sasolburg",
+    "alternatenames": "Sasolburg",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 958273,
+    "name": "Saint Lucia Estuary",
+    "alternatenames": "Saint Lucia,Santa Ljuchija,St Lucia,St. Lucia,Санта Лючия",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 958724,
+    "name": "Rustenburg",
+    "alternatenames": "Restenberha,Rjustenburg,Rustemburg,Rustemburgo,Rustenburg,Rustenburgas,lei si teng bao,luseutenbeogeu,rastnbrg,rstnbwrg,rus then beirk,rustenabarga,rusutenburuku,rwstnbrgh,Рустенбург,Рюстенбург,רסטנבורג,راستنبرگ,رسٹنبرگ,روستنبرغ,روسٹنبرگ,रुस्टेनबर्ग,รุสเทนเบิร์ก,ሩስተንበርግ,ルステンブルク,勒斯滕堡,루스텐버그",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 961152,
+    "name": "Riversdale",
+    "alternatenames": "Riversdal,Riversdale",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 961226,
+    "name": "Ritchie",
+    "alternatenames": "Ritchie",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 962330,
+    "name": "Richmond",
+    "alternatenames": "Richmond",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 962367,
+    "name": "Richards Bay",
+    "alternatenames": "RCB,Ricardusbaia,Richards Bay,Richards Bej,Richards-Bej,Richardsbaai,Ричардс Беј,Ричардс-Бей",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 962847,
+    "name": "Reitz",
+    "alternatenames": "Reitz",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 963230,
+    "name": "Randfontein",
+    "alternatenames": "Randfontejn,lan de fang tan,Рандфонтейн,蘭德方坦",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 963241,
+    "name": "Randburg",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 963488,
+    "name": "Qumbu",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 963516,
+    "name": "Queenstown",
+    "alternatenames": "EKomani,Kuinstaun,Kvinstaun,Queenstown,UTW,kun shi dui,Квинстаун,Куинстаун,昆士敦",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 963525,
+    "name": "Queensdale",
+    "alternatenames": "Queensdale",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964078,
+    "name": "Prince Albert",
+    "alternatenames": "Prince Albert,Prins Albert",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964090,
+    "name": "Prieska",
+    "alternatenames": "PRK,Prieska",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964137,
+    "name": "Pretoria",
+    "alternatenames": "E-Pitoli,IPitoli,PRY,Pitoli,Praetoria,Prehtoryja,Pretori,Pretoria,Pretoria/Pole tou Akroteriou,Pretoriae,Pretorii,Pretorija,Pretorio,Pretoriya,Pretoriye,Pretoriä,Pretoría,Pretòria,Pretória,Prétoriye,Pta,Tshwane,bi lei tuo li ya,brytwrya,peulitolia,phri thx reiy,pirittoriya,pritori'a,pritoriya,pritteariya,prtwrya,prtwryh,pu li tuo li ya,puretoria,Πρετόρια,Πρετόρια/Πόλη του Ακρωτηρίου,Претори,Претория,Преторија,Преторія,Прэторыя,Պրետորիա,פרטוריה,بريتوريا,پرتوریا,پریٹوریا,پرێتۆریا,प्रिटोरिया,ਪ੍ਰਿਟੋਰੀਆ,பிரிட்டோரியா,ప్రిటోరియా,പ്രിട്ടോറിയ,พริทอเรีย,ཕི་རི་ཐོ་རི་ཡ།,პრეტორია,ፕሪቶሪያ,プレトリア,普利托里亞,比勒陀利亞,프리토리아",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964315,
+    "name": "Mokopane",
+    "alternatenames": "Mokopane,Potgietersrus,Potgietersrust,Potgitersrus,mo ke pa nei,Мокопане,Потгитерсрус,莫科帕內",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964349,
+    "name": "Potchefstroom",
+    "alternatenames": "PCF,Pochefstrum,Potchefstroom,Potchefstrum,bo qie fu si te lu mu,peaccephestrum,pocephastruma,pochefusutorumu,pochepeuseuteulom,Потчефструм,Почефструм,पॉचेफस्ट्रूम,പൊച്ചെഫെസ്ട്രൂം,ポチェフストルーム,波切夫斯特魯姆,포체프스트롬",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964363,
+    "name": "Postmasburg",
+    "alternatenames": "Postmasburg",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964406,
+    "name": "Port Shepstone",
+    "alternatenames": "Port Shepstone,Port-Shepston,xie pu si dui gang,Порт-Шепстон,謝普斯敦港",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964408,
+    "name": "Port Saint John's",
+    "alternatenames": "JOH,Port Saint John's,Port Saint Johns,Port Saint John’s,Port St. Johns,Umzimvubu",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964420,
+    "name": "Port Elizabeth",
+    "alternatenames": "Gqeberha,IBhayi,Ibhayi,PLZ,Port Elisabeth,Port Elizabet,Port Elizabetas,Port Elizabeth,Port Elizampeth,Port-Ehlizabet,Port-Elizabet,Portelizabeta,Porto Elizabeth,Portus Elisabethae,Puerto Elizabeth,bwrt alyzabyth,die Baai,phxrt xe li sabeth,porta elijhabetha,porta elizabetha,poteuellijabeseu,pwrt alyzabt,yi li sha bai gang,Πορτ Ελίζαμπεθ,Порт Елизабет,Порт-Елізабет,Порт-Элизабет,Порт-Элізабет,פורט אליזבת,بورت إليزابيث,پورت الیزابت,پورٹ الزبتھ,पोर्ट एलिज़ाबेथ,पोर्ट एलिझाबेथ,พอร์ตเอลิซาเบท,პორტ-ელიზაბეთი,ፖርት ኤልሳቤጥ,ポート・エリザベス,伊莉莎白港,포트엘리자베스",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964432,
+    "name": "Port Alfred",
+    "alternatenames": "AFD,Kowie,Port Alfred,Port-Al'fred,The Kowie,ai er fu lei de gang,Порт-Альфред,艾尔弗雷德港",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964574,
+    "name": "Pongola",
+    "alternatenames": "Pongola",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 964712,
+    "name": "Plettenberg Bay",
+    "alternatenames": "Formosa,PBZ,Plettenberg,Plettenberg Bay,Plettenberg-Bej,Plettenbergbaai,Плеттенберг-Бей",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965154,
+    "name": "Pinetown",
+    "alternatenames": "Pinetown",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965241,
+    "name": "Piet Retief",
+    "alternatenames": "Piet Retief",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965289,
+    "name": "Polokwane",
+    "alternatenames": "PTG,Palakvaneh,Petriburgum,Pietersburg,Pietrsburg,Polokouane,Polokvane,Polokvanė,Polokwane,bo luo ke wa ni,bwlwkwan,pho lokhe wn,polakvani,pollokwane,polokvane,porokuwane,pwlwkwyn,Πολοκουάνε,Палакванэ,Полокване,פולוקוואנה,بولوكوان,پولوکوانے,پولوکوین,पोलक्वानी,पोलोक्वाने,โพโลเควน,ፖሎክዋኔ,ポロクワネ,波羅克瓦尼,폴로콰네",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965301,
+    "name": "Pietermaritzburg",
+    "alternatenames": "Maritzburg,Mokokotlofo,PZB,Petromaritzburgum,Pietermaritsburg,Pietermaritzburg,Pitehrmarycburg,Pitermaricburg,Pitermaricburgas,Piturmaricburg,bi de ma li ci bao,bytrmarytzbrgh,pi texr ma rits beirk,pitamarittsubagu,pitaramairitsabarga,pitaramaritjhabarga,piteomalicheubeogeu,pytrmarytsbrg,Питермарицбург,Питърмарицбург,Пітермаріцбург,Пітэрмарыцбург,بيترماريتزبرغ,پیترماریتسبرگ,پیٹرماریٹزبرگ,پیٹرومیرٹبرگ,पीटरमारित्झबर्ग,पीटरमैरिट्सबर्ग,ปีเตอร์มาริตซ์เบิร์ก,ピーターマリッツバーグ,彼得马里茨堡,피터마리츠버그",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965401,
+    "name": "Phuthaditjhaba",
+    "alternatenames": "Phutaditjhaba,Phuthaditjhaba",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965528,
+    "name": "Phalaborwa",
+    "alternatenames": "PHW,Palabora,Palaborva,Phalaborwa,Pkhalaborva,pa la bo lu wa,Палаборва,Пхалаборва,帕拉博魯瓦",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 965564,
+    "name": "Petrusville",
+    "alternatenames": "Petrusville",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 966007,
+    "name": "Peddie",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 966060,
+    "name": "Paulpietersburg",
+    "alternatenames": "Paulpietersburg",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 966166,
+    "name": "Parys",
+    "alternatenames": "Paris,Parys,Парис",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 966380,
+    "name": "Pampierstad",
+    "alternatenames": "Pampierstad,Pampierstat",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 967106,
+    "name": "Oudtshoorn",
+    "alternatenames": "OUH,Oudskhorn,Oudtshoorn,ao ci hu en,Оудсхорн,奧茨胡恩",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 967476,
+    "name": "Orkney",
+    "alternatenames": "Eastleigh,Orknejskie,Orkney,Оркнейские",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 967542,
+    "name": "Orania",
+    "alternatenames": "Orani,Orania,Oranija,Orânia,Орани,Орания,Оранія",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 967580,
+    "name": "Orange Farm",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 968665,
+    "name": "Modimolle",
+    "alternatenames": "Modimolle,Nylstroom",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 969582,
+    "name": "Noupoort",
+    "alternatenames": "Naauwpoort,Noupoort",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 970133,
+    "name": "Nongoma",
+    "alternatenames": "Nongoma",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 970341,
+    "name": "Nkowakowa",
+    "alternatenames": "Nkowakowa",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 970480,
+    "name": "Nkandla",
+    "alternatenames": "Nkandhla,Nkandla",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 970566,
+    "name": "Nigel",
+    "alternatenames": "Najdzhel,Nigel,Найджел",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 971421,
+    "name": "Newcastle",
+    "alternatenames": "NCS,Newcastle",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 971534,
+    "name": "Nelspruit",
+    "alternatenames": "Mbombela,NLP,Naspoti,Nel'sprjujt,Nelspreyt,Nelsprojt,Nelspruit,mbombela,nei er si pu lei te,nels pirt,nelsapru'ita,nelseupeulu-iteu,nerusupuroito,nlsprwyt,nlspryyt,nylsbrwyt,nylsprwyt,Мбомбела,Нелспройт,Нелспруит,Нельспрюйт,נלספרייט,نلسپرویت,نيلسبرويت,نیلسپرویت,नेल्सप्रूइत,म्बोम्बेला,เนลสไปรต์,ኔልስፕሩዊት,ネルスプロイト,内尔斯普雷特,넬스프루이트",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 971669,
+    "name": "Ndwedwe",
+    "alternatenames": "Ndwedwe,Ndwedwe Magistracy",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 972512,
+    "name": "Mutale",
+    "alternatenames": "",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 972673,
+    "name": "Muldersdriseloop",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 972803,
+    "name": "Mtubatuba",
+    "alternatenames": "DUK,Mtubatuba",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 973111,
+    "name": "Mpumalanga",
+    "alternatenames": "Mpumalanga",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 973139,
+    "name": "Mpophomeni",
+    "alternatenames": "Mpophomeni",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 973525,
+    "name": "Mount Frere",
+    "alternatenames": "Kwabhaca,Mount Frere",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 973551,
+    "name": "Mount Ayliff",
+    "alternatenames": "Maxesibeni,Mount Alyff,Mount Ayliff",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 973709,
+    "name": "Mossel Bay",
+    "alternatenames": "MZY,Mossel Bay,Mossel-Bej,Mosselbaai,Mosul Bej,Teluk Mossel,mo sai er bei,Моссел-Бей,Мосъл Бей,莫塞爾貝",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 974222,
+    "name": "Mooirivier",
+    "alternatenames": "Mooi River,Mooirivier",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 974611,
+    "name": "Montagu",
+    "alternatenames": "Montagu",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 974670,
+    "name": "Mondlo",
+    "alternatenames": "Mondlo",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 974719,
+    "name": "Molteno",
+    "alternatenames": "Molteno",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 974932,
+    "name": "Mogwase",
+    "alternatenames": "",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 975144,
+    "name": "Modderfontein",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 975436,
+    "name": "Mmabatho",
+    "alternatenames": "MBD,Mabatho,Mbabatho,Mmabatho,Mmabato,Ммабато",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 975511,
+    "name": "Mkuze",
+    "alternatenames": "MZQ,Mkusi,Mkuze,Mkuzi",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 976358,
+    "name": "Middelburg",
+    "alternatenames": "Middelburg",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 976361,
+    "name": "Middelburg",
+    "alternatenames": "Middelberg,Middelburg,mdlbwrkh,mi de er bao,Мидделбург,مدلبورخ,米德爾堡",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 976764,
+    "name": "Meyerton",
+    "alternatenames": "Meyerton",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 977135,
+    "name": "Melmoth",
+    "alternatenames": "Melmoth",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 978327,
+    "name": "Matatiele",
+    "alternatenames": "Matatiele",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 978677,
+    "name": "Marquard",
+    "alternatenames": "Marquard",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 978895,
+    "name": "Margate",
+    "alternatenames": "Berkleys,MGH,Margate,Margate No. 4",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 978944,
+    "name": "Marble Hall",
+    "alternatenames": "Marble Hall",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 979365,
+    "name": "Mankoeng",
+    "alternatenames": "Mankoeng",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 980101,
+    "name": "Makapanstad",
+    "alternatenames": "Makapaanstad,Makapaanstat,Makapanstad",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 980213,
+    "name": "Maile",
+    "alternatenames": "KwaMaile,Maile",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 980595,
+    "name": "Mahikeng",
+    "alternatenames": "Mafeking,Mafikeng,Mafikengas,Mahikeng,mafikengu,Мафикенг,マフィケング",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 980798,
+    "name": "Maclear",
+    "alternatenames": "Maclear",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 980921,
+    "name": "Mabopane",
+    "alternatenames": "Mabopane",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 981158,
+    "name": "Lydenburg",
+    "alternatenames": "Lydenburg,Mashishing,lai deng bao,raidenbagu,Машишинг,ライデンバーグ,萊登堡",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 981827,
+    "name": "Louis Trichardt",
+    "alternatenames": "LCD,Louis Trichardt,Luis-Trichard,lu yi te li ha te,Луис-Тричард,لوئی ٹرشارٹ,ルイス・トリハート,路易特里哈特",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 982701,
+    "name": "Lindley",
+    "alternatenames": "Lindley",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 982899,
+    "name": "Lichtenburg",
+    "alternatenames": "Lichtenburg,Likhtenburge,Лихтенбурге",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 982906,
+    "name": "Libode",
+    "alternatenames": "Libode",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 984087,
+    "name": "Lebowakgomo",
+    "alternatenames": "Lebowakgomo",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 984962,
+    "name": "Laingsburg",
+    "alternatenames": "Laingsburg",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 984998,
+    "name": "Ladysmith",
+    "alternatenames": "LAY,Ladysmith",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 985004,
+    "name": "Lady Grey",
+    "alternatenames": "Lady Grey",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 985011,
+    "name": "Lady Frere",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 985015,
+    "name": "Ladybrand",
+    "alternatenames": "Ladybrand",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 985020,
+    "name": "Ladismith",
+    "alternatenames": "Ladismith",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 985609,
+    "name": "KwaMbonambi",
+    "alternatenames": "",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 986083,
+    "name": "Kutloanong",
+    "alternatenames": "Kutloanong",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 986134,
+    "name": "Kuruman",
+    "alternatenames": "KMH,Kuruman,khuru man,ku lu man,Куруман,คุรุมาน,庫魯曼",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 986717,
+    "name": "Kruisfontein",
+    "alternatenames": "Kruisfontein",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 986822,
+    "name": "Krugersdorp",
+    "alternatenames": "Krjugersdorp,Krjugersdorpa,Krugersdorp,Krugersdorpas,ke lu ge si duo pu,Крюгерсдорп,Крюгерсдорпа,克魯格斯多普",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 986846,
+    "name": "Kroonstad",
+    "alternatenames": "Kroonstad,Krunstad,ke long si ta de,krwnstad,Крунстад,کرونستاد,克龍斯塔德",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 987202,
+    "name": "Kriel",
+    "alternatenames": "Kriel",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 987648,
+    "name": "Koster",
+    "alternatenames": "Koster",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 987875,
+    "name": "Koppies",
+    "alternatenames": "Kopjes,Koppies",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 988265,
+    "name": "Komga",
+    "alternatenames": "Komga,Komgha",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 988290,
+    "name": "Komatipoort",
+    "alternatenames": "KOF,Komatipoort",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 988356,
+    "name": "Kokstad",
+    "alternatenames": "Kokstad",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 988429,
+    "name": "Koffiefontein",
+    "alternatenames": "Koffiefontein",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 988698,
+    "name": "Knysna",
+    "alternatenames": "De Nysna,Knajsno,Knisna,Knysna,Najsna,ke ni si na,knysna,Книсна,Найсна,كنيسنا,克尼斯納",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 989921,
+    "name": "Klerksdorp",
+    "alternatenames": "KXE,Klerksdorp,ke lai ke si duo pu,Клерксдорп,克萊克斯多普",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 990802,
+    "name": "Kirkwood",
+    "alternatenames": "Kirkwood",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 990930,
+    "name": "Kimberley",
+    "alternatenames": "KIM,Kimberley,Kimberli,Kimberlis,Kimburli,jin bo li,kimbarali,kimbeolli,kinbari,kmbrly  shmaly kyp,kymbrly,qymbrly,Кимберли,Кимбърли,Кімберлі,קימברלי,كيمبرلي,کمبرلی، شمالی کیپ,کمبرلے,کیمبرلی,किम्बरली,キンバリー,金伯利,킴벌리",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 991396,
+    "name": "Kenhardt",
+    "alternatenames": "Kenardt,Kenhardt",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 991664,
+    "name": "Kathu",
+    "alternatenames": "Kathu",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 992071,
+    "name": "Kareedouw",
+    "alternatenames": "Kareedouw,Karreedouw",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 993014,
+    "name": "Kakamas",
+    "alternatenames": "Kakamas",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 993568,
+    "name": "Jozini",
+    "alternatenames": "",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 993800,
+    "name": "Johannesburg",
+    "alternatenames": "EGoli,Giochanesmpournk,IGoli,IJohannesburg,Ioannesburgum,JNB,Jo'anna,Joanesburgo,Joburg,Jog'annesburg,Joganesburg,Jogannesburg,Johanesburgas,Johanesburgo,Johannesarborg,Johannesbourg,Johannesburg,Johannesburga,Johannesburgo,Johannesburgu,Jokhanesburg,Jokhanezburg,Jokhannesburg,J·ohanesbôrg,Jóhannesarborg,Xohanesburgo,Yohannesburg,Yohannesburq,Yohannésburg,Yok-hon-ni-su-pau,Yok-hon-nì-sṳ̂-páu,Yoxannesburg,cohannes beirk,iohanesburgi,johanisabaraga,johannesbarga,johansabarga,jokanasperk,jwhansbrgh,yohaneseubeogeu,yohanesuburugu,yue han nei si bao,yue han ni si bao,ywhnsbwrg,zhwhansbwrg,Γιοχάνεσμπουργκ,Ёганесбург,Јоханезбург,Јоханесбург,Йоганнесбург,Йогьаннесбург,Йоханесбург,Йоханнесбург,Յոհաննեսբուրգ,יאהאנעסבורג,יוהנסבורג,جوهانسبرغ,جوہانسبرگ,جۆھانسبێرگ,ژوهانسبورگ,یوہانس برگ,जोहन्नेस्बर्ग,जोहान्सबर्ग,ਜੋਹਾਨਿਸਬਰਗ,ஜோகானஸ்பேர்க்,ജൊഹാനസ്‌ബർഗ്,โจฮันเนสเบิร์ก,ဂျိုဟန္နက်စဗတ်မြို့,იოჰანესბურგი,ጆሃንስበርግ,ヨハネスブルグ,約翰尼斯堡,约翰内斯堡,요하네스버그",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 993993,
+    "name": "Jansenville",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 994023,
+    "name": "Jan Kempdorp",
+    "alternatenames": "Andalusia,Jan Kemp,Jan Kempdorp",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 994037,
+    "name": "Jane Furse",
+    "alternatenames": "Jane Furse,Jane Furse Settlement",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 994408,
+    "name": "Izingolweni",
+    "alternatenames": "Izingolweni,Zingolweni",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 994418,
+    "name": "Ixopo",
+    "alternatenames": "Ixopo",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 994883,
+    "name": "Impendle",
+    "alternatenames": "Impendhle,Impendhle Location,Impendle,Mpendle",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 994939,
+    "name": "Ilinge",
+    "alternatenames": "Ilinge",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 995202,
+    "name": "Howick",
+    "alternatenames": "Howick",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 995508,
+    "name": "Hopetown",
+    "alternatenames": "Hopetown",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 995573,
+    "name": "Hoopstad",
+    "alternatenames": "Hoopstad",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 996195,
+    "name": "Hoedspruit",
+    "alternatenames": "HDS,Hoedspruit",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 996256,
+    "name": "Hluhluwe",
+    "alternatenames": "HLW,Hluhluwe",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 996377,
+    "name": "Hlabisa",
+    "alternatenames": "Hiabisa,Hlabisa",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 996409,
+    "name": "Himeville",
+    "alternatenames": "Himeville",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 996918,
+    "name": "Hennenman",
+    "alternatenames": "Hennenman",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 996930,
+    "name": "Hendrina",
+    "alternatenames": "Hendrina",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 997140,
+    "name": "Heilbron",
+    "alternatenames": "Heilbron",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 997151,
+    "name": "Heidelberg",
+    "alternatenames": "Gejdel'berg,Heidelberg,Heidelburg,Гейдельберг",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 997373,
+    "name": "Hartswater",
+    "alternatenames": "Hartswater",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 997751,
+    "name": "Harrismith",
+    "alternatenames": "42nd Hill,Garrismit,HRS,Harrismith,Гаррисмит",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 997861,
+    "name": "Harding",
+    "alternatenames": "Harding",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 999962,
+    "name": "Groblershoop",
+    "alternatenames": "Groblershoop,Sternham",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 999964,
+    "name": "Groblersdal",
+    "alternatenames": "Groblersdal",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1000006,
+    "name": "Greytown",
+    "alternatenames": "Greytown",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1000501,
+    "name": "Grahamstown",
+    "alternatenames": "Grahamstad,Grahamstown,Grehkhehmstaun,IRhini,ge la han zhen,geuleieomseutaun,gurahamuzutaun,Грэхэмстаун,グラハムズタウン,格拉罕鎮,그레이엄스타운",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1000543,
+    "name": "Graaff-Reinet",
+    "alternatenames": "Graaf Reinet,Graaff Reinet,Graaff-Reinet,Khraff-Rejnet,ge la fu-li nei te,gurafu=raine,Храфф-Рейнет,グラーフ＝ライネ,格拉夫-里內特",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1001736,
+    "name": "Glencoe",
+    "alternatenames": "Glencoe",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1001860,
+    "name": "Giyani",
+    "alternatenames": "GIY,Giyane,Giyani",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1002108,
+    "name": "Germiston",
+    "alternatenames": "Dzhermiston,Germiston,jie mi si dun,Гермистон,Джермистон,Джермістон,جرمسٹن,傑米斯頓",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1002145,
+    "name": "George",
+    "alternatenames": "Dzhordzh,GRJ,George,jarj tavun,joji,qiao zhi,Джордж,ஜார்ஜ் டவுன்,ジョージ,喬治,조지",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1002851,
+    "name": "Ga-Rankuwa",
+    "alternatenames": "Ga-Rankuwa",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1002917,
+    "name": "Ganyesa",
+    "alternatenames": "Ganyesa,Genesa,Genyesa",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1003462,
+    "name": "Ga-Kgapane",
+    "alternatenames": "Ga-Kgapane,Gakgapane",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1003702,
+    "name": "Fraserburg",
+    "alternatenames": "Fraserburg",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1003763,
+    "name": "Frankfort",
+    "alternatenames": "",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1003953,
+    "name": "Fort Beaufort",
+    "alternatenames": "Fort Beaufort,Fort-Bofort,bo fu te gang,Форт-Бофорт,فورٹ بیوفورٹ,博福特港",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1004109,
+    "name": "Fochville",
+    "alternatenames": "Fochville",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1004210,
+    "name": "Flagstaff",
+    "alternatenames": "Flagstaff,Siphaqeni",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1004303,
+    "name": "Ficksburg",
+    "alternatenames": "FCB,Ficksburg,fei ke si bao,菲克斯堡",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1004962,
+    "name": "Estcourt",
+    "alternatenames": "Estcourt,ai si te ke te,埃斯特科特",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1005029,
+    "name": "eSikhaleni",
+    "alternatenames": "Esikhawini Township,eSikhaleni,eSikhawini",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1005040,
+    "name": "Eshowe",
+    "alternatenames": "Eshowe",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1005125,
+    "name": "Ermelo",
+    "alternatenames": "Ehrmelo,Ermelo,ai er mo luo,Эрмело,埃爾默洛",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1005544,
+    "name": "Empangeni",
+    "alternatenames": "EMG,Empangeni",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1005646,
+    "name": "eMbalenhle",
+    "alternatenames": "eMbalenhle",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1005781,
+    "name": "Elliot",
+    "alternatenames": "Elliot",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1006420,
+    "name": "Ekuvukeni",
+    "alternatenames": "Ekuvukeni",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1006834,
+    "name": "Edenvale",
+    "alternatenames": "Edenvale",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1006984,
+    "name": "East London",
+    "alternatenames": "Buffalo City,ELS,EMonti,East London,Ist-Londan,Ist-London,Istochni London,Iztochen London,Londinium Orientale,Oos Londen,Oos-Londen,Orient-Londono,Tung Lun-tun,Tûng Lùn-tûn,Yst Londonas,ayst lndn,dong lun dui,iseuteuleondeon,ista landana,Іст-Лондан,Іст-Лондон,Източен Лондон,Ист-Лондон,Источни Лондон,איסט לונדון,إيست لندن,ایسٹ لندن,ईस्ट लंडन,イースト・ロンドン,東倫敦,이스트런던",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1007311,
+    "name": "Durban",
+    "alternatenames": "DUR,Durban,Durbana,Durbanas,Durbano,Durbanum,EThekwini,ITheku,Ntermpan,Port Natal,Thekong,daban,darabana,darban,darbana,de ban,de xr ban,deoban,die bin,drbn,durbani,dwrban,dyrban,tarpan,Ντέρμπαν,Дурбан,Дърбан,Դուրբան,דרבן,دوربان,ديربان,ڈربن,डरबन,डर्बन,ਡਰਬਨ,டர்பன்,డర్బన్,ಡರ್ಬನ್,ഡർബൻ,เดอร์บัน,ဒါဘန်မြို့,დურბანი,ደርባን,ダーバン,德班,爹濱,더반",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1007400,
+    "name": "Dundee",
+    "alternatenames": "Dandi,Dundee,Данди",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1007514,
+    "name": "Duiwelskloof",
+    "alternatenames": "Duivelskloof,Duiwelskloof,Duweiskloof",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1008261,
+    "name": "Driefontein",
+    "alternatenames": "Driefontein",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1008612,
+    "name": "Douglas",
+    "alternatenames": "Douglas",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1008858,
+    "name": "Dordrecht",
+    "alternatenames": "Dordrecht",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1010586,
+    "name": "Dewetsdorp",
+    "alternatenames": "Dewetsdorp",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1010728,
+    "name": "De Rust",
+    "alternatenames": "De Rust",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1010962,
+    "name": "Deneysville",
+    "alternatenames": "Deneysville,Denysville",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1010967,
+    "name": "Dendron",
+    "alternatenames": "Mogwadi",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1011031,
+    "name": "Delmas",
+    "alternatenames": "Del'mas,Delmas,Дельмас",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1011062,
+    "name": "Delareyville",
+    "alternatenames": "Delareyville",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1011632,
+    "name": "De Aar",
+    "alternatenames": "De Aar,De-Ar,Deh-Ar,de a er,Де-Ар,Дэ-Ар,Դե Աար,德阿爾",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1011881,
+    "name": "Dannhauser",
+    "alternatenames": "Dannhauser",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1011918,
+    "name": "Danielskuil",
+    "alternatenames": "Danielskuil,Daniëlskuil",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1012413,
+    "name": "Cullinan",
+    "alternatenames": "Cullinan,Kullinan,Куллинан",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1012528,
+    "name": "Creighton",
+    "alternatenames": "",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1012600,
+    "name": "Cradock",
+    "alternatenames": "CDO,Cradock,ke la duo ke,克拉多克",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1013076,
+    "name": "Colesberg",
+    "alternatenames": "Colesberg,Colesberg Dorp,Colesberg Town,ke er si bo ge,科爾斯伯格",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1013125,
+    "name": "Cofimvaba",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1013266,
+    "name": "Clocolan",
+    "alternatenames": "Clocolan",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1013550,
+    "name": "Christiana",
+    "alternatenames": "Christiana",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014012,
+    "name": "Carolina",
+    "alternatenames": "Carolina",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014034,
+    "name": "Carnarvon",
+    "alternatenames": "Carnarvon",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014073,
+    "name": "Carletonville",
+    "alternatenames": "Carletonville",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014180,
+    "name": "Camperdown",
+    "alternatenames": "",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014257,
+    "name": "Calitzdorp",
+    "alternatenames": "Calitzdorp",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014322,
+    "name": "Cala",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014489,
+    "name": "Butterworth",
+    "alternatenames": "Battervorta,Butterworth,Gcuwa,UTE,Баттерворта",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014650,
+    "name": "Burgersfort",
+    "alternatenames": "Burgersfort",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014653,
+    "name": "Burgersdorp",
+    "alternatenames": "Burgersdorf,Burgersdorp,Burghersdorp",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1014747,
+    "name": "Bultfontein",
+    "alternatenames": "",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1015504,
+    "name": "Bronkhorstspruit",
+    "alternatenames": "Bronkhorstspruit,Erasmus",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1015621,
+    "name": "Brits",
+    "alternatenames": "Britancy,Brits,bu li ci,Британцы,Бритс,布里茨",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1015694,
+    "name": "Breyten",
+    "alternatenames": "Breyten,Breyton",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1015776,
+    "name": "Bredasdorp",
+    "alternatenames": "Bredasdorp,bu lei da si duo pu,Бредасдорп,布雷達斯多普",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1015850,
+    "name": "Brandvlei",
+    "alternatenames": "Brandvlei",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1015969,
+    "name": "Brandfort",
+    "alternatenames": "Brandfort",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1016181,
+    "name": "Brakpan",
+    "alternatenames": "Brakpan",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1016670,
+    "name": "Botshabelo",
+    "alternatenames": "Botshabelo",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1016698,
+    "name": "Bothaville",
+    "alternatenames": "Botavill',Bothaville,Ботавилль",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1017048,
+    "name": "Boshof",
+    "alternatenames": "Boshof",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1017780,
+    "name": "Boksburg",
+    "alternatenames": "Boksburg,Boksburgas,Боксбург,Բոկսբուրգ",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1018148,
+    "name": "Bochum",
+    "alternatenames": "Bochem,Bochum,Senwabarwana",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1018673,
+    "name": "Bloemhof",
+    "alternatenames": "Bloemhof",
+    "subcountry": "North-West"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1018725,
+    "name": "Bloemfontein",
+    "alternatenames": "BFN,Bloemfontein,Blumfantehjn,Blumfonteina,Blumfonteinas,Blumfontejn,Blumfontejno,Blumfonteyn,EBloemfontein,IBloemfontein,Mangaung,Mploumphontein,balumaphontaina,beullumpontein,blum fxn then,blumafonatena,blumaphamtena,blumphanteyiൻ,blwmfwntn,blwmfwntyn,blwmpwntyyn,blwwmfۆntەyn,bu long fang dan,burumufonten,Μπλουμφοντέιν,Блумфантэйн,Блумфонтейн,Блумфонтејн,Բլումֆոնթեյն,בלומפונטיין,بلوئمفونٹین,بلومفونتن,بلومفونتين,بلومفونٹین,بلوومفۆنتەین,ब्लूमफ़ोनटेन,ब्लूमफाँटेन,ਬਲੂਮਫੋਂਟੈਨ,ബ്ലൂംഫൗണ്ടെയിൻ,บลูมฟอนเทน,ბლუმფონტეინი,ብሉምፎንቴይን,ブルームフォンテーン,布隆方丹,블룸폰테인",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1019264,
+    "name": "Bizana",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1019330,
+    "name": "Bhisho",
+    "alternatenames": "BIY,Bhisho,Bisho,Biso,Bišo,bhiso,bi shao,bisho,bisyo,byshw,Бишо,Бішо,بيشو,بھشو,بھیشو,भिशो,ビショ,比绍,비쇼",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1019704,
+    "name": "Bethlehem",
+    "alternatenames": "Bethlehem,Vifleem,Вифлеем",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1019760,
+    "name": "Bethal",
+    "alternatenames": "Bethal",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1019933,
+    "name": "Bergville",
+    "alternatenames": "Bergville",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1020066,
+    "name": "Berea",
+    "alternatenames": "",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1020098,
+    "name": "Benoni",
+    "alternatenames": "Benoni,Бенони,Беноні,Բենոնի",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1020340,
+    "name": "Belfast",
+    "alternatenames": "Belfast",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1020641,
+    "name": "Beaufort West",
+    "alternatenames": "Beaufort West,Beaufort-Wes,Bofort-Uehst,xi bo fu te,Бофорт-Уэст,بیوفورٹ غربی,西博福特",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1021040,
+    "name": "Barkly West",
+    "alternatenames": "Barkly West,Barkly-Wes",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1021046,
+    "name": "Barkly East",
+    "alternatenames": "Barkley East,Barkly East,Barkly-Oos,dong ba ke li,東巴克利",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1021086,
+    "name": "Barberton",
+    "alternatenames": "Barberton,ba bo dun,巴伯頓",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1021360,
+    "name": "Ballito",
+    "alternatenames": "Ballitoville",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1021396,
+    "name": "Balfour",
+    "alternatenames": "Bal'fur,Balfour,Бальфур",
+    "subcountry": "Mpumalanga"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1022145,
+    "name": "Ashton",
+    "alternatenames": "Ashton",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1022508,
+    "name": "Apel",
+    "alternatenames": "",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1023287,
+    "name": "Allanridge",
+    "alternatenames": "Allanridge",
+    "subcountry": "Orange Free State"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1023309,
+    "name": "Aliwal North",
+    "alternatenames": "Aliwal North,Aliwal-Noord,alywal shmal,bei a li wa er,آلیوال شمال,北阿利瓦爾",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1023332,
+    "name": "Alice",
+    "alternatenames": "Alice,Ehlis,alys  kyp shrqy,Элис,الیس، کیپ شرقی",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1023441,
+    "name": "Alberton",
+    "alternatenames": "Alberton",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1023445,
+    "name": "Albertina",
+    "alternatenames": "Albertina,Albertinia,Albertiniahotel",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1023656,
+    "name": "Adelaide",
+    "alternatenames": "Adelaide",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1105726,
+    "name": "Ekangala",
+    "alternatenames": "Ekangala",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1105776,
+    "name": "Midrand",
+    "alternatenames": "Midrand,Мидранд",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 1105777,
+    "name": "Centurion",
+    "alternatenames": "Centurion,Lyttelton,Verwoerdburg,centurion,sencyuriyana,Центурион,सेंच्युरियन",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3359041,
+    "name": "Worcester",
+    "alternatenames": "Vustehr,Vuster,Worcester,Worcester i Western Cape,usuta,wu si te,Вустер,Вустэр,ウースター,伍斯特",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3359510,
+    "name": "Wellington",
+    "alternatenames": "Wellington",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3359736,
+    "name": "Vredendal",
+    "alternatenames": "VRE,Vredendal",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3359741,
+    "name": "Vredenburg",
+    "alternatenames": "Vredenburg",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3361025,
+    "name": "Stellenbosch",
+    "alternatenames": "Stellenbos,Stellenbosch,seutellenboseu,si tai lun bo si,suterenbosshu,Стелленбос,Սթելլենբոս,ステレンボッシュ,斯泰倫博斯,스텔렌보스",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3361084,
+    "name": "Stanford",
+    "alternatenames": "Stanford",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3361142,
+    "name": "Springbok",
+    "alternatenames": "SBU,Springbok,Springbok Fontein,si pu lin bo ke,supuringubokku,Спрингбок,スプリングボック,斯普林博克",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3361618,
+    "name": "Simon's Town",
+    "alternatenames": "Simonstad",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3361934,
+    "name": "Saldanha",
+    "alternatenames": "Hoedjes Bay,Hoedjesbaai,Hoetjes Bay,SDB,Saldana,Saldanha,Салдана",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3362024,
+    "name": "Rosebank",
+    "alternatenames": "",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3362349,
+    "name": "Robertson",
+    "alternatenames": "ROD,Robertson",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3362713,
+    "name": "Port Nolloth",
+    "alternatenames": "Port Nolloth",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3362755,
+    "name": "Pofadder",
+    "alternatenames": "Pofadder,Theronsville",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3362870,
+    "name": "Piketberg",
+    "alternatenames": "Piketberg,Piketburg,Piquetberg",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3363094,
+    "name": "Paarl",
+    "alternatenames": "Paarl,pa a er,paru,Паарл,パール,帕阿爾",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3363957,
+    "name": "Moorreesburg",
+    "alternatenames": "Moorreesburg",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3364346,
+    "name": "Malmesbury",
+    "alternatenames": "",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3364682,
+    "name": "Lansdowne",
+    "alternatenames": "Lansdowne",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3365083,
+    "name": "Kraaifontein",
+    "alternatenames": "Kraaifontein",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3366880,
+    "name": "Hermanus",
+    "alternatenames": "Hermanus,he er ma nu si,赫爾馬努斯",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3367513,
+    "name": "Grabouw",
+    "alternatenames": "Grabouw",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3367786,
+    "name": "Garies",
+    "alternatenames": "Garies",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369056,
+    "name": "Constantia",
+    "alternatenames": "",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369098,
+    "name": "Claremont",
+    "alternatenames": "",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369100,
+    "name": "Clanwilliam",
+    "alternatenames": "Clanwilliam,Clanwillian",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369129,
+    "name": "Ceres",
+    "alternatenames": "Cerera,Ceres,sai lei si,Церера,塞雷斯",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369157,
+    "name": "Cape Town",
+    "alternatenames": "Altepetl In Cabo,Ar Chab,CPT,Cape Toun,Cape Town,Cidade do Cabo,Cita del Cap,Citati du Capu,Citati dû Capu,Citta del Capo,Cittae do Cavo,Città del Capo,Cità del Cap,Ciuda del Cabu,Ciudad del Cabo,Ciudat do Cabo,Ciudá del Cabu,Ciutat del Cap,Civitas Capitis,El Cabo,Fokvaros,Fokváros,Hoefdaborg,Hovdastadur,Höfðaborg,Høvdastaður,IKapa,Kaapstad,Kaapsted,Kaapstêd,Kab town,Kabe Urbe,Kaburbo,Kaepstad,Kapetown,Kapkaupunki,Kaplinn,Kapske Mesto,Kapske Misto,Kapské Mesto,Kapské Město,Kapstad,Kapstaden,Kapstadt,Kapsztad,Kapétown,Keip Taoun,Keiptaun,Keiptauna,Keiptaunas,Keiptauns,Kejptaun,Kep Taun,Keyptaun,Keyptawn,Keýptaun,Le Cap,Li Kap,Lo Cap,Lurmutur Hiria,Lé Cap,Sita del Cao,Sita del Cap,Sità del Cao,Sità dël Cap,Tref y Penrhyn,Yvy akua Tava,Yvy akua Táva,hao wang jiao zhen,iKapa,kai pu dui,kai pu dun,keipeutaun,kep taun,kep tavun,kepa ta'una,kepata'una,keputaun,khep thawn,kyb tawn,kېp ټawn,Çittæ do Cavo,Κέιπ Τάουν,Капске Місто,Кейптаун,Кейптаўн,Кејптаун,Քեյփթաուն,קאפשטאט,קייפטאון,كيب تاون,کیپ ٹاؤن,کیپ‌تاون,کېپ ټاون,کەیپ تاون,केपटाउन,केपताउन,কেপ টাউন,ਕੇਪਟਾਊਨ,કેપ ટાઉન,କେପ ଟାଉନ,கேப் டவுன்,కేప్ టౌన్,ಕೇಪ್ ಟೌನ್,കേപ് ടൗൺ,เคปทาวน์,ကိပ်တောင်းမြို့,კეიპტაუნი,ኬፕ ታውን,ケープタウン,好望角鎮,開普敦,케이프타운",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369174,
+    "name": "Calvinia",
+    "alternatenames": "Calvinia",
+    "subcountry": "Northern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3369179,
+    "name": "Caledon",
+    "alternatenames": "Caledon",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3370105,
+    "name": "Bergvliet",
+    "alternatenames": "Bergvliet",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 3370352,
+    "name": "Atlantis",
+    "alternatenames": "Atlantida,Atlantis,Атлантида",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 6942529,
+    "name": "Sunset Beach",
+    "alternatenames": "",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 7302797,
+    "name": "Eden Glen",
+    "alternatenames": "Eden Glen,Edenglen",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 7302802,
+    "name": "Rondebosch",
+    "alternatenames": "Rondebosch",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 7506857,
+    "name": "Newlands",
+    "alternatenames": "Newlands",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 7576313,
+    "name": "Bela-Bela",
+    "alternatenames": "",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 7730334,
+    "name": "Lephalale",
+    "alternatenames": "ELL,Ellisras,Lephalale,Lepkhalale,lai pa la lai,Лепхалале,萊帕拉萊",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 8030223,
+    "name": "Musina",
+    "alternatenames": "Messina,Musina,mu xi na,mushina,Мусина,ムシナ,穆西納",
+    "subcountry": "Limpopo"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 8030233,
+    "name": "Midstream",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 8063456,
+    "name": "Mandeni",
+    "alternatenames": "",
+    "subcountry": "KwaZulu-Natal"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 8604596,
+    "name": "Retreat",
+    "alternatenames": "Retreat",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 8764562,
+    "name": "Diepsloot",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 10295373,
+    "name": "Hardys Memories of Africa",
+    "alternatenames": "",
+    "subcountry": "Western Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 11204670,
+    "name": "Eastleigh",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 11205175,
+    "name": "Riverlea",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 11427405,
+    "name": "Eden Glen Ext 60",
+    "alternatenames": "",
+    "subcountry": "Gauteng"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 12104196,
+    "name": "Thornhill",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  },
+  {
+    "country": "ZA",
+    "geonameid": 12420903,
+    "name": "Khaya Mnandi",
+    "alternatenames": "",
+    "subcountry": "Eastern Cape"
+  }
+]
