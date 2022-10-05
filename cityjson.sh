@@ -29,6 +29,7 @@ for f in $DATA/*json; do
 done
 
 # jq version too slow
+#
 # IFS='|'
 # while read -r geonameid name asciiname alternatenames latitude longitude featureclass featurecode countrycode cc2 admin1code admin2code admin3code admin4code population elevation dem timezone
 # do
